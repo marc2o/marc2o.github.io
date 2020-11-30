@@ -225,10 +225,13 @@ header {
 	height: 80vh;
 	margin: 0;
 	overflow: hidden;
+	background-color: var(--accent-color);
 	clip-path: polygon(0% 0%, 100% 0%, 100% calc(100% - 5vh), 0% 100%);
     -webkit-clip-path: polygon(0% 0%, 100% 0%, 100% calc(100% - 5vh), 0% 100%);
 }
-
+header h1 {
+	text-align: center;
+}
 header picture img {
 	width: 100%;
 	height: 100%;
