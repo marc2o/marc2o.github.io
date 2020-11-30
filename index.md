@@ -1,3 +1,8 @@
+---
+layout: default
+title: marc2o
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/marc2o/marc2o.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
