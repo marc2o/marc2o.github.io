@@ -3,7 +3,7 @@
 
 @import "";
 
-section.page-header {
+.page-header {
   overflow: hidden;
   height: 60vh;
   clip-path: polygon(0% 0%, 100% 0%, 100% calc(100% - 5vh), 0% 100%);
