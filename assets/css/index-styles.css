@@ -62,7 +62,8 @@ header > span {
 }
 
 header > div,
-article > div {
+article > div,
+footer > div {
 	max-width: 60ch;
 	margin: 0 auto;
 	padding: 0.5ch 2ch;
