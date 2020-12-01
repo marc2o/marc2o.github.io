@@ -15,7 +15,7 @@ body {
 main {
     margin: 0;
     overflow: hidden;
-    height: 70vh;
+    height: 100vh;
     display: flex;
     flex-flow: row wrap;
     justify-content: space-around;
@@ -39,9 +39,13 @@ main {
 
 article,
 footer {
-    max-width: 60ch;
+    max-width: 45rem;
     margin: 0 auto;
     padding: 0.5ch 2ch;
+}
+
+footer {
+    font-size: 82%;
 }
 
 header,
