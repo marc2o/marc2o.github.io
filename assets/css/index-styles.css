@@ -1,102 +1,52 @@
 :root {
-	--background-color: #f7f7f7;
-	--text-color: #424242;
-	--accent-color: steelblue;
+    --background-color: #f7f7f7;
+    --text-color: #424242;
+    --accent-color: steelblue;
 }
 
 body {
-	margin: 0;
-	padding: 0;
-	font: 112% "Open Sans", sans-serif;
-	background-color: var(--background-color);
-	color: var(--text-color);
+    margin: 0;
+    padding: 0;
+    font: 112% "Open Sans", sans-serif;
+    background-color: var(--background-color);
+    color: var(--text-color);
 }
+
 main {
-	display: flex;
-	flex-flow: row wrap;
-	justify-content: space-around;
-}
-header {
-	margin: 0;
-	overflow: hidden;
-	height: 70vh;
-	clip-path: polygon(0% 0%, 100% 0%, 100% calc(100% - 5vh), 0% 100%);
-	-webkit-clip-path: polygon(0% 0%, 100% 0%, 100% calc(100% - 5vh), 0% 100%);
-	background: var(--accent-color);
-	background: linear-gradient(160deg, #0277bd 25%, #26a69a 75%);
-	color: #f1f1f1;
-	text-align: center;
+    margin: 0;
+    overflow: hidden;
+    height: 70vh;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    clip-path: polygon(0% 0%, 100% 0%, 100% calc(100% - 5vh), 0% 100%);
+    -webkit-clip-path: polygon(0% 0%, 100% 0%, 100% calc(100% - 5vh), 0% 100%);
+    background: var(--accent-color);
+    background: linear-gradient(160deg, #0277bd 25%, #26a69a 75%);
+    color: #f1f1f1;
+    text-align: center;
 }
 
-header figure {
-	display: block;
-	width: 16vmin;
-	height: 16vmin;
-	overflow: hidden;
-	border-radius: 50%;
-	margin: 1em auto;
-}
-header figure img {
-	width: 100%;
-	height: auto;
-	position: 50% 50%;
-	object-fit: cover;
-}
-p {
-	line-height: calc(1ex / 0.32);
-}
-header h1 {
-	margin-top: 0;
-	line-height: 100%;
-	font-weight: 300;
+.background-animation {
+    display: block;
+    position: absolute;
+    overflow: hidden;
+    left: 0;
+    top: -25%;
+    width: 100%;
+    z-index: -1;
 }
 
-header > span {
-	display: block;
-	position: absolute;
-	overflow: hidden;
-	left: 0;
-	top: -25%;
-	width: 100%;
-	z-index: -1;
+article,
+footer {
+    max-width: 60ch;
+    margin: 0 auto;
+    padding: 0.5ch 2ch;
 }
 
-header > div,
-article > div,
-footer > div {
-	max-width: 60ch;
-	margin: 0 auto;
-	padding: 0.5ch 2ch;
-}
 header,
 article {
-	width: 100%;
+    width: 100%;
 }
 
-@media all and (min-width: 120ch) {
-	header,
-	article {
-		width: 50%;
-		flex-grow: 1;
-	}
-	header {
-		top: 0;
-		position: sticky;
-		align-self: flex-start;
-		width: 33%;
-		height: 100vh;
-		clip-path: polygon(0% 0%, 100% 0%, calc(100% - 5vh) 100%, 0% 100%);
-		-webkit-clip-path: polygon(0% 0%, 100% 0%, calc(100% - 5vh) 100%, 0% 100%);
-	}
-	article > div,
-	footer > div {
-		margin-left: 0;
-	}
-	header > div {
-		margin-right: 2ch;	}
-	header > span {
-		top: 0;
-		left: 0;
-		height: 100%;
-	}
-}
+@media all and (min-width: 120ch) {}
