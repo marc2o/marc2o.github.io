@@ -16,9 +16,7 @@ main {
     margin: 0;
     overflow: hidden;
     height: 100vh;
-    display: flex;
-    flex-flow: row wrap;
-    justify-content: space-around;
+    display: block;
     clip-path: polygon(0% 0%, 100% 0%, 100% calc(100% - 5vh), 0% 100%);
     -webkit-clip-path: polygon(0% 0%, 100% 0%, 100% calc(100% - 5vh), 0% 100%);
     background: var(--accent-color);
@@ -46,11 +44,6 @@ footer {
 
 footer {
     font-size: 82%;
-}
-
-header,
-article {
-    width: 100%;
 }
 
 @media all and (min-width: 120ch) {}
