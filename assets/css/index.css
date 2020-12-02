@@ -197,10 +197,12 @@ h2 {
     font-weight: 300;
 }
 
-header span.title {
+header span {
     display: block;
-    font-size: 300%;
     text-align: center;
+}
+.title {
+    font-size: 300%;
 }
 
 main p {
