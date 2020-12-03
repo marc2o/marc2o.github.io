@@ -159,11 +159,6 @@ header {
     -webkit-clip-path: polygon(0% 0%, 100% 0%, 100% calc(100% - 5vh), 0% 100%);
 }
 
-footer {
-    display: block;
-    margin: 0 auto;
-}
-
 main>img,
 main>figure,
 main>div {
