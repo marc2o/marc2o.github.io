@@ -44,14 +44,16 @@ small {
     font-size: 83.4%;
 }
 
-main {
+main,
+footer {
     display: grid;
     margin: 0 auto;
     grid-template-columns:
         minmax(var(--margin-width), 1fr) minmax(auto, var(--column-width)) minmax(var(--margin-width), 1fr);
 }
 
-main>* {
+main>*,
+footer>* {
     grid-column: 2;
 }
 
@@ -159,7 +161,6 @@ header {
 
 footer {
     display: block;
-    max-width: var(--column-width);
     margin: 0 auto;
 }
 
@@ -383,7 +384,8 @@ input#DarkModeSwitch:checked+span:before {
         padding-left: 1rem;
     }
 
-    div.bottomOrRight>main {
+    div.bottomOrRight>main,
+    div.bottomOrRight>footer {
         margin-left: 0;
         grid-template-columns:
             minmax(0, var(--margin-width)) minmax(auto, var(--column-width)) minmax(var(--margin-width), 1fr);
