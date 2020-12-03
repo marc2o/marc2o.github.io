@@ -257,7 +257,7 @@ header>span.title {
 ul.follow {
     list-style: none;
     margin: 0;
-    padding: 1rem 0;
+    padding: .5rem 0;
 }
 
 ul.follow li {
@@ -267,7 +267,7 @@ ul.follow li {
     padding: .2rem;
     margin: .2rem .15rem;
     border-radius: 33%;
-    border: 0.01rem solid var(--dark-color);
+    border: 0.01rem solid var(--alt-lite-color);
     cursor: pointer;
 }
 
