@@ -2,12 +2,32 @@
 :root {
     font-size: 125%;
     --spot-color: #0288d1;
-    --dark-color: #424242;
-    --lite-color: #ffffff;
-    --alt-lite-color: #f1f1f1;
+    --text-color: #424242;
+    --fill-color: #ffffff;
+    --alt-fill-color: #f1f1f1;
     --column-width: 36rem;
     --margin-width: 2rem;
     --marked-width: 48rem;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --text-color: #ffffff;
+        --fill-color: #424242;
+        --alt-fill-color: #383838;
+    }
+}
+
+[data-theme='lite'] {
+    --text-color: #424242;
+    --fill-color: #ffffff;
+    --alt-fill-color: #f1f1f1;
+}
+
+[data-theme='dark'] {
+    --text-color: #ffffff;
+    --fill-color: #424242;
+    --alt-fill-color: #383838;
 }
 
 a,
@@ -64,7 +84,7 @@ code {
 
 pre {
     color: var(--text-color);
-    background-color: var(--alt-lite-color);
+    background-color: var(--alt-fill-color);
     overflow-x: auto;
 }
 
@@ -100,20 +120,20 @@ td {
 }
 
 tr:nth-child(odd) {
-    background: var(--alt-lite-color);
+    background: var(--alt-fill-color);
 }
 
 th {
     background: var(--spot-color);
-    color: var(--lite-color);
+    color: var(--fill-color);
 }
 
 body {
     margin: 0;
     padding: 0;
     font-family: "Open Sans", sans-serif;
-    color: var(--dark-color);
-    background: var(--lite-color);
+    color: var(--text-color);
+    background: var(--fill-color);
 }
 
 div>svg {
@@ -131,7 +151,7 @@ header {
     height: 85vh;
     margin: 0;
     overflow: hidden;
-    color: var(--lite-color);
+    color: var(--fill-color);
     background: linear-gradient(160deg, #0277bd 33%, #26a69a 80%);
     clip-path: polygon(0% 0%, 100% 0%, 100% calc(100% - 5vh), 0% 100%);
     -webkit-clip-path: polygon(0% 0%, 100% 0%, 100% calc(100% - 5vh), 0% 100%);
@@ -169,7 +189,7 @@ div.gallery {
     white-space: nowrap;
     overflow-y: hidden;
     overflow-x: auto;
-    background-color: var(--alt-lite-color);
+    background-color: var(--alt-fill-color);
 }
 
 figure>figure,
@@ -267,10 +287,9 @@ ul.follow li {
     padding: .2rem;
     margin: .2rem .15rem;
     border-radius: 33%;
-    border: 0.01rem solid var(--alt-lite-color);
+    background: var(--alt-fill-color);
     cursor: pointer;
 }
-
 
 ul.follow li a {
     display: block;
@@ -283,11 +302,49 @@ ul.follow svg {
 }
 
 ul.follow svg g {
-    fill: var(--dark-color);
+    fill: var(--text-color);
 }
 
 ul.follow svg g#Codepen path {
-    stroke: var(--dark-color);
+    stroke: var(--text-color);
+}
+
+label.themeSwitch {
+    position: absolute;
+    top: 1em;
+    right: 1em;
+    z-index: 10;
+}
+
+input#DarkModeSwitch {
+    display: none;
+}
+
+input#DarkModeSwitch+span {
+    display: inline-block;
+    vertical-align: bottom;
+    background-color: var(--fill-color);
+    height: 1em;
+    width: 2em;
+    padding: .2em;
+    border-radius: 2em;
+    box-shadow: 0 0 .1em var(--text-color);
+    cursor: pointer;
+}
+
+input#DarkModeSwitch+span:before {
+    content: '';
+    display: block;
+    width: 1em;
+    height: 1em;
+    border-radius: 2em;
+    background-color: var(--spot-color);
+    transition: margin-left .3s;
+}
+
+input#DarkModeSwitch:checked+span:before {
+    content: '';
+    margin-left: 1em;
 }
 
 main p {

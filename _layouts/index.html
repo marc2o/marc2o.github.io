@@ -91,6 +91,8 @@
       <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
       <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
       {% endif %}
+      <label class="themeSwitch"><input id="DarkModeSwitch" onclick="SwitchTheme(this)"
+          type="checkbox"><span></span></label>
     </header>
   </div>
   <div class="bottomOrRight">
@@ -309,6 +311,22 @@
       function () {
         stuffAboutMarc2o.tell();
       }, false);
+
+    var prefersDarkMode = window.matchMedia("(prefers-color-scheme: dark)").matches;
+
+    if (prefersDarkMode) {
+      document.getElementById('DarkModeSwitch').checked = true;
+      document.documentElement.setAttribute('data-theme', 'dark');
+    }
+
+    function SwitchTheme(element) {
+      if (element.checked) {
+        document.documentElement.setAttribute('data-theme', 'dark');
+      } else {
+        document.documentElement.setAttribute('data-theme', 'lite');
+      }
+      return false;
+    }
   </script>
 </body>
 
