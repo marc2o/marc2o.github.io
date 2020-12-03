@@ -219,6 +219,10 @@ h2 {
     font-weight: 300;
 }
 
+main p {
+    font-family: "Merriweather", serif;
+}
+
 .background-animation {
     position: absolute;
     top: 0;
@@ -328,7 +332,6 @@ input#DarkModeSwitch+span {
     width: 2em;
     padding: .2em;
     border-radius: 2em;
-    box-shadow: 0 0 .1em var(--text-color);
     cursor: pointer;
 }
 
@@ -345,10 +348,6 @@ input#DarkModeSwitch+span:before {
 input#DarkModeSwitch:checked+span:before {
     content: '';
     margin-left: 1em;
-}
-
-main p {
-    font-family: "Merriweather", serif;
 }
 
 /* layout */
