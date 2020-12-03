@@ -1,6 +1,6 @@
 ---
 layout: index
-title: Hello, I am Marc!
+title: Hello, I’m Marc!
 ---
 
 ## @marc2o
