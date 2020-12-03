@@ -160,7 +160,6 @@ header {
 footer {
     display: block;
     max-width: var(--column-width);
-    padding: 0 var(--margin-width);
     margin: 0 auto;
 }
 
