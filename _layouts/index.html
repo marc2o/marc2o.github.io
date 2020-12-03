@@ -75,7 +75,6 @@
           </g>
         </svg>
       </div>
-      <span class="about">@{{ page.author | default: "marc2o" }}</span>
       <span class="title">{{ page.title | default: site.title | default: site.github.repository_name }}</span>
       <span class="about" id="about_marc2o">
         <span>{{ page.description | default: site.description | default: site.github.project_tagline }}</span>
@@ -85,6 +84,7 @@
         <span hidden class="hidden">Monster Hunter and Pokémon Trainer.</span>
         <span hidden class="hidden">Linguist and semiotician with a doctoral degree.</span>
       </span>
+      <span class="about">@{{ page.author | default: "marc2o" }}</span>
       {% if site.github.is_project_page %}
       <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
