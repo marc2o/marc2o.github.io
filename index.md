@@ -5,4 +5,5 @@ title: Hello, I’m Marc!
 
 # Moving…
 
-…from my own domain to this beautiful GitHub space.
+## …from my own domain to this beautiful GitHub space.
+
