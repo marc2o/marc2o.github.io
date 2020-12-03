@@ -3,6 +3,6 @@ layout: index
 title: Hello, I’m Marc!
 ---
 
-## @marc2o
+# Moving…
 
-Wonderer. Geek. Human(e) being.
+…from my own domain to this beautiful GitHub space.
