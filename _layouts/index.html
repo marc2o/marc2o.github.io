@@ -76,7 +76,7 @@
         </svg>
       </div>
       <span class="title">{{ page.title | default: site.title | default: site.github.repository_name }}</span>
-      <span class="about">{{ page.author }}</span>
+      <span class="about">{{ page.author | default: "marc2o" }}</span>
       <span class="about" id="about_marc2o">
         <span>{{ page.description | default: site.description | default: site.github.project_tagline }}</span>
         <span hidden class="hidden">Early adopter and retro&shy;crastinator.</span>
