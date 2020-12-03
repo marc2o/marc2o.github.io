@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="utf-8">
-  <title>{{ page.title | default: site.title | default: site.github.repository_name }} • {{ page.author | default: "marc2o" }}</title>
+  <title>{{ page.title | default: site.title | default: site.github.repository_name }} • @{{ page.author | default: "marc2o" }}</title>
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -76,7 +76,7 @@
         </svg>
       </div>
       <span class="title">{{ page.title | default: site.title | default: site.github.repository_name }}</span>
-      <span class="about"><strong>{{ page.author | default: "marc2o" }}</strong></span>
+      <span class="about"><strong>@{{ page.author | default: "marc2o" }}</strong></span>
       <span class="about" id="about_marc2o">
         <span>{{ page.description | default: site.description | default: site.github.project_tagline }}</span>
         <span hidden class="hidden">Early adopter and retro&shy;crastinator.</span>
