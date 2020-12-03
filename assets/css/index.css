@@ -254,6 +254,42 @@ header>span.title {
     }
 }
 
+ul.follow {
+    list-style: none;
+    margin: 0;
+    padding: 1rem 0;
+}
+
+ul.follow li {
+    display: inline-block;
+    vertical-align: bottom;
+    text-align: center;
+    padding: .2rem;
+    margin: .2rem .15rem;
+    border-radius: 33%;
+    border: 0.01rem solid var(--dark-color);
+    cursor: pointer;
+}
+
+
+ul.follow li a {
+    display: block;
+}
+
+ul.follow svg {
+    width: 2rem;
+    height: 2rem;
+    vertical-align: top;
+}
+
+ul.follow svg g {
+    fill: var(--dark-color);
+}
+
+ul.follow svg g#Codepen path {
+    stroke: var(--dark-color);
+}
+
 main p {
     font-family: "Merriweather", serif;
 }
