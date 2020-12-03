@@ -1,6 +1,7 @@
 ---
 layout: index
 title: Hello, I’m Marc!
+author: @marc2o
 ---
 
 # Moving…
