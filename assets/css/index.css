@@ -176,8 +176,8 @@ header>picture>img {
 }
 
 /* image gallery */
-figure.gallery,
-div.gallery {
+main>figure,
+main>div {
     display: block;
     list-style: none;
     width: 100%;
@@ -187,8 +187,15 @@ div.gallery {
     background-color: var(--alt-fill-color);
 }
 
+main>div>ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
 figure>figure,
-div>div {
+div>div,
+div>ul>li {
     display: inline-block;
     width: min-content;
     vertical-align: top;
@@ -199,7 +206,8 @@ div>div {
 }
 
 figure>figure:last-child,
-div>div:last-child {
+div>div:last-child,
+div>ul>li:last-child {
     padding-right: 2ch;
 }
 

@@ -3,7 +3,8 @@
 
 <head>
   <meta charset="utf-8">
-  <title>{{ page.title | default: site.title | default: site.github.repository_name }} • @{{ page.author | default: "marc2o" }}</title>
+  <title>{{ page.title | default: site.title | default: site.github.repository_name }} •
+    @{{ page.author | default: "marc2o" }}</title>
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -99,6 +100,16 @@
   <div class="bottomOrRight">
     <main>
       {{ content }}
+      <div>
+        <ul>
+          {% for post in site.posts %}
+          <li>
+            <h3><a href="{{ post.url }}">{{ post.title }}</a></h2>
+              {{ post.excerpt }}
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
     </main>
     <footer>
       <ul class="follow">
