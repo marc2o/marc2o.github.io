@@ -2,6 +2,7 @@
 layout: index
 title: Hello, I’m Marc!
 author: marc2o
+language: en-US
 ---
 
 # Moving…
