@@ -212,7 +212,8 @@ div>ul>li:last-child {
 }
 
 figure>figure>img,
-div>div>img {
+div>div>img,
+div>ul>li>img {
     height: 50vh;
     width: auto;
 }
