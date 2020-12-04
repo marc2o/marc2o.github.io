@@ -215,6 +215,7 @@ figure>figure>img,
 div>div>img,
 div>ul>li>a>img {
     height: 50vh;
+    height: minmax(50vh, 12rem);
     width: auto;
 }
 
