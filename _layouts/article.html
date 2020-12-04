@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="{{ page.language | default: site.lang | default: "de-DE" }}">
+
+<head>
+    <meta charset="utf-8">
+    <title>{{ page.title | default: site.title | default: site.github.repository_name }} •
+        @{{ page.author | default: "marc2o" }}</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+    <meta property="og:title" content="">
+    <meta property="og:type" content="">
+    <meta property="og:url" content="">
+    <meta property="og:image" content="">
+
+    <!-- <link rel="manifest" href="site.webmanifest"> -->
+    <!-- <link rel="apple-touch-icon" href="icon.png"> -->
+    <!-- Place favicon.ico in the root directory -->
+
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,700|Merriweather:300,300i,800&display=swap"
+        rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="{{ '/assets/css/index.css?v=' | append: site.github.build_revision | relative_url }}">
+
+    <meta name="theme-color" content="#fafafa">
+</head>
+
+<body>
+    <header>
+        {% if post.image %}
+        <picture>
+            <img src="{{ page.image }}" alt="">
+        </picture>
+        {% endif %}
+        <label class="themeSwitch"><input id="DarkModeSwitch" onclick="SwitchTheme(this)"
+                type="checkbox"><span></span></label>
+    </header>
+    <main>
+        {{ content }}
+    </main>
+    <footer>
+        {% if site.github.is_project_page %}
+        <p><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a
+                href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</p>
+        {% endif %}
+        <p>&copy; 2020 marc2o // Marc Oliver Orth.<br>Powered by <a href="https://pages.github.com">GitHub
+                Pages</a>.</p>
+    </footer>
+    <script>
+        var $ = function (id) {
+            return document.getElementById(id);
+        };
+
+        var bindEvent = function (element, eventName, eventHandler) {
+            if (element.addEventListener) {
+                element.addEventListener(eventName, eventHandler, false);
+            } else if (element.attachEvent) {
+                element.attachEvent('on' + eventName, eventHandler);
+            }
+        };
+
+        var stuffAboutMarc2o = {
+            element: $('about_marc2o'),
+            index: 0,
+            timer: function () {
+                setTimeout(function () {
+                    stuffAboutMarc2o.tell('hide');
+                }, 5000);
+            },
+            tell: function (st) {
+                if (st === undefined) {
+                    this.timer();
+                }
+                if (st === 'hide') {
+                    this.element.getElementsByTagName('span')[this.index].className = 'hidden';
+                    this.tell('show');
+                }
+                if (st === 'show') {
+                    this.index += 1;
+                    if (this.index >= this.element.getElementsByTagName('span').length) {
+                        this.index = 0;
+                    }
+                    this.element.getElementsByTagName('span')[this.index].className = '';
+                    this.timer();
+                }
+            }
+        };
+
+        bindEvent(window, 'load',
+            function () {
+                stuffAboutMarc2o.tell();
+            }, false);
+
+        var prefersDarkMode = window.matchMedia("(prefers-color-scheme: dark)").matches;
+
+        if (prefersDarkMode) {
+            document.getElementById('DarkModeSwitch').checked = true;
+            document.documentElement.setAttribute('data-theme', 'dark');
+        }
+
+        function SwitchTheme(element) {
+            if (element.checked) {
+                document.documentElement.setAttribute('data-theme', 'dark');
+            } else {
+                document.documentElement.setAttribute('data-theme', 'lite');
+            }
+            return false;
+        }
+    </script>
+</body>
+
+</html>

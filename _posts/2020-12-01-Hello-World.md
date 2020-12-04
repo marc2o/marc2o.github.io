@@ -1,4 +1,5 @@
 ---
+layout: article
 title: Hello World
 author: marc2o
 image: https://picsum.photos/800/600
