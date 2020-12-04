@@ -13,9 +13,9 @@
 @media (prefers-color-scheme: dark) {
     :root {
         --text-color: #ffffff;
-        --fill-color: #424242;
-        --alt-fill-color: #383838;
-    }
+        --fill-color: #212121;
+        --alt-fill-color: #1c1c1c;
+        }
 }
 
 [data-theme='lite'] {
@@ -26,8 +26,8 @@
 
 [data-theme='dark'] {
     --text-color: #ffffff;
-    --fill-color: #424242;
-    --alt-fill-color: #383838;
+    --fill-color: #212121;
+    --alt-fill-color: #1c1c1c;
 }
 
 a,
