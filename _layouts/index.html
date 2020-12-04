@@ -104,10 +104,12 @@
         <ul>
           {% for post in site.posts %}
           <li>
-            {% if post.image %}
-            <img src="{{ post.image }}" alt="">
-            {% endif %}
-            <a href="{{ post.url }}">{{ post.title }}</a>
+            <a href="{{ post.url }}">
+              {% if post.image %}
+              <img src="{{ post.image }}" alt="">
+              {% endif %}
+              {{ post.title }}
+            </a>
           </li>
           {% endfor %}
         </ul>
