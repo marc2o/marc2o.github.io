@@ -105,7 +105,7 @@
           {% for post in site.posts %}
           <li>
             {% if page.image %}
-            <img src="{{ page.image }}" alt="">
+            <img src="{{ post.image }}" alt="">
             {% endif %}
             <a href="{{ post.url }}">{{ post.title }}</a>
           </li>
