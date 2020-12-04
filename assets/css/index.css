@@ -413,3 +413,8 @@ input#DarkModeSwitch:checked+span:before {
         justify-self: left;
     }
 }
+
+/* Disable Pocket extension on macOS Safari */
+#pocket-extension-root {
+    display: none;
+}
