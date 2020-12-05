@@ -2,6 +2,7 @@
 layout: article
 title: Hello World
 author: marc2o
+language: en-US
 image: https://picsum.photos/800/600
 ---
 

@@ -2,6 +2,7 @@
 layout: article
 title: ODROID-GO, der Spielspaß-Bausatz
 author: marc2o
+language: de-DE
 image: /images/odroid-go-customized.jpg
 ---
 
