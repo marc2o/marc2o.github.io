@@ -14,8 +14,6 @@ Als ich das erste Foto des [ODROID-GO](https://www.hardkernel.com/shop/odroid-go
 <figcaption><em>Mein liebstes Spielzeug … nach meinem 3DS (<a href="https://www.instagram.com/p/BndqGnWn6QS/">@marc2o</a>)</em></figcaption>
 </figure>
 
-*Mein liebstes Spielzeug … nach meinem 3DS [@marc2o](https://www.instagram.com/p/BndqGnWn6QS/)* 
-
 Der ODROID-GO lässt sich leicht zusammenbauen. Kein Löten, nur Schrauben und Stecken. Einfach die beigelegte Anleitung befolgen. Das kann auch jemand, der bis jetzt nur LEGOs zusammengesteckt hat.
 
 Auch das anschließende *customizen* war relativ einfach. Ich wollte, nachdem ich schon einige Fotos gesehen hatte, dass er noch mehr wie ein echter Gameboy aussieht. Also Farbe im Baumarkt gekauft (Dupli-Color RAL 9001) und dann gemäß dieser Anleitung bearbeitet: [Custom Paint-Job für den ODROID-GO](https://ameridroid.com/blogs/ameriblogs/how-to-add-some-color-to-your-odroid-go). 
