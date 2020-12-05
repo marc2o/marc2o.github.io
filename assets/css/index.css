@@ -227,10 +227,10 @@ div>ul>li>a>span.preview.image {
     height: 50vmin;
 }
 
-div>ul>li>a>span.preview.image>img {
+div.posts>ul>li>a>span.preview.image>img {
     display: block;
-    width: 80vmin;
-    height: 50vmin;
+    width: 64vmin;
+    height: 40vmin;
     object-position: 50% 50%;
     object-fit: cover
 }
