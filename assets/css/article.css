@@ -15,7 +15,7 @@
         --text-color: #ffffff;
         --fill-color: #212121;
         --alt-fill-color: #1c1c1c;
-        }
+    }
 }
 
 [data-theme='lite'] {
@@ -183,6 +183,7 @@ main>div {
     overflow-x: auto;
     background-color: var(--alt-fill-color);
 }
+
 figure.gallery {
     white-space: nowrap;
 }
@@ -292,6 +293,29 @@ header>a.button {
 
 a.button>svg {
     stroke: var(--spot-color);
+}
+
+/* about box */
+ul.about {
+    list-style: none;
+    background: var(--alt-fill-color);
+    padding: 1em;
+}
+
+ul.about>li {
+    font-size: 90%;
+    line-height: 150%;
+    font-family: "Open Sans", sans-serif;
+}
+
+ul.about>li:nth-child(1) {
+    width: 5ch;
+    height: 5ch;
+    margin: 0 1ch 0 0;
+    float: left;
+    border-radius: 50%;
+    overflow: hidden;
+    background-color: #ffffff;
 }
 
 /* Disable Pocket extension on macOS Safari */
