@@ -1,3 +1,3 @@
 # marc2o.github.io
 
-Small private website powered by GitHub Pages.
+My own private private website (and my first Jekyll project) powered by GitHub Pages.
