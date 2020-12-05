@@ -122,7 +122,7 @@ td {
 }
 
 tr:nth-child(odd) {
-    background: var(--alt-fill-color);
+    background: var(--fill-color);
 }
 
 th {
