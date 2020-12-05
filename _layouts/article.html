@@ -43,6 +43,9 @@
     </header>
     <main>
         {{ content }}
+        {% if page.image %}
+        {% include page.author.about.html %}
+        {% endif %}
     </main>
     <footer>
         {% if site.github.is_project_page %}
