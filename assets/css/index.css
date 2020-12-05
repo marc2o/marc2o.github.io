@@ -226,7 +226,7 @@ div>ul>li>a>span.preview.image {
     width: auto;
 }
 
-div>ul>li>a>span.preview.image {
+div>ul>li>a>span.preview.image>img {
     width: 80vmin;
     height: 50vmin;
     object-position: 50% 50%;
