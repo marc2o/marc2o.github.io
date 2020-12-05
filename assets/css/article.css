@@ -232,6 +232,12 @@ h3 {
     font-weight: 300;
 }
 
+h1,
+h2,
+h3 {
+    margin: 1em 0 1rem 0;
+}
+
 a>h3 {
     margin: 0;
 }
