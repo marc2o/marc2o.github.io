@@ -222,6 +222,8 @@ figure>figure>img,
 div>div>img,
 div>ul>li>a>span.preview.image {
     display: inline-block;
+    width: 64vmin;
+    height: 40vmin;
 }
 
 div>ul>li>a>span.preview.image>img {
