@@ -183,11 +183,6 @@ main>div {
     background-color: var(--alt-fill-color);
 }
 
-main>img+p {
-    font-size: 83.4%;
-    margin-top: 0;
-}
-
 main>div>ul {
     margin: 0;
     padding: 0;
