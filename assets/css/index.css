@@ -15,7 +15,7 @@
         --text-color: #ffffff;
         --fill-color: #212121;
         --alt-fill-color: #1c1c1c;
-        }
+    }
 }
 
 [data-theme='lite'] {
@@ -185,7 +185,9 @@ main>div {
     overflow-x: auto;
     background-color: var(--alt-fill-color);
 }
-figure.gallery {
+
+figure.gallery,
+div.gallery {
     white-space: nowrap;
 }
 

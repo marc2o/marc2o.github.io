@@ -186,7 +186,8 @@ main>div {
     background-color: var(--alt-fill-color);
 }
 
-figure.gallery {
+figure.gallery,
+div.gallery {
     white-space: nowrap;
 }
 
