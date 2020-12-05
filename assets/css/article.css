@@ -226,14 +226,6 @@ div>ul>li>a>span.preview.image {
     height: 50vh;
 }
 
-div>ul>li>a>span.preview.image>img {
-    display: block;
-    width: 80vh;
-    height: 50vh;
-    object-position: 50% 50%;
-    object-fit: cover
-}
-
 h1,
 h2,
 h3 {
