@@ -7,7 +7,7 @@ language: en-US
 
 # Moving
 
-After 9 years on my own domain I’m moving my content over to GitHub.
+After years on my own domain I’m moving my content over to GitHub.
 
 ## About
 

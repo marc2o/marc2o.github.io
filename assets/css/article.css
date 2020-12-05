@@ -12,6 +12,7 @@
 
 @media (prefers-color-scheme: dark) {
     :root {
+        --spot-color: #0270ac;
         --text-color: #ffffff;
         --fill-color: #212121;
         --alt-fill-color: #1c1c1c;
@@ -25,6 +26,7 @@
 }
 
 [data-theme='dark'] {
+    --spot-color: #0270ac;
     --text-color: #ffffff;
     --fill-color: #212121;
     --alt-fill-color: #1c1c1c;
