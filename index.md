@@ -12,5 +12,3 @@ After years on my own domain I’m moving my content over to GitHub.
 ## About
 
 I like to make stuff.
-
-## Blog
