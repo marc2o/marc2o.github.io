@@ -190,7 +190,8 @@ main>div {
 }
 
 figure.gallery,
-div.gallery {
+div.gallery,
+div.posts {
     white-space: nowrap;
 }
 
@@ -223,13 +224,13 @@ div>div>img,
 div>ul>li>a>span.preview.image {
     display: inline-block;
     width: auto;
-    height: 40vmin;
+    height: 50vmin;
 }
 
 div>ul>li>a>span.preview.image>img {
     display: block;
-    width: 64vmin;
-    height: 40vmin;
+    width: 80vmin;
+    height: 50vmin;
     object-position: 50% 50%;
     object-fit: cover
 }
