@@ -59,6 +59,9 @@ footer>* {
     grid-column: 2;
 }
 
+footer {
+    margin-top: 1rem;
+}
 
 /* for increased readability */
 main>p {

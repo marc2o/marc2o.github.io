@@ -44,7 +44,7 @@
     <main>
         {{ content }}
         {% if page.author %}
-        {% include marc2o.about.html %}
+        {% include {{ page.author }}.about.html %}
         {% endif %}
     </main>
     <footer>
