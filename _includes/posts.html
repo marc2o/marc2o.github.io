@@ -1,0 +1,14 @@
+<div>
+    <ul>
+        {% for post in site.posts %}
+        <li>
+            <a href="{{ post.url }}">
+                {% if post.image %}
+                <img src="{{ post.image }}" alt="">
+                {% endif %}
+                <h3>{{ post.title }}</h3>
+            </a>
+        </li>
+        {% endfor %}
+    </ul>
+</div>

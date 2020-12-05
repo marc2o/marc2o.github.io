@@ -14,3 +14,5 @@ After years on my own domain I’m moving my content over to GitHub.
 I like to make stuff.
 
 ## Blog
+
+{% include posts.html %}
