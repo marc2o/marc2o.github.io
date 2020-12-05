@@ -4,7 +4,7 @@
         <li>
             <a href="{{ post.url }}">
                 {% if post.image %}
-                <img src="{{ post.image }}" alt="">
+                <span class="preview image"><img src="{{ post.image }}" alt=""></span>
                 {% endif %}
                 <h3>{{ post.title }}</h3>
             </a>

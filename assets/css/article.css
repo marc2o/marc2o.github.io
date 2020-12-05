@@ -220,10 +220,17 @@ div>ul>li:last-child {
 
 figure>figure>img,
 div>div>img,
-div>ul>li>a>img {
-    height: 50vh;
-    height: minmax(50vh, 8rem);
+div>ul>li>a>span.preview.image {
+    width: 80vmin;
+    height: 50vmin;
     width: auto;
+}
+
+div>ul>li>a>span.preview.image {
+    width: 80vmin;
+    height: 50vmin;
+    object-position: 50% 50%;
+    object-fit: cover
 }
 
 h1,
