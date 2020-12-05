@@ -224,6 +224,7 @@ div>div>img,
 div>ul>li>a>span.preview.image {
     display: inline-block;
     width: auto;
+    height: 40vmin;
 }
 
 div.posts>ul>li>a>span.preview.image>img {
