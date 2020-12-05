@@ -43,8 +43,8 @@
     </header>
     <main>
         {{ content }}
-        {% if page.image %}
-        {% include marc2o.about.html %}
+        {% if page.author %}
+        {% include page.author+.about.html %}
         {% endif %}
     </main>
     <footer>
