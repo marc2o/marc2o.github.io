@@ -5,8 +5,12 @@ author: marc2o
 language: en-US
 ---
 
-# Moving…
+# Moving
 
-## …from my own domain to this beautiful GitHub space.
+After 9 years on my own domain I’m moving my content over to GitHub.
+
+## About
 
 I like to make stuff.
+
+## Blog

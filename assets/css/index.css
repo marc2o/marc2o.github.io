@@ -181,10 +181,12 @@ main>div {
     display: block;
     list-style: none;
     width: 100%;
-    white-space: nowrap;
     overflow-y: hidden;
     overflow-x: auto;
     background-color: var(--alt-fill-color);
+}
+figure.gallery {
+    white-space: nowrap;
 }
 
 main>div>ul {
