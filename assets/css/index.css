@@ -221,14 +221,13 @@ div>ul>li:last-child {
 figure>figure>img,
 div>div>img,
 div>ul>li>a>span.preview.image {
-    width: 80vmin;
-    height: 50vmin;
-    width: auto;
+    display: inline-block;
 }
 
 div>ul>li>a>span.preview.image>img {
-    width: 80vmin;
-    height: 50vmin;
+    display: block;
+    width: 64vmin;
+    height: 40vmin;
     object-position: 50% 50%;
     object-fit: cover
 }
