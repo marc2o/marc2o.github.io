@@ -82,6 +82,7 @@ figcaption {
 pre,
 code {
     padding: 0;
+    margin: 0;
     font-family: monospace, monospace;
     font-size: 83.4%;
 }
