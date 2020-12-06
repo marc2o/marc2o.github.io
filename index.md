@@ -11,7 +11,7 @@ After years on my own domain I’m moving my content over to GitHub.
 
 ## About
 
-I like to make stuff.
+I like to make stuff, such as icons and pixel art. Find more in ![my gallery on DeviantArt](https://www.deviantart.com/marc2o).
 
 <figure class="gallery">
     <figure>
