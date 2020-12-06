@@ -168,6 +168,7 @@ main>div {
     grid-column: 1 / 4;
     justify-self: center;
     width: 100%;
+    margin: 0;
     max-width: var(--marked-width);
 }
 
