@@ -17,7 +17,7 @@ I like to make stuff, such as icons and pixel art. Find more in [my gallery on D
     <figure>
         <img src="/images/icon.joystick.png" alt="joystick">
         <figcaption>
-            Joystick as OpenEmu replacement icon
+            Joystick
         </figcaption>
     </figure>
     <figure>
