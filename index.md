@@ -102,7 +102,7 @@ And I like to make music.
                 frameborder="0" allowfullscreen allow="autoplay; fullscreen"></iframe></span>
         <figcaption><a href="https://musescore.com/user/8006541/scores/4477501" target="_blank">Pokémon Red, Blue and
                 Yellow –
-                Pallet Town Theme</a> by <a href="https://musescore.com/marc2o">marc2o</a></span></figcaption>
+                Pallet Town Theme</a> by <a href="https://musescore.com/marc2o">marc2o</a></figcaption>
     </figure>>
 </figure>
 
