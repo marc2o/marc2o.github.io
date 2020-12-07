@@ -222,13 +222,13 @@ div>ul>li:last-child {
 
 figure>figure>img,
 div>div>img,
-div>ul>li> span.preview {
+div>ul>li span.preview {
     display: inline-block;
     width: auto;
     height: 40vmin;
 }
 
-div.posts>ul>li> span.preview.image>img {
+div.posts>ul>li span.image>img {
     display: block;
     width: 64vmin;
     height: 40vmin;
