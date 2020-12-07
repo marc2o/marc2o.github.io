@@ -54,15 +54,12 @@ I like to make stuff, such as icons and pixel art. Find more in [my gallery on D
 
 Music
 
-<div class="gallery">
-<ul>
-<li>
-<span class="preview music">
+<figure class="gallery">
+<figure>
 <iframe width="100%" height="100%" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/74417803&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe></span>
-<p><small><a href="https://soundcloud.com/marc2o" title="marc2o" target="_blank" style="color: #cccccc; text-decoration: none;">marc2o</a> · <a href="https://soundcloud.com/marc2o/ruhemodus" title="Ruhemodus" target="_blank" style="color: #cccccc; text-decoration: none;">Ruhemodus</a></small></p>
-</li>
-</ul>
-</div>
+<figcaption><a href="https://soundcloud.com/marc2o" title="marc2o" target="_blank" style="color: #cccccc; text-decoration: none;">marc2o</a> · <a href="https://soundcloud.com/marc2o/ruhemodus" title="Ruhemodus" target="_blank" style="color: #cccccc; text-decoration: none;">Ruhemodus</a></figcaption>
+</figure>
+</figure>
 
 ## Blog
 
