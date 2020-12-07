@@ -74,7 +74,7 @@ img {
 figcaption {
     display: inline-block;
     width: calc(100% - 2ch);
-    font-size: 83.3%;
+    font-size: 83.4%;
     text-align: center;
     padding: 1ex 1ch;
 }
@@ -84,7 +84,7 @@ pre,
 code {
     padding: 0 1em;
     font-family: monospace, monospace;
-    font-size: 83.3%;
+    font-size: 83.4%;
 }
 
 pre {
@@ -121,7 +121,7 @@ td {
     text-align: left;
     vertical-align: top;
     padding: 1ex 1ch;
-    font-size: 83.3%
+    font-size: 83.4%
 }
 
 tr:nth-child(odd) {
