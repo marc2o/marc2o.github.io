@@ -221,11 +221,16 @@ div>ul>li:last-child {
 }
 
 figure>figure>img,
+figure>figure>span,
 div>div>img,
 div>ul>li span.preview {
     display: inline-block;
     width: auto;
     height: 40vmin;
+}
+
+figure>figure>span {
+    width: 80vmin;
 }
 
 div.posts>ul>li span.image>img {
