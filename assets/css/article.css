@@ -219,11 +219,30 @@ div>ul>li:last-child {
 }
 
 figure>figure>img,
+figure>figure>span,
 div>div>img,
-div>ul>li>a>span.preview.image {
+div>ul>li span.preview {
     display: inline-block;
     width: auto;
-    height: 50vh;
+    height: 50vmin;
+}
+
+figcaption a,
+figcaption a:hover,
+figcaption a:visited {
+    color: var(--text-color);
+}
+
+figure>figure>span {
+    width: 80vmin;
+}
+
+div.posts>ul>li span.image>img {
+    display: block;
+    width: 80vmin;
+    height: 50vmin;
+    object-position: 50% 50%;
+    object-fit: cover
 }
 
 h1,
