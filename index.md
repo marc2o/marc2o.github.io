@@ -42,6 +42,12 @@ After years on my own domain I’m moving my content over to GitHub.
         </figcaption>
     </figure>
     <figure>
+        <style>
+            .cp_embed_wrapper>iframe {
+                width: 80vmin;
+                height: 40vmin;
+            }
+        </style>
         <span class="codepen" data-height="100%" data-theme-id="light" data-default-tab="result" data-user="marc2o"
             data-slug-hash="VdjJjE"
             style="width: 80vmin; height: 40vmin; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;"
