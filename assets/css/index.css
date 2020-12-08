@@ -229,6 +229,11 @@ div>ul>li span.preview {
     height: 40vmin;
 }
 
+main>figure a,
+main>div a {
+    color: var(--text-color);
+}
+
 figure>figure>span {
     width: 80vmin;
 }

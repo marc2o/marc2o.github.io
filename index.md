@@ -61,7 +61,7 @@ Oh, and I like to make music. Listen to more on [my profile on Soundcloud](https
     </figcaption>
 </figure>
 
-<figure>
+<figure class="gallery">
     <figure>
         <span><iframe width="100%" height="100%" src="https://musescore.com/user/8006541/scores/6184657/embed"
                 frameborder="0" allowfullscreen allow="autoplay; fullscreen"></iframe></span>
