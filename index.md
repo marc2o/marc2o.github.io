@@ -36,9 +36,13 @@ After years on my own domain I’m moving my content over to GitHub.
                 Theme</a></figcaption>
     </figure>
     <figure>
-        <span class="codepen" data-height="265" data-theme-id="light" data-default-tab="result" data-user="marc2o"
+        <img src="/images/cessare.png" alt="Cessare Game Screenshot">
+        <figcaption><a href="https://marc2o.itch.io/cessare" target="_blank">Play Cessare</a>
+    </figure>
+    <figure>
+        <span class="codepen" data-height="100%" data-theme-id="light" data-default-tab="result" data-user="marc2o"
             data-slug-hash="VdjJjE"
-            style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;"
+            style="width: 80vmin; height: 40vmin; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;"
             data-pen-title="Pulse Bars"></span>
         <figcaption><a href="https://codepen.io/marc2o/pen/VdjJjE">
                 Pulse Bars</a></figcaption>
