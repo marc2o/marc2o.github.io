@@ -43,8 +43,10 @@ After years on my own domain I’m moving my content over to GitHub.
     </figure>
     <figure>
         <style>
-            .cp_embed_wrapper>iframe {
+            .cp_embed_wrapper {
                 width: 80vmin;
+            }
+            .cp_embed_wrapper>iframe {
                 height: 40vmin;
             }
         </style>
