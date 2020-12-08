@@ -41,6 +41,12 @@ After years on my own domain I’m moving my content over to GitHub.
             <a href="https://marc2o.itch.io/cessare" target="_blank">Play Cessare</a>
         </figcaption>
     </figure>
+    <figure>
+        <img src="/images/gameofcrows.png" alt="Game of Crows">
+        <figcaption>
+            <a href="https://marc2o.itch.io/game-of-crows" target="_blank">Game of Crows</a>
+        </figcaption>
+    </figure>
 </figure>
 
 [See and listen to more about me.]({% link about.md %})
