@@ -3,10 +3,10 @@ layout: article
 title: About
 author: marc2o
 language: en-US
+image: /images/squirrel.jpg
 ---
 
 # About
-
 
 I like to make stuff, such as icons and pixel art. Find more in [my gallery on DeviantArt](https://www.deviantart.com/marc2o).
 
@@ -47,6 +47,12 @@ I like to make stuff, such as icons and pixel art. Find more in [my gallery on D
         <img src="/images/pixelart.karl.png" alt="Karl">
         <figcaption>
             Karl
+        </figcaption>
+    </figure>
+    <figure>
+        <img src="/images/ZeldaFanArtGC19.png" alt="Legend of Zelda - Link">
+        <figcaption>
+            Link Fan-Art
         </figcaption>
     </figure>
 </figure>
