@@ -67,14 +67,14 @@ Oh, and I like to make music. Listen to more on [my profile on Soundcloud](https
                 frameborder="0" allowfullscreen allow="autoplay; fullscreen"></iframe></span>
         <figcaption><a href="https://musescore.com/user/8006541/scores/6184657" target="_blank">Pokémon Sun & Moon
                 Paniola Ranch
-                Theme</a> by <a href="https://musescore.com/marc2o">marc2o</a></figcaption>
+                Theme</a></figcaption>
     </figure>
     <figure>
         <span><iframe width="100%" height="100%" src="https://musescore.com/user/8006541/scores/4477501/embed"
                 frameborder="0" allowfullscreen allow="autoplay; fullscreen"></iframe></span>
         <figcaption><a href="https://musescore.com/user/8006541/scores/4477501" target="_blank">Pokémon Red, Blue and
                 Yellow –
-                Pallet Town Theme</a> by <a href="https://musescore.com/marc2o">marc2o</a></figcaption>
+                Pallet Town Theme</a></figcaption>
     </figure>
 </figure>
 
