@@ -17,7 +17,8 @@ After years on my own domain I’m moving my content over to GitHub.
         </figcaption>
     </figure>
     <figure>
-        <span style="width: 80vmin"><iframe width="100%" height="100%" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/74417803&color=%230288d1&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe></span>
+        <span style="width: 80vmin"><iframe width="100%" height="100%" scrolling="no" frameborder="no" allow="autoplay"
+                src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/74417803&color=%230288d1&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe></span>
         <figcaption><a href="https://soundcloud.com/marc2o/ruhemodus" target="_blank">Ruhemodus</a></figcaption>
     </figure>
     <figure>
@@ -27,11 +28,21 @@ After years on my own domain I’m moving my content over to GitHub.
         </figcaption>
     </figure>
     <figure>
-        <span style="width: 100vmin"><iframe width="100%" height="100%" src="https://musescore.com/user/8006541/scores/6184657/embed"
-                frameborder="0" allowfullscreen allow="autoplay; fullscreen"></iframe></span>
+        <span style="width: 100vmin"><iframe width="100%" height="100%"
+                src="https://musescore.com/user/8006541/scores/6184657/embed" frameborder="0" allowfullscreen
+                allow="autoplay; fullscreen"></iframe></span>
         <figcaption><a href="https://musescore.com/user/8006541/scores/6184657" target="_blank">Pokémon Sun & Moon,
                 Paniola Ranch
                 Theme</a></figcaption>
+    </figure>
+    <figure>
+        <span class="codepen" data-height="265" data-theme-id="light" data-default-tab="result" data-user="marc2o"
+            data-slug-hash="VdjJjE"
+            style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;"
+            data-pen-title="Pulse Bars"></span>
+        <figcaption><a href="https://codepen.io/marc2o/pen/VdjJjE">
+                Pulse Bars</a></figcaption>
+        <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
     </figure>
 </figure>
 
@@ -40,3 +51,4 @@ After years on my own domain I’m moving my content over to GitHub.
 ## Blog
 
 {% include posts.html %}
+
