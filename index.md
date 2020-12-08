@@ -9,74 +9,7 @@ language: en-US
 
 After years on my own domain I’m moving my content over to GitHub.
 
-## About
-
-I like to make stuff, such as icons and pixel art. Find more in [my gallery on DeviantArt](https://www.deviantart.com/marc2o).
-
-<figure class="gallery">
-    <figure>
-        <img src="/images/icon.joystick.png" alt="joystick">
-        <figcaption>
-            Joystick
-        </figcaption>
-    </figure>
-    <figure>
-        <img src="/images/icon.naroth.png" alt="Naroth the Game">
-        <figcaption>
-            Icon for the game Naroth
-        </figcaption>
-    </figure>
-    <figure>
-        <img src="/images/icon.appstore.png" alt="App Store replacement icon">
-        <figcaption>
-            App Store
-        </figcaption>
-    </figure>
-    <figure>
-        <img src="/images/pixelart.the-son-of-man.png" alt="Son of Man pixel art">
-        <figcaption>
-            Art
-        </figcaption>
-    </figure>
-    <figure>
-        <img src="/images/pixelart.darthmouse.png" alt="Disney vs Star Wars">
-        <figcaption>
-            Darth Mouse
-        </figcaption>
-    </figure>
-    <figure>
-        <img src="/images/pixelart.karl.png" alt="Karl">
-        <figcaption>
-            Karl
-        </figcaption>
-    </figure>
-</figure>
-
-Oh, and I like to make music. Listen to more on [my profile on Soundcloud](https://soundcloud.com/marc2o) or some of [my arrangements on MuseScore](https://musescore.com/marc2o).
-
-<figure>
-    <span><iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay"
-            src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1175187820&color=%230288d1&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe></span>
-    <figcaption><a href="https://soundcloud.com/marc2o/sets/musicbox" title="Musicbox" target="_blank">A playlist</a>
-    </figcaption>
-</figure>
-
-<figure class="gallery">
-    <figure>
-        <span><iframe width="100%" height="100%" src="https://musescore.com/user/8006541/scores/6184657/embed"
-                frameborder="0" allowfullscreen allow="autoplay; fullscreen"></iframe></span>
-        <figcaption><a href="https://musescore.com/user/8006541/scores/6184657" target="_blank">Pokémon Sun & Moon
-                Paniola Ranch
-                Theme</a></figcaption>
-    </figure>
-    <figure>
-        <span><iframe width="100%" height="100%" src="https://musescore.com/user/8006541/scores/4477501/embed"
-                frameborder="0" allowfullscreen allow="autoplay; fullscreen"></iframe></span>
-        <figcaption><a href="https://musescore.com/user/8006541/scores/4477501" target="_blank">Pokémon Red, Blue and
-                Yellow –
-                Pallet Town Theme</a></figcaption>
-    </figure>
-</figure>
+[More about me.]({% link about.md %})
 
 ## Blog
 
