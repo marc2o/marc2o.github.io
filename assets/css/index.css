@@ -229,8 +229,9 @@ div>ul>li span.preview {
     height: 40vmin;
 }
 
-main>figure a,
-main>div a {
+figcaption a,
+figcaption a:hover,
+figcaption a:visited {
     color: var(--text-color);
 }
 
