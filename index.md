@@ -41,23 +41,6 @@ After years on my own domain I’m moving my content over to GitHub.
             <a href="https://marc2o.itch.io/cessare" target="_blank">Play Cessare</a>
         </figcaption>
     </figure>
-    <figure>
-        <style>
-            .cp_embed_wrapper {
-                width: 80vmin;
-            }
-            .cp_embed_wrapper>iframe {
-                height: 40vmin;
-            }
-        </style>
-        <span class="codepen" data-height="100%" data-theme-id="light" data-default-tab="result" data-user="marc2o"
-            data-slug-hash="VdjJjE"
-            style="width: 80vmin; height: 40vmin; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;"
-            data-pen-title="Pulse Bars"></span>
-        <figcaption><a href="https://codepen.io/marc2o/pen/VdjJjE">
-                Pulse Bars</a></figcaption>
-        <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
-    </figure>
 </figure>
 
 [See and listen to more about me.]({% link about.md %})
