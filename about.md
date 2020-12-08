@@ -84,4 +84,3 @@ Oh, and I like to make music. Listen to more on [my profile on Soundcloud](https
                 Pallet Town Theme</a></figcaption>
     </figure>
 </figure>
-
