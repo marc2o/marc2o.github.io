@@ -9,6 +9,8 @@ language: en-US
 
 After years on my own domain I’m moving my content over to GitHub.
 
+## See, listen and play
+
 <figure class="gallery">
     <figure>
         <img src="/images/icon.joystick.png" alt="joystick">
@@ -49,7 +51,7 @@ After years on my own domain I’m moving my content over to GitHub.
     </figure>
 </figure>
 
-[See and listen to more about me.]({% link about.md %})
+[See more stuff.]({% link about.md %})
 
 ## Blog
 
