@@ -3,14 +3,14 @@ layout: article
 title: About
 author: marc2o
 language: en-US
-image: /images/squirrel.jpg
+image: /images/squirrel.png
 ---
 
-# About
+# I like to make stuff.
 
-I like to make stuff, such as icons and pixel art. Find more in [my gallery on DeviantArt](https://www.deviantart.com/marc2o).
+## View
 
-## Visual design
+Such as icons, illustrations and pixel art. Find more in [my gallery on DeviantArt](https://www.deviantart.com/marc2o) or on [my Figma-Profile](https://www.figma.com/@marc2o).
 
 <figure class="gallery">
     <figure>
@@ -57,7 +57,7 @@ I like to make stuff, such as icons and pixel art. Find more in [my gallery on D
     </figure>
 </figure>
 
-## Music 
+## Listen
 
 Oh, and I like to make music. Listen to more on [my profile on Soundcloud](https://soundcloud.com/marc2o) or some of [my arrangements on MuseScore](https://musescore.com/marc2o).
 
@@ -84,3 +84,4 @@ Oh, and I like to make music. Listen to more on [my profile on Soundcloud](https
                 Pallet Town Theme</a></figcaption>
     </figure>
 </figure>
+
