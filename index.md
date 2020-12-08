@@ -37,7 +37,9 @@ After years on my own domain I’m moving my content over to GitHub.
     </figure>
     <figure>
         <img src="/images/cessare.png" alt="Cessare Game Screenshot">
-        <figcaption><a href="https://marc2o.itch.io/cessare" target="_blank">Play Cessare</a>
+        <figcaption>
+            <a href="https://marc2o.itch.io/cessare" target="_blank">Play Cessare</a>
+        </figcaption>
     </figure>
     <figure>
         <span class="codepen" data-height="100%" data-theme-id="light" data-default-tab="result" data-user="marc2o"
