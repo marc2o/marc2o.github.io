@@ -1,12 +1,10 @@
 ---
 layout: article
-title: About
+title: I like to make stuff
 author: marc2o
 language: en-US
 image: /images/squirrel.svg
 ---
-
-# I like to make stuff.
 
 ## View
 
