@@ -262,7 +262,7 @@ a>h3 {
     margin: 0;
 }
 
-main p:not(:first-child) {
+main p:not(.meta) {
     font-family: "Merriweather", serif;
 }
 
