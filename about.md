@@ -82,3 +82,10 @@ Oh, and I like to make music. Listen to more on [my profile on Soundcloud](https
                 Pallet Town Theme</a></figcaption>
     </figure>
 </figure>
+
+## Play
+
+<figure>
+    <span><iframe frameborder="0" src="https://itch.io/embed-upload/1396072?color=f1f1f1" allowfullscreen="" width="640" height="660"><a href="https://marc2o.itch.io/game-of-crows">Play Game of Crows on itch.io</a></iframe></span>
+    <figcaption><a href="https://marc2o.itch.io/game-of-crows" target="_blank">Game of Crows</a></figcaption>
+</figure>
