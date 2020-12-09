@@ -46,12 +46,11 @@
         <p>
             <em><small>
             {% if page.id %}
-                {% assign wordCount = post.content | number_of_words %}
                 {{ page.date | date: "%-d %B %Y"}} · 
                 {% if page.language == "de-DE" %}
-                Etwa {{ wordCount }} Wörter.
+                …
                 {% else %}
-                Roughly {{ wordCount }} words.
+                …
                 {% endif %}
             {% endif %}
             </small></em>
