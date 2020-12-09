@@ -42,18 +42,20 @@
                 type="checkbox"><span></span></label>
     </header>
     <main>
+        <h1>{{ page.title}}</h1>
         {{ content }}
         <p>
-            <em>
+            <em><small>
             {% if page.id %}
+                {% assign wordCount = post.content | number_of_words %}
+                {{ page.date | date: "%-d %B %Y"}} · 
                 {% if page.language == "de-DE" %}
-                Zuletzt aktualisiert: 
+                Etwa {{ wordCount }} Wörter.
                 {% else %}
-                Last updated: 
+                Roughly {{ wordCount }} words.
                 {% endif %}
-                {{ page.date | date: "%-d %B %Y"}}
             {% endif %}
-            </em>
+            </small></em>
         </p>
         {% if page.author %}
         {% include {{ page.author }}.{{ page.language }}.about.html %}
