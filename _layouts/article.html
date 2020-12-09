@@ -43,7 +43,14 @@
     </header>
     <main>
         {{ content }}
-        <p>{{ page.date | date: "%-d %B %Y"}}</p>
+        <p>
+            {% if page.language == "de-DE" %}
+            Zuletzt aktualisiert
+            {% elseif page.language == "en-US %}
+            Last updated 
+            {% endif %}
+            {{ page.date | date: "%-d %B %Y"}}
+        </p>
         {% if page.author %}
         {% include {{ page.author }}.{{ page.language }}.about.html %}
         {% endif %}
