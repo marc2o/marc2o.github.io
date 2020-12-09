@@ -44,12 +44,14 @@
     <main>
         {{ content }}
         <p>
-            {% if page.language == "de-DE" %}
-            Zuletzt aktualisiert
-            {% else %}
-            Last updated 
+            {% if page.id %}
+                {% if page.language == "de-DE" %}
+                Zuletzt aktualisiert
+                {% else %}
+                Last updated 
+                {% endif %}
+                {{ page.date | date: "%-d %B %Y"}}
             {% endif %}
-            {{ page.date | date: "%-d %B %Y"}}
         </p>
         {% if page.author %}
         {% include {{ page.author }}.{{ page.language }}.about.html %}
