@@ -85,7 +85,11 @@ Oh, and I like to make music. Listen to more on [my profile on Soundcloud](https
 
 ## Play
 
+I like to code, espcially in Lua (LÖVE2D and PICO-8) and C# (MonoGame), and combine pixels with fun.
+
 <figure>
     <span><iframe frameborder="0" src="https://itch.io/embed-upload/270605?color=101010" allowfullscreen="" width="100%" height="660"><a href="https://marc2o.itch.io/cessare">Play Cessare on itch.io</a></iframe></span>
     <figcaption><a href="https://marc2o.itch.io/cessare" target="_blank">Cessare</a></figcaption>
 </figure>
+
+See more on [my itch.io page](https://marc2o.itch.io).
