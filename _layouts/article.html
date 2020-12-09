@@ -43,6 +43,7 @@
     </header>
     <main>
         {{ content }}
+        <p>{{ page.date | date: "%-d %B %Y"}}</p>
         {% if page.author %}
         {% include {{ page.author }}.{{ page.language }}.about.html %}
         {% endif %}
