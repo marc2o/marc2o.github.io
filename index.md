@@ -53,7 +53,7 @@ After years on my own domain I’m moving my content over to GitHub.
 
 [See more stuff.]({% link about.md %})
 
-## Blog
+## Read
 
 {% include posts.html %}
 
