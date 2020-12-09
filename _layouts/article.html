@@ -46,7 +46,7 @@
         <p>
             {% if page.language == "de-DE" %}
             Zuletzt aktualisiert
-            {% elseif page.language == "en-US" %}
+            {% else %}
             Last updated 
             {% endif %}
             {{ page.date | date: "%-d %B %Y"}}
