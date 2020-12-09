@@ -49,9 +49,9 @@
                 {% assign readingTime = words | number_of_words | divided_by: 200 %}
                 {{ page.date | date: "%-d %B %Y"}} · 
                 {% if page.language == "de-DE" %}
-                …
+                Etwa {{ readingTime }} Minuten Lesezeit.
                 {% else %}
-                …
+                Roughly {{ readingTime }} minutes reading time.
                 {% endif %}
             {% endif %}
         </p>
