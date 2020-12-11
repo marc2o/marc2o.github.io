@@ -239,7 +239,7 @@ figcaption>.badge {
 	font-size: 75%;
 	text-transform: uppercase;
 	background: var(--spot-color);
-	color: var(--text-color);
+	color: white;
 	line-height: inherit;
 	padding: 0.2em 0.5em;
 	border-radius: 1em;
