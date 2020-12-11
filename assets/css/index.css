@@ -242,7 +242,7 @@ figcaption>.badge {
 	background: var(--spot-color);
 	color: var(--text-color);
 	line-height: inherit;
-	padding: 0.2em 0.4em;
+	padding: 0.2em 0.5em;
 	border-radius: 1em;
 	vertical-align: baseline;
 }
