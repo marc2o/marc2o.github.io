@@ -236,6 +236,17 @@ figcaption a:visited {
     text-decoration: underline;
 }
 
+figcaption>.badge {
+	font-size: 75%;
+	text-transform: uppercase;
+	background: var(--spot-color);
+	color: var(--text-color);
+	line-height: inherit;
+	padding: 0.2em 0.4em;
+	border-radius: 1em;
+	vertical-align: baseline;
+}
+
 figure>figure>span {
     width: 80vmin;
 }
