@@ -25,11 +25,11 @@ After years on my own domain I’m moving my content over to GitHub.
         </figcaption>
     </figure>
     <figure>
-        <img src="/images/soundcloud.ruhemodus.png" alt="Listen to Ruhemodus on Soundcloud">
+        <a href="https://soundcloud.com/marc2o/ruhemodus" target="_blank">Ruhemodus</a><img src="/images/soundcloud.ruhemodus.png" alt="Listen to Ruhemodus on Soundcloud"></a>
         <figcaption><a href="https://soundcloud.com/marc2o/ruhemodus" target="_blank">Ruhemodus</a></figcaption>
     </figure>
     <figure>
-        <img src="/images/musescore.paniola-ranch.png" alt="Listen to Paniola Ranch Theme on MuseScore">
+        <a href="https://musescore.com/user/8006541/scores/6184657" target="_blank"><img src="/images/musescore.paniola-ranch.png" alt="Listen to Paniola Ranch Theme on MuseScore"></a>
         <figcaption><a href="https://musescore.com/user/8006541/scores/6184657" target="_blank">Pokémon Sun & Moon,
                 Paniola Ranch
                 Theme</a></figcaption>
