@@ -25,14 +25,11 @@ After years on my own domain I’m moving my content over to GitHub.
         </figcaption>
     </figure>
     <figure>
-        <span style="width: 80vmin"><iframe width="100%" height="100%" scrolling="no" frameborder="no" allow="autoplay"
-                src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/74417803&color=%230288d1&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe></span>
+        <img src="/images/soundcloud.ruhemodus.png" alt="Listen to Ruhemodus on Soundcloud">
         <figcaption><a href="https://soundcloud.com/marc2o/ruhemodus" target="_blank">Ruhemodus</a></figcaption>
     </figure>
     <figure>
-        <span style="width: 100vmin"><iframe width="100%" height="100%"
-                src="https://musescore.com/user/8006541/scores/6184657/embed" frameborder="0" allowfullscreen
-                allow="autoplay; fullscreen"></iframe></span>
+        <img src="/images/musescore.paniola-ranch.png" alt="Listen to Paniola Ranch Theme on MuseScore">
         <figcaption><a href="https://musescore.com/user/8006541/scores/6184657" target="_blank">Pokémon Sun & Moon,
                 Paniola Ranch
                 Theme</a></figcaption>
