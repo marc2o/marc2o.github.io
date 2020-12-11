@@ -13,13 +13,13 @@ After years on my own domain I’m moving my content over to GitHub.
 
 <figure class="gallery">
     <figure>
-        <img src="/images/icon.joystick.png" alt="joystick">
+        <a href="https://www.deviantart.com/marc2o/art/OpenEmu-Icon-372583030" target="_blank"><img src="/images/icon.joystick.png" alt="joystick"></a>
         <figcaption>
             <a href="https://www.deviantart.com/marc2o/art/OpenEmu-Icon-372583030" target="_blank">Joystick</a>
         </figcaption>
     </figure>
     <figure>
-        <img src="/images/pixelart.the-son-of-man.png" alt="Son of Man pixel art">
+        <a href="https://www.deviantart.com/marc2o/art/The-Son-of-Man-748505267" target="_blank"><img src="/images/pixelart.the-son-of-man.png" alt="Son of Man pixel art"></a>
         <figcaption>
             <a href="https://www.deviantart.com/marc2o/art/The-Son-of-Man-748505267" target="_blank">Art</a>
         </figcaption>
@@ -35,13 +35,13 @@ After years on my own domain I’m moving my content over to GitHub.
                 Theme</a></figcaption>
     </figure>
     <figure>
-        <img src="/images/cessare.png" alt="Cessare Game Screenshot">
+        <a href="https://marc2o.itch.io/cessare" target="_blank"><img src="/images/cessare.png" alt="Cessare Game Screenshot"></a>
         <figcaption>
             <a href="https://marc2o.itch.io/cessare" target="_blank">Play Cessare</a>
         </figcaption>
     </figure>
     <figure>
-        <img src="/images/gameofcrows.png" alt="Game of Crows">
+        <a href="https://marc2o.itch.io/game-of-crows" target="_blank"><img src="/images/gameofcrows.png" alt="Game of Crows"></a>
         <figcaption>
             <a href="https://marc2o.itch.io/game-of-crows" target="_blank">Game of Crows</a>
         </figcaption>
