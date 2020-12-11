@@ -25,7 +25,7 @@ After years on my own domain I’m moving my content over to GitHub.
         </figcaption>
     </figure>
     <figure>
-        <a href="https://soundcloud.com/marc2o/ruhemodus" target="_blank">Ruhemodus</a><img src="/images/soundcloud.ruhemodus.png" alt="Listen to Ruhemodus on Soundcloud"></a>
+        <a href="https://soundcloud.com/marc2o/ruhemodus" target="_blank"><img src="/images/soundcloud.ruhemodus.png" alt="Listen to Ruhemodus on Soundcloud"></a>
         <figcaption><a href="https://soundcloud.com/marc2o/ruhemodus" target="_blank">Ruhemodus</a></figcaption>
     </figure>
     <figure>
