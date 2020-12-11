@@ -233,7 +233,6 @@ figcaption a,
 figcaption a:hover,
 figcaption a:visited {
     color: var(--text-color);
-    text-decoration: underline;
 }
 
 figcaption>.badge {
