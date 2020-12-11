@@ -220,7 +220,7 @@ div>ul>li:last-child {
     padding-right: 2ch;
 }
 
-figure>figure>img,
+figure>figure img,
 figure>figure>span,
 div>div>img,
 div>ul>li span.preview {
