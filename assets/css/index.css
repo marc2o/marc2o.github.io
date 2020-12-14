@@ -238,7 +238,7 @@ figure a:visited {
 
 figure .badge {
     position: absolute;
-    top: 2rem;
+    top: 1.5rem;
     right: 0;
 	font-size: 75%;
 	text-transform: uppercase;
