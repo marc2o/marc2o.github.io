@@ -250,6 +250,10 @@ figure .badge {
 	vertical-align: baseline;
 }
 
+figure>figure:last-child .badge {
+    right: 1rem;
+}
+
 figure>figure>span {
     width: 80vmin;
 }
