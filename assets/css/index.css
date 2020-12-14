@@ -230,13 +230,13 @@ div>ul>li span.preview {
     height: 40vmin;
 }
 
-figcaption a,
-figcaption a:hover,
-figcaption a:visited {
+figure a,
+figure a:hover,
+figure a:visited {
     color: var(--text-color);
 }
 
-figcaption>.badge {
+figure .badge {
     position: absolute;
     top: 2rem;
     right: 0;
