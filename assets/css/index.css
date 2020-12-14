@@ -206,6 +206,7 @@ figure>figure,
 div>div,
 div>ul>li {
     display: inline-block;
+    position: relative;
     width: min-content;
     vertical-align: top;
     overflow: hidden;
@@ -236,13 +237,16 @@ figcaption a:visited {
 }
 
 figcaption>.badge {
+    position: absolute;
+    top: 1rem;
+    right: 0;
 	font-size: 75%;
 	text-transform: uppercase;
 	background: var(--spot-color);
 	color: white;
 	line-height: inherit;
-	padding: 0.2em 0.5em;
-	border-radius: 1em;
+	padding: .3rem 0.5rem .3rem 1rem;
+	border-radius: 1rem 0 0 1rem;
 	vertical-align: baseline;
 }
 

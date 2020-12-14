@@ -13,38 +13,47 @@ After years on my own domain I’m moving my content over to GitHub.
 
 <figure class="gallery">
     <figure>
-        <a href="https://www.deviantart.com/marc2o/art/OpenEmu-Icon-372583030" target="_blank"><img src="/images/icon.joystick.png" alt="joystick"></a>
+        <a href="https://www.deviantart.com/marc2o/art/OpenEmu-Icon-372583030" target="_blank"><img src="/images/icon.joystick.png" alt="joystick">
         <figcaption>
-            <a href="https://www.deviantart.com/marc2o/art/OpenEmu-Icon-372583030" target="_blank">Joystick</a> <span class="badge">icon</span>
+            Joystick <span class="badge">icon</span>
         </figcaption>
+        </a>
     </figure>
     <figure>
-        <a href="https://www.deviantart.com/marc2o/art/The-Son-of-Man-748505267" target="_blank"><img src="/images/pixelart.the-son-of-man.png" alt="Son of Man pixel art"></a>
+        <a href="https://www.deviantart.com/marc2o/art/The-Son-of-Man-748505267" target="_blank"><img src="/images/pixelart.the-son-of-man.png" alt="Son of Man pixel art">
         <figcaption>
-            <a href="https://www.deviantart.com/marc2o/art/The-Son-of-Man-748505267" target="_blank">Pixel</a> <span class="badge">Art</span>
+            Pixel <span class="badge">Art</span>
         </figcaption>
+        </a>
     </figure>
     <figure>
-        <a href="https://soundcloud.com/marc2o/ruhemodus" target="_blank"><img src="/images/soundcloud.ruhemodus.png" alt="Listen to Ruhemodus on Soundcloud"></a>
-        <figcaption><a href="https://soundcloud.com/marc2o/ruhemodus" target="_blank">Ruhemodus</a> <span class="badge">music</span></figcaption>
-    </figure>
-    <figure>
-        <a href="https://musescore.com/user/8006541/scores/6184657" target="_blank"><img src="/images/musescore.paniola-ranch.png" alt="Listen to Paniola Ranch Theme on MuseScore"></a>
-        <figcaption><a href="https://musescore.com/user/8006541/scores/6184657" target="_blank">Pokémon Sun & Moon,
-                Paniola Ranch
-                Theme</a> <span class="badge">music</span></figcaption>
-    </figure>
-    <figure>
-        <a href="https://marc2o.itch.io/cessare" target="_blank"><img src="/images/cessare.png" alt="Cessare Game Screenshot"></a>
+        <a href="https://soundcloud.com/marc2o/ruhemodus" target="_blank"><img src="/images/soundcloud.ruhemodus.png" alt="Listen to Ruhemodus on Soundcloud">
         <figcaption>
-            <a href="https://marc2o.itch.io/cessare" target="_blank">Cessare</a> <span class="badge">game</span>
+            Ruhemodus <span class="badge">music</span>
         </figcaption>
+        </a>
     </figure>
     <figure>
-        <a href="https://marc2o.itch.io/game-of-crows" target="_blank"><img src="/images/gameofcrows.png" alt="Game of Crows"></a>
+        <a href="https://musescore.com/user/8006541/scores/6184657" target="_blank"><img src="/images/musescore.paniola-ranch.png" alt="Listen to Paniola Ranch Theme on MuseScore">
         <figcaption>
-            <a href="https://marc2o.itch.io/game-of-crows" target="_blank">Game of Crows</a> <span class="badge">game</span>
+            Pokémon Sun & Moon,
+            Paniola Ranch Theme <span class="badge">music</span>
         </figcaption>
+        </a>
+    </figure>
+    <figure>
+        <a href="https://marc2o.itch.io/cessare" target="_blank"><img src="/images/cessare.png" alt="Cessare Game Screenshot">
+        <figcaption>
+            Cessare <span class="badge">game</span>
+        </figcaption>
+        </a>
+    </figure>
+    <figure>
+        <a href="https://marc2o.itch.io/game-of-crows" target="_blank"><img src="/images/gameofcrows.png" alt="Game of Crows">
+        <figcaption>
+            Game of Crows <span class="badge">game</span>
+        </figcaption>
+        </a>
     </figure>
 </figure>
 
