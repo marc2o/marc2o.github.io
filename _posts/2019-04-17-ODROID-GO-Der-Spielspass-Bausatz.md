@@ -196,6 +196,7 @@ Hier sind meine persönlichen Favoriten, die ich auf meinem ODROID-GO habe.
 
 - RetroESP32: [https://github.com/retro-esp32/RetroESP32](https://github.com/retro-esp32/RetroESP32)
 - Go-Play: [https://github.com/OtherCrashOverride/go-play/releases](https://github.com/OtherCrashOverride/go-play/releases)
+- Retro-Go: [https://github.com/ducalex/retro-go](https://github.com/ducalex/retro-go)
 - c64-go: [https://github.com/Schuemi/c64-go/blob/master/README.md](https://github.com/Schuemi/c64-go/blob/master/README.md)
 - Stella (Atari VCS 2600): [https://github.com/OtherCrashOverride/stella-odroid-go/releases](https://github.com/OtherCrashOverride/stella-odroid-go/releases)
 - ProSystem (Atari 7800): [https://github.com/OtherCrashOverride/prosystem-odroid-go/releases](https://github.com/OtherCrashOverride/prosystem-odroid-go/releases)
