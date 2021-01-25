@@ -157,8 +157,7 @@ header {
     margin: 0;
     overflow: hidden;
     color: var(--fill-color);
-    /*background: linear-gradient(160deg, #0277bd 33%, #26a69a 80%);*/
-	background: linear-gradient(135deg, #6EE7B7, #3B82F6 30%, #7C3AED 80%);
+    background: linear-gradient(160deg, #0277bd 33%, #26a69a 80%);
     clip-path: polygon(0% 0%, 100% 0%, 100% calc(100% - 5vh), 0% 100%);
     -webkit-clip-path: polygon(0% 0%, 100% 0%, 100% calc(100% - 5vh), 0% 100%);
 }
