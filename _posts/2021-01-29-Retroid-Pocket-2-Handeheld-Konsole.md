@@ -41,8 +41,8 @@ Das erste Upgrade auf 8.1 war noch umständlich und hat leider auch viele Fehler
 
 Aber seit Januar 2021 ist ein neues Android 8.1-Update »v2« verfügbar:
 
-- https://wiki.retroidhandhelds.com/index.php?title=Firmware
-- https://drive.google.com/drive/folders/1pSDVxLSOLqMirmPENWf2sdxrDKfOLd6z
+- [https://wiki.retroidhandhelds.com/index.php?title=Firmware](https://wiki.retroidhandhelds.com/index.php?title=Firmware)
+- [https://drive.google.com/drive/folders/1pSDVxLSOLqMirmPENWf2sdxrDKfOLd6z](https://drive.google.com/drive/folders/1pSDVxLSOLqMirmPENWf2sdxrDKfOLd6z)
 
 Ein Leitfaden zur Installation liegt bei. Eine schönere Dokumentation gibt es bei Retro Game Corps: [Retroid Pocket 2 Android 8.1 Install Guide](https://retrogamecorps.com/2020/12/29/retroid-pocket-2-android-8-1-install-guide/).
 
@@ -51,8 +51,8 @@ Ein Leitfaden zur Installation liegt bei. Eine schönere Dokumentation gibt es b
 
 Auch wenn das Gerät durchaus umstritten ist, gerade was die technischen Spezifikationen angeht, so gibt es doch eine lebendige Fan-Gemeinde. Regelmäßige Infos, Tipps und Neuigkeiten werden hier veröffentlicht:
 
-- Discord: https://discord.com/invite/mnA2Ju2RZy
-- Reddit: https://www.reddit.com/r/retroid/
+- Discord: [https://discord.com/invite/mnA2Ju2RZy](https://discord.com/invite/mnA2Ju2RZy)
+- Reddit: [https://www.reddit.com/r/retroid/](https://www.reddit.com/r/retroid/)
 
 
 ## Kosmetische Eingriffe
@@ -61,11 +61,11 @@ Ich nutze meinen RP2 ausschließlich mit Android, und das sieht im Standard leid
 
 Als erstes: Das Wallpaper! Fans haben für den RP2 eine eigene Website für Hintergrundbilder erstellt. Diese kann auch direkt im RP2-Browser aufgerufen werden.
 
-- Wallpapers: http://gallery.retroidhandhelds.com
+- Wallpapers: [http://gallery.retroidhandhelds.com](http://gallery.retroidhandhelds.com)
 
 Zweitens, der Launcher! Es gibt für Android eine Reihe von alternativen Launchern, die weniger nach Smartphone aussehen, weil sie z. B. für TV-Geräte gedacht sind. Mein Favorit ist **RePoLa**,
 
-- GitHub: https://github.com/sreichholf/repola
+- GitHub: [https://github.com/sreichholf/repola](https://github.com/sreichholf/repola)
 
 
 ## Nicht nur Emulation
