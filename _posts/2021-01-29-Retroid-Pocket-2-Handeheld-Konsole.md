@@ -13,18 +13,18 @@ Auf der dual-boot-fähigen Konsole läuft wahlweise Android 6 bzw. 8.1 (nach Upg
 Für mich ist die Konsole momentan einfach die schönste Möglichkeit, meine Lieblings-Spiele vom NES, SNES und Mega Drive wieder zu erleben.
 
 <figure class="gallery">
-	<figure><img src="/images/rp2-foto-1.jpg" alt=""><figcaption><em>Formschön.</em></figcaption></figure>
-	<figure><img src="/images/rp2-foto-2.jpg" alt=""><figcaption><em>Die Buttons fühlen sich gut an.</em></figcaption></figure>
-	<figure><img src="/images/rp2-foto-3.jpg" alt=""><figcaption><em>Liegt gut in der Hand. </em></figcaption></figure>
-	<figure><img src="/images/rp2-foto-4.jpg" alt=""><figcaption><em>Funktioniert.</em></figcaption></figure>
+    <figure><img src="/images/rp2-foto-1.jpg" alt=""><figcaption><em>Formschön.</em></figcaption></figure>
+    <figure><img src="/images/rp2-foto-2.jpg" alt=""><figcaption><em>Die Buttons fühlen sich gut an.</em></figcaption></figure>
+    <figure><img src="/images/rp2-foto-3.jpg" alt=""><figcaption><em>Liegt gut in der Hand. </em></figcaption></figure>
+    <figure><img src="/images/rp2-foto-4.jpg" alt=""><figcaption><em>Funktioniert.</em></figcaption></figure>
 </figure>
 
 ## Einrichtung, Benutzung und Optimierung
 
 in der Toolbox-App:
 
-- clean background processes when standby enabled und Allow clean foreground processes auch 
-- Background process limit auf 0 (no background processes)
+- Das Häkchen bei »Clean background processes when standby enabled« und »Allow clean foreground processes« setzen 
+- Die Obergrenze der Hintergrundprozesse bei »Background process limit« auf »0 (no background processes)« setzen
 
 Mehr Tipps und Anleitungen:
 
@@ -33,7 +33,6 @@ Mehr Tipps und Anleitungen:
 - Eigenen Screen-Protector machen: [A tutorial on how to make your own screen protector for Retroid Pocket 2](https://youtu.be/1f4VvxRQUkA)
 - RetroArch-Besonderheiten: [A Brief Guide to RetroArch](https://wiki.retroidhandhelds.com/index.php?title=A_Brief_Guide_to_Retroarch)
 - DraStic DS Emulator: [Retroid Pocket 2 Nintendo DS Guide](https://retrogamecorps.com/2020/09/22/guide-nintendo-ds-on-the-retroid-pocket-2/)
-
 
 ## Upgrade auf Android 8.1 (v2)
 
@@ -46,14 +45,12 @@ Aber seit Januar 2021 ist ein neues Android 8.1-Update »v2« verfügbar:
 
 Ein Leitfaden zur Installation liegt bei. Eine schönere Dokumentation gibt es bei Retro Game Corps: [Retroid Pocket 2 Android 8.1 Install Guide](https://retrogamecorps.com/2020/12/29/retroid-pocket-2-android-8-1-install-guide/).
 
-
 ## Familienanschluss
 
 Auch wenn das Gerät durchaus umstritten ist, gerade was die technischen Spezifikationen angeht, so gibt es doch eine lebendige Fan-Gemeinde. Regelmäßige Infos, Tipps und Neuigkeiten werden hier veröffentlicht:
 
 - Discord: [https://discord.com/invite/mnA2Ju2RZy](https://discord.com/invite/mnA2Ju2RZy)
 - Reddit: [https://www.reddit.com/r/retroid/](https://www.reddit.com/r/retroid/)
-
 
 ## Kosmetische Eingriffe
 
@@ -67,8 +64,6 @@ Zweitens, der Launcher! Es gibt für Android eine Reihe von alternativen Launche
 
 - GitHub: [https://github.com/sreichholf/repola](https://github.com/sreichholf/repola)
 
-
 ## Nicht nur Emulation
 
 Am meisten hat mich persönlich gefreut, dass mein heißgeliebter [**Shovel Knight**](https://yachtclubgames.com/shovel-knight/) tadellos auf dem RP2 läuft! Aber auch [**Evoland II**](https://evoland.shirogames.com) läuft prima und ist super süß.
-
