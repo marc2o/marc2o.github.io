@@ -309,7 +309,7 @@ ul.follow svg g#Codepen path {
 
 label.themeSwitch {
     position: absolute;
-    top: 4rem;
+    top: 1rem;
     right: 1rem;
     z-index: 10;
 }
