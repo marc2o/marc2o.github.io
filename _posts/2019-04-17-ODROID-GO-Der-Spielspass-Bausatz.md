@@ -20,88 +20,87 @@ Auch das anschließende *customizen* war relativ einfach. Ich wollte, nachdem ic
 Die Buttons gibt es bei [Retro Modding](https://www.retromodding.com/collections/gameboy-pocket/products/gameboy-pocket-buttons). Es müssen die vom Gameboy Pocket sein; die normalen sind zu groß. Ich musste allerdings trotzdem noch ein bisschen feilen, damit die Knöpfe leichtgängiger werden und besser rutschen. Das Steuerkreuz passte hingegen gleich wie angegossen.
 
 <figure class="gallery">
-	<figure><img src="/images/odroid-go-assembly-1.jpg" alt=""><figcaption><em>Viele Einzelteile</em></figcaption></figure>
-	<figure><img src="/images/odroid-go-assembly-2.jpg" alt=""><figcaption><em>Die alternativen Buttons zurecht fummeln, damit sie in die Aussparungen passen</em></figcaption></figure>
-	<figure><img src="/images/odroid-go-assembly-3.jpg" alt=""><figcaption><em>Probehalber zusammenschrauben</em></figcaption></figure>
-	<figure><img src="/images/odroid-go-assembly-4.jpg" alt=""><figcaption><em>Dann alles schön abkleben…</em></figcaption></figure>
-	<figure><img src="/images/odroid-go-assembly-6.jpg" alt=""><figcaption><em>…, im GameBoy-Look einsprühen und trocknen lassen.</em></figcaption></figure>
+    <figure><img src="/images/odroid-go-assembly-1.jpg" alt=""><figcaption><em>Viele Einzelteile</em></figcaption></figure>
+    <figure><img src="/images/odroid-go-assembly-2.jpg" alt=""><figcaption><em>Die alternativen Buttons zurecht fummeln, damit sie in die Aussparungen passen</em></figcaption></figure>
+    <figure><img src="/images/odroid-go-assembly-3.jpg" alt=""><figcaption><em>Probehalber zusammenschrauben</em></figcaption></figure>
+    <figure><img src="/images/odroid-go-assembly-4.jpg" alt=""><figcaption><em>Dann alles schön abkleben…</em></figcaption></figure>
+    <figure><img src="/images/odroid-go-assembly-6.jpg" alt=""><figcaption><em>…, im GameBoy-Look einsprühen und trocknen lassen.</em></figcaption></figure>
 </figure>
 
 Zu guter letzt habe ich mir noch den [Headphone Audio Hat + DAC](https://backofficeshow.com/shop/odroidgohat) gegönnt, damit ich die Chiptunes mehr genießen kann. — Gerade hab ich gesehen, dass es im Thingyverse dafür ein [Cover](https://www.thingiverse.com/thing:3110057) gibt. Leider hab ich keinen 3D-Drucker.
 
 Hier sammle ich ab jetzt Infos zum ODROID-GO, damit ich alles an einer Stelle habe.
 
-
 ## Tastaturkürzel
 
 <figure>
-	<table>
-	    <tr>
-	        <th>Anwendung</th>
-	        <th>Tastenkürzel</th>
-	        <th>Funktion</th>
-	    </tr>
-	    <tr>
-	        <td>System</td>
-	        <td>[B] beim Einschalten gedrückt halten</td>
-	        <td>Startet ODroid Go im Firmware-Update-Modus</td>
-	    </tr>
-	    <tr>
-	        <td>Go-Play</td>
-	        <td>[Start] beim Einschalten gedrückt halten</td>
-	        <td>Spiel zurücksetzen</td>
-	    </tr>
-	    <tr>
-	        <td>Go-Play</td>
-	        <td>[Menue] beim Einschalten gedrückt halten</td>
-	        <td>Emulator zurücksetzen</td>
-	    </tr>
-	    <tr>
-	        <td>Go-Play</td>
-	        <td>[Start] + [Rechts]</td>
-	        <td>Darstellungsmodus: Pixel Perfect oder Skaliert</td>
-	    </tr>
-	    <tr>
-	        <td>Go-Play</td>
-	        <td>[Start] + [Hoch]/[Runter]</td>
-	        <td>Bildschirmhelligkeit</td>
-	    </tr>
-	    <tr>
-	        <td>Go-Play</td>
-	        <td>[Volume] + [Rechts]</td>
-	        <td>Audioausgabe: Lautsprecher oder Kopfhörer (mit ODroid GO Audio DAC von The Backoffice)</td>
-	    </tr>
-	    <tr>
-	        <td>Pokémon Crystal</td>
-	        <td>[Select] + [Runter] + [B] im Startbildschirm drücken</td>
-	        <td>Uhrzeit einstellen </td>
-	    </tr>
-	    <tr>
-	        <td>c64-go</td>
-	        <td>[Select]</td>
-	        <td>Funktionsmenü anzeigen, z. B. um Tastatur einzublenden</td>
-	    </tr>
-	    <tr>
-	        <td>c64-go</td>
-	        <td>[Start]</td>
-	        <td>Run/Stop-Taste</td>
-	    </tr>
-	    <tr>
-	        <td>c64-go</td>
-	        <td>[B]</td>
-	        <td>Space (Leertaste)</td>
-	    </tr>
-	    <tr>
-	        <td>Super Go Play</td>
-	        <td>[Select] + [Left]/[Right]</td>
-	        <td>Gameboy Farbpaletten wechseln</td>
-	    </tr>
-	    <tr>
-	        <td>Super Go Play</td>
-	        <td>[Volume] + [Up]/[Down]</td>
-	        <td>Lautstärke einstellen</td>
-	    </tr>
-	</table>
+    <table>
+        <tr>
+            <th>Anwendung</th>
+            <th>Tastenkürzel</th>
+            <th>Funktion</th>
+        </tr>
+        <tr>
+            <td>System</td>
+            <td>[B] beim Einschalten gedrückt halten</td>
+            <td>Startet ODroid Go im Firmware-Update-Modus</td>
+        </tr>
+        <tr>
+            <td>Go-Play</td>
+            <td>[Start] beim Einschalten gedrückt halten</td>
+            <td>Spiel zurücksetzen</td>
+        </tr>
+        <tr>
+            <td>Go-Play</td>
+            <td>[Menue] beim Einschalten gedrückt halten</td>
+            <td>Emulator zurücksetzen</td>
+        </tr>
+        <tr>
+            <td>Go-Play</td>
+            <td>[Start] + [Rechts]</td>
+            <td>Darstellungsmodus: Pixel Perfect oder Skaliert</td>
+        </tr>
+        <tr>
+            <td>Go-Play</td>
+            <td>[Start] + [Hoch]/[Runter]</td>
+            <td>Bildschirmhelligkeit</td>
+        </tr>
+        <tr>
+            <td>Go-Play</td>
+            <td>[Volume] + [Rechts]</td>
+            <td>Audioausgabe: Lautsprecher oder Kopfhörer (mit ODroid GO Audio DAC von The Backoffice)</td>
+        </tr>
+        <tr>
+            <td>Pokémon Crystal</td>
+            <td>[Select] + [Runter] + [B] im Startbildschirm drücken</td>
+            <td>Uhrzeit einstellen </td>
+        </tr>
+        <tr>
+            <td>c64-go</td>
+            <td>[Select]</td>
+            <td>Funktionsmenü anzeigen, z. B. um Tastatur einzublenden</td>
+        </tr>
+        <tr>
+            <td>c64-go</td>
+            <td>[Start]</td>
+            <td>Run/Stop-Taste</td>
+        </tr>
+        <tr>
+            <td>c64-go</td>
+            <td>[B]</td>
+            <td>Space (Leertaste)</td>
+        </tr>
+        <tr>
+            <td>Super Go Play</td>
+            <td>[Select] + [Left]/[Right]</td>
+            <td>Gameboy Farbpaletten wechseln</td>
+        </tr>
+        <tr>
+            <td>Super Go Play</td>
+            <td>[Volume] + [Up]/[Down]</td>
+            <td>Lautstärke einstellen</td>
+        </tr>
+    </table>
 </figure>
 
 ## Firmware-Update auf Mac durchführen
@@ -119,74 +118,80 @@ Erstmal alles herunterladen und installieren. Dazu werden die folgenden Dinge be
 
 Nachdem Homebrew und die Treiber erfolgreich installiert wurden, diese Zeilen im Terminal ausführen, um Python und das esptool zu installieren:
 
-    brew install python3
-    sudo easy_install pip
-    sudo pip install esptool
-    # und falls es später die Rückmeldung 'No module named esptool' gibt:
-    sudo pip3 install esptool
-
+```bash
+brew install python3
+sudo easy_install pip
+sudo pip install esptool
+# und falls es später die Rückmeldung 'No module named esptool' gibt:
+sudo pip3 install esptool
+```
 
 Jetzt den ODROID-GO mittels eines USB-Kabels an den Mac anschließen und einschalten.
 
-    ls /dev/cu.*
-    # sollte u. a. /dev/cu.SLAB_USBtoUART zeigen
-
+```bash
+ls /dev/cu.*
+# sollte u. a. /dev/cu.SLAB_USBtoUART zeigen
+```
 
 Jetzt in das Verzeichnis wechseln, in dem die Firmware gespeichert ist, z. B. so:
 
-    cd ~/Downloads/firmware/
-
+```bash
+cd ~/Downloads/firmware/
+```
 
 Vor dem Flashen sollte überprüft werden, ob das Gerät korrekt erkannt wird.
 
-    python3 -m esptool  --port /dev/cu.SLAB_USBtoUART flash_id
-
+```bash
+python3 -m esptool  --port /dev/cu.SLAB_USBtoUART flash_id
+```
 
 Wenn alles gut läuft, dann sieht die Rückmeldung im Terminal etwa so aus:
 
-    esptool.py v2.3.2-dev
-    Connecting....
-    Detecting chip type... ESP32
-    Chip is ESP32D0WDQ6 (revision (unknown 0xe))
-    Features: WiFi, BT, Dual Core, VRef calibration in efuse
-    Uploading stub...
-    Running stub...
-    Stub running...
-    Manufacturer: c8
-    Device: 6018
-    Detected flash size: 16MB
-    Hard resetting via RTS pin...
-
+```bash
+esptool.py v2.3.2-dev
+Connecting....
+Detecting chip type... ESP32
+Chip is ESP32D0WDQ6 (revision (unknown 0xe))
+Features: WiFi, BT, Dual Core, VRef calibration in efuse
+Uploading stub...
+Running stub...
+Stub running...
+Manufacturer: c8
+Device: 6018
+Detected flash size: 16MB
+Hard resetting via RTS pin...
+```
 
 Nun kann die Firmware installiert werden.
 
-    # Beispiel für Firmware Version 20181001
-    python3 -m esptool --chip esp32 --port /dev/cu.SLAB_USBtoUART --baud 921600 write_flash --flash_mode dio --flash_freq 40m --flash_size detect 0 odroid-go-firmware-20181001.img
-
+```bash
+# Beispiel für Firmware Version 20181001
+python3 -m esptool --chip esp32 --port /dev/cu.SLAB_USBtoUART --baud 921600 write_flash --flash_mode dio --flash_freq 40m --flash_size detect 0 odroid-go-firmware-20181001.img
+```
 
 Wenn der Vorgang erfolgreich war, sieht die Ausgabe im Terminal etwa so aus:
 
-    esptool.py v2.3.1
-    Connecting........_
-    Chip is ESP32D0WDQ6 (revision (unknown 0xe))
-    Features: WiFi, BT, Dual Core, VRef calibration in efuse
-    Uploading stub...
-    Running stub...
-    Stub running...
-    Changing baud rate to 921600
-    Changed.
-    Configuring flash size...
-    Auto-detected Flash size: 16MB
-    Compressed 301904 bytes to 146444...
-    Wrote 301904 bytes (146444 compressed) at 0x00000000 in 3.1 seconds (effective 772.7 kbit/s)...
-    Hash of data verified.
-      
-    Leaving...
-    Hard resetting via RTS pin...
+```bash
+esptool.py v2.3.1
+Connecting........_
+Chip is ESP32D0WDQ6 (revision (unknown 0xe))
+Features: WiFi, BT, Dual Core, VRef calibration in efuse
+Uploading stub...
+Running stub...
+Stub running...
+Changing baud rate to 921600
+Changed.
+Configuring flash size...
+Auto-detected Flash size: 16MB
+Compressed 301904 bytes to 146444...
+Wrote 301904 bytes (146444 compressed) at 0x00000000 in 3.1 seconds (effective 772.7 kbit/s)...
+Hash of data verified.
 
+Leaving...
+Hard resetting via RTS pin...
+```
 
 Nach der Aktualisierung startet der ODROID-GO neu und bootet direkt in die Firmware-Auswahl. Dort kann nun der Go-Play-Emulator oder andere Software installiert werden.
-
 
 ## Software für ODROID-GO
 
@@ -213,4 +218,3 @@ Hier sind meine persönlichen Favoriten, die ich auf meinem ODROID-GO habe.
 
 Hier gibt es eine schöne Zusammenstellung von Software- und Info-Links:
  [https://github.com/chrisdiana/awesome-odroid-go](https://github.com/chrisdiana/awesome-odroid-go).
-
