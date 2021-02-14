@@ -347,7 +347,7 @@ input#DarkModeSwitch:checked+span:before {
 header>a.button {
     position: absolute;
     top: 1rem;
-    right: 1rem;
+    left: 1rem;
     z-index: 10;
     height: 2.5rem;
     width: 2.5rem;
