@@ -8,6 +8,7 @@
     --column-width: 36rem;
     --margin-width: 1rem;
     --marked-width: 48rem;
+    --ripples-effect: rgba(255, 255, 255, 0.2);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -15,6 +16,7 @@
         --text-color: #ffffff;
         --fill-color: #212121;
         --alt-fill-color: #1c1c1c;
+        --ripples-effect: rgba(0, 0, 0, 0.2);
     }
 }
 
@@ -22,12 +24,14 @@
     --text-color: #424242;
     --fill-color: #ffffff;
     --alt-fill-color: #f1f1f1;
+    --ripples-effect: rgba(255, 255, 255, 0.2);
 }
 
 [data-theme='dark'] {
     --text-color: #ffffff;
     --fill-color: #212121;
     --alt-fill-color: #1c1c1c;
+    --ripples-effect: rgba(0, 0, 0, 0.2);
 }
 
 a,
