@@ -175,7 +175,7 @@ header>picture>img {
     width: 100%;
     height: 100%;
     object-position: 50% 50%;
-    object-fit: cover
+    object-fit: cover;
 }
 
 /* image gallery */
