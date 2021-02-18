@@ -21,12 +21,28 @@ Für mich ist die Konsole momentan einfach die schönste Möglichkeit, meine Lie
 
 ## Einrichtung, Benutzung und Optimierung
 
-in der Toolbox-App:
+### Ganz allgemein
+
+In der Toolbox-App:
 
 - Das Häkchen bei »Clean background processes when standby enabled« und »Allow clean foreground processes« setzen 
 - Die Obergrenze der Hintergrundprozesse bei »Background process limit« auf »0 (no background processes)« setzen
 
-Mehr Tipps und Anleitungen:
+### Speziell zu den Emulatoren
+
+In ***RetroArch** (die Version mit dem Space Invaders–Icon) muss bei einigen Playstation-Spielen, wie z. B. *Legend of Mana*, muss unter *Options* der Controller-Typ auf *analog* gesetzt werden.
+
+Außerdem lohnt es sich, bei reinen Gameboy-Spielen für den Core die Darstellungsoptionen etwas anzupassen. Besonders gut sieht es aus, wenn man unter *Options* die folgenden Einstellungen verwendet:
+
+* GB Colorization: auto
+
+* Internal Palette: 5GB – 4H
+
+* Color Correction: GBC only
+
+Bei **My Boy** habe ich die bei den *Video Settings* die Option *Stretch to fit screen* angewählt und das *Linear filtering* deaktiviert. Unter *Input* legt man am besten den Aufruf des Menüs auf die L2-Taste und *Fast forward* auf R2. Das *Virtual keypad* natürlich deaktiveren.
+
+### Weitere Tipps und Anleitungen
 
 - Wagner’s Tech Talk [Retroid Pocket 2 Tips](http://wagnerstechtalk.com/retroidp2/)
 - Reddit [RP2 Android 8.1 Reset Collection & Retroarch Setup](https://www.reddit.com/r/retroid/comments/jp2s9r/rp2_android_81_reset_collection_retroarch_setup/)
