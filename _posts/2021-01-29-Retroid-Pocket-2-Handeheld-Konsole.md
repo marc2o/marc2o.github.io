@@ -30,13 +30,13 @@ In der Toolbox-App:
 
 ### Speziell zu den Emulatoren
 
-In ***RetroArch** (die Version mit dem Space Invaders–Icon) muss bei einigen Playstation-Spielen, wie z. B. *Legend of Mana*, muss unter *Options* der Controller-Typ auf *analog* gesetzt werden.
+In **RetroArch** (die Version mit dem Space Invaders–Icon) muss bei einigen Playstation-Spielen, wie z. B. *Legend of Mana*, muss unter *Options* der Controller-Typ (*Pad Type*) für Player 1 auf *analog* gesetzt werden.
 
-Außerdem lohnt es sich, bei reinen Gameboy-Spielen für den Core die Darstellungsoptionen etwas anzupassen. Besonders gut sieht es aus, wenn man unter *Options* die folgenden Einstellungen verwendet:
+Außerdem lohnt es sich, bei reinen Gameboy-Spielen für den Core die Darstellungsoptionen etwas anzupassen. Besonders gut sieht es aus, wenn man unter *Options* die folgenden Einstellungen (als *Content Directory Override*) verwendet:
 
 * GB Colorization: auto
 
-* Internal Palette: 5GB – 4H
+* Internal Palette: SGB – 4H
 
 * Color Correction: GBC only
 
@@ -50,11 +50,11 @@ Bei **My Boy** habe ich die bei den *Video Settings* die Option *Stretch to fit 
 - RetroArch-Besonderheiten: [A Brief Guide to RetroArch](https://wiki.retroidhandhelds.com/index.php?title=A_Brief_Guide_to_Retroarch)
 - DraStic DS Emulator: [Retroid Pocket 2 Nintendo DS Guide](https://retrogamecorps.com/2020/09/22/guide-nintendo-ds-on-the-retroid-pocket-2/)
 
-## Upgrade auf Android 8.1 (v2)
+## Firmware-Upgrade auf Android 8.1 (v3)
 
 Das erste Upgrade auf 8.1 war noch umständlich und hat leider auch viele Fehler gehabt. Zum Beispiel waren bei RetroArch die Achsen des linken Analog-Sticks invertiert. Um dies zu beheben, musste die **Gamepad Mode Settings** App gestartet und die Option **Use Circular Joystick Track** angehakt werden — und zwar nach jedem Systemstart.
 
-Aber seit Januar 2021 ist ein neues Android 8.1-Update »v2« verfügbar:
+Aber seit Januar 2021 ist ein neues Android 8.1-Update »v3« verfügbar:
 
 - [https://wiki.retroidhandhelds.com/index.php?title=Firmware](https://wiki.retroidhandhelds.com/index.php?title=Firmware)
 - [https://drive.google.com/drive/folders/1pSDVxLSOLqMirmPENWf2sdxrDKfOLd6z](https://drive.google.com/drive/folders/1pSDVxLSOLqMirmPENWf2sdxrDKfOLd6z)
