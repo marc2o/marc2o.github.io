@@ -259,15 +259,15 @@ h3 {
 }
 
 h1 {
-    font-size: 300%;
+    font-size: 250%;
 }
 
 h2 {
-    font-size: 200%;
+    font-size: 160%;
 }
 
 h3 {
-    font-size: 150%;
+    font-size: 100%;
 }
 
 a>h3 {
