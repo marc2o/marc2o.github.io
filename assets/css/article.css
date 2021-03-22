@@ -341,7 +341,7 @@ input#DarkModeSwitch+span {
     cursor: pointer;
 }
 
-input#DarkModeSwitch+span:before {
+input#DarkModeSwitch+span::before {
     content: '';
     display: block;
     width: 1em;
@@ -351,7 +351,7 @@ input#DarkModeSwitch+span:before {
     transition: margin-left .3s;
 }
 
-input#DarkModeSwitch:checked+span:before {
+input#DarkModeSwitch:checked+span::before {
     content: '';
     margin-left: 1em;
 }
