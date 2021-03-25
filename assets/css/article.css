@@ -43,6 +43,11 @@ main>* {
     margin-top: 1em;
 }
 
+main>h2,
+main>h3 {
+    margin-top: 1.5em;
+}
+
 a,
 a:visited,
 a:hover {
@@ -350,7 +355,7 @@ input#DarkModeSwitch+span {
     vertical-align: bottom;
     background-color: var(--fill-color);
     height: 1.4em;
-    width: 2em;
+    width: 2.4em;
     padding: .2em;
     border-radius: 2em;
     cursor: pointer;
