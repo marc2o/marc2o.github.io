@@ -39,6 +39,10 @@
     --alt-fill-color: #1c1c1c;
 }
 
+p {
+    margin-top: 1em;
+}
+
 a,
 a:visited,
 a:hover {
@@ -73,6 +77,9 @@ footer {
 /* for increased readability */
 main>p {
     line-height: calc(1ex / 0.32);
+}
+main>ul {
+    padding-left: 1em;
 }
 
 /* pretty pictures */
@@ -256,6 +263,7 @@ div.posts>ul>li span.image>img {
 h1,
 h2,
 h3 {
+    line-height: 100%;
     font-weight: 300;
 }
 
