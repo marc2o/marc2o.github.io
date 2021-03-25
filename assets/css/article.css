@@ -39,7 +39,7 @@
     --alt-fill-color: #1c1c1c;
 }
 
-p {
+main>* {
     margin-top: 1em;
 }
 
@@ -349,7 +349,7 @@ input#DarkModeSwitch+span {
     display: inline-block;
     vertical-align: bottom;
     background-color: var(--fill-color);
-    height: 1em;
+    height: 1.4em;
     width: 2em;
     padding: .2em;
     border-radius: 2em;
