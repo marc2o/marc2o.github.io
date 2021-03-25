@@ -295,7 +295,8 @@ a>h3 {
     margin: 0;
 }
 
-main p:not(.meta) {
+main p:not(.meta),
+main>ul {
     font-family: "Merriweather", serif;
 }
 
