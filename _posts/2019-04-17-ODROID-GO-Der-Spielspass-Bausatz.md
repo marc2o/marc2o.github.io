@@ -27,7 +27,7 @@ Die Buttons gibt es bei [Retro Modding](https://www.retromodding.com/collections
     <figure><img src="/images/odroid-go-assembly-6.jpg" alt=""><figcaption><em>…, im GameBoy-Look einsprühen und trocknen lassen.</em></figcaption></figure>
 </figure>
 
-Zu guter letzt habe ich mir noch den [Headphone Audio Hat + DAC](https://backofficeshow.com/shop/odroidgohat) gegönnt, damit ich die Chiptunes mehr genießen kann. — Gerade hab ich gesehen, dass es im Thingyverse dafür ein [Cover](https://www.thingiverse.com/thing:3110057) gibt. Leider hab ich keinen 3D-Drucker.
+Zu guter letzt habe ich mir noch den [Headphone Audio Hat + DAC](https://backofficeshow.com/shop/odroidgohat) gegönnt, damit ich die Chiptunes mehr genießen kann. — Gerade hab ich gesehen, dass es im Thingyverse dafür ein [Cover](https://www.thingiverse.com/thing:3110057) gibt. Leider hab ich keinen 3D-Drucker. Schade, auch, dass ich die Tastatur nicht früher entdeckt habe: [ODROID-GO QWERTY](https://wiki.odroid.com/odroid_go/qwerty).
 
 Hier sammle ich ab jetzt Infos zum ODROID-GO, damit ich alles an einer Stelle habe.
 
@@ -218,3 +218,4 @@ Hier sind meine persönlichen Favoriten, die ich auf meinem ODROID-GO habe.
 
 Hier gibt es eine schöne Zusammenstellung von Software- und Info-Links:
  [https://github.com/chrisdiana/awesome-odroid-go](https://github.com/chrisdiana/awesome-odroid-go).
+ 
