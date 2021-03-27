@@ -32,7 +32,7 @@
 </head>
 
 <body>
-    <header>
+    <header id="top-of-page">
         {% if page.image %}
         <picture>
             <img src="{{ page.image }}" alt="">
@@ -64,6 +64,7 @@
         {% if page.author %}
         {% include {{ page.author }}.{{ page.language }}.about.html %}
         {% endif %}
+        <a href="#top-of-page" class="button"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 24 24" fill="none" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 15l-6-6-6 6"/></svg></a>
     </main>
     <footer>
         {% include follow.html %}

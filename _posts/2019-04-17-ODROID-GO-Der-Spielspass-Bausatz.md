@@ -218,4 +218,4 @@ Hier sind meine persönlichen Favoriten, die ich auf meinem ODROID-GO habe.
 
 Hier gibt es eine schöne Zusammenstellung von Software- und Info-Links:
  [https://github.com/chrisdiana/awesome-odroid-go](https://github.com/chrisdiana/awesome-odroid-go).
- 
+

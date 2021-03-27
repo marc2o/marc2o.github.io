@@ -391,6 +391,19 @@ header>a.button {
     border-radius: 1.25rem;
     cursor: pointer;
 }
+main>a.button {
+    position: sticky;
+    z-index: 10;
+    bottom: 1rem;
+    margin: 1rem 1rem 1rem auto;
+    height: 2.5rem;
+    width: 2.5rem;
+    line-height: 2.5rem;
+    white-space: nowrap;
+    background: var(--fill-color);
+    border-radius: 1.25rem;
+    cursor: pointer;
+}
 
 a.button>svg {
     stroke: var(--spot-color);
