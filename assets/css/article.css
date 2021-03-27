@@ -391,8 +391,7 @@ header>a.button {
     border-radius: 1.25rem;
     cursor: pointer;
 }
-main>a.button {
-    grid-column: 3;
+main>div.return_to_top>a.button {
     position: sticky;
     z-index: 10;
     bottom: 1rem;
