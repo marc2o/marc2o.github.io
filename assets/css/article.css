@@ -392,7 +392,7 @@ header>a.button {
     cursor: pointer;
 }
 main>a.button {
-    grid-column: 2;
+    grid-column: 3;
     position: sticky;
     z-index: 10;
     bottom: 1rem;
