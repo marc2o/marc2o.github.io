@@ -391,11 +391,13 @@ header>a.button {
     border-radius: 1.25rem;
     cursor: pointer;
 }
+div.return_to_top {
+    z-index: 10;
+    position: sticky;
+    bottom: 1rem;
+}
 div.return_to_top>a.button {
     display: block;
-    position: sticky;
-    z-index: 10;
-    bottom: 1rem;
     margin: 1rem 1rem 1rem auto;
     height: 2.5rem;
     width: 2.5rem;
