@@ -404,7 +404,6 @@ div.return_to_top>a.button {
     line-height: 2.5rem;
     white-space: nowrap;
     background: var(--fill-color);
-    border: 0.1rem solid var(--spot-color);
     border-radius: 1.25rem;
     cursor: pointer;
 }
