@@ -62,4 +62,3 @@ I’m Marc, somewhat creative and I love making stuff. Digitally as well as for 
 ## Read
 
 {% include posts.html %}
-
