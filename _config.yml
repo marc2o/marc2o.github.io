@@ -1,4 +1,4 @@
-name: &name "marc2o"
+name: &name "marc2o
 description: "Wonderer. Geek. Human(e) being."
 url: "https://marc2o.github.io"
 baseurl: ""
@@ -25,5 +25,5 @@ whitelist:
   - jekyll-paginate
   - jekyll-sitemap
 
-paginate: 2
+paginate: 1
 paginate_path: "/page:num/"
