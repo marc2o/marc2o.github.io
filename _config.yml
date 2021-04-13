@@ -25,5 +25,5 @@ whitelist:
   - jekyll-paginate
   - jekyll-sitemap
 
-paginate: 1
+paginate: 5
 paginate_path: "/page:num/"
