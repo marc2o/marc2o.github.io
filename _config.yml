@@ -1,3 +1,6 @@
+plugins:
+  - jekyll-paginate
+
 name: marc2o
 description: Wonderer. Geek. Human(e) being.
 
