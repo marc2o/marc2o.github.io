@@ -1,4 +1,4 @@
-name: &name "marc2o
+name: &name "marc2o"
 description: "Wonderer. Geek. Human(e) being."
 url: "https://marc2o.github.io"
 baseurl: ""
@@ -15,7 +15,7 @@ author:
   location: "Hannover, Germany"
 
 encoding: "utf-8"
-markdown: kramdown
+markdown: "kramdown"
 
 plugins:
   - jekyll-paginate
