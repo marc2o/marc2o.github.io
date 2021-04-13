@@ -62,3 +62,15 @@ I’m Marc, somewhat creative and I love making stuff. Digitally as well as for 
 ## Read
 
 {% include posts.html %}
+
+        {% for post in paginator.posts %}
+        <li>
+            <a href="{{ post.url }}">
+                {% if post.image %}
+                <span class="preview image"><img src="{{ post.image }}" alt=""></span>
+                {% endif %}
+                <h3>{{ post.title }}</h3>
+            </a>
+        </li>
+        {% endfor %}
+
