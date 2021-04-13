@@ -1,5 +1,5 @@
 name: marc2o
 description: Wonderer. Geek. Human(e) being.
 
-paginate: 5
+paginate: 2
 paginate_path: "/page:num/"

@@ -1,6 +1,6 @@
 <div class="posts">
     <ul>
-        {% for post in site.posts %}
+        {% for post in paginator.posts %}
         <li>
             <a href="{{ post.url }}">
                 {% if post.image %}
@@ -10,5 +10,22 @@
             </a>
         </li>
         {% endfor %}
+
+        <!-- pagination links -->
+        {% if paginator.previous_page %}
+        <li>
+            <a href="{{ paginator.previous_page_path }}">
+                Neuere
+            </a>
+        </li>
+        {% endif %}
+
+        {% if paginator.next_page %}
+        <li>
+            <a href="{{ paginator.next_page_path }}">
+                Ältere
+            </a>
+        </li>
+        {% endif %}
     </ul>
 </div>
