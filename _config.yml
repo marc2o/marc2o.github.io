@@ -1,8 +1,29 @@
+name: &name "marc2o"
+description: "Wonderer. Geek. Human(e) being."
+url: "https://marc2o.github.io"
+baseurl: ""
+
+atom_feed:
+  path: # blank (default) uses feed.xml
+
+twitter:
+  username: &twitter "marc2o"
+
+author:
+  name: "Marc Oliver Orth"
+  bio: "Wonderer. Geek. Human(e) being."
+  location: "Hannover, Germany"
+
+encoding: "utf-8"
+markdown: kramdown
+
 plugins:
   - jekyll-paginate
+  - jekyll-sitemap
 
-name: marc2o
-description: Wonderer. Geek. Human(e) being.
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
 
 paginate: 2
 paginate_path: "/page:num/"
