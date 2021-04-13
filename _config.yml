@@ -28,3 +28,10 @@ whitelist:
 
 paginate: 5
 paginate_path: "/articles/:num/"
+
+exclude:
+  - assets
+  - articles
+  - _includes
+  - _drafts
+  - google732f743aa7ce0be9.html
