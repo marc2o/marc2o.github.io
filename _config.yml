@@ -28,6 +28,11 @@ whitelist:
 
 paginate: 2
 paginate_path: "/articles/:num/"
+defaults: 
+  - scope:
+      path: "articles"
+    values:
+      sitemap: false
 
 exclude:
   #- articles
