@@ -76,9 +76,13 @@ Als erstes: Das Wallpaper! Fans haben für den RP2 eine eigene Website für Hint
 
 - Wallpapers: [http://gallery.retroidhandhelds.com](http://gallery.retroidhandhelds.com)
 
-Zweitens, der Launcher! Es gibt für Android eine Reihe von alternativen Launchern, die weniger nach Smartphone aussehen, weil sie z. B. für TV-Geräte gedacht sind. Mein Favorit ist **RePoLa**,
+Zweitens, der Launcher! Es gibt für Android eine Reihe von alternativen Launchern, die weniger nach Smartphone aussehen, weil sie z. B. für TV-Geräte gedacht sind. Mein Favorit ist **RePoLa**, mit dem der RP2 schon nicht mehr so sehr nach Handy aussieht.
 
 - GitHub: [https://github.com/sreichholf/repola](https://github.com/sreichholf/repola)
+
+Drittens, wenn man auch noch ein allgemeines Emulator-Frontend benutzen möchte, um nicht mehr jeden Emu einzeln zu starten: **Retro Mega**, ein [Pegasus](https://pegasus-frontend.org)-Theme, speziell für den RP2:
+
+- GitHub: [https://github.com/djfumberger/retromega](https://github.com/djfumberger/retromega)
 
 ## Nicht nur Emulation
 
