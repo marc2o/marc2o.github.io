@@ -33,12 +33,12 @@ Zettlr mit Berlin-Thema.
 
 ```css
 #editor {
-  font-size: 112% !important;
-  font-family: "iA Writer Duospace" !important;
+    font-size: 112% !important;
+    font-family: "iA Writer Duospace" !important;
 }
 
 ::-webkit-scrollbar {
-	display: none;
+    display: none;
 }
 ```
 
