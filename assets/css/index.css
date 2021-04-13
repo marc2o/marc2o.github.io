@@ -268,9 +268,9 @@ figure .badge {
 	line-height: inherit;
 	padding: .3rem 0.5rem .3rem 1rem;
 	border-radius: 1rem 0 0 1rem;
-    border-left: 0.1em solid white;
-    border-top: 0.1em solid white;
-    border-bottom: 0.1em solid white;
+    border-left: 0.1em solid var(--alt-fill-color);
+    border-top: 0.1em solid var(--alt-fill-color);
+    border-bottom: 0.1em solid var(--alt-fill-color);
 	vertical-align: baseline;
 }
 
