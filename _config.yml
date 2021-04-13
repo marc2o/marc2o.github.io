@@ -17,6 +17,7 @@ author:
 encoding: "utf-8"
 markdown: "kramdown"
 
+# the paginator plugin only works in an index.html!
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
