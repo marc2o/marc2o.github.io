@@ -26,7 +26,7 @@ whitelist:
   - jekyll-paginate
   - jekyll-sitemap
 
-paginate: 2
+paginate: 8
 paginate_path: "/articles/:num/"
 
 defaults: 
