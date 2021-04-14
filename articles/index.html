@@ -3,7 +3,7 @@ layout: blog
 title: Blog
 ---
 
-<div>
+<div class="posts">
     {% if paginator.total_pages > 1 %}
     <ul>
         {% for page in (1..paginator.total_pages) %}
@@ -13,7 +13,7 @@ title: Blog
         </li>
         {% elsif page == 1 %}
         <li>
-            <a href="{{ '/' | relative_url }}">
+            <a href="{{ 'articles/' | relative_url }}">
                 {{ page }}
             </a>
         </li>
