@@ -219,7 +219,7 @@ main>div>ul {
 
 div>div,
 div>ul>li {
-    display: inline-block;
+    display: block;
     position: relative;
     width: min-content;
     vertical-align: top;
@@ -237,7 +237,7 @@ div>ul>li:last-child {
 div>div>img,
 div>ul>li span.preview {
     display: inline-block;
-    width: auto;
+    width: 100%;
     height: 40vmin;
 }
 
