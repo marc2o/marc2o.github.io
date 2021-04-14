@@ -126,6 +126,24 @@ table {
     page-break-inside: auto;
 }
 
+header>a.button {
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+    z-index: 10;
+    height: 2.5rem;
+    width: 2.5rem;
+    line-height: 2.5rem;
+    white-space: nowrap;
+    background: var(--fill-color);
+    border-radius: 1.25rem;
+    cursor: pointer;
+}
+
+a.button>svg {
+    stroke: var(--spot-color);
+}
+
 @media only screen and (max-width: 640px) {
     table {
         display: block;
