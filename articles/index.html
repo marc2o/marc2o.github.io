@@ -9,7 +9,7 @@ title: Blog
         <li class="pagination">
         {% for page in (1..paginator.total_pages) %}
         {% if page == paginator.page %}
-            <span>
+            <span class="current">
                 {{ page }}
             </span>
         {% elsif page == 1 %}
