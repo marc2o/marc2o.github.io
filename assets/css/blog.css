@@ -245,10 +245,10 @@ div.posts>ul>li span.image>img {
 li.pagination>span {
     display: inline-block;
     min-width: 2rem;
-    line-height: 1.5rem;
+    line-height: 1.8rem;
     text-align: center;
     padding: 0 .5rem;
-    border-radius: .75rem;
+    border-radius: .9rem;
     margin-right: 1rem;
     color: white;
     background-color: var(--spot-color);
