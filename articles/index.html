@@ -6,14 +6,6 @@ title: Blog
 
 {% if paginator.total_pages > 1 %}
 <ul>
-    {% if paginator.previous_page %}
-    <li>
-        <a href="{{ paginator.previous_page_path }}">
-            Neuere
-        </a>
-    </li>
-    {% endif %}
-    
     {% for page in (1..paginator.total_pages) %}
     {% if page == paginator.page %}
     <li>
@@ -34,6 +26,25 @@ title: Blog
     {% endif %}
     {% endfor %}
     
+    {% for post in paginator.posts %}
+    <li>
+        <a href="{{ post.url }}">
+            {% if post.image %}
+            <span class="preview image"><img src="{{ post.image }}" alt=""></span>
+            {% endif %}
+            <h3>{{ post.title }}</h3>
+        </a>
+    </li>
+    {% endfor %}
+
+    {% if paginator.previous_page %}
+    <li>
+        <a href="{{ paginator.previous_page_path }}">
+            Neuere
+        </a>
+    </li>
+    {% endif %}
+    
     {% if paginator.next_page %}
     <li>
         <a href="{{ paginator.next_page_path }}">
@@ -41,5 +52,5 @@ title: Blog
         </a>
     </li>
     {% endif %}
-    {% endif %}
 </ul>
+{% endif %}
