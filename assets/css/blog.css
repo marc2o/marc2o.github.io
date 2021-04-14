@@ -192,7 +192,7 @@ header {
     flex-direction: column;
     flex-wrap: nowrap;
     width: 100%;
-    height: 85vh;
+    height: 40vh;
     margin: 0;
     overflow: hidden;
     color: var(--fill-color);
