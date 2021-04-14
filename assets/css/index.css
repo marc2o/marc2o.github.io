@@ -424,7 +424,7 @@ a.button>svg {
 
 div.posts li.more>span {
     display: flex;
-    height: 40vh;
+    height: 40vmin;
     justify-content: center;
     align-items: center;
 }
