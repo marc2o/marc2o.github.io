@@ -4,8 +4,8 @@ title: Blog
 ---
 
 <div class="posts">
-    {% if paginator.total_pages > 1 %}
     <ul>
+        {% if paginator.total_pages > 1 %}
         <li class="pagination">
         {% for page in (1..paginator.total_pages) %}
         {% if page == paginator.page %}
@@ -27,6 +27,7 @@ title: Blog
         {% endif %}
         {% endfor %}
         </li>
+        {% endif %}
         
         {% for post in paginator.posts %}
         <li>
@@ -59,5 +60,4 @@ title: Blog
         </li>
         {% endif %}
     </ul>
-    {% endif %}
 </div>
