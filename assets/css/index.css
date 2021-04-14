@@ -407,7 +407,7 @@ ul.follow svg g#Codepen path {
     stroke: var(--text-color);
 }
 
-div.posts li.more>a.button {
+div.posts li.more a.button {
     display: block;
     height: 2.5rem;
     width: 2.5rem;
@@ -422,7 +422,7 @@ a.button>svg {
     stroke: var(--spot-color);
 }
 
-div.posts li.more {
+div.posts li.more>span {
     display: flex;
     justify-content: center;
     align-items: center;
