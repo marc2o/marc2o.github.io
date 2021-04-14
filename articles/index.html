@@ -40,7 +40,7 @@ title: Blog
         {% endfor %}
 
         {% if paginator.previous_page %}
-        <li>
+        <li class="pagination">
             <span>
                 <a href="{{ paginator.previous_page_path }}">
                     Neuere
@@ -50,7 +50,7 @@ title: Blog
         {% endif %}
         
         {% if paginator.next_page %}
-        <li>
+        <li class="pagination">
             <spab>
                 <a href="{{ paginator.next_page_path }}">
                     Ältere
