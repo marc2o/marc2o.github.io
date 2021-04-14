@@ -201,10 +201,8 @@ header>picture>img {
 }
 
 /* image gallery */
-main>figure,
 main>div {
     display: block;
-    list-style: none;
     width: 100%;
     overflow-y: hidden;
     overflow-x: auto;
@@ -217,19 +215,13 @@ main>div>ul {
     list-style: none;
 }
 
-div>div,
 div>ul>li {
     display: block;
     position: relative;
     overflow: hidden;
     margin: 0;
-    padding: 1rem 0 1rem 1rem;
+    padding: 1rem;
     white-space: normal;
-}
-
-div>div:last-child,
-div>ul>li:last-child {
-    padding-right: 1rem;
 }
 
 div>div>img,
