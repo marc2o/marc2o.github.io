@@ -3,54 +3,55 @@ layout: blog
 title: Blog
 ---
 
-
-{% if paginator.total_pages > 1 %}
-<ul>
-    {% for page in (1..paginator.total_pages) %}
-    {% if page == paginator.page %}
-    <li>
-        {{ page }}
-    </li>
-    {% elsif page == 1 %}
-    <li>
-        <a href="{{ '/' | relative_url }}">
+<div>
+    {% if paginator.total_pages > 1 %}
+    <ul>
+        {% for page in (1..paginator.total_pages) %}
+        {% if page == paginator.page %}
+        <li>
             {{ page }}
-        </a>
-    </li>
-    {% else %}
-    <li>
-        <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">
-            {{ page }}
-        </a>
-    </li>
-    {% endif %}
-    {% endfor %}
-    
-    {% for post in paginator.posts %}
-    <li>
-        <a href="{{ post.url }}">
-            {% if post.image %}
-            <span class="preview image"><img src="{{ post.image }}" alt=""></span>
-            {% endif %}
-            <h3>{{ post.title }}</h3>
-        </a>
-    </li>
-    {% endfor %}
+        </li>
+        {% elsif page == 1 %}
+        <li>
+            <a href="{{ '/' | relative_url }}">
+                {{ page }}
+            </a>
+        </li>
+        {% else %}
+        <li>
+            <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">
+                {{ page }}
+            </a>
+        </li>
+        {% endif %}
+        {% endfor %}
+        
+        {% for post in paginator.posts %}
+        <li>
+            <a href="{{ post.url }}">
+                {% if post.image %}
+                <span class="preview image"><img src="{{ post.image }}" alt=""></span>
+                {% endif %}
+                <h3>{{ post.title }}</h3>
+            </a>
+        </li>
+        {% endfor %}
 
-    {% if paginator.previous_page %}
-    <li>
-        <a href="{{ paginator.previous_page_path }}">
-            Neuere
-        </a>
-    </li>
+        {% if paginator.previous_page %}
+        <li>
+            <a href="{{ paginator.previous_page_path }}">
+                Neuere
+            </a>
+        </li>
+        {% endif %}
+        
+        {% if paginator.next_page %}
+        <li>
+            <a href="{{ paginator.next_page_path }}">
+                Ältere
+            </a>
+        </li>
+        {% endif %}
+    </ul>
     {% endif %}
-    
-    {% if paginator.next_page %}
-    <li>
-        <a href="{{ paginator.next_page_path }}">
-            Ältere
-        </a>
-    </li>
-    {% endif %}
-</ul>
-{% endif %}
+</div>
