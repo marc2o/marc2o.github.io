@@ -206,7 +206,6 @@ main>div {
     width: 100%;
     overflow-y: hidden;
     overflow-x: auto;
-    background-color: var(--alt-fill-color);
 }
 
 main>div>ul {
