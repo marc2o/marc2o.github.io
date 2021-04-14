@@ -422,6 +422,12 @@ a.button>svg {
     stroke: var(--spot-color);
 }
 
+div.posts li.more {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 label.themeSwitch {
     position: absolute;
     top: 1em;
