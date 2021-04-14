@@ -243,6 +243,15 @@ div.posts>ul>li span.image>img {
     object-fit: cover
 }
 
+li.pagination>span {
+    display: inline-block;
+    background-color: var(--spot-color);
+    color: white;
+    padding: .2em .4em;
+    line-height: 1.4em;
+    border-radius: .7em;
+}
+
 h1,
 h2,
 h3 {
