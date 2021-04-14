@@ -211,19 +211,12 @@ main>div {
     background-color: var(--alt-fill-color);
 }
 
-figure.gallery,
-div.gallery,
-div.posts {
-    white-space: nowrap;
-}
-
 main>div>ul {
     margin: 0;
     padding: 0;
     list-style: none;
 }
 
-figure>figure,
 div>div,
 div>ul>li {
     display: inline-block;
@@ -236,46 +229,16 @@ div>ul>li {
     white-space: normal;
 }
 
-figure>figure:last-child,
 div>div:last-child,
 div>ul>li:last-child {
     padding-right: 1rem;
 }
 
-figure>figure img,
-figure>figure>span,
 div>div>img,
 div>ul>li span.preview {
     display: inline-block;
     width: auto;
     height: 40vmin;
-}
-
-figure a,
-figure a:hover,
-figure a:visited {
-    color: var(--text-color);
-}
-
-figure .badge {
-    position: absolute;
-    top: 1.5rem;
-    right: 0;
-	font-size: 75%;
-	text-transform: uppercase;
-	background: var(--spot-color);
-	color: white;
-	line-height: inherit;
-	padding: .3rem 0.5rem .3rem 1rem;
-	border-radius: 1rem 0 0 1rem;
-    border-left: 0.1em solid var(--alt-fill-color);
-    border-top: 0.1em solid var(--alt-fill-color);
-    border-bottom: 0.1em solid var(--alt-fill-color);
-	vertical-align: baseline;
-}
-
-figure>figure:last-child .badge {
-    right: 1rem;
 }
 
 figure>figure>span {
@@ -284,7 +247,7 @@ figure>figure>span {
 
 div.posts>ul>li span.image>img {
     display: block;
-    width: 64vmin;
+    width: 100%;
     height: 40vmin;
     object-position: 50% 50%;
     object-fit: cover
@@ -334,22 +297,6 @@ header>span.about {
 header>span.title {
     font-size: 240%;
     font-weight: 300;
-}
-
-#about_marc2o>span,
-#about_marc2o>span.hidden {
-    display: inline-block;
-    opacity: 0;
-}
-
-#about_marc2o>span.hidden {
-    display: none;
-}
-
-#about_marc2o>span:not(.hidden) {
-    animation:
-        fade-stuff-about-marc2o-in-and-out 2.5s ease-out 2 alternate,
-        shift-stuff-about-marc2o-right-to-left 5s ease-out 2;
 }
 
 @keyframes fade-stuff-about-marc2o-in-and-out {
