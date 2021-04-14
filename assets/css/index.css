@@ -408,6 +408,7 @@ ul.follow svg g#Codepen path {
 }
 
 div.posts li.more>a.button {
+    display: block;
     height: 2.5rem;
     width: 2.5rem;
     line-height: 2.5rem;
