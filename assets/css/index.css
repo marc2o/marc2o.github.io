@@ -422,12 +422,9 @@ a.button>svg {
     stroke: var(--spot-color);
 }
 
-div.posts li.more {
-    height: 100%;
-}
-
 div.posts li.more>span {
     display: flex;
+    height: 40vh;
     justify-content: center;
     align-items: center;
 }
