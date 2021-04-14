@@ -6,18 +6,24 @@ title: Blog
 <div class="posts">
     {% if paginator.total_pages > 1 %}
     <ul>
-        <li>
+        <li class="pagination">
         {% for page in (1..paginator.total_pages) %}
         {% if page == paginator.page %}
-            {{ page }}
+            <span>
+                {{ page }}
+            </span>
         {% elsif page == 1 %}
-            <a href="{{ 'articles/' | relative_url }}">
-                {{ page }}
-            </a>
+            <span>
+                <a href="{{ 'articles/' | relative_url }}">
+                    {{ page }}
+                </a>
+            </span>
         {% else %}
-            <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">
-                {{ page }}
-            </a>
+            <span>
+                <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">
+                    {{ page }}
+                </a>
+            </span>
         {% endif %}
         {% endfor %}
         </li>
@@ -35,17 +41,21 @@ title: Blog
 
         {% if paginator.previous_page %}
         <li>
-            <a href="{{ paginator.previous_page_path }}">
-                Neuere
-            </a>
+            <span>
+                <a href="{{ paginator.previous_page_path }}">
+                    Neuere
+                </a>
+            </span>
         </li>
         {% endif %}
         
         {% if paginator.next_page %}
         <li>
-            <a href="{{ paginator.next_page_path }}">
-                Ältere
-            </a>
+            <spab>
+                <a href="{{ paginator.next_page_path }}">
+                    Ältere
+                </a>
+            </spab>
         </li>
         {% endif %}
     </ul>
