@@ -7,23 +7,19 @@ title: Blog
     {% if paginator.total_pages > 1 %}
     <ul>
         {% for page in (1..paginator.total_pages) %}
+        <li>
         {% if page == paginator.page %}
-        <li>
             {{ page }}
-        </li>
         {% elsif page == 1 %}
-        <li>
             <a href="{{ 'articles/' | relative_url }}">
                 {{ page }}
             </a>
-        </li>
         {% else %}
-        <li>
             <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">
                 {{ page }}
             </a>
-        </li>
         {% endif %}
+        </li>
         {% endfor %}
         
         {% for post in paginator.posts %}
