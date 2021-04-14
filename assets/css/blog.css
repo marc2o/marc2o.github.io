@@ -273,8 +273,11 @@ main p {
 }
 
 div>ul>li>a,
+div>ul>li>span>a,
 div>ul>li>a:hover,
-div>ul>li>a:visited {
+div>ul>li>span>a:hover,
+div>ul>li>a:visited,
+div>ul>li>span>a:visited {
     color: var(--text-color);
 }
 
