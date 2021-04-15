@@ -260,13 +260,6 @@ div.posts>ul>li span.image>img {
     object-fit: cover
 }
 
-li.post {
-    transition: box-shadow .3s;
-}
-li.post:hover {
-    box-shadow: 0 .2rem .1rem rgba(0, 0, 0, 0.4);
-}
-
 li.pagination>span {
     display: inline-block;
     min-width: 2rem;
