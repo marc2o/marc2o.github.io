@@ -81,7 +81,8 @@ footer {
 }
 
 /* for increased readability */
-main>p {
+main>p,
+main>ul>li {
     line-height: calc(1ex / 0.32);
 }
 main>ul {
