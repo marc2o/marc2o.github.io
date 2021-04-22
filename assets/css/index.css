@@ -240,7 +240,7 @@ div>ul>li {
 figure>figure+figure,
 div>div+div,
 div>ul>li+li {
-    margin-left: 1rem;
+    margin-right: 1rem;
 }
 
 figure>figure img,
