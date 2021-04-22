@@ -74,9 +74,6 @@ main>*,
 footer>* {
     grid-column: 2;
 }
-main>ul.about{
-    grid-column: 1 / span 3;
-}
 
 footer {
     margin-top: 1rem;
@@ -187,7 +184,8 @@ header {
 
 main>img,
 main>figure,
-main>div {
+main>div,
+ul.about {
     grid-column: 1 / 4;
     justify-self: center;
     width: 100%;
