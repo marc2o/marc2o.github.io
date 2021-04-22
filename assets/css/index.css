@@ -215,6 +215,7 @@ figure.gallery,
 div.gallery,
 div.posts {
     white-space: nowrap;
+    padding: 1rem;
 }
 
 main>div>ul {
@@ -232,14 +233,14 @@ div>ul>li {
     vertical-align: top;
     overflow: hidden;
     margin: 0;
-    padding: 1rem 0 1rem 1rem;
+    padding: 0;
     white-space: normal;
 }
 
-figure>figure:last-child,
-div>div:last-child,
-div>ul>li:last-child {
-    padding-right: 1rem;
+figure>figure+figure,
+div>div+div,
+div>ul>li+li {
+    margin-left: 1rem;
 }
 
 figure>figure img,
