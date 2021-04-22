@@ -75,7 +75,7 @@ footer>* {
     grid-column: 2;
 }
 main>ul.about{
-    grid-column: auto;
+    grid-column: span;
 }
 
 footer {
