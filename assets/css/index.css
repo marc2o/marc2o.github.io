@@ -254,8 +254,6 @@ div>ul>li span.preview {
     position: relative;
     width: auto;
     height: 40vmin;
-    border-radius: .5rem;
-    overflow: hidden;
 }
 
 figure a,
