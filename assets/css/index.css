@@ -243,6 +243,11 @@ div>ul>li+li {
     margin-left: 0;
 }
 
+figure>a>img {
+    width: auto;
+    height: inherit;
+}
+
 figure>figure>a,
 div>ul>li span.preview {
     display: inline-block;
