@@ -279,10 +279,6 @@ figure>figure:last-child .badge {
     right: 1rem;
 }
 
-figure>figure>span {
-    width: 80vmin;
-}
-
 div.posts>ul>li span.image>img {
     display: block;
     width: 64vmin;
