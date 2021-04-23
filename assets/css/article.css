@@ -14,7 +14,7 @@
     --alt-fill-color: #f1f1f1;
     --column-width: 36rem;
     --margin-width: 1rem;
-    --marked-width: 48rem;
+    --marked-width: 40rem;
 }
 
 @media (prefers-color-scheme: dark) {
