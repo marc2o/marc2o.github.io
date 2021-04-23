@@ -246,6 +246,7 @@ div>ul>li+li {
 figure>figure>a,
 div>ul>li span.preview {
     display: inline-block;
+    position: relative;
     width: auto;
     height: 40vmin;
     border-radius: .25rem;
