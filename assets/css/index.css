@@ -243,13 +243,13 @@ div>ul>li+li {
     margin-left: 0;
 }
 
-figure>figure img,
-figure>figure>span,
-div>div>img,
+figure>figure>a,
 div>ul>li span.preview {
     display: inline-block;
     width: auto;
     height: 40vmin;
+    border-radius: .25rem;
+    overflow: hidden;
 }
 
 figure a,
