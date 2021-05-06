@@ -11,7 +11,7 @@ Mittlerweile nutze ich [John Grubers Markdown](https://daringfireball.net/projec
 Markdown-Editoren:
 * **[iA Writer](https://ia.net/de/writer)** (22,5 MB)
 * **[Mark Text](https://marktext.app)** (289,9 MB)
-* **[Nota](https://nota.md)** (203,0 MB)
+* **[Nota](https://nota.md)** (203,1 MB)
 * **[Typora](https://www.typora.io)** (31,6 MB)
 * **[Zettlr](https://zettlr.com)** (380,0 MB)
 
