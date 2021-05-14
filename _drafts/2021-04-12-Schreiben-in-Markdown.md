@@ -27,7 +27,7 @@ Außer Konkurrenz:
     <figure><img src="/images/zettlr-screenshot.jpg" alt=""><figcaption><em>...</em></figcaption></figure>
 </figure>
 
-## P. S.: Zettlr Custom CSS
+## P. S.: Mein Zettlr Custom CSS mit iA Writer Duospace-Font
 
 Zettlr mit Berlin-Thema.
 
@@ -42,7 +42,7 @@ Zettlr mit Berlin-Thema.
 }
 ```
 
-## P. P. S.: Mein Visual Studio Code-Setup
+## P. P. S.: Mein Visual Studio Code-Setup für Markdown
 
 Ich mag den iA-Font, ich hab die Schrift beim Schreiben von Text gern größer und Umbruch ist Pflicht. Außerdem darf der Cursor sanfter blinken. Auf macOS sieht der Abschnitt meiner settings.json so aus:
 
