@@ -57,5 +57,3 @@ I’m Marc, somewhat creative and I love making stuff. Digitally as well as for 
 ## Read
 
 {% include posts.html %}
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P04PMZP)
