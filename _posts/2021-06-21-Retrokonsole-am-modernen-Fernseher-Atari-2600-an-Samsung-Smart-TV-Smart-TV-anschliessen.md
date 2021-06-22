@@ -57,7 +57,7 @@ Alles in allem bin ich aber sehr zufrieden, dass meine alte Spielkonsole überha
 
 ## Spieletipps
 
-Meine Sammlung beschränkt sich leider auf acht Cartridges. Aber, auch wenn ich auf meinem Retroid Pocket 2 noch ein paar mehr Atari 2600-Spiele und auch Demos habe, muss ich doch sagen, dass bei diesen acht Spielen meine absoluten Lieblinge dabei sind (vielleicht auch, weil ich die schon als Kind gespielt hab und noch heute quasi im Schlaf beherrsche).
+Meine Sammlung beschränkt sich leider auf acht Cartridges. Aber, auch wenn ich auf meinem [Retroid Pocket 2]({% post_url 2021-01-29-Retroid-Pocket-2-Handeheld-Konsole %}) noch ein paar mehr Atari 2600-Spiele und auch Demos habe, muss ich doch sagen, dass bei diesen acht Spielen meine absoluten Lieblinge dabei sind (vielleicht auch, weil ich die schon als Kind gespielt hab und noch heute quasi im Schlaf beherrsche).
 
 <figure>
     <img src="/images/atari2600-games.jpg" alt="Spiele-Cartridges für Atari 2600">
