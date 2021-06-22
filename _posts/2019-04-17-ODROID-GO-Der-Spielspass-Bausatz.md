@@ -10,7 +10,7 @@ Als ich das erste Foto des [ODROID-GO](https://www.hardkernel.com/shop/odroid-go
 
 <figure>
 <img src="/images/odroid-go-assembled.jpg" alt="Fertiger ODROID-GO">
-<figcaption><em>Mein liebstes Spielzeug … nach meinem 3DS (<a href="https://www.instagram.com/p/BndqGnWn6QS/">@marc2o</a>)</em></figcaption>
+<figcaption>Mein liebstes Spielzeug … nach meinem 3DS (<a href="https://www.instagram.com/p/BndqGnWn6QS/">@marc2o</a>)</figcaption>
 </figure>
 
 Der ODROID-GO lässt sich leicht zusammenbauen. Kein Löten, nur Schrauben und Stecken. Einfach die beigelegte Anleitung befolgen. Das kann auch jemand, der bis jetzt nur LEGOs zusammengesteckt hat.
@@ -20,11 +20,11 @@ Auch das anschließende *customizen* war relativ einfach. Ich wollte, nachdem ic
 Die Buttons gibt es bei [Retro Modding](https://www.retromodding.com/collections/gameboy-pocket/products/gameboy-pocket-buttons). Es müssen die vom Gameboy Pocket sein; die normalen sind zu groß. Ich musste allerdings trotzdem noch ein bisschen feilen, damit die Knöpfe leichtgängiger werden und besser rutschen. Das Steuerkreuz passte hingegen gleich wie angegossen.
 
 <figure class="gallery">
-    <figure><img src="/images/odroid-go-assembly-1.jpg" alt=""><figcaption><em>Viele Einzelteile</em></figcaption></figure>
-    <figure><img src="/images/odroid-go-assembly-2.jpg" alt=""><figcaption><em>Die alternativen Buttons zurecht fummeln, damit sie in die Aussparungen passen</em></figcaption></figure>
-    <figure><img src="/images/odroid-go-assembly-3.jpg" alt=""><figcaption><em>Probehalber zusammenschrauben</em></figcaption></figure>
-    <figure><img src="/images/odroid-go-assembly-4.jpg" alt=""><figcaption><em>Dann alles schön abkleben…</em></figcaption></figure>
-    <figure><img src="/images/odroid-go-assembly-6.jpg" alt=""><figcaption><em>…, im GameBoy-Look einsprühen und trocknen lassen.</em></figcaption></figure>
+    <figure><img src="/images/odroid-go-assembly-1.jpg" alt=""><figcaption>Viele Einzelteile</figcaption></figure>
+    <figure><img src="/images/odroid-go-assembly-2.jpg" alt=""><figcaption>Die alternativen Buttons zurecht fummeln, damit sie in die Aussparungen passen</figcaption></figure>
+    <figure><img src="/images/odroid-go-assembly-3.jpg" alt=""><figcaption>Probehalber zusammenschrauben</figcaption></figure>
+    <figure><img src="/images/odroid-go-assembly-4.jpg" alt=""><figcaption>Dann alles schön abkleben…</figcaption></figure>
+    <figure><img src="/images/odroid-go-assembly-6.jpg" alt=""><figcaption>…, im GameBoy-Look einsprühen und trocknen lassen.</figcaption></figure>
 </figure>
 
 Zu guter letzt habe ich mir noch den [Headphone Audio Hat + DAC](https://backofficeshow.com/shop/odroidgohat) gegönnt, damit ich die Chiptunes mehr genießen kann. — Gerade hab ich gesehen, dass es im Thingyverse dafür ein [Cover](https://www.thingiverse.com/thing:3110057) gibt. Leider hab ich keinen 3D-Drucker. Schade, auch, dass ich die Tastatur nicht früher entdeckt habe: [ODROID-GO QWERTY](https://wiki.odroid.com/odroid_go/qwerty).

@@ -11,10 +11,10 @@ Neulich habe ich meine alte [Atari 2600 Spielkonsole](https://www.atari-computer
 Die kurze Antwort ist: ja.
 
 <figure class="gallery">
-    <figure><img src="/images/atari2600-junior.jpg" alt="Atari 2600 Spielkonsole"><figcaption><em>Meine erste Spielkonsole.</em></figcaption></figure>
-    <figure><img src="/images/atari2600-joystick.jpg" alt="Atari 2600 Joystick"><figcaption><em>Bestes Design für Handkrämpfe und unkaputtbar!</em></figcaption></figure>
-    <figure><img src="/images/atari2600-pitfallii.jpg" alt="Atari 2600 Spielkonsole mit Cartridge"><figcaption><em>Mein erster Plattformer.</em></figcaption></figure>
-    <figure><img src="/images/atari2600-smarttv.jpg" alt="Atari 2600 am Samsung Smart-TV"><figcaption><em>Star Wars: Return of the Jedi am Smart-TV.</em></figcaption></figure>
+    <figure><img src="/images/atari2600-junior.jpg" alt="Atari 2600 Spielkonsole"><figcaption>Meine erste Spielkonsole.</figcaption></figure>
+    <figure><img src="/images/atari2600-joystick.jpg" alt="Atari 2600 Joystick"><figcaption>Bestes Design für Handkrämpfe und unkaputtbar!</figcaption></figure>
+    <figure><img src="/images/atari2600-pitfallii.jpg" alt="Atari 2600 Spielkonsole mit Cartridge"><figcaption>Mein erster Plattformer.</figcaption></figure>
+    <figure><img src="/images/atari2600-smarttv.jpg" alt="Atari 2600 am Samsung Smart-TV"><figcaption>Star Wars: Return of the Jedi am Smart-TV.</figcaption></figure>
 </figure>
 
 Die kurze Anleitung, wie das funktioniert, ist hier für einen (nicht mehr ganz so neuen) Samsung 49" Curved UHD TV ([Modell KU6509](http://www.samsung.com/de/support/model/UE49KU6509UXZG)) beschrieben.
@@ -46,7 +46,7 @@ Sagen wir mal so. Es sieht okay aus, unterscheidet sich aber davon, wie ich es a
 
 <figure>
     <img src="/images/atari2600-screenshot.jpg" alt="Atari 2600 am Smart-TV Screenshot">
-    <figcaption><em>Der integrierte Upscaler ist eher mäßig für so etwas.</em></figcaption>
+    <figcaption>Der integrierte Upscaler ist eher mäßig für so etwas.</figcaption>
 </figure>
 
 Teile des Bildes, die normalerweise unsichtbar sein sollten, sind wegen des komplett anderen Seitenverhältnisses moderner Fernseher sichtbar. Das Bild ist unscharf, aber anders unscharf als bei nem Röhrenfernseher.
@@ -61,7 +61,7 @@ Meine Sammlung beschränkt sich leider auf acht Cartridges. Aber, auch wenn ich 
 
 <figure>
     <img src="/images/atari2600-games.jpg" alt="Spiele-Cartridges für Atari 2600">
-    <figcaption><em>Spielesammlung.</em></figcaption>
+    <figcaption>Spielesammlung.</figcaption>
 </figure>
 
 **Pitfall II** war das erste Spiel, das ich jemals durchgespielt habe. Ich weiß noch, dass meine Eltern damals mit einer Sofortbildkamera ein Bildschirmfoto gemacht haben.

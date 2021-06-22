@@ -16,7 +16,7 @@ Besonders hat es dem norddeutschen Nörgler ja der Regen angetan. Regen wirkt n�
 
 <figure>
 <img src="/images/regen-regen-regen.jpg" alt="Dauerregen">
-<figcaption><em>Ein Tag wie ein Aquarell… (<a href="https://instagram.com/p/QW4C3AKl8_/?taken-by=marc2o" rel="me">@marc2o</a>)</em></figcaption>
+<figcaption>Ein Tag wie ein Aquarell… (<a href="https://instagram.com/p/QW4C3AKl8_/?taken-by=marc2o" rel="me">@marc2o</a>)</figcaption>
 </figure>
 
 ## Regenwörterbuch
