@@ -2,7 +2,7 @@
 layout: article
 language: de-DE
 image: /images/atari2600-smarttv-cover.jpg
-title: Retrokonsole am modernen Fernseher – Atari 2600 an Samsung Smart-TV angeschließen
+title: Retrokonsole am modernen Fernseher – Atari 2600 an Samsung Smart-TV anschließen
 author: marc2o
 ---
 
