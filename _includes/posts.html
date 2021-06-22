@@ -1,6 +1,6 @@
 <div class="posts">
     <ul>
-        {% for post in site.posts limit: 4 %}<li>
+        {% for post in site.posts limit: 3 %}<li>
             <a href="{{ post.url }}">
                 {% if post.image %}
                 <span class="preview image"><img src="{{ post.image }}" alt=""></span>
