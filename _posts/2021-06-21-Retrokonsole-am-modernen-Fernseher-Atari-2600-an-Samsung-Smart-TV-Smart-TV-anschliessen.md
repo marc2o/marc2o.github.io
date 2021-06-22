@@ -6,7 +6,7 @@ title: Retrokonsole am modernen Fernseher – Atari 2600 an Samsung Smart-TV ang
 author: marc2o
 ---
 
-Neulich habe ich meine alte [Atari 2600 Spielkonsole](https://www.atari-computermuseum.de/2600.htm) aus dem Keller gekramt und mich gefragt, ob man es ohne irgendwelche Zusatzgeräte oder Hardware-Modifikationen an einem modernen Smart-TV nutzen kann.
+Neulich habe ich meine alte [Atari 2600 Spielkonsole](https://www.atari-computermuseum.de/2600.htm) aus dem Keller gekramt und mich gefragt, ob man sie ohne irgendwelche Zusatzgeräte oder Hardware-Modifikationen an einem modernen Smart-TV nutzen kann.
 
 Die kurze Antwort ist: ja.
 
@@ -21,7 +21,7 @@ Die kurze Anleitung, wie das funktioniert, ist hier für einen (nicht mehr ganz 
 
 ## Die Atari-Spielkonsole an den Smart-TV anschließen
 
-Faszinierenderweise funktioniert das Jahrzehnte alte, mit der Konsole mitgelieferte Antennenkabel noch immer. Allerdings habe ich online gelesen, dass es sich lohnen kann, in ein besser abgeschirmtes Kabel zu investieren.
+Faszinierenderweise funktioniert das Jahrzehnte alte, mit der Konsole mitgelieferte, Antennenkabel noch immer. Allerdings habe ich online gelesen, dass es sich lohnen kann, in ein besser abgeschirmtes Kabel zu investieren.
 
 Jedenfalls verbindet man die Konsole über das Antennenkabel mit dem Fernseher. Strom anschließen. Cartridge einstecken. Konsole einschalten.
 
@@ -31,7 +31,9 @@ Dann den Fernseher einrichten.
 
 Der Samsung verfügt nicht über allzu viele Einstellungen bei der manuellen Sendersuche. Wichtig ist, dass hier analog gesucht wird, weil die Konsole kein digitales Signal sendet.
 
-Unter `Einstellungen > Senderempfang > Experteneinstellungen` werden die `Man. Sendereinstellungen` aufgerufen; dort dann die `Einstellung von Analogsendern` auswählen und `Sender bearbeiten`.
+Unter `Einstellungen > Senderempfang > Experteneinstellungen` werden die `Man. Sendereinstellungen` aufgerufen. Dort dann die `Einstellung von Analogsendern` auswählen und `Sender bearbeiten`.
+
+Die folgenden Einstellungen habe ich gewählt:
 
 * Fernsehnorm: _auto_ oder _PAL_ (beides hat funktioniert; ersteres war voreingestellt)
 * Tonsystem: _BG_ (keine Ahnung, was das bedeutet … das war der voreingestellte Wert)
@@ -43,8 +45,8 @@ Unter `Einstellungen > Senderempfang > Experteneinstellungen` werden die `Man. S
 Sagen wir mal so. Es sieht okay aus, unterscheidet sich aber davon, wie ich es aus meiner Kindheit in Erinnerung hatte. Erstens sieht das Bild eines Röhrenfernsehers mal ganz anders aus und zweitens macht der interne Upscaler des Smart-TVs einen eher mäßigen Job, wenn es um das niedrig aufgelöste Antennensignal einer Konsole von 1984 geht.
 
 <figure>
-    <img src="/images/atari2600-games.jpg" alt="Spiele-Cartridges für Atari 2600">
-    <figcaption><em>Spielesammlung.</em></figcaption>
+    <img src="/images/atari2600-screenshot.jpg" alt="Atari 2600 am Smart-TV Screenshot">
+    <figcaption><em>Der integrierte Upscaler ist eher mäßig für so etwas.</em></figcaption>
 </figure>
 
 Teile des Bildes, die normalerweise unsichtbar sein sollten, sind wegen des komplett anderen Seitenverhältnisses moderner Fernseher sichtbar. Das Bild ist unscharf, aber anders unscharf als bei nem Röhrenfernseher.
@@ -58,8 +60,8 @@ Alles in allem bin ich aber sehr zufrieden, dass meine alte Spielkonsole überha
 Meine Sammlung beschränkt sich leider auf acht Cartridges. Aber, auch wenn ich auf meinem Retroid Pocket 2 noch ein paar mehr Atari 2600-Spiele und auch Demos habe, muss ich doch sagen, dass bei diesen acht Spielen meine absoluten Lieblinge dabei sind (vielleicht auch, weil ich die schon als Kind gespielt hab und noch heute quasi im Schlaf beherrsche).
 
 <figure>
-    <img src="/images/regen-regen-regen.jpg" alt="Dauerregen">
-    <figcaption><em>Ein Tag wie ein Aquarell… (<a href="https://instagram.com/p/QW4C3AKl8_/?taken-by=marc2o" rel="me">@marc2o</a>)</em></figcaption>
+    <img src="/images/atari2600-games.jpg" alt="Spiele-Cartridges für Atari 2600">
+    <figcaption><em>Spielesammlung.</em></figcaption>
 </figure>
 
 **Pitfall II** war das erste Spiel, das ich jemals durchgespielt habe. Ich weiß noch, dass meine Eltern damals mit einer Sofortbildkamera ein Bildschirmfoto gemacht haben.
