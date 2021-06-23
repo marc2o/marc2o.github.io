@@ -79,3 +79,9 @@ Meine Sammlung beschränkt sich leider auf acht Cartridges. Aber, auch wenn ich 
 Und zu guter Letzt:
 
 **Pole Position** war das erste Autorennspiel, dass ich je gespielt habe und hat wohl den Grundstein für meine Liebe zu spielen wie Mario Kart, Crash Team Racing und Asphalt gelegt.
+
+## Fazit
+
+Es ist irgendwie doch etwas anderes, direkt mit der alten Hardware zu spielen, statt eine Emulation zu nutzen. Die alte Atari-Konsole ist wirklich schnell aufgebaut und angeschlossen. Am Fernseher lässt sich das Programm speichern und so man kann direkt loslegen. 
+
+Die »Bildqualität« (wenn man das beim Atari 2600 so nennen möchte) hat mich tatsächlich gar nicht gestört. Und der Sound war wie früher. – Aber vielleicht lohnt sich ein S-Video- oder Composite-Mod doch, damit man nicht immer das Antennenkabel umstöpseln muss.
