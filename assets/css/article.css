@@ -419,6 +419,7 @@ ul.about {
     list-style: none;
     background: var(--alt-fill-color);
     padding: 1em;
+    margin-top: 2rem;
 }
 
 ul.about>li {
