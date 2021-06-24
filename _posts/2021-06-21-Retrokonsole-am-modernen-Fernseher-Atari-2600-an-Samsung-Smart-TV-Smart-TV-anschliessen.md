@@ -25,6 +25,8 @@ Faszinierenderweise funktioniert das Jahrzehnte alte, mit der Konsole mitgeliefe
 
 Jedenfalls verbindet man die Konsole über das Antennenkabel mit dem Fernseher. Strom anschließen. Cartridge einstecken. Konsole einschalten.
 
+**Wichtig:** Erstens steckt man am besten erst das Stromkabel in die Konsole und dann den Stecker in die Steckdose, weil man sonst vielleicht aus Versehen den Klingenstecker berührt, der unter Strom steht. Zweitens sollte man Cartridges nie bei eingeschalteter Konsole einstecken oder wechseln.
+
 Dann den Fernseher einrichten.
 
 ## Den Fernseher für den Empfang der Atari-Spielkonsole einrichten
@@ -35,10 +37,10 @@ Unter `Einstellungen > Senderempfang > Experteneinstellungen` werden die `Man. S
 
 Die folgenden Einstellungen habe ich gewählt:
 
-* Fernsehnorm: _auto_ oder _PAL_ (beides hat funktioniert; ersteres war voreingestellt)
-* Tonsystem: _BG_ (keine Ahnung, was das bedeutet … das war der voreingestellte Wert)
-* Kanal: _C-3_ (je nachdem, was beim Atari 2600 eingestellt ist)
-* Suche: Sendersuchlauf im Bereich von _55.000 KHz_
+* Fernsehnorm: `auto` oder `PAL` (beides hat funktioniert; ersteres war voreingestellt)
+* Tonsystem: `BG` (keine Ahnung, was das bedeutet, aber das war der voreingestellte Wert und hat funktioniert)
+* Kanal: `C-3` (je nachdem, was beim Atari 2600 eingestellt ist)
+* Suche: Sendersuchlauf im Bereich von `55.000 KHz`
 
 ## Ist das gut so?
 
@@ -80,7 +82,7 @@ Und zu guter Letzt:
 
 **Pole Position** war das erste Autorennspiel, dass ich je gespielt habe und hat wohl den Grundstein für meine Liebe zu spielen wie Mario Kart, Crash Team Racing und Asphalt gelegt.
 
-## Fazit
+## Wenig Aufwand, viel Spaß
 
 Es ist irgendwie doch etwas anderes, direkt mit der alten Hardware zu spielen, statt eine Emulation zu nutzen. Die alte Atari-Konsole ist wirklich schnell aufgebaut und angeschlossen. Am Fernseher lässt sich das Programm speichern und so man kann direkt loslegen. 
 
