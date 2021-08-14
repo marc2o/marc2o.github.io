@@ -4,9 +4,14 @@ language: de-DE
 image: /images/odroid-go-customized.jpg
 title: ODROID-GO, der Spielspaß-Bausatz
 author: marc2o
+tags:
+- odroid-go
+- handheld
+- gaming
+- spielkonsole
 ---
 
-Als ich das erste Foto des [ODROID-GO](https://www.hardkernel.com/shop/odroid-go/) gesehen hatte, wusste ich, dass ich einen haben muss! — Schon an NextThing’s [Pocket C.H.I.P.](https://shop.pocketchip.co/collections/frontpage/products/pocket-c-h-i-p-new) mit [PICO-8](https://www.lexaloffle.com/pico-8.php) mit bin ich nicht vorbeigekommen. Da konnte ich bei einem »Gameboy«-Bausatz mit 8-Bit-Emulatoren erst recht nicht widerstehen.
+Als ich das erste Foto der Handheld-Gaming-Konsole »[ODROID-GO](https://www.hardkernel.com/shop/odroid-go/)« gesehen hatte, wusste ich, dass ich eine haben muss! — Schon an NextThing’s [Pocket C.H.I.P.](https://shop.pocketchip.co/collections/frontpage/products/pocket-c-h-i-p-new) mit [PICO-8](https://www.lexaloffle.com/pico-8.php) mit bin ich nicht vorbeigekommen. Da konnte ich bei einem »Gameboy«-Bausatz mit 8-Bit-Emulatoren erst recht nicht widerstehen.
 
 <figure>
 <img src="/images/odroid-go-assembled.jpg" alt="Fertiger ODROID-GO">

@@ -4,6 +4,11 @@ language: de-DE
 image: /images/rp2-foto-4.jpg
 title: Retroid Pocket 2 Handheld-Konsole
 author: marc2o
+tags:
+- retroid pocket 2
+- gaming
+- handheld
+- spielkonsole
 ---
 
 Meine Konsolensammlung wächst. Letzter Neuzugang: Der [Retroid Pocket 2](https://www.goretroid.com) ist eine Handheld-Spielkonsole aus China. Ich hab die Variante »Retro« im Gameboy-Design gewählt, und ich muss sagen: Das Ding sieht super aus und fühlt sich noch besser an. 

@@ -4,6 +4,10 @@ language: de-DE
 image: /images/atari2600-smarttv-cover.jpg
 title: Retrokonsole am modernen Fernseher – Atari 2600 an Samsung Smart-TV anschließen
 author: marc2o
+tags:
+- atari 2600
+- smart-tv
+- spielkonsole
 ---
 
 Neulich habe ich meine alte [Atari 2600 Spielkonsole](https://www.atari-computermuseum.de/2600.htm) aus dem Keller gekramt und mich gefragt, ob man sie ohne irgendwelche Zusatzgeräte oder Hardware-Modifikationen an einem modernen Smart-TV nutzen kann.

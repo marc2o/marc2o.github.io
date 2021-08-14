@@ -4,6 +4,10 @@ language: de-DE
 image: /images/regen-regen-regen.jpg
 title: 50 Wörter für Regen
 author: marc2o
+tags:
+- Regen
+- Wörter
+- Wetter
 ---
 
 Das Wetter ist ein beliebtes Gesprächsthema. Jeder kann etwas dazu sagen. Das Wetter gehört auch zu den wenigen Dingen in unserem Umfeld, zu dem jeder eine Meinung haben darf, sogar eine eigene.
