@@ -104,7 +104,19 @@
   </div>
   <div class="bottomOrRight">
     <main>
-      {{ content }}
+      <div class="posts">
+        <ul>
+          {% for post in site.posts %}<li>
+            <a href="{{ post.url }}">
+              {% if post.image %}
+              <span class="preview image"><img src="{{ post.image }}" alt=""></span>
+              {% endif %}
+              <h3>{{ post.title }}</h3>
+              <p>{{ page.excerpt | strip_html | normalize_whitespace }}</p>
+          </a>
+          </li>{% endfor %}
+        </ul>
+      </div>
     </main>
     <footer>
       {% include follow.html %}
