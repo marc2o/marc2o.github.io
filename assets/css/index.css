@@ -181,6 +181,18 @@ header {
     background: linear-gradient(160deg, #0277bd 33%, #26a69a 80%);
     clip-path: polygon(0% 0%, 100% 0%, 100% calc(100% - 5vh), 0% 100%);
     -webkit-clip-path: polygon(0% 0%, 100% 0%, 100% calc(100% - 5vh), 0% 100%);
+    animation: gradient-animation 18s ease infinite;
+}
+@keyframes gradient-animation {
+  0% {
+    background-position: 33% 80%;
+  }
+  50% {
+    background-position: 24% 60%;
+  }
+  100% {
+    background-position: 28% 90%;
+  }
 }
 
 main>img,
