@@ -178,6 +178,7 @@ header {
     margin: 0;
     overflow: hidden;
     color: var(--fill-color);
+    background-size: 180% 180%;
     background: linear-gradient(160deg, #0277bd 33%, #26a69a 80%);
     clip-path: polygon(0% 0%, 100% 0%, 100% calc(100% - 5vh), 0% 100%);
     -webkit-clip-path: polygon(0% 0%, 100% 0%, 100% calc(100% - 5vh), 0% 100%);
