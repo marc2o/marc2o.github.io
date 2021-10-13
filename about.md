@@ -3,7 +3,7 @@ layout: article
 title: I like to make stuff
 author: marc2o
 language: en-US
-image: /images/squirrel.svg
+image: /images/marc2o-r66.jpg
 ---
 
 ## View
