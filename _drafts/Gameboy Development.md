@@ -14,7 +14,6 @@ tags:
 
 Mit den Spielen, die man heute so »retro« nennt, bin ich aufgewachsen. Daher habe ich zu alten Computern und Konsolen ein besonderes Verhältnis. Ich mag die besonderen Einschränkungen der alten Systeme und die Kreativitt, die es erfordert, trotz dieser Einschränkungen etwas zu bewerkstelligen, das Spaß macht und gut aussieht. Dass ich damit nicht allein bin zeigt die Aktivität der Homebrew-Szene — wie viele Spiele und Demos immer noch beispielsweise für den Game Boy und Game Boy Color entwickelt werden, begeistert mich (z. B. [GB Compo 2021](https://itch.io/jam/gbcompo21)).
 
-
 Weil ich das zu gern mal selbst ausprobieren möchte (etwas ähnliches habe ich schon für den Atari 2600 probiert), habe ich hier eine Übersicht it Tipps und Links zusammengestellt (eher für mich, als persönliche Link-Sammlung).
 
 
@@ -33,14 +32,14 @@ Erläuterungen dazu gibt es hier im Leitfaden [**Choosing tools for Game Boy dev
 
 ### In C (wie früher)
 
-- [**GBDK-2020**](https://github.com/gbdk-2020/gbdk-2020), The Game Boy Developer’s Kit für die Entwicklung von Spielen für den Nintendo Game Boy (und andere 8-Bit-Konsolen) in C und Assembler
+- [**GBDK-2020**](https://github.com/gbdk-2020/gbdk-2020), The Game Boy Developer’s Kit für die Entwicklung von Spielen für den Nintendo Game Boy (und andere 8-Bit-Konsolen) in C und Assembler (mit RGBDS, siehe unten)
 - Die allgemeine Dokumentation zum GBDK: [**GBDK 2020 Docs**](https://bbbbbr.github.io/gbdk-2020/docs/api/index.html)
 
 
 ### In Assembler (wie ganz früher)
 
-- [**RGBDS**](https://github.com/gbdev/rgbds) Toolchain für die Entwicklung von Game Boy-Spiele in Z80-Assembler
-- [**RGBDS macOS-Installation**](https://rgbds.gbdev.io/install/macos) via Homebrew
+- [**RGBDS**](https://github.com/gbdev/rgbds) (Rednex Game Boy Development System) Toolchain für die Entwicklung von Game Boy-Spiele in Z80-Assembler
+- [**RGBDS macOS-Installation**](https://rgbds.gbdev.io/install/macos) via Homebrew: `brew install rgbds`
 - [**BBEdit Z80-Assembler**](https://derekbolli.wordpress.com/2012/11/16/editing-z80-assembler-zasm-source-files-with-bbedit/) Sprachmodul
 
 
@@ -59,4 +58,5 @@ Erläuterungen dazu gibt es hier im Leitfaden [**Choosing tools for Game Boy dev
 
 - [**SameBoy**](https://sameboy.github.io/) ist ein Game Boy-Emulator und -Debugger
 - [**png2gbtiles**](https://github.com/bbbbbr/gimp-tilemap-gb/tree/master/console) Kommandozeilen-Werkzeug zur Konvertierung von PNGs zu Tilesets und Tilemaps (.gbr, .gbm, .c)
+- [**GBT Player**](https://github.com/AntonioND/gbt-player) Abspiel-Routine mit mod2gbt, das MODs in Game Boy-Tracker konvertiert
 - [**Game Boy Tile Data Generator**](https://github.com/chrisantonellis/gbtdg) (gbtdg), Plattform-unabhängig als Web-App

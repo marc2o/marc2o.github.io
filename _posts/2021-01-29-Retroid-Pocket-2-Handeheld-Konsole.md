@@ -89,6 +89,12 @@ Drittens, wenn man auch noch ein allgemeines Emulator-Frontend benutzen möchte,
 
 - GitHub: [https://github.com/djfumberger/retromega](https://github.com/djfumberger/retromega)
 
+## DIY und Reparatur
+
+Seit kurzem gibt es auch eine offizielle Seite, auf der man Ersatzteile bestellen kann, von Buttons bis zur Schale.
+
+- RETROID: [https://www.goretroid.com/collections/diy](https://www.goretroid.com/collections/diy)
+
 ## Nicht nur Emulation
 
 Am meisten hat mich persönlich gefreut, dass mein heißgeliebter [**Shovel Knight**](https://yachtclubgames.com/shovel-knight/) tadellos auf dem RP2 läuft! Aber auch [**Evoland II**](https://evoland.shirogames.com) läuft prima und ist super süß.
