@@ -24,6 +24,7 @@ Für mich ist die Konsole momentan einfach die schönste Möglichkeit, meine Lie
     <figure><img src="/images/rp2-foto-4.jpg" alt="Retroid Pocket 2 Konsole"><figcaption>Funktioniert.</figcaption></figure>
 </figure>
 
+
 ## Einrichtung, Benutzung und Optimierung
 
 ### Ganz allgemein
@@ -33,7 +34,7 @@ In der Toolbox-App:
 - Das Häkchen bei »Clean background processes when standby enabled« und »Allow clean foreground processes« setzen 
 - Die Obergrenze der Hintergrundprozesse bei »Background process limit« auf »0 (no background processes)« setzen
 
-### Speziell zu den Emulatoren
+### RetroArch konfigurieren
 
 In **RetroArch** (die Version mit dem Space Invaders–Icon) muss bei einigen Playstation-Spielen, wie z. B. *Legend of Mana*, muss unter *Options* der Controller-Typ (*Pad Type*) für Player 1 auf *analog* gesetzt werden.
 
@@ -45,6 +46,8 @@ Außerdem lohnt es sich, bei reinen Gameboy-Spielen für den Core die Darstellun
 
 * Color Correction: GBC only
 
+### My Boy konfigurieren
+
 Bei **My Boy** habe ich die bei den *Video Settings* die Option *Stretch to fit screen* angewählt und das *Linear filtering* deaktiviert. Unter *Input* legt man am besten den Aufruf des Menüs auf die L2-Taste und *Fast forward* auf R2. Das *Virtual keypad* natürlich deaktiveren.
 
 ### Weitere Tipps und Anleitungen
@@ -54,6 +57,7 @@ Bei **My Boy** habe ich die bei den *Video Settings* die Option *Stretch to fit 
 - Eigenen Screen-Protector machen: [A tutorial on how to make your own screen protector for Retroid Pocket 2](https://youtu.be/1f4VvxRQUkA)
 - RetroArch-Besonderheiten: [A Brief Guide to RetroArch](https://wiki.retroidhandhelds.com/index.php?title=A_Brief_Guide_to_Retroarch)
 - DraStic DS Emulator: [Retroid Pocket 2 Nintendo DS Guide](https://retrogamecorps.com/2020/09/22/guide-nintendo-ds-on-the-retroid-pocket-2/)
+
 
 ## Firmware-Upgrade auf Android 8.1 (v3)
 
@@ -66,12 +70,14 @@ Aber seit Januar 2021 ist ein neues Android 8.1-Update »v3« verfügbar:
 
 Ein Leitfaden zur Installation liegt bei. Eine schönere Dokumentation gibt es bei Retro Game Corps: [Retroid Pocket 2 Android 8.1 Install Guide](https://retrogamecorps.com/2020/12/29/retroid-pocket-2-android-8-1-install-guide/).
 
+
 ## Familienanschluss
 
 Auch wenn das Gerät durchaus umstritten ist, gerade was die technischen Spezifikationen angeht, so gibt es doch eine lebendige Fan-Gemeinde. Regelmäßige Infos, Tipps und Neuigkeiten werden hier veröffentlicht:
 
 - Discord: [https://discord.com/invite/mnA2Ju2RZy](https://discord.com/invite/mnA2Ju2RZy)
 - Reddit: [https://www.reddit.com/r/retroid/](https://www.reddit.com/r/retroid/)
+
 
 ## Kosmetische Eingriffe
 
@@ -89,11 +95,37 @@ Drittens, wenn man auch noch ein allgemeines Emulator-Frontend benutzen möchte,
 
 - GitHub: [https://github.com/djfumberger/retromega](https://github.com/djfumberger/retromega)
 
+
 ## DIY und Reparatur
 
 Seit kurzem gibt es auch eine offizielle Seite, auf der man Ersatzteile bestellen kann, von Buttons bis zur Schale.
 
 - RETROID: [https://www.goretroid.com/collections/diy](https://www.goretroid.com/collections/diy)
+
+
+## Probleme beheben
+
+### RetroArch: Favoriten lassen sich nicht speichern
+
+Wenn sich in in RetroArch Spiele nicht zu den Favoriten hinzufügen lassen (und dies auch nicht funktioniert, während das Spiel geöffnet, also der Core geladen ist) und die Historie nicht gespeichert wird, dann liegt es möglicherweise an fehlenden Schreibberechtigungen für die entsprechenden Listendateien.
+
+Dieses Problem lässt sich durch anpassen der Pfade in der Konfigurations-Datei beheben.
+
+Die Konfiguration ist in der `retroarch.cfg`-Datei gespeichert. Diese befindet sich hier:
+
+```
+/Internal shared storage/Android/data/com.retroarch/files/retroarch.cfg
+```
+
+Dann die Pfade für Historie und Favoriten anpassen und z. B. auf die SD-Karte lenken.
+
+```
+content_history_path = "/storage/sdcard1/RetroArch/content_history.lpl"
+content_favorites_path = "/storage/sdcard1/RetroArch/content_favorites.lpl"
+```
+
+Die Lösung stammt von [JFCG4mer auf Reddit](https://www.reddit.com/r/retroid/comments/kqzu3c/comment/gi7avz2/?utm_source=share&utm_medium=web2x&context=3).
+
 
 ## Nicht nur Emulation
 
