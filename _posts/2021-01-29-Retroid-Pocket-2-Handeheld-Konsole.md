@@ -71,6 +71,13 @@ Aber seit Januar 2021 ist ein neues Android 8.1-Update »v3« verfügbar:
 Ein Leitfaden zur Installation liegt bei. Eine schönere Dokumentation gibt es bei Retro Game Corps: [Retroid Pocket 2 Android 8.1 Install Guide](https://retrogamecorps.com/2020/12/29/retroid-pocket-2-android-8-1-install-guide/).
 
 
+## Alternative-Firmware: LineageOS
+
+Diese inoffizielle Version von LineageOS 15.1 ist eine Alternative für das reguläre Android 8.1. Besonders die Oberfläche läuft besser und der App-Launcher RePoLa ist standardmäßig eingerichtet. 
+
+Alle Details unter [»LineageOS on Retroid Pocket 2«](https://retrogamecorps.com/2021/03/21/lineageos-android-8-1-on-retroid-pocket-2/).
+
+
 ## Familienanschluss
 
 Auch wenn das Gerät durchaus umstritten ist, gerade was die technischen Spezifikationen angeht, so gibt es doch eine lebendige Fan-Gemeinde. Regelmäßige Infos, Tipps und Neuigkeiten werden hier veröffentlicht:
