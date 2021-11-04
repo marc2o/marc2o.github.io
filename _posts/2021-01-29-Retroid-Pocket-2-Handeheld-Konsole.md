@@ -40,11 +40,16 @@ In **RetroArch** (die Version mit dem Space Invaders–Icon) muss bei einigen Pl
 
 Außerdem lohnt es sich, bei reinen Gameboy-Spielen für den Core die Darstellungsoptionen etwas anzupassen. Besonders gut sieht es aus, wenn man unter *Options* die folgenden Einstellungen (als *Content Directory Override*) verwendet:
 
-* GB Colorization: auto
+- GB Colorization: auto
+- Internal Palette: SGB – 4H
+- Color Correction: GBC only
 
-* Internal Palette: SGB – 4H
+RetroArch und Emulations-Kerne:
 
-* Color Correction: GBC only
+- Die RetroArch-Version für den RP2: [Retroarch-1-8-4_git-release](https://www.apkmirror.com/apk/libretro/retroarch/retroarch-1-8-4_git-release/)
+- Die RetroArch Stock-Cores für den RP2: [Archiv (RAR)](https://drive.google.com/file/d/1_MPYLoE6cpAGaZgmR99qtVl29Gehf_dv/view)
+- Version 1.9.0 (nicht 64-Bit!): [https://buildbot.libretro.com/stable/1.9.0/android/](https://buildbot.libretro.com/stable/1.9.0/android/)
+- Emulation Cores: [http://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/](http://buildbot.libretro.com/nightly/android/latest/armeabi-v7a/)
 
 ### My Boy konfigurieren
 
