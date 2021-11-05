@@ -60,9 +60,8 @@ Such as icons, illustrations and pixel art. Find more in [my gallery on DeviantA
 Oh, and I like to make music. Listen to more on [my profile on Soundcloud](https://soundcloud.com/marc2o) or some of [my arrangements on MuseScore](https://musescore.com/marc2o).
 
 <figure>
-    <span><iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay"
-            src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1175187820&color=%230288d1&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe></span>
-    <figcaption><a href="https://soundcloud.com/marc2o/sets/musicbox" title="Musicbox" target="_blank">A playlist</a>
+    <span><iframe style="border: 0; width: 100%; height: 241px;" src="https://bandcamp.com/EmbeddedPlayer/album=2367443789/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://marc2o.bandcamp.com/album/nano">nano by marc2o</a></iframe></span>
+    <figcaption><a href="https://marc2o.bandcamp.com/album/nano" title="marc2o nano" target="_blank">nano</a>
     </figcaption>
 </figure>
 
