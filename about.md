@@ -71,7 +71,7 @@ Oh, and I like to make music. Listen to more on [my profile on Bandcamp](https:/
     </figcaption>
   </figure>
   <figure>
-    <span style="width:min-content;"><iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=686784515/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://marc2o.bandcamp.com/track/paniola-ranch">Paniola Ranch by marc2o</a></iframe></span>
+    <span style="width:min-content;"><iframe style="border: 0; width: 350px; height: 555px;" src="https://bandcamp.com/EmbeddedPlayer/track=686784515/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://marc2o.bandcamp.com/track/paniola-ranch">Paniola Ranch by marc2o</a></iframe></span>
   	<figcaption><a href="https://marc2o.bandcamp.com/track/paniola-ranch" title="marc2o Paniola Ranch" target="_blank">Paniola Ranch Theme</a>
     </figcaption>
   </figure>
