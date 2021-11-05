@@ -59,13 +59,13 @@ Such as icons, illustrations and pixel art. Find more in [my gallery on DeviantA
 
 Oh, and I like to make music. Listen to more on [my profile on Bandcamp](https://marc2o.bandcamp.com) or some of [my arrangements on MuseScore](https://musescore.com/marc2o).
 
-<figure class="gallery" style="display: flex; flex-direction: row; flex-wrap: nowrap;">
+<figure class="gallery" style="display: flex; flex-direction: row; flex-wrap: nowrap; height: max-content;">
   <figure style="display: flex; flex-direction: column; justify-content: space-between;">
     <span style="width:min-content;"><iframe style="border: 0; width: 350px; height: 555px;" src="https://bandcamp.com/EmbeddedPlayer/album=2367443789/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://marc2o.bandcamp.com/album/nano">nano by marc2o</a></iframe></span>
     <figcaption><a href="https://marc2o.bandcamp.com/album/nano" title="marc2o nano" target="_blank">nano</a>
     </figcaption>
   </figure>
-  <figure style="display: flex; flex-direction: column; justify-content: space-between;">
+  <figure style="width: min-content; display: flex; flex-direction: column; justify-content: space-between;">
     <span style="width:min-content;"><iframe style="border: 0; width: 350px; height: 555px;" src="https://bandcamp.com/EmbeddedPlayer/album=693831173/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://marc2o.bandcamp.com/album/diminvtiv">DIMINVTIV by marc2o</a></iframe></span>
     <figcaption><a href="https://marc2o.bandcamp.com/album/diminvtiv" title="marc2o diminvtiv" target="_blank">DIMINVTIV</a>
     </figcaption>
