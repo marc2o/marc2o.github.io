@@ -61,17 +61,17 @@ Oh, and I like to make music. Listen to more on [my profile on Bandcamp](https:/
 
 <figure class="gallery">
   <figure>
-    <span><iframe style="border: 0; width: 350px; height: 555px;" src="https://bandcamp.com/EmbeddedPlayer/album=2367443789/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://marc2o.bandcamp.com/album/nano">nano by marc2o</a></iframe></span>
+    <span style="width:min-content;"><iframe style="border: 0; width: 350px; height: 555px;" src="https://bandcamp.com/EmbeddedPlayer/album=2367443789/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://marc2o.bandcamp.com/album/nano">nano by marc2o</a></iframe></span>
     <figcaption><a href="https://marc2o.bandcamp.com/album/nano" title="marc2o nano" target="_blank">nano</a>
     </figcaption>
   </figure>
   <figure>
-    <span><iframe style="border: 0; width: 350px; height: 555px;" src="https://bandcamp.com/EmbeddedPlayer/album=693831173/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://marc2o.bandcamp.com/album/diminvtiv">DIMINVTIV by marc2o</a></iframe></span>
+    <span style="width:min-content;"><iframe style="border: 0; width: 350px; height: 555px;" src="https://bandcamp.com/EmbeddedPlayer/album=693831173/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://marc2o.bandcamp.com/album/diminvtiv">DIMINVTIV by marc2o</a></iframe></span>
     <figcaption><a href="https://marc2o.bandcamp.com/album/diminvtiv" title="marc2o diminvtiv" target="_blank">DIMINVTIV</a>
     </figcaption>
   </figure>
   <figure>
-    <span><iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=686784515/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://marc2o.bandcamp.com/track/paniola-ranch">Paniola Ranch by marc2o</a></iframe></span>
+    <span style="width:min-content;"><iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=686784515/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://marc2o.bandcamp.com/track/paniola-ranch">Paniola Ranch by marc2o</a></iframe></span>
   	<figcaption><a href="https://marc2o.bandcamp.com/track/paniola-ranch" title="marc2o Paniola Ranch" target="_blank">Paniola Ranch Theme</a>
     </figcaption>
   </figure>
