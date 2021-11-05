@@ -10,6 +10,18 @@ image: /images/marc2o-r66.jpg
 
 Such as icons, illustrations and pixel art. Find more in [my gallery on DeviantArt](https://www.deviantart.com/marc2o) or on [my Figma-Profile](https://www.figma.com/@marc2o).
 
+<styles>
+  figure.gallery {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+  }
+  figure.gallery>figure {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+</styles>
 <figure class="gallery">
     <figure>
         <img src="/images/icon.joystick.png" alt="joystick">
