@@ -14,8 +14,12 @@ author:
   bio: "Wonderer. Geek. Human(e) being."
   location: "Hannover, Germany"
 
+highlighter: rouge
 encoding: "utf-8"
 markdown: "kramdown"
+
+kramdown:
+  syntax_highlighter: rouge
 
 # the paginator plugin only works in an index.html!
 plugins:
