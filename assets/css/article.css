@@ -17,6 +17,9 @@
     --marked-width: 42rem;
 }
 
+@import url('monokai.css') screen and (prefers-color-scheme: dark);
+@import url('github.css') screen and (prefers-color-scheme: light);
+
 @media (prefers-color-scheme: dark) {
     :root {
         --spot-color: #0270ac;
