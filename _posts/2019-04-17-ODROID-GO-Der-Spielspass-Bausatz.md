@@ -124,6 +124,7 @@ Erstmal alles herunterladen und installieren. Dazu werden die folgenden Dinge be
 Nachdem Homebrew und die Treiber erfolgreich installiert wurden, diese Zeilen im Terminal ausführen, um Python und das esptool zu installieren:
 
 {% highlight bash %}
+
 ```bash
 brew install python3
 sudo easy_install pip
@@ -131,6 +132,7 @@ sudo pip install esptool
 # und falls es später die Rückmeldung 'No module named esptool' gibt:
 sudo pip3 install esptool
 ```
+
 {% endhighlight %}
 
 Jetzt den ODROID-GO mittels eines USB-Kabels an den Mac anschließen und einschalten.
