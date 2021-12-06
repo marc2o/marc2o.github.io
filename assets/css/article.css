@@ -115,8 +115,10 @@ code {
 }
 
 pre {
+    /*
     color: var(--text-color);
     background-color: var(--alt-fill-color);
+    */
     overflow-x: auto;
 }
 
