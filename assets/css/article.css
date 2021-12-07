@@ -547,7 +547,7 @@ ul.about>li:nth-child(1) {
 .highlight .nf { color: #990000; font-weight: bold } /* Name.Function */
 .highlight .nl { color: #990000; font-weight: bold } /* Name.Label */
 .highlight .nn { color: #555555 } /* Name.Namespace */
-.highlight .nt { color: #003cd5 } /* Name.Tag */
+.highlight .nt { color: #2555e2 } /* Name.Tag */
 .highlight .nv { color: #008080 } /* Name.Variable */
 .highlight .ow { color: #808080; font-weight: bold } /* Operator.Word */
 .highlight .mf { color: #009999 } /* Literal.Number.Float */
