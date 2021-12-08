@@ -108,6 +108,7 @@ Hier sammle ich ab jetzt Infos zum ODROID-GO, damit ich alles an einer Stelle ha
     </table>
 </figure>
 
+
 ## Firmware-Update auf Mac durchführen
 
 Die komplette Anleitung gibt es hier [https://forum.odroid.com/viewtopic.php?f=158&t=31562](https://forum.odroid.com/viewtopic.php?f=158&t=31562) auf Englisch. Ich habe sie Schritt für Schritt befolgt und mir trotzdem noch mal notiert. Sieht kompliziert aus, ist aber eigentlich ziemlich einfach.
@@ -197,6 +198,7 @@ Hard resetting via RTS pin...
 ```
 
 Nach der Aktualisierung startet der ODROID-GO neu und bootet direkt in die Firmware-Auswahl. Dort kann nun der Go-Play-Emulator oder andere Software installiert werden.
+
 
 ## Software für ODROID-GO
 
