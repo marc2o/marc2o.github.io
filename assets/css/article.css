@@ -15,8 +15,7 @@
     --column-width: 36rem;
     --margin-width: 1rem;
     --marked-width: 42rem;
-    
-    
+    accent-color: var(--spot-color);
 }
 
 @media (prefers-color-scheme: light ) {

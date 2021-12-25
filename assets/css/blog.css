@@ -16,6 +16,7 @@
     --margin-width: 1rem;
     --marked-width: 48rem;
     --ripples-effect: rgba(255, 255, 255, 0.2);
+    accent-color: var(--spot-color);
 }
 
 @media (prefers-color-scheme: dark) {
