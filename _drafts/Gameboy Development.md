@@ -39,6 +39,7 @@ Als erstes gilt es, die richtigen Werkzeuge für die Entwicklung zu wählen. Das
 - [NES-Hilfsprogramme](https://github.com/qalle2/nes-util)
 - [PNG2CHR](https://github.com/Taywee/png2chr) (& CHR2PNG) Python-Skripte zur Konvertierung zwischen PNG und NES-CHR-Dateien
 - [CHRxPNG](https://) ist mein eigenes Tool, um aus PNGs CHRs zu machen und umgekehrt
+- [NES Lightbox](https://famicom.party/neslightbox/)
 - [CA65-Guide](https://www.cc65.org/doc/ca65.html)
 - [NESdev-Wiki](https://wiki.nesdev.org/w/index.php?title=Nesdev_Wiki)
 - [NESdev-Foren](https://forums.nesdev.org/viewforum.php?f=24&sid=a9934fbaae1b2d65890083f38ac5db6b)
