@@ -9,7 +9,7 @@ language: en-US
 
 I’m Marc, somewhat creative and I love making stuff. Digitally as well as for real. My super powers are to spot what’s missing, simplify what’s complex, and explain both easily comprehensible.
 
-## See, listen and play
+## Watch, listen and play
 
 <figure class="gallery">
     <figure>
