@@ -280,12 +280,6 @@ figure .badge {
 	vertical-align: baseline;
 }
 
-/*
-figure>figure:last-child .badge {
-    right: 1rem;
-}
-*/
-
 div.posts>ul>li span.image>img {
     display: block;
     width: 64vmin;
