@@ -25,7 +25,7 @@ I’m Marc, somewhat creative and I love making stuff. Digitally as well as for 
         </figcaption>
         </a>
     </figure><figure>
-        <a href="https://soundcloud.com/marc2o/ruhemodus" target="_blank"><img src="/images/soundcloud.ruhemodus.png" alt="Listen to Ruhemodus on Soundcloud">
+        <a href="https://marc2o.bandcamp.com/album/nano" target="_blank"><img src="/images/bandcamp.nano.png" alt="Listen to nano on Bandcamp">
         <figcaption>
             Ruhemodus <span class="badge">music</span>
         </figcaption>

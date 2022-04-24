@@ -96,7 +96,7 @@ Oh, and I like to make music. Listen to more on [my profile on Bandcamp](https:/
 
 ## Play
 
-I like to code, espcially in Lua (LÖVE2D and PICO-8) and C# (MonoGame), and combine pixels with fun.
+I like to code, espcially in Lua (LÖVE2D and PICO-8), C# (MonoGame) and Rust (SDL2), and combine pixels with fun.
 
 <figure>
     <span><iframe frameborder="0" src="https://itch.io/embed-upload/270605?color=101010" allowfullscreen="" width="100%" height="660"><a href="https://marc2o.itch.io/cessare">Play Cessare on itch.io</a></iframe></span>
