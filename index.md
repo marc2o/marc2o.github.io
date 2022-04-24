@@ -25,7 +25,7 @@ I’m Marc, somewhat creative and I love making stuff. Digitally as well as for 
         </figcaption>
         </a>
     </figure><figure>
-        <a href="https://marc2o.bandcamp.com/album/nano" target="_blank"><img src="/images/bandcamp.nano.png" alt="Listen to nano on Bandcamp">
+        <a href="https://marc2o.bandcamp.com/album/nano" target="_blank"><img src="/images/bandcamp.nano.jpg" alt="Listen to nano on Bandcamp">
         <figcaption>
             nano <span class="badge">music</span>
         </figcaption>
