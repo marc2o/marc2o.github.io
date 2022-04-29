@@ -29,6 +29,7 @@
 }
 
 [data-theme='lite'] {
+    --spot-color: #0288d1;
     --text-color: #424242;
     --fill-color: #ffffff;
     --alt-fill-color: #f1f1f1;
@@ -36,6 +37,7 @@
 }
 
 [data-theme='dark'] {
+    --spot-color: #02a6ff;
     --text-color: #ffffff;
     --fill-color: #212121;
     --alt-fill-color: #1c1c1c;
