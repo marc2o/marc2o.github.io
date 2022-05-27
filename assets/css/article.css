@@ -293,6 +293,7 @@ table {
 	margin-right: auto;
 	min-width: 100%;
 	width: 100%;
+    max-width: var(--outer-width);
 	page-break-inside: auto;
 
 }
