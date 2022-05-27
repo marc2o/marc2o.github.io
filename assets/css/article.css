@@ -425,7 +425,7 @@ ul.follow li {
     padding: .2rem;
     margin: .2rem .15rem;
     border-radius: 33%;
-    background: var(--alt-fill-color);
+    background: var(--fill-color);
     cursor: pointer;
 }
 
@@ -455,7 +455,6 @@ ul.about {
 }
 
 ul.about>li {
-    font-size: 85%;
     line-height: 150%;
     margin: 0;
     font-family: var(--spot-font);
