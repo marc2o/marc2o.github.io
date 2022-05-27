@@ -24,7 +24,7 @@ Auch das anschließende *customizen* war relativ einfach. Ich wollte, nachdem ic
 
 Die Buttons gibt es bei [Retro Modding](https://www.retromodding.com/collections/gameboy-pocket/products/gameboy-pocket-buttons). Es müssen die vom Gameboy Pocket sein; die normalen sind zu groß. Ich musste allerdings trotzdem noch ein bisschen feilen, damit die Knöpfe leichtgängiger werden und besser rutschen. Das Steuerkreuz passte hingegen gleich wie angegossen.
 
-<figure class="gallery">
+<figure>
     <figure><img src="/images/odroid-go-assembly-1.jpg" alt=""><figcaption>Viele Einzelteile</figcaption></figure>
     <figure><img src="/images/odroid-go-assembly-2.jpg" alt=""><figcaption>Die alternativen Buttons zurecht fummeln, damit sie in die Aussparungen passen</figcaption></figure>
     <figure><img src="/images/odroid-go-assembly-3.jpg" alt=""><figcaption>Probehalber zusammenschrauben</figcaption></figure>
@@ -128,6 +128,7 @@ Nachdem Homebrew und die Treiber erfolgreich installiert wurden, diese Zeilen im
 brew install python3
 sudo easy_install pip
 sudo pip install esptool
+
 # und falls es später die Rückmeldung 'No module named esptool' gibt:
 sudo pip3 install esptool
 ```
