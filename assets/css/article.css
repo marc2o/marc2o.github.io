@@ -104,6 +104,7 @@ a:hover,
 a:active,
 a:visited {
 	color: var(--link-color);
+    word-break: break-word;
 }
 
 article {
