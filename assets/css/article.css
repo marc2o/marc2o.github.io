@@ -418,14 +418,14 @@ ul.follow {
     padding: .5rem 0;
 }
 
-ul.follow li {
+ul.follow li:not(:first-child) {
     display: inline-block;
     vertical-align: bottom;
     text-align: center;
-    padding: .2rem;
-    margin: .2rem .15rem;
-    border-radius: 33%;
-    background: var(--fill-color);
+    padding: 0;
+    margin: 0 0 0 .5rem;
+    border-radius: 20%;
+    background: var(--text-color);
     cursor: pointer;
 }
 
@@ -440,11 +440,11 @@ ul.follow svg {
 }
 
 ul.follow svg g {
-    fill: var(--text-color);
+    fill: var(--back-color);
 }
 
 ul.follow svg g#Codepen path {
-    stroke: var(--text-color);
+    stroke: var(--back-color);
 }
 
 /* about box */
