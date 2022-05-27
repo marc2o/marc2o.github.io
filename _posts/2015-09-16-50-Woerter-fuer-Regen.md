@@ -27,7 +27,10 @@ Besonders hat es dem norddeutschen Nörgler ja der Regen angetan. Regen wirkt n�
 
 ### B
 
-**Bindfäden regnen** _ugs._ Starker regen, dessen kleinere Tropfen so dicht aufeinander folgen, dass sie wie Linien wirken: »Es regnet Bindfäden.« Häufige Eigenschaft von _Platzregen_.
+<dl>
+    <dt>**Bindfäden regnen**</dt>
+    <dd>_ugs._ Starker regen, dessen kleinere Tropfen so dicht aufeinander folgen, dass sie wie Linien wirken: »Es regnet Bindfäden.« Häufige Eigenschaft von _Platzregen_.</dd>
+</dl>
 
 ### D
 
