@@ -261,6 +261,12 @@ nav>ul>li:not(:last-child) {
 p {
 	line-height: calc(1ex / 0.32)
 }
+
+p.meta {
+    font-family: var(--spot-text);
+    font-size: 85%;
+}
+
 pre {
 	width: 100%;
 	overflow-x: auto;
