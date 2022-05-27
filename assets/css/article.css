@@ -291,9 +291,8 @@ table {
 	overflow-x: auto;
 	margin-left: auto;
 	margin-right: auto;
-	min-width: 100%;
+    min-width: var(--outer-width);
 	width: 100%;
-    max-width: var(--outer-width);
 	page-break-inside: auto;
 
 }
