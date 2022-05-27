@@ -452,6 +452,7 @@ ul.about {
     list-style: none;
     padding: 0;
     margin-top: 1rem;
+    margin-bottom: 1rem;
 }
 
 ul.about>li {
