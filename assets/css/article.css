@@ -160,6 +160,7 @@ figure {
 
 figure>figure {
 	display: inline-block;
+	vertical-align: top;
 	width: min-content;
 }
 
@@ -173,9 +174,11 @@ figure>figure>img {
 }
 
 figcaption {
+	display: block;
 	font-family: var(--spot-font);
 	font-size: 0.85em;
 	text-align: center;
+	white-space: normal;
 }
 
 footer {
@@ -403,9 +406,6 @@ th {
     page-break-after: avoid;
   }
 }
-
-
-
 
 
 
