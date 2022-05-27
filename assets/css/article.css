@@ -415,7 +415,7 @@ th {
 ul.follow {
     list-style: none;
     margin: 0;
-    padding: .5rem 0;
+    padding: 0;
 }
 
 ul.follow li:not(:first-child) {
