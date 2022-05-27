@@ -156,7 +156,7 @@ dd+dd {
 }
 
 figure,
-div {
+div[class^='language-'] {
     margin-top: 1rem;
 	grid-column: 1 / 4;
 	white-space: nowrap;
