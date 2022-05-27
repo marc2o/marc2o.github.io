@@ -426,7 +426,7 @@ th {
 /* follow */
 ul.follow {
     list-style: none;
-    margin: 3rem 0 0 0;
+    margin: 2.5rem 0 0 0;
     padding: 0;
 }
 
@@ -439,6 +439,10 @@ ul.follow>li:not(:last-child) {
     border-radius: 20%;
     background: var(--text-color);
     cursor: pointer;
+}
+
+ul.follow>li {
+    margin-top: 0.5rem;
 }
 
 ul.follow li a {
