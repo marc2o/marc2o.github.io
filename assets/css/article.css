@@ -450,11 +450,14 @@ ul.follow svg g#Codepen path {
 /* about box */
 ul.about {
     list-style: none;
+    padding: 0;
+    margin-top: 1rem;
 }
 
 ul.about>li {
     font-size: 85%;
     line-height: 150%;
+    margin: 0;
     font-family: var(--spot-font);
 }
 
