@@ -17,7 +17,7 @@ Auf der dual-boot-fähigen Konsole läuft wahlweise Android 6 bzw. 8.1 (nach Upg
 
 Für mich ist die Konsole momentan einfach die schönste Möglichkeit, meine Lieblings-Spiele vom NES, SNES und Mega Drive wieder zu erleben.
 
-<figure class="gallery">
+<figure>
     <figure><img src="/images/rp2-foto-1.jpg" alt="Retroid Pocket 2 Konsole"><figcaption>Formschön.</figcaption></figure>
     <figure><img src="/images/rp2-foto-2.jpg" alt="Retroid Pocket 2 Konsole"><figcaption>Die Buttons fühlen sich gut an.</figcaption></figure>
     <figure><img src="/images/rp2-foto-3.jpg" alt="Retroid Pocket 2 Konsole"><figcaption>Liegt gut in der Hand. </figcaption></figure>
