@@ -152,6 +152,7 @@ dd+dd {
 }
 
 figure {
+    margin-top: 1rem;
 	grid-column: 1 / 4;
 	white-space: nowrap;
 	overflow-x: auto;
@@ -185,6 +186,7 @@ footer {
 	margin-top: 2rem;
 	padding-bottom: 2rem;
 	font-size: 85%;
+    font-family: var(--spot-font);
 }
 
 h1,
@@ -448,15 +450,15 @@ ul.follow svg g#Codepen path {
 /* about box */
 ul.about {
     list-style: none;
-    background: var(--alt-fill-color);
+    background: var(--fill-color);
     padding: 1em;
     margin-top: 2rem;
 }
 
 ul.about>li {
-    font-size: 90%;
+    font-size: 85%;
     line-height: 150%;
-    font-family: "Open Sans", sans-serif;
+    font-family: var(--spot-font);
 }
 
 ul.about>li:nth-child(1) {
