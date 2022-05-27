@@ -235,6 +235,7 @@ header>picture>img {
 
 img {
   width: 100%;
+  max-width: var(--outer-width);
 }
 
 nav {
