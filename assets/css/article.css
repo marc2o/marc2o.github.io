@@ -450,9 +450,6 @@ ul.follow svg g#Codepen path {
 /* about box */
 ul.about {
     list-style: none;
-    background: var(--fill-color);
-    padding: 1em;
-    margin-top: 2rem;
 }
 
 ul.about>li {
