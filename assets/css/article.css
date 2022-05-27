@@ -155,7 +155,8 @@ dd+dd {
 		text-indent: 1em;
 }
 
-figure {
+figure,
+div {
     margin-top: 1rem;
 	grid-column: 1 / 4;
 	white-space: nowrap;
