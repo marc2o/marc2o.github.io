@@ -214,8 +214,9 @@ header {
 	display: flex;
 	flex-flow: column;
 	align-content center;
-  width: 100%;
+    width: 100%;
 	overflow: hidden;
+    border-bottom: 1px solid var(--text-color);
 }
 
 header>picture {
