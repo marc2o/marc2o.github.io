@@ -204,7 +204,7 @@ h1 {
 	font-size: 180%;
 	align-self: center;
 	text-align: center;
-	padding: 0 1rem;
+	padding: 0 1rem 1rem 1rem;
 }
 
 h2 {
@@ -335,6 +335,7 @@ th {
 	header>picture,
 	header>h1 {
 		flex-basis: 50%;
+        padding-bottom: 0;
 	}
 
 	header {
