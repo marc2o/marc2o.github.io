@@ -117,7 +117,8 @@ article {
 }
 
 article>*,
-footer>* {
+footer>*,
+article>div[class^='language-'] {
 	margin-top: 1rem;
 	grid-column: 2;
 }
@@ -152,11 +153,10 @@ dd {
 	padding-left: 1em;
 }
 dd+dd {
-		text-indent: 1em;
+	text-indent: 1em;
 }
 
-figure,
-div[class^='language-'] {
+figure {
     margin-top: 1rem;
 	grid-column: 1 / 4;
 	white-space: nowrap;
