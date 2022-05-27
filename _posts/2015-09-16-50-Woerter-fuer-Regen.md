@@ -34,13 +34,23 @@ Besonders hat es dem norddeutschen Nörgler ja der Regen angetan. Regen wirkt n�
 
 ### D
 
-**Dauerregen**, der _n._ Nicht enden wollender Regen, ganz gleichmäßig von morgens bis abends. Genau die Art Wetter, die man vor allem im Herbst gern drinnen mit heißem Tee oder heißer Schokolade und Gebäck verbringt.
+<dl>
+    <dt><strong>Dauerregen</strong>, der</dt>
+    <dd><em>n.</em> Nicht enden wollender Regen, ganz gleichmäßig von morgens bis abends. Genau die Art Wetter, die man vor allem im Herbst gern drinnen mit heißem Tee oder heißer Schokolade und Gebäck verbringt.</dd>
+</dl>
+
 
 ### G
 
-**gallern** _v._ So wie _pladdern_, nur weiter südlich von Hannover.
+<dl>
+    <dt><strong>gallern</strong></dt>
+    <dd><em>v.</em> So wie <em>pladdern</em>, nur weiter südlich von Hannover.</dd>
 
-**gießen** _v._ So wie _gallern_, aber mit kleineren Tropfen.
+    <dt><strong>gießen</strong></dt>
+    <dd><em>v.</em> So wie <em>gallern</em>, aber mit kleineren Tropfen.</dd>
+</dl>
+
+
 
 ### J
 
