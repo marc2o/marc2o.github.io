@@ -336,7 +336,6 @@ th {
 	header>picture,
 	header>h1 {
 		flex-basis: 50%;
-        padding-bottom: 0;
 	}
 
 	header {
