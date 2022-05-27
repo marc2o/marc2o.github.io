@@ -82,9 +82,9 @@ th {
 	--text-color: #424242;
 	--back-color: #fafafa;
 	--fill-color: #eeeeee;
-	--code-font: monospace;
-	--flow-font: serif;
-	--spot-font: sans-serif;
+	--code-font: monospace, monospace;
+	--flow-font: 'Merriweather';
+	--spot-font: 'Open Sans';
 	--inner-width: 36em;
 	--outer-width: 40em;
 }
