@@ -35,4 +35,4 @@ tags:
 - [LÖVE](https://love2d.org/): Super 2D-Framework speziell für die Entwicklung von Spielen in Lua. Mit LÖVE lassen sich schnell Protypen bauen und Spielideen testen. Außerdem ist Lua einfach eine tolle Sprache.
 - [MonoGame](https://www.monogame.net/): Ich muss gestehen, dass C# sicher eine der besten Entwicklungen von Microsoft ist. Eine sehr schöne Sprache. Mit C# habe ich hauptsächlich angefangen, weil ich es für Unity und eben für MonoGame nutzen kann … vielleicht bringe ich ja doch noch mal irgendwann meine Spielidee zu Ende.
 - [CC65](https://cc65.github.io/): Assembler, C-Compiler und Linker für 6502-basierte Systeme — also Commodore 64, Nintendo Entertainment System … alles was wichtig ist. Ich nutze vor allem den CA65 für NES-Entwicklung.
-- [Rust](https://www.rust-lang.org): …
+- [Rust](https://www.rust-lang.org): Ich mag die Sprache, da sie, ebenso wie meine Lieblingssprache Lua, Funktions-zentriert ist. Mir gefällt außerdem, dass es man wirklich bei 0 anfangen kann und recht wenig Abstand zum »Metall« besteht. In Verbindung mit [SDL2](https://www.libsdl.org/) baue ich damit gerade meine eigene, rudimentäre Game Engine.
