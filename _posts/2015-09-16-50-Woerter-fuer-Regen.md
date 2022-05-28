@@ -54,46 +54,76 @@ Besonders hat es dem norddeutschen Nörgler ja der Regen angetan. Regen wirkt n�
 
 ### J
 
-**Junge Hunde regnen** _ugs._ Verwandt mit dem englischen _it's raining cats and dogs_. Wenn es eben _in Strömen_ regnet, mit dicken, großen Tropfen. Häufig genau das Wetter, bei dem man nicht mal den Hund vor die Tür schicken würde.
+<dl>
+    <dt><strong>Junge Hunde regnen</strong></dt>
+    <dd><em>ugs.</em> Verwandt mit dem englischen <em>it's raining cats and dogs</em>. Wenn es eben <em>in Strömen</em> regnet, mit dicken, großen Tropfen. Häufig genau das Wetter, bei dem man nicht mal den Hund vor die Tür schicken würde.</dd>
+</dl>
 
 ### K
 
-**kübeln** _v._ Wenn es _wie aus Eimern schüttet_.
+<dl>
+    <dt><strong>kübeln</strong></dt>
+    <dd><em>v.</em> Wenn es <em>wie aus Eimern schüttet</em>.</dd>
+</dl>
 
 ### N
 
-**Nieseln**, das _n._ Feiner, ziemlich gleichförmiger Regen mit sehr kleinen Wassertröpfchen. Sieht fast aus wie Nebel, ist nur viel nasser. Leichter Nieselregen bei 5°C ist häufig das Standardwetter in Hannover von November bis Januar.
+<dl>
+    <dt><strong>Nieseln</strong>, das</dt>
+    <dd><em>n.</em> Feiner, ziemlich gleichförmiger Regen mit sehr kleinen Wassertröpfchen. Sieht fast aus wie Nebel, ist nur viel nasser. Leichter Nieselregen bei 5°C ist häufig das Standardwetter in Hannover von November bis Januar.</dd>
+</dl>
 
 ### P
 
-**pladdern** _v._ Starker Regen, benannt nach der Geräuschkulisse, die er erzeugt.
+<dl>
+    <dt><strong>pladdern</strong></dt>
+    <dd><em>v.</em> Starker Regen, benannt nach der Geräuschkulisse, die er erzeugt.</dd>
 
-**plästern** _v._ Mit langem ä. Stürmischer Regen mit großen Tropfen, bei dem Schirme nichts nutzen.
+    <dt><strong>plästern</strong></dt>
+    <dd><em>v.</em> Mit langem ä. Stürmischer Regen mit großen Tropfen, bei dem Schirme nichts nutzen.</dd>
 
-**Platzregen**, der _n._ Ein _heftiger Schauer_ mit großen Tropfen und hoher Intensität, der u. U. plötzlich beginnt und nur kurz andauert. Meist ist man nass, bevor man den Schirm geöffnet hat.
+    <dt><strong>Platzregen</strong>, der</dt>
+    <dd><em>n.</em> Ein <em>heftiger Schauer_ mit großen Tropfen und hoher Intensität, der u. U. plötzlich beginnt und nur kurz andauert. Meist ist man nass, bevor man den Schirm geöffnet hat.</dd>
+</dl>
 
 ### S
 
-**Schauer**, der _n._ Ein kurzer Regenguss, der von leicht bis heftig (siehe _Platzregen_) reichen kann. Besonders faszinierend sind lokale Schauer, wenn drum herum die Sonne scheint. Der Begriff des Schauers wird von Fernseh-Meteorologen vor allem im Sommer verwendet, um uns die Hoffnung auf einen schönen, sonnigen Tag nicht gänzlich zu nehmen.
+<dl>
+    <dt><strong>Schauer</strong>, der</dt>
+    <dd><em>n.</em> Ein kurzer Regenguss, der von leicht bis heftig (siehe <em>Platzregen_) reichen kann. Besonders faszinierend sind lokale Schauer, wenn drum herum die Sonne scheint. Der Begriff des Schauers wird von Fernseh-Meteorologen vor allem im Sommer verwendet, um uns die Hoffnung auf einen schönen, sonnigen Tag nicht gänzlich zu nehmen.</dd>
 
-**Schietwetter**, das _n._ Regenwetter, gern auch mit stürmischem Wind, vor allem in Hamburg, aber auch im restlichen Norden Deutschlands.
+    <dt><strong>Schietwetter</strong>, das</dt>
+    <dd><em>n.</em> Regenwetter, gern auch mit stürmischem Wind, vor allem in Hamburg, aber auch im restlichen Norden Deutschlands.</dd>
 
-**schütten** _v._ Starker _Wolkenbruch_, bei dem es wie verrückt _kübelt_ oder eben wie _aus Eimern schüttet_.
+    <dt><strong>schütten</strong></dt>
+    <dd><em>v.</em> Starker <em>Wolkenbruch_, bei dem es wie verrückt <em>kübelt</em> oder eben wie <em>aus Eimern schüttet</em>.</dd>
 
-**sintflutartiger Regen**, der _n._ Ein sehr starker _Schauer_ oder auch *Platzregen* biblischen Ausmaßes. Häufig gefolgt von voll gelaufenen Kellern und angespülten jungen Hunden.
+    <dt><strong>sintflutartiger Regen</strong>, der</dt>
+    <dd><em>n.</em> Ein sehr starker <em>Schauer</em> oder auch *Platzregen* biblischen Ausmaßes. Häufig gefolgt von voll gelaufenen Kellern und angespülten jungen Hunden.</dd>
 
-**Sommerregen**, der _n._ Die vielleicht erotischte Art Regenschauer, bei der man barfuß und ohne T-Shirt durch die Straße läuft; die angenehm lauwarme Dusche von oben an einem heißen Tag, z. B. vor einem Sommergewitter.
+    <dt><strong>Sommerregen</strong>, der</dt>
+    <dd><em>n.</em> Die vielleicht erotischte Art Regenschauer, bei der man barfuß und ohne T-Shirt durch die Straße läuft; die angenehm lauwarme Dusche von oben an einem heißen Tag, z. B. vor einem Sommergewitter.</dd>
 
-**Spargelregen**, der _n._ Kurze _Schauer_ im sonst sonnig milden Frühlingswetter im April und Mai. Gern gesehen von Spargelbauern und Spargelessern, weil damit der Spargel gut wächst und nicht zu teuer wird.
+    <dt><strong>Spargelregen</strong>, der</dt>
+    <dd><em>n.</em> Kurze <em>Schauer</em> im sonst sonnig milden Frühlingswetter im April und Mai. Gern gesehen von Spargelbauern und Spargelessern, weil damit der Spargel gut wächst und nicht zu teuer wird.</dd>
 
-**Sprühregen**, der _n._ Allzu faktische Beschreibung von norddeutschem Schietwetter. Siehe auch _Nieseln_.
+    <dt><strong>Sprühregen</strong>, der</dt>
+    <dd><em>n.</em> Allzu faktische Beschreibung von norddeutschem Schietwetter. Siehe auch <em>Nieseln</em>.</dd>
 
-**in Strömen regnen** _ugs._ Wenn es _wie aus Eimern schüttet_, aber die Tropfen nicht dicht genug aufeinander folgen für _Bindfäden_ und nicht dick und groß genug sind für _Junge Hunde_.
+    <dt><strong>in Strömen regnen</strong></dt>
+    <dd><em>ugs.</em> Wenn es <em>wie aus Eimern schüttet_, aber die Tropfen nicht dicht genug aufeinander folgen für <em>Bindfäden</em> und nicht dick und groß genug sind für <em>Junge Hunde</em>.</dd>
+</dl>
+
+
 
 ### W
 
-**wie aus Eimern schütten** _ugs._ Wenn es _wie aus Eimern schüttet_ oder _wie aus Kübeln gießt_, dann ist das ein wahrer _Wolkenbruch_.
+<dl>
+    <dt><strong>wie aus Eimern schütten</strong></dt>
+    <dd><em>ugs.</em> Wenn es <em>wie aus Eimern schüttet</em> oder <em>wie aus Kübeln gießt</em>, dann ist das ein wahrer <em>Wolkenbruch</em>.</dd>
 
-**Wolkenbruch**, der _n._ Wenn es _schüttet wie aus Eimern_ und der Ausdruck _Platzregen_ nicht stark genug ist.
+    <dt><strong>Wolkenbruch</strong>, der</dt>
+    <dd><em>n.</em> Wenn es <em>schüttet wie aus Eimern</em> und der Ausdruck <em>Platzregen</em> nicht stark genug ist.</dd>
+</dl>
 
 Dieses kurze Glossar zeigt doch unser sehr gestörtes Verhältnis zum Regen. Kein Hannoveraner würde einen Regentanz aufführen. Außer vor Wut. Dabei gibt es doch an und für sich gar kein schlechtes Wetter. Nur die falsche Kleidung. — Und nächstes Jahr kommen Wasserpflanzen auf die Terrasse!
