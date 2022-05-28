@@ -78,7 +78,7 @@ th {
 
 :root {
 	--spot-color: #757575;
-	--link-color: #0091ea;
+	--link-color: #0288d1;
 	--text-color: #424242;
 	--back-color: #fafafa;
 	--fill-color: #eeeeee;
@@ -92,7 +92,7 @@ th {
 @media (prefers-color-scheme: dark) {
 	:root {
 		--spot-color: #9e9e9e;
-		--link-color: #0091ea;
+		--link-color: #0288d1;
 		--text-color: #eeeeee;
 		--back-color: #212121;
 		--fill-color: #1b1b1b;
