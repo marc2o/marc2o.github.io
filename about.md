@@ -79,14 +79,14 @@ Oh, and I like to make music. Listen to more on [my profile on Bandcamp](https:/
 
 <figure>
     <figure>
-        <span style"width:48rem;"><iframe width="100%" height="100%" src="https://musescore.com/user/8006541/scores/6184657/embed"
+        <span style="width:48rem;"><iframe width="100%" height="100%" src="https://musescore.com/user/8006541/scores/6184657/embed"
                 frameborder="0" allowfullscreen allow="autoplay; fullscreen"></iframe></span>
         <figcaption><a href="https://musescore.com/user/8006541/scores/6184657" target="_blank">Pokémon Sun & Moon
                 Paniola Ranch
                 Theme</a></figcaption>
     </figure>
     <figure>
-        <span style"width:48rem;"><iframe width="100%" height="100%" src="https://musescore.com/user/8006541/scores/4477501/embed"
+        <span style="width:48rem;"><iframe width="100%" height="100%" src="https://musescore.com/user/8006541/scores/4477501/embed"
                 frameborder="0" allowfullscreen allow="autoplay; fullscreen"></iframe></span>
         <figcaption><a href="https://musescore.com/user/8006541/scores/4477501" target="_blank">Pokémon Red, Blue and
                 Yellow –
