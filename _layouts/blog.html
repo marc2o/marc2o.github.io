@@ -34,76 +34,14 @@
 </head>
 
 <body>
-  <div class="topOrLeft">
-    <header>
-      <div class="background-animation">
-        <svg width="100%" height="100%" viewBox="0 0 256 256" preserveAspectRatio="xMinYMin slice"
-          xmlns="http://www.w3.org/2000/svg">
-          <defs>
-            <style type="text/css">
-              .ripples circle {
-                fill: transparent;
-                stroke: rgba(255, 255, 255, 0.2);
-                stroke: var(--ripples-effect);
-              }
-            </style>
-          </defs>
-          <g class="ripples">
-            <!-- using SMIL since CSS can't animate r -->
-            <circle cx="50" cy="50" r="2" stroke-width="0">
-              <animate attributeName="r" begin="0s" dur="3s" repeatCount="indefinite" from="2" to="32" />
-              <animate attributeName="stroke-width" begin="0s" dur="3s" repeatCount="indefinite" from="0.8" to="0" />
-            </circle>
-            <circle cx="150" cy="150" r="2" stroke-width="0">
-              <animate attributeName="r" begin="1.1s" dur="3s" repeatCount="indefinite" from="2" to="32" />
-              <animate attributeName="stroke-width" begin="1.1s" dur="3s" repeatCount="indefinite" from="0.8" to="0" />
-            </circle>
-            <circle cx="30" cy="180" r="2" stroke-width="0">
-              <animate attributeName="r" begin="2.2s" dur="3s" repeatCount="indefinite" from="2" to="40" />
-              <animate attributeName="stroke-width" begin="2.2s" dur="3s" repeatCount="indefinite" from="0.8" to="0" />
-            </circle>
-            <circle cx="90" cy="80" r="2" stroke-width="0">
-              <animate attributeName="r" begin="3.3s" dur="3s" repeatCount="indefinite" from="2" to="32" />
-              <animate attributeName="stroke-width" begin="3.3s" dur="3s" repeatCount="indefinite" from="0.8" to="0" />
-            </circle>
-            <circle cx="120" cy="30" r="2" stroke-width="0">
-              <animate attributeName="r" begin="4.4s" dur="3s" repeatCount="indefinite" from="2" to="36" />
-              <animate attributeName="stroke-width" begin="4.4s" dur="3s" repeatCount="indefinite" from="0.8" to="0" />
-            </circle>
-            <circle cx="210" cy="200" r="2" stroke-width="0">
-              <animate attributeName="r" begin="5.5s" dur="3s" repeatCount="indefinite" from="2" to="32" />
-              <animate attributeName="stroke-width" begin="5.5s" dur="3s" repeatCount="indefinite" from="0.8" to="0" />
-            </circle>
-            <circle cx="190" cy="100" r="2" stroke-width="0">
-              <animate attributeName="r" begin="6.6s" dur="3s" repeatCount="indefinite" from="2" to="24" />
-              <animate attributeName="stroke-width" begin="6.6s" dur="3s" repeatCount="indefinite" from="0.8" to="0" />
-            </circle>
-            <circle cx="70" cy="120" r="2" stroke-width="0">
-              <animate attributeName="r" begin="7.7s" dur="3s" repeatCount="indefinite" from="2" to="32" />
-              <animate attributeName="stroke-width" begin="7.7s" dur="3s" repeatCount="indefinite" from="0.8" to="0" />
-            </circle>
-          </g>
-        </svg>
-      </div>
-      <span class="title">{{ page.title | default: site.title | default: site.github.repository_name }}</span>
-      {% if site.github.is_project_page %}
-      <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
-      {% endif %}
-      {% if site.show_downloads %}
-      <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
-      <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
-      {% endif %}
-      <a href="/" class="button">
-        <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 26 24" fill="none"
-            stroke="#424242" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-            <path d="M15 18l-6-6 6-6" /></svg>
-      </a>
-      <label class="themeSwitch"><input id="DarkModeSwitch" onclick="SwitchTheme(this)"
-          type="checkbox"><span></span></label>
-    </header>
-  </div>
-  <div class="bottomOrRight">
-    <main>
+<nav>
+	<!--https://jekyllrb.com/tutorials/navigation/-->
+	<ul>
+		<li><a href="/">home</a></li>
+		<li><a href="/articles">blog</a></li>
+		<li><a href="/about.html">about</a></li>
+	</ul>
+</nav>    <main>
       <div class="posts">
         <ul>
           {% for post in site.posts %}<li>
@@ -127,28 +65,6 @@
       <p>&copy; 2021 marc2o // Marc Oliver Orth.<br>Powered by <a href="https://pages.github.com">GitHub
           Pages</a>.</p>
     </footer>
-  </div>
-  <script>
-    var $ = function (id) {
-      return document.getElementById(id);
-    };
-
-    var prefersDarkMode = window.matchMedia("(prefers-color-scheme: dark)").matches;
-
-    if (prefersDarkMode) {
-      document.getElementById('DarkModeSwitch').checked = true;
-      document.documentElement.setAttribute('data-theme', 'dark');
-    }
-
-    function SwitchTheme(element) {
-      if (element.checked) {
-        document.documentElement.setAttribute('data-theme', 'dark');
-      } else {
-        document.documentElement.setAttribute('data-theme', 'lite');
-      }
-      return false;
-    }
-  </script>
 </body>
 
 </html>
