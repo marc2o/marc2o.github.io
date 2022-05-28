@@ -175,8 +175,12 @@ figure>figure:not(:last-child) {
 }
 figure>span {
     display: block;
+    width: 100%;
+}
+figure>figure>span {
+    display: block;
     aspect-ration: 4 / 3;
-    width: 12rem;
+    width: 50%;
 }
 
 figure>figure>img {
