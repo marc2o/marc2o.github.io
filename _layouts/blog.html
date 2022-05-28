@@ -41,8 +41,7 @@
 		<li><a href="/articles">blog</a></li>
 		<li><a href="/about.html">about</a></li>
 	</ul>
-</nav>    <main>
-      <div class="posts">
+</nav>    <main class="posts">
         <ul>
           {% for post in site.posts %}<li>
             <a href="{{ post.url }}">
@@ -54,7 +53,6 @@
           </a>
           </li>{% endfor %}
         </ul>
-      </div>
     </main>
     <footer>
       {% include follow.html %}
