@@ -82,7 +82,7 @@ th {
 	--text-color: #424242;
 	--back-color: #fafafa;
 	--fill-color: #eeeeee;
-	--code-font: monospace, monospace;
+	--code-font: monospace;
 	--flow-font: "Merriweather";
 	--spot-font: "Open Sans";
 	--inner-width: 36em;
@@ -125,7 +125,7 @@ footer>* {
 h1,
 h2,
 h3 {
-	font-family: var(--spot-font);
+	font-family: var(--spot-font, sans-serif);
 	margin-top: 2rem;
 }
 
@@ -146,6 +146,7 @@ img {
 
 main.posts {
 	padding: 0 0 0 1rem;
+    font-family: var(--flow-font, serif);
 }
 main.posts>ul {
 	margin-top: -1rem;
@@ -191,7 +192,7 @@ nav a:visited {
 	line-height: 3rem;
 	color: var(--text-color);
 	text-decoration: none;
-	font-family: var(--spot-font);
+	font-family: var(--spot-font, sans-serif);
 }
 
 nav>ul {
