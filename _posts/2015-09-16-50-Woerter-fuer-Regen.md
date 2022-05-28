@@ -111,7 +111,7 @@ Besonders hat es dem norddeutschen Nörgler ja der Regen angetan. Regen wirkt n�
     <dd><em>n.</em> Allzu faktische Beschreibung von norddeutschem Schietwetter. Siehe auch <em>Nieseln</em>.</dd>
 
     <dt><strong>in Strömen regnen</strong></dt>
-    <dd><em>ugs.</em> Wenn es <em>wie aus Eimern schüttet_, aber die Tropfen nicht dicht genug aufeinander folgen für <em>Bindfäden</em> und nicht dick und groß genug sind für <em>Junge Hunde</em>.</dd>
+    <dd><em>ugs.</em> Wenn es <em>wie aus Eimern schüttet</em>, aber die Tropfen nicht dicht genug aufeinander folgen für <em>Bindfäden</em> und nicht dick und groß genug sind für <em>Junge Hunde</em>.</dd>
 </dl>
 
 
