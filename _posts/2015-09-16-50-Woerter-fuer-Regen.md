@@ -83,7 +83,7 @@ Besonders hat es dem norddeutschen Nörgler ja der Regen angetan. Regen wirkt n�
     <dd><em>v.</em> Mit langem ä. Stürmischer Regen mit großen Tropfen, bei dem Schirme nichts nutzen.</dd>
 
     <dt><strong>Platzregen</strong>, der</dt>
-    <dd><em>n.</em> Ein <em>heftiger Schauer_ mit großen Tropfen und hoher Intensität, der u. U. plötzlich beginnt und nur kurz andauert. Meist ist man nass, bevor man den Schirm geöffnet hat.</dd>
+    <dd><em>n.</em> Ein <em>heftiger Schauer</em> mit großen Tropfen und hoher Intensität, der u. U. plötzlich beginnt und nur kurz andauert. Meist ist man nass, bevor man den Schirm geöffnet hat.</dd>
 </dl>
 
 ### S
