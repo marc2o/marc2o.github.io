@@ -90,13 +90,13 @@ Besonders hat es dem norddeutschen Nörgler ja der Regen angetan. Regen wirkt n�
 
 <dl>
     <dt><strong>Schauer</strong>, der</dt>
-    <dd><em>n.</em> Ein kurzer Regenguss, der von leicht bis heftig (siehe <em>Platzregen_) reichen kann. Besonders faszinierend sind lokale Schauer, wenn drum herum die Sonne scheint. Der Begriff des Schauers wird von Fernseh-Meteorologen vor allem im Sommer verwendet, um uns die Hoffnung auf einen schönen, sonnigen Tag nicht gänzlich zu nehmen.</dd>
+    <dd><em>n.</em> Ein kurzer Regenguss, der von leicht bis heftig (siehe <em>Platzregen</em>) reichen kann. Besonders faszinierend sind lokale Schauer, wenn drum herum die Sonne scheint. Der Begriff des Schauers wird von Fernseh-Meteorologen vor allem im Sommer verwendet, um uns die Hoffnung auf einen schönen, sonnigen Tag nicht gänzlich zu nehmen.</dd>
 
     <dt><strong>Schietwetter</strong>, das</dt>
     <dd><em>n.</em> Regenwetter, gern auch mit stürmischem Wind, vor allem in Hamburg, aber auch im restlichen Norden Deutschlands.</dd>
 
     <dt><strong>schütten</strong></dt>
-    <dd><em>v.</em> Starker <em>Wolkenbruch_, bei dem es wie verrückt <em>kübelt</em> oder eben wie <em>aus Eimern schüttet</em>.</dd>
+    <dd><em>v.</em> Starker <em>Wolkenbruch</em>, bei dem es wie verrückt <em>kübelt</em> oder eben wie <em>aus Eimern schüttet</em>.</dd>
 
     <dt><strong>sintflutartiger Regen</strong>, der</dt>
     <dd><em>n.</em> Ein sehr starker <em>Schauer</em> oder auch *Platzregen* biblischen Ausmaßes. Häufig gefolgt von voll gelaufenen Kellern und angespülten jungen Hunden.</dd>
