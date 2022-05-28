@@ -180,7 +180,7 @@ figure>span {
 figure>figure>span {
     display: block;
     aspect-ration: 3 / 4;
-    min-width: 40vw;
+    max-width: 40vw;
 }
 
 figure>figure>img {
