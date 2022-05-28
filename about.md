@@ -10,7 +10,7 @@ image: /images/marc2o-r66.jpg
 
 Such as icons, illustrations and pixel art. Find more in [my gallery on DeviantArt](https://www.deviantart.com/marc2o) or on [my Figma-Profile](https://www.figma.com/@marc2o).
 
-<figure class="gallery">
+<figure>
     <figure>
         <img src="/images/icon.joystick.png" alt="joystick">
         <figcaption>
@@ -59,7 +59,7 @@ Such as icons, illustrations and pixel art. Find more in [my gallery on DeviantA
 
 Oh, and I like to make music. Listen to more on [my profile on Bandcamp](https://marc2o.bandcamp.com) or some of [my arrangements on MuseScore](https://musescore.com/marc2o).
 
-<figure class="gallery">
+<figure>
   <figure>
     <span style="width:min-content;"><iframe style="border: 0; width: 350px; height: 555px;" src="https://bandcamp.com/EmbeddedPlayer/album=2367443789/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://marc2o.bandcamp.com/album/nano">nano by marc2o</a></iframe></span>
     <figcaption><a href="https://marc2o.bandcamp.com/album/nano" title="marc2o nano" target="_blank">nano</a>
@@ -77,7 +77,7 @@ Oh, and I like to make music. Listen to more on [my profile on Bandcamp](https:/
   </figure>
 </figure>
 
-<figure class="gallery">
+<figure>
     <figure>
         <span><iframe width="100%" height="100%" src="https://musescore.com/user/8006541/scores/6184657/embed"
                 frameborder="0" allowfullscreen allow="autoplay; fullscreen"></iframe></span>

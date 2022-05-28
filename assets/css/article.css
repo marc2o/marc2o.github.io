@@ -173,6 +173,11 @@ figure>figure {
 figure>figure:not(:last-child) {
 	margin-right: 1rem;
 }
+figure>span {
+    display: block;
+    aspect-ration: 4 / 3;
+    width: 12rem;
+}
 
 figure>figure>img {
 	width: auto;
