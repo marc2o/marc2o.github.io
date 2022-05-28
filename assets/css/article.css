@@ -179,7 +179,7 @@ figure>span {
 }
 figure>figure>span {
     display: block;
-    aspect-ration: 3 / 4;
+    aspect-ratio: 4 / 3;
 }
 
 figure>figure>img {
