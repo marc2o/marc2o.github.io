@@ -179,8 +179,8 @@ figure>span {
 }
 figure>figure>span {
     display: block;
-    aspect-ration: 4 / 3;
-    width: 50%;
+    aspect-ration: 3 / 4;
+    min-width: 40vw;
 }
 
 figure>figure>img {
