@@ -273,6 +273,10 @@ Dieses modulare Music-Studio gibt es für fast alle Plattformen. Dazu einfach di
 
 Im Ordner `sunvox/linux_arm_armel_maemo/` befindet sich die Debian-Version für ARMv7. Diese dann beispielweise via SSH an den PocketCHIP übertragen.
 
+MIDI-In funktioniert übrigens auch. Ich habe mein AKAI Professional MPK mini Play MK3 an den USB-Port des PocketCHIP angeschlossen und dann SunVox gestartet. Sogar die Stromversorgung über USB reicht für das Gerät aus. Die signale kommen zwar leicht verzögert an, aber für eine Schrittweise Noteneingabe geht das.
+
+Mit `amidi -l` kann man sich im Terminal übrigens die verfügbaren MIDI-Geräte auflisten lassen.
+
 
 <!--
 
