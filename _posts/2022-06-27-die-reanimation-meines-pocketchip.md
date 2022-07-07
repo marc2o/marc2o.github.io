@@ -160,7 +160,7 @@ iw wlan0 set power_save off
 # Backup
 apt-get install rsync
 # Git
-apt-get install git
+apt-get install git-all
 ```
 
 
@@ -277,8 +277,37 @@ MIDI-In funktioniert übrigens auch. Ich habe mein AKAI Professional MPK mini Pl
 
 Mit `amidi -l` kann man sich im Terminal übrigens die verfügbaren MIDI-Geräte auflisten lassen.
 
-
 <!--
+## Auf Debian bis Version 11 »Bullseye« upgraden
+
+In der `sources.list` die beiden `chip`-Verweise auskommentieren:
+
+```bash
+deb http://ftp.us.debian.org/debian/ jessie main contrib non-free
+deb-src http://ftp.us.debian.org/debian/ jessie main contrib non-free
+    
+deb http://security.debian.org/ jessie/updates main contrib non-free
+deb-src http://security.debian.org/ jessie/updates main contrib non-free
+    
+# deb http://chip.jfpossibilities.com/chip/debian/repo jessie main
+# deb http://chip.jfpossibilities.com/chip/debian/pocketchip jessie main
+```
+
+Dann Jessie durch Stretch ersetzen:
+
+```bash
+sudo sed -i s/jessie/stretch/ /etc/apt/sources.list
+```
+
+Schließlich die Updates und Upgrades ausführen:
+
+```bash
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get dist-upgrade
+```
+
+XXX
 
 ## Von Jessie zu Stretch
 
