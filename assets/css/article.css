@@ -288,25 +288,23 @@ pre {
 	padding: 1em;
 }
 
-.highlight:hover {
+div.highlight:hover {
 	--close-button: #FF605C;
 	--minimize-button: #FFBD44;
 	--zoom-button: #00CA4E;
 }
-.highlight {
+div.highlight {
 	--close-button: #505050;
 	--minimize-button: #505050;
 	--zoom-button: #505050;
 	--window-background: #f0f0f0;
 	position: relative;
-	font-size: 1rem;
-	padding: 1rem;
 	border-radius: 0.5rem;
 	overflow-y: hidden;
 	background-color: var(--fill-color);
 }
 
-.highlight:before {
+div.highlight:before {
 	content: "";
 	width: 3rem;
 	height: 3rem;
