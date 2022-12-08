@@ -7,7 +7,7 @@ language: en-US
 
 # Hey!
 
-I’m Marc, somewhat creative and I love making stuff. Digitally as well as for real. My super powers are to spot what’s missing, simplify what’s complex, and explain both easily comprehensible.
+[I’m Marc]({% link about.md %}), somewhat creative and I love making stuff. Digitally as well as for real. My super powers are to spot what’s missing, simplify what’s complex, and explain both easily comprehensible.
 
 I love drawing (pixels and vectors), coding (Lua and C) and making music (chiptunes, piano and ukulele).
 
@@ -24,8 +24,7 @@ I love drawing (pixels and vectors), coding (Lua and C) and making music (chiptu
   <img src="/images/gamedev-c.png" alt="Game screenshot">
 </figure>
 
-
-[See more.]({% link about.md %})
+Some more [icons and pixel art]({% link icons-and-pixels.md %}).
 
 
 ## Tech Blog
