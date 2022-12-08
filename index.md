@@ -24,7 +24,7 @@ I love drawing (pixels and vectors), coding (Lua and C) and making music (chiptu
   <img src="/images/gamedev-c.png" alt="Game screenshot">
 </figure>
 
-Some more [icons and pixel art]({% link icons-and-pixels.md %}).
+See [more icons and pixel art]({% link icons-and-pixels.md %}) and some [logo projects]({% link icons-and-pixels.md %}).
 
 
 ## Tech Blog
