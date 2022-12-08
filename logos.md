@@ -14,7 +14,7 @@ Some of the logos I created for side projects, product tests and personal ventu
 </figure>
 
 <figure>
-  <img src="/images/logos/praxiswissen.jpg" alt="Praxiswissen">
+  <img src="/images/logos/praxis-wissen.jpg" alt="Praxiswissen">
   <figcaption>Logo created for fleet management tips and video instructions. (Schlütersche Verlagsgesellschaft mbH & Co. KG, 2016)</figcaption>
 </figure>
 
