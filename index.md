@@ -28,4 +28,6 @@ I like to make stuff in design, code and music.
 
 ## Tech Blog
 
+I really like retro gaming and computing stuff.
+
 {% include posts.html %}

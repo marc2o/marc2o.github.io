@@ -283,6 +283,17 @@ figure .badge {
 	vertical-align: baseline;
 }
 
+figure.grid {
+    display: grid;
+    grid-gap: 1rem;
+    grid-template-columns: repeat(auto-fit, minmax(20vw, 1fr));
+    overflow: hidden;
+}
+  
+figure.grid>img {
+    width: 100%;
+}
+  
 div.posts>ul>li span.image>img {
     display: block;
     width: 64vmin;
