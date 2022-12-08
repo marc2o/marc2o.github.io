@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: article
 title: Icons and Pixels
 author: marc2o
 language: en-US
