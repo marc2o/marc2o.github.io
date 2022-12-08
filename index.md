@@ -22,6 +22,7 @@ I love drawing (pixels and vectors), coding (Lua and C) and making music (chiptu
   <img src="/images/cessare.png" alt="Cessare game screenshot">
   <img src="/images/bandcamp.nano.jpg" alt="Music cover">
   <img src="/images/gamedev-c.png" alt="Game screenshot">
+  <img src="/images/logo-example.jpg" alt="Logo Project">
 </figure>
 
 See [more icons and pixel art]({% link icons-and-pixels.md %}) and some [logo projects]({% link logos.md %}).
