@@ -21,7 +21,7 @@ I like to make stuff in design, code and music.
   <img src="/images/pixelart/karl.png" alt="Karl Lagerfeld pixel art">
   <img src="/images/cessare.png" alt="Cessare game screenshot">
   <img src="/images/bandcamp.nano.jpg" alt="Music cover">
-  <img src="/images/gamedev-c.ong" alt="Game screenshot">
+  <img src="/images/gamedev-c.png" alt="Game screenshot">
 </figure>
 
 
