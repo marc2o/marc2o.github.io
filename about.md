@@ -6,9 +6,8 @@ language: en-US
 image: /images/marc2o-r66.jpg
 ---
 
+Tools of trade
 
-
-Code.
 
 <figure>
     <span><iframe frameborder="0" src="https://itch.io/embed-upload/270605?color=101010" allowfullscreen="" width="100%" height="660"><a href="https://marc2o.itch.io/cessare">Play Cessare on itch.io</a></iframe></span>
