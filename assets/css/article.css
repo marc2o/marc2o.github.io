@@ -187,6 +187,17 @@ figure>figure>img {
 	height: 50vmin;
 }
 
+figure.grid {
+  display: grid;
+  grid-gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(20vw, 1fr));
+  overflow: hidden;
+}
+
+figure.grid>img {
+  width: 100%;
+}
+
 figcaption {
 	display: block;
 	font-family: var(--spot-font, sans-serif);
@@ -228,10 +239,10 @@ h3 {
 header {
 	display: flex;
 	flex-flow: column;
-	align-content center;
-    width: 100%;
+	align-content: center;
+  width: 100%;
 	overflow: hidden;
-    border-bottom: 0.05rem solid var(--text-color);
+  border-bottom: 0.05rem solid var(--text-color);
 }
 
 header>picture {

@@ -9,51 +9,23 @@ language: en-US
 
 I’m Marc, somewhat creative and I love making stuff. Digitally as well as for real. My super powers are to spot what’s missing, simplify what’s complex, and explain both easily comprehensible.
 
-## Watch, listen and play
+I like to make stuff in design, code and music.
 
-<figure class="gallery">
-    <figure>
-        <a href="https://www.deviantart.com/marc2o/art/OpenEmu-Icon-372583030" target="_blank"><img src="/images/icon.joystick.png" alt="joystick">
-        <figcaption>
-            Joystick <span class="badge">icon</span>
-        </figcaption>
-        </a>
-    </figure><figure>
-        <a href="https://www.deviantart.com/marc2o/art/The-Son-of-Man-748505267" target="_blank"><img src="/images/pixelart.the-son-of-man.png" alt="Son of Man pixel art">
-        <figcaption>
-            Pixel <span class="badge">Art</span>
-        </figcaption>
-        </a>
-    </figure><figure>
-        <a href="https://marc2o.bandcamp.com/album/nano" target="_blank"><img src="/images/bandcamp.nano.jpg" alt="Listen to nano on Bandcamp">
-        <figcaption>
-            nano <span class="badge">music</span>
-        </figcaption>
-        </a>
-    </figure><figure>
-        <a href="https://musescore.com/user/8006541/scores/6184657" target="_blank"><img src="/images/musescore.paniola-ranch.png" alt="Listen to Paniola Ranch Theme on MuseScore">
-        <figcaption>
-            Pokémon Sun & Moon,
-            Paniola Ranch Theme <span class="badge">music</span>
-        </figcaption>
-        </a>
-    </figure><figure>
-        <a href="https://marc2o.itch.io/cessare" target="_blank"><img src="/images/cessare.png" alt="Cessare Game Screenshot">
-        <figcaption>
-            Cessare <span class="badge">game</span>
-        </figcaption>
-        </a>
-    </figure><figure>
-        <a href="https://marc2o.itch.io/game-of-crows" target="_blank"><img src="/images/gameofcrows.png" alt="Game of Crows">
-        <figcaption>
-            Game of Crows <span class="badge">game</span>
-        </figcaption>
-        </a>
-    </figure>
+<figure class="grid">
+  <img src="/images/icons/textmate.png" alt="TextMate app icon">
+  <img src="/images/icons/zettlr.png" alt="Zettlr app icon">
+  <img src="/images/pixelart/the-son-of-man.png" alt="The Son of Man pixel art">
+  <img src="/images/pixelart/david.png" alt="David pixel art">
+  <img src="/images/icons/naroth.png" alt="Naroth game icon">
+  <img src="/images/pixelart/karl.png" alt="Karl Lagerfeld pixel art">
+  <img src="/images/cessare.png" alt="Cessare game screenshot">
+  <img src="/images/bandcamp.nano.jpg" alt="Music cover">
 </figure>
 
-[See more stuff.]({% link about.md %})
 
-## Read
+[See more.]({% link about.md %})
+
+
+## Tech Blog
 
 {% include posts.html %}
