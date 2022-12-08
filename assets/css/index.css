@@ -284,6 +284,7 @@ figure .badge {
 }
 
 figure.grid {
+    margin-top: 2em;
     display: grid;
     grid-gap: 1rem;
     grid-template-columns: repeat(auto-fit, minmax(8em, 1fr));
