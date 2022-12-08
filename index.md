@@ -17,9 +17,11 @@ I like to make stuff in design, code and music.
   <img src="/images/pixelart/the-son-of-man.png" alt="The Son of Man pixel art">
   <img src="/images/pixelart/david.png" alt="David pixel art">
   <img src="/images/icons/naroth.png" alt="Naroth game icon">
+  <img src="/images/gamedev-love.png" alt="Game screenshot">
   <img src="/images/pixelart/karl.png" alt="Karl Lagerfeld pixel art">
   <img src="/images/cessare.png" alt="Cessare game screenshot">
   <img src="/images/bandcamp.nano.jpg" alt="Music cover">
+  <img src="/images/gamedev-c.ong" alt="Game screenshot">
 </figure>
 
 
