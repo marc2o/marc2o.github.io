@@ -6,9 +6,9 @@ language: en-US
 image: /images/marc2o-r66.jpg
 ---
 
-## View
+## Design, Code, Music
 
-Such as icons, illustrations and pixel art. Find more in [my gallery on DeviantArt](https://www.deviantart.com/marc2o) or on [my Figma-Profile](https://www.figma.com/@marc2o).
+Pixels and icons.
 
 <figure>
     <figure>
@@ -55,9 +55,7 @@ Such as icons, illustrations and pixel art. Find more in [my gallery on DeviantA
     </figure>
 </figure>
 
-## Listen
-
-Oh, and I like to make music. Listen to more on [my profile on Bandcamp](https://marc2o.bandcamp.com) or some of [my arrangements on MuseScore](https://musescore.com/marc2o).
+Music.
 
 <figure>
   <figure>
@@ -94,9 +92,14 @@ Oh, and I like to make music. Listen to more on [my profile on Bandcamp](https:/
     </figure>
 </figure>
 
-## Play
+Code.
 
-I like to code, espcially in Lua (LÖVE2D and PICO-8), C# (MonoGame) and Rust (SDL2), and combine pixels with fun.
+<figure>
+{% include projects.html %}
+<figcaption>
+  My stuff on Github
+</figcaption>
+</figure>
 
 <figure>
     <span><iframe frameborder="0" src="https://itch.io/embed-upload/270605?color=101010" allowfullscreen="" width="100%" height="660"><a href="https://marc2o.itch.io/cessare">Play Cessare on itch.io</a></iframe></span>
