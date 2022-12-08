@@ -286,7 +286,7 @@ figure .badge {
 figure.grid {
     display: grid;
     grid-gap: 1rem;
-    grid-template-columns: repeat(auto-fit, minmax(20vw, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(8em, 1fr));
     overflow: hidden;
 }
   
