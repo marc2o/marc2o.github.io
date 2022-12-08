@@ -95,17 +95,6 @@ Music.
 Code.
 
 <figure>
-<div><ul>
-{% for repository in site.github.public_repositories | limit: site.projects.limit %}
-<li><a href="{{ repository.html_url }}">{% octicon repo height:20 class:"mr-1 v-align-middle" fill:"#586069" aria-label:repo %} {{ repository.name }}: {{ repository.description }}
-{% endfor %}</a></li>
-</ul></div>
-<figcaption>
-  My stuff on Github
-</figcaption>
-</figure>
-
-<figure>
     <span><iframe frameborder="0" src="https://itch.io/embed-upload/270605?color=101010" allowfullscreen="" width="100%" height="660"><a href="https://marc2o.itch.io/cessare">Play Cessare on itch.io</a></iframe></span>
     <figcaption><a href="https://marc2o.itch.io/cessare" target="_blank">Cessare</a></figcaption>
 </figure>
