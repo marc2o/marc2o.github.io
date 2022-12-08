@@ -218,6 +218,11 @@ h1 {
 
 h2 {
 	font-size: 120%;
+  margin-top: 2em;
+}
+
+h3 {
+  margin-top: 2em;
 }
 
 header {

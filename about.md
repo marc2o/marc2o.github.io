@@ -98,7 +98,7 @@ Code.
 <div><ul>
 {% for repository in site.github.public_repositories | limit: site.projects.limit %}
 <li><a href="{{ repository.html_url }}">{% octicon repo height:20 class:"mr-1 v-align-middle" fill:"#586069" aria-label:repo %} {{ repository.name }}: {{ repository.description }}
-{% endfor %}</a>
+{% endfor %}</a></li>
 </ul></div>
 <figcaption>
   My stuff on Github
