@@ -25,7 +25,7 @@ I love drawing (pixels and vectors), coding (Lua and C) and making music (chiptu
   <img src="/images/logo-example.jpg" alt="Logo Project">
 </figure>
 
-See [more icons and pixel art]({% link icons-and-pixels.md %}) and some [logo projects]({% link logos.md %}).
+See [more icons and pixel art]({% link icons-and-pixels.md %}) and some [logo projects]({% link logos.md %}). Listen to [music]({% link music.md %}).
 
 
 ## Tech Blog
