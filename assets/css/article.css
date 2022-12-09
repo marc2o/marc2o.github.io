@@ -77,11 +77,11 @@ th {
 /* CUSTOM STYLES */
 
 :root {
-	--spot-color: #6a994e;
-	--link-color: #a7c957;
+	--spot-color: #a7c957;
+	--link-color: #6a994e;
 	--text-color: #424242;
 	--back-color: #f2e8cf;
-	--fill-color: #c3b99c;
+	--fill-color: #ded4bb;
 
 	--code-font: monospace;
 	--flow-font: 'Merriweather';
