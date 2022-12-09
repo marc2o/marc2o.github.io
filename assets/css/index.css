@@ -8,39 +8,50 @@
 /* the basic stuff */
 :root {
     font-size: 125%;
-    --spot-color: #0288d1;
-    --text-color: #424242;
-    --fill-color: #ffffff;
-    --alt-fill-color: #f1f1f1;
-    --column-width: 36rem;
-    --margin-width: 1rem;
-    --marked-width: 48rem;
+
+	--spot-color: #a7c957;
+	--link-color: #6a994e;
+	--text-color: #424242;
+	--back-color: #f2e8cf;
+	--fill-color: #ded4bb;
     --ripples-effect: rgba(255, 255, 255, 0.2);
+
+	--code-font: monospace;
+	--flow-font: 'Merriweather';
+	--spot-font: 'Open Sans';
+	--inner-width: 36em;
+	--outer-width: 40em;
+
     accent-color: var(--spot-color);
 }
 
 @media (prefers-color-scheme: dark) {
-    :root {
-        --text-color: #ffffff;
-        --fill-color: #212121;
-        --alt-fill-color: #1c1c1c;
+	:root {
+		--spot-color: #6a994e;
+		--link-color: #a7c957;
+		--text-color: #f2e8cf;
+		--back-color: #323438;
+		--fill-color: #222428;
         --ripples-effect: rgba(0, 0, 0, 0.2);
-    }
+	}
 }
 
+
 [data-theme='lite'] {
-    --spot-color: #0288d1;
-    --text-color: #424242;
-    --fill-color: #ffffff;
-    --alt-fill-color: #f1f1f1;
+	--spot-color: #a7c957;
+	--link-color: #6a994e;
+	--text-color: #424242;
+	--back-color: #f2e8cf;
+	--fill-color: #ded4bb;
     --ripples-effect: rgba(255, 255, 255, 0.2);
 }
 
 [data-theme='dark'] {
-    --spot-color: #02a6ff;
-    --text-color: #ffffff;
-    --fill-color: #212121;
-    --alt-fill-color: #1c1c1c;
+    --spot-color: #6a994e;
+    --link-color: #a7c957;
+    --text-color: #f2e8cf;
+    --back-color: #323438;
+    --fill-color: #222428;
     --ripples-effect: rgba(0, 0, 0, 0.2);
 }
 
@@ -266,23 +277,6 @@ figure a:visited {
     color: var(--text-color);
 }
 
-figure .badge {
-    position: absolute;
-    top: 1.5rem;
-    right: 0;
-	font-size: 75%;
-	text-transform: uppercase;
-	background: var(--spot-color);
-	color: white;
-	line-height: inherit;
-	padding: .3rem 0.5rem .3rem 1rem;
-	border-radius: 1rem 0 0 1rem;
-    border-left: 0.1em solid var(--alt-fill-color);
-    border-top: 0.1em solid var(--alt-fill-color);
-    border-bottom: 0.1em solid var(--alt-fill-color);
-	vertical-align: baseline;
-}
-
 figure.grid {
     margin-top: 1em;
     display: grid;
@@ -398,7 +392,7 @@ ul.follow li {
     padding: .2rem;
     margin: .2rem .15rem;
     border-radius: 33%;
-    background: var(--alt-fill-color);
+    background: var(--fill-color);
     cursor: pointer;
 }
 

@@ -77,25 +77,26 @@ th {
 /* CUSTOM STYLES */
 
 :root {
-	--spot-color: #757575;
-	--link-color: #0288d1;
+	--spot-color: #a7c957;
+	--link-color: #6a994e;
 	--text-color: #424242;
-	--back-color: #fafafa;
-	--fill-color: #eeeeee;
+	--back-color: #f2e8cf;
+	--fill-color: #ded4bb;
+
 	--code-font: monospace;
-	--flow-font: "Merriweather";
-	--spot-font: "Open Sans";
+	--flow-font: 'Merriweather';
+	--spot-font: 'Open Sans';
 	--inner-width: 36em;
 	--outer-width: 40em;
 }
 
 @media (prefers-color-scheme: dark) {
 	:root {
-		--spot-color: #9e9e9e;
-		--link-color: #0288d1;
-		--text-color: #eeeeee;
-		--back-color: #212121;
-		--fill-color: #1b1b1b;
+		--spot-color: #6a994e;
+		--link-color: #a7c957;
+		--text-color: #f2e8cf;
+		--back-color: #323438;
+		--fill-color: #222428;
 	}
 }
 
@@ -152,9 +153,10 @@ main.posts>ul {
 	margin-top: -1rem;
 	display: flex;
 	flex-flow: row wrap;
-	justify-content: flex-start
+	justify-content: flex-start;
 	align-content: flex-start;
 }
+
 main.posts>ul>li {
 	margin-top: 1rem;
 	padding-right: 1rem;
