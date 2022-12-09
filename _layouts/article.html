@@ -2,44 +2,10 @@
 <html lang="{{ page.language | default: site.lang | default: "de-DE" }}">
 
 <head>
-  <meta charset="utf-8">
-  <title>{{ page.title | default: site.title | default: site.github.repository_name }} •
-    @{{ page.author | default: "marc2o" }} • Marc Oliver Orth</title>
-  <meta name="description" content="{{ page.excerpt | strip_html | normalize_whitespace | truncate: 160 | escape }}">
-  <meta name="tags" content="{{ page.tags | join: ', ' }}">
-  <meta name="author" content="Marc Oliver Orth">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-
-  <meta property="og:title" content="{{ page.title }}">
-  <meta property="og:type" content="website">
-  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
-  <meta property="og:image" content="{{ site.url }}{{ page.image }}">
-  <meta property="og:image:secure_url" content="{{ site.url }}{{ page.image }}">
-  
-  <meta name="twitter:card" content="summary_large_image">
-  <meta property="twitter:url" content="{{ site.url }}{{ page.url }}">
-  <meta property="twitter:image" content="{{ site.url }}{{ page.image }}">
-
-  <!-- <link rel="manifest" href="site.webmanifest"> -->
-  <link rel="apple-touch-icon" href="/icon.png">
-  <link rel="icon" href="{{ '/favicon.ico?v=' | append: site.github.build_revision | relative_url }}"> 
-
-  <meta name="theme-color"
-    content="#6a994e"
-    media="(prefers-color-scheme: dark)">
-  <meta name="theme-color"
-    content="#a7c957"
-    media="(prefers-color-scheme: light)">
-
-  <link rel="stylesheet"
-    type="text/css"
-    href="{{ '/assets/css/fonts.css?v=' | append: site.github.build_revision | relative_url }}">
+  {% include head.html %}
   <link rel="stylesheet"
         type="text/css"
         href="{{ '/assets/css/article.css?v=' | append: site.github.build_revision | relative_url }}">
-
-  <meta name="google-site-verification" content="LU_O8lRq62oHthlTf0FF6ce_P1nIviY3s69h05S9rDY" />
 </head>
 
 <body>
