@@ -215,9 +215,9 @@ header {
 	display: flex;
 	flex-flow: column;
 	align-content: center;
-  width: 100%;
+  	width: 100%;
 	overflow: hidden;
-  border-bottom: 0.05rem solid var(--text-color);
+  	border-bottom: 0.05rem solid var(--text-color);
 }
 
 header>picture {
@@ -354,6 +354,10 @@ th {
 }
 
 @media all and (min-width: 120ch) {
+	header {
+		background: var(--spot-color);
+		clip-path: polygon(0% 0%, 100% 0%, 100% calc(100% - 5vh), 0% 100%);
+	}
 	header,
 	header>picture {
 		height: 60vh;
