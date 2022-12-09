@@ -39,7 +39,7 @@ footer {
     display: grid;
     margin: 0 auto;
     grid-template-columns:
-        minmax(var(--margin-width), 1fr) minmax(auto, var(--column-width)) minmax(var(--margin-width), 1fr);
+    minmax(1rem, 1fr) minmax(auto, var(--inner-width)) minmax(1rem, 1fr);
 }
 
 main>*,
