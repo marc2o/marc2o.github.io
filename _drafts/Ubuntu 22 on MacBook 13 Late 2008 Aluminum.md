@@ -2,7 +2,7 @@
 layout: article
 language: de-DE
 image: IMG_6369.jpg
-title: Aus Alt mach Neu – Wie ich mein altes MacBook 13" (Aluminum, late 2008) mit Ubuntu 22.04 wieder fit gemacht hab
+title: Aus Alt mach Neu – Wie ich mein altes MacBook 13-Zoll (Aluminum, late 2008) mit Ubuntu wieder fit gemacht hab
 author: marc2o
 tags:
 - MacBook
