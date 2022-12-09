@@ -1,0 +1,13 @@
+:root {
+	--spot-color: #a7c957;
+	--link-color: #6a994e;
+	--text-color: #424242;
+	--back-color: #f2e8cf;
+	--fill-color: #ded4bb;
+
+	--code-font: monospace;
+	--flow-font: 'Merriweather';
+	--spot-font: 'Open Sans';
+	--inner-width: 36em;
+	--outer-width: 40em;
+}
