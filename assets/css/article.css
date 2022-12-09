@@ -98,6 +98,12 @@ th {
 		--back-color: #323438;
 		--fill-color: #222428;
 	}
+
+  @import url("/assets/css/gruvbox.dark.css");
+}
+
+@media (prefers-color-scheme: light) {
+  @import url("/assets/css/gruvbox.light.css");
 }
 
 a,
