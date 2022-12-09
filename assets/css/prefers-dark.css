@@ -1,4 +1,6 @@
 :root {
+	color-scheme: light dark;
+  
 	--spot-color: #6a994e;
 	--link-color: #a7c957;
 	--text-color: #f2e8cf;
