@@ -376,7 +376,7 @@ tr:nth-child(odd) {
 
 th {
 	background: var(--spot-color);
-	color: var(--fill-color);
+	color: var(--text-color);
 }
 
 @media all and (min-width: 120ch) {
