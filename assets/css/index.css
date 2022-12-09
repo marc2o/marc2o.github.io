@@ -67,7 +67,7 @@ main>h3 {
 a,
 a:visited,
 a:hover {
-    color: var(--spot-color);
+    color: var(--link-color);
     text-decoration: none;
     word-break: break-word;
     hyphens: auto;
@@ -191,8 +191,7 @@ header {
     height: 85vh;
     margin: 0;
     overflow: hidden;
-    color: var(--fill-color);
-    /*background-image: linear-gradient(160deg, #0277bd 33%, #26a69a 80%);*/
+    color: var(--text-color);
     background-color: var(--spot-color);
     clip-path: polygon(0% 0%, 100% 0%, 100% calc(100% - 5vh), 0% 100%);
     -webkit-clip-path: polygon(0% 0%, 100% 0%, 100% calc(100% - 5vh), 0% 100%);
