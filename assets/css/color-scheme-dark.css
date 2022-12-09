@@ -1,0 +1,16 @@
+:root {
+	color-scheme: light dark;
+  
+	--spot-color: #a7c957;
+	--link-color: #6a994e;
+	--text-color: #424242;
+	--back-color: #f2e8cf;
+	--fill-color: #ded4bb;
+	--ripples-effect: rgba(0, 0, 0, 0.2);
+
+	--code-font: monospace;
+	--flow-font: 'Merriweather';
+	--spot-font: 'Open Sans';
+	--inner-width: 36em;
+	--outer-width: 40em;
+}
