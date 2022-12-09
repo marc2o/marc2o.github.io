@@ -8,51 +8,14 @@
 /* the basic stuff */
 :root {
     font-size: 125%;
-
-	--spot-color: #a7c957;
-	--link-color: #6a994e;
-	--text-color: #424242;
-	--back-color: #f2e8cf;
-	--fill-color: #ded4bb;
-    --ripples-effect: rgba(255, 255, 255, 0.2);
-
-	--code-font: monospace;
-	--flow-font: 'Merriweather';
-	--spot-font: 'Open Sans';
-	--inner-width: 36em;
-	--outer-width: 40em;
-
     accent-color: var(--spot-color);
+    --ripples-effect: rgba(255, 255, 255, 0.2);
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: lite) {
 	:root {
-		--spot-color: #6a994e;
-		--link-color: #a7c957;
-		--text-color: #f2e8cf;
-		--back-color: #323438;
-		--fill-color: #222428;
         --ripples-effect: rgba(0, 0, 0, 0.2);
 	}
-}
-
-
-[data-theme='lite'] {
-	--spot-color: #a7c957;
-	--link-color: #6a994e;
-	--text-color: #424242;
-	--back-color: #f2e8cf;
-	--fill-color: #ded4bb;
-    --ripples-effect: rgba(255, 255, 255, 0.2);
-}
-
-[data-theme='dark'] {
-    --spot-color: #6a994e;
-    --link-color: #a7c957;
-    --text-color: #f2e8cf;
-    --back-color: #323438;
-    --fill-color: #222428;
-    --ripples-effect: rgba(0, 0, 0, 0.2);
 }
 
 main>* {
