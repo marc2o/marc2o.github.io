@@ -4,6 +4,7 @@
 	--text-color: #f2e8cf;
 	--back-color: #323438;
 	--fill-color: #222428;
+	--ripples-effect: rgba(255, 255, 255, 0.2);
 
 	--code-font: monospace;
 	--flow-font: 'Merriweather';

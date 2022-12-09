@@ -9,13 +9,6 @@
 :root {
     font-size: 125%;
     accent-color: var(--spot-color);
-    --ripples-effect: rgba(255, 255, 255, 0.2);
-}
-
-@media (prefers-color-scheme: lite) {
-	:root {
-        --ripples-effect: rgba(0, 0, 0, 0.2);
-	}
 }
 
 main>* {
