@@ -77,11 +77,12 @@ th {
 /* CUSTOM STYLES */
 
 :root {
-	--spot-color: #757575;
-	--link-color: #0288d1;
+	--spot-color: #6a994e;
+	--link-color: #a7c957;
 	--text-color: #424242;
-	--back-color: #fafafa;
-	--fill-color: #eeeeee;
+	--back-color: #f2e8cf;
+	--fill-color: #c3b99c;
+
 	--code-font: monospace;
 	--flow-font: 'Merriweather';
 	--spot-font: 'Open Sans';
