@@ -160,7 +160,7 @@ td {
 }
 
 tr:nth-child(odd) {
-    background: var(--alt-fill-color);
+    background: var(--back-color);
 }
 
 th {
@@ -173,7 +173,7 @@ body {
     padding: 0;
     font-family: "Open Sans", sans-serif;
     color: var(--text-color);
-    background: var(--fill-color);
+    background: var(--back-color);
 }
 
 div>svg {
