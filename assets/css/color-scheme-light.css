@@ -1,6 +1,4 @@
 :root {
-	color-scheme: light dark;
-  
 	--spot-color: #a7c957;
 	--link-color: #6a994e;
 	--text-color: #424242;
@@ -13,15 +11,4 @@
 	--spot-font: 'Open Sans';
 	--inner-width: 36em;
 	--outer-width: 40em;
-}
-
-@media (prefers-color-scheme: dark) {
-	:root {
-		--spot-color: #6a994e;
-		--link-color: #a7c957;
-		--text-color: #f2e8cf;
-		--back-color: #323438;
-		--fill-color: #222428;
-		--ripples-effect: rgba(255, 255, 255, 0.2);	
-	}	
 }
