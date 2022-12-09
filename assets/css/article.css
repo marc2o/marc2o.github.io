@@ -356,7 +356,7 @@ th {
 	header::after {
 		content: "";
 		display: block;
-		margin: 2rem auto 0 auto;
+		margin: 1rem auto;
 		width: 50%;
 		height: 0.2rem;
 		background: var(--spot-color);
