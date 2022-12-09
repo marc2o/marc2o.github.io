@@ -91,11 +91,11 @@ th {
 
 @media (prefers-color-scheme: dark) {
 	:root {
-		--spot-color: #ED8B16;
-		--link-color: #C2BB00;
+		--spot-color: #486966;
+		--link-color: #BD2A2E;
 		--text-color: #eeeeee;
-		--back-color: #003547;
-		--fill-color: #005E54;
+		--back-color: #3B3936;
+		--fill-color: #171f20;
 	}
 }
 
@@ -217,7 +217,7 @@ h1,
 h2,
 h3 {
 	font-family: var(--spot-font, sans-serif);
-	margin-top: 2rem;
+	margin-top: 2em;
 }
 
 h1 {
@@ -232,8 +232,8 @@ h2 {
   margin-top: 2em;
 }
 
-h3 {
-  margin-top: 2em;
+h2+h3 {
+  margin-top: 0;
 }
 
 header {
