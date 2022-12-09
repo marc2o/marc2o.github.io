@@ -91,11 +91,11 @@ th {
 
 @media (prefers-color-scheme: dark) {
 	:root {
-		--spot-color: #669bbc;
-		--link-color: #c1121f;
-		--text-color: #fdf0d5;
-		--back-color: #003049;
-		--fill-color: #001029;
+		--spot-color: #6a994e;
+		--link-color: #a7c957;
+		--text-color: #f2e8cf;
+		--back-color: #323438;
+		--fill-color: #222428;
 	}
 }
 
