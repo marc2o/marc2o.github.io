@@ -6,22 +6,23 @@ language: en-US
 image: /images/marc2o-r66.jpg
 ---
 
-I …
+There is not much to say, I think, other than I –
 
-- am left-handed
+- am left-handed and
+- an astronomer rather than an astronaut;
 - like fall (or autumn)
-- set my first pixel on a Commodore C-64
-- wrote my first program on a Commodore Amiga 500
-- made my first chiptune in The Ultimate Soundtracker
+- am a child of the 1980’s home computer revolution
 - love books and reading
-- am an astronomer rather than an astronaut
-- love my Ortega Concert Ukulele unplugged play
-- love my AKAI Pro MPK mini Play MK3 for digital music
-- …
+- love to play on my Ortega Concert Ukulele my AKAI Pro MPK mini Play MK3
+- like most to code in Lua, JavaScript and, recently, in C
+- also enjoyed BASIC, 68K Assembly, Forth, Java, C# and Rust at some point
+- can have fun with HTML & CSS
+- _(to be continued, possibly)_
+
+I love writing and playing computer games.
 
 <figure>
     <span><iframe frameborder="0" src="https://itch.io/embed-upload/270605?color=101010" allowfullscreen="" width="100%" height="660"><a href="https://marc2o.itch.io/cessare">Play Cessare on itch.io</a></iframe></span>
     <figcaption><a href="https://marc2o.itch.io/cessare" target="_blank">Cessare</a></figcaption>
 </figure>
 
-See more on [my itch.io page](https://marc2o.itch.io).
