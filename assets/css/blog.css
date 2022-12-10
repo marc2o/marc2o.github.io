@@ -89,6 +89,7 @@ body {
 
 footer {
 	margin-top: 2rem;
+  margin-bottom: 2rem;
 	padding-bottom: 2rem;
 	font-size: 85%;
   font-family: var(--spot-font, sans-serif);
@@ -124,7 +125,7 @@ img {
 }
 
 main.posts {
-	padding: 0 1rem 1rem 1rem;
+	padding: 0 1rem;
   font-family: var(--flow-font, serif);
 }
 
