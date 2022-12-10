@@ -525,11 +525,29 @@ ul.about>li:nth-child(1) {
     background-color: #ffffff;
 }
 
-/* github code colors */
+/* github repo */
+.repo_card {
+	border: 1px solid var(--text-color);
+	border-radius: 0.5rem;
+	padding: 0.5rem;
+}
+.repo_card>h4 {
+	font-family: var(--spot-font);
+	font-weight: bold;
+	margin: 0;
+}
+.repo_card>p {
+	margin: 1em 0 0 0;
+}
+.repo_card>blockquote {
+	font-family: var(--spot-font);
+	margin: 1em 0 0 0;
+	padding: 0;
+}
 .code_language {
 	display: inline-block;
-	width: 0.6em;
-	height: 0.6em;
+	width: 1em;
+	height: 1em;
 	border-radius: 50%;
 	vertical-align: baseline;
 	line-height: inherit;
