@@ -41,7 +41,7 @@ I’m into retro gaming and computing. This blog is about stories, experiences a
 {% for repository in site.github.public_repositories %}
 {% unless repository.name contains "marc2o" or repository.name contains "Icon" %}
 <div class="repo">
-  <h4><a href="{{repository.html_url}}">{{repository.name}}</a></h4>
+  <h4><a href="{{repository.html_url}}" target="_blank">{{repository.name}}</a></h4>
   <p>{{repository.description}}</p>
   {% if repository.language  and repository.language != "" and repository.language ≠ nil %}<label><span class="code_language GitHub_{{repository.language}}"></span><span>{{repository.language}}</span></label>{% endif %}
 </div>
