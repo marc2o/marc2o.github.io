@@ -19,7 +19,8 @@ There is not much to say, I think, other than I –
 - can have fun with HTML & CSS
 - _(to be continued, possibly)_
 
-My code repos on GitHub:
+
+## Some code projects on GitHub
 
 {% for repository in site.github.public_repositories %}
 {% unless repository.name contains "marc2o" %}
@@ -31,4 +32,3 @@ My code repos on GitHub:
     <span><iframe frameborder="0" src="https://itch.io/embed-upload/270605?color=101010" allowfullscreen="" width="100%" height="660"><a href="https://marc2o.itch.io/cessare">Play Cessare on itch.io</a></iframe></span>
     <figcaption><a href="https://marc2o.itch.io/cessare" target="_blank">Cessare</a></figcaption>
 </figure> -->
-
