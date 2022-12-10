@@ -510,7 +510,7 @@ span.code_language+span {
 	display: inline-block;
 	width: .66em;
 	height: .66em;
-	border: .1em solid var(--text-color);
+	border: .05em solid var(--text-color);
 	border-radius: 50%;
 	vertical-align: baseline;
 	margin-right: .2em;
