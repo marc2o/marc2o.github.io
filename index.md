@@ -43,7 +43,7 @@ I’m into retro gaming and computing. This blog is about stories, experiences a
 <div class="repo">
   <h4><a href="{{repository.html_url}}">{{repository.name}}</a></h4>
   <p>{{repository.description}}</p>
-  {% if repository.language  and repository.language != "" and repository.language ≠ nil %}<label><span class="code_language GitHub_{{repository.language}}"></span><span></label>{{repository.language}}</span>{% endif %}
+  {% if repository.language  and repository.language != "" and repository.language ≠ nil %}<label><span class="code_language GitHub_{{repository.language}}"></span><span>{{repository.language}}</span></label>{% endif %}
 </div>
 {% endunless %}
 {% endfor %}
