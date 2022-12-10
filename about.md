@@ -22,7 +22,7 @@ There is not much to say, I think, other than I –
 My code repos on GitHub:
 
 {% for repository in site.github.public_repositories %}
-- **[{{repository.name}}]({{repository.html_url}})** {{repostory.tagline}}
+- **[{{repository.name}}]({{repository.html_url}})** {{repostory.tagline}} ({{repository.language}})
 {% endfor %}
 
 <!-- <figure>
