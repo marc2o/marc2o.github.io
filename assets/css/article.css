@@ -538,7 +538,6 @@ span.code_language+span {
 	border: .1em solid var(--text-color);
 	border-radius: 50%;
 	vertical-align: baseline;
-	line-height: inherit;
 	margin-left: .5em;
 	margin-right: .2em;
 }
