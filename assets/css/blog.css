@@ -94,6 +94,10 @@ footer {
   font-family: var(--spot-font, sans-serif);
 }
 
+footer>* {
+	grid-column: 2;
+}
+
 h1,
 h2,
 h3 {
