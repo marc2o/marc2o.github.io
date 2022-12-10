@@ -536,12 +536,11 @@ span.code_language+span {
 }
 .code_language {
 	display: inline-block;
-	width: .5em;
-	height: .5em;
+	width: .66em;
+	height: .66em;
 	border: .1em solid var(--text-color);
 	border-radius: 50%;
 	vertical-align: baseline;
-	margin-left: .5em;
 	margin-right: .2em;
 }
 .GitHub_C { background-color: #555555; }
