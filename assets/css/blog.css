@@ -123,33 +123,48 @@ main.posts {
 	padding: 0 0 0 1rem;
     font-family: var(--flow-font, serif);
 }
+
 main.posts>ul {
+  /*
 	margin-top: -1rem;
 	display: flex;
 	flex-flow: row wrap;
 	justify-content: flex-start;
 	align-content: flex-start;
+  */
+  margin-top: 1em;
+  display: grid;
+  grid-gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(8em, 1fr));
+  overflow: hidden;
 }
 
 main.posts>ul>li {
-	margin-top: 1rem;
+  display: block;
+	/*
+  margin-top: 1rem;
 	padding-right: 1rem;
+  */
 }
+
 main.posts h3,
 main.posts p {
 	margin-top: 1rem;
 }
+
 main.posts>ul>li>a>span {
 	display: block;
 	aspect-ratio: 4 / 3;
 	width: 100%;
 }
+
 main.posts>ul>li>a>span>img {
 	aspect-ratio: 4 / 3;
 	width: 100%;
 	object-fit: cover;
 	object-position: 50% 50%
 }
+
 main.posts>ul>li>a {
 	color: var(--text-color);
 	text-decoration: none;
@@ -190,6 +205,7 @@ svg {
 	padding: 0;
 }
 
+/*
 @media all and (min-width: 80ch) {
 	main.posts>ul>li {
 			width: calc(50% - 0.5rem);
@@ -201,6 +217,7 @@ svg {
 			width: calc(33% - 0.33rem);
 	}
 }
+*/
 
 /* Disable Pocket extension on macOS Safari */
 #pocket-extension-root {

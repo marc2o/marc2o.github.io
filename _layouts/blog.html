@@ -1,43 +1,41 @@
 <!doctype html>
 <html lang="{{ page.language | default: site.lang | default: "de-DE" }}">
-
 <head>
   {% include head.html %}
   <link rel="stylesheet"
     type="text/css"
     href="{{ '/assets/css/blog.css?v=' | append: site.github.build_revision | relative_url }}">
 </head>
-
 <body>
-<nav>
-	<!--https://jekyllrb.com/tutorials/navigation/-->
-	<ul>
-		<li><a href="/">home</a></li>
-		<li><a href="/articles">blog</a></li>
-		<li><a href="/about.html">about</a></li>
-	</ul>
-</nav>    <main class="posts">
-        <ul>
-          {% for post in site.posts %}<li>
-            <a href="{{ post.url }}">
-              {% if post.image %}
-              <span class="preview image"><img src="{{ post.image }}" alt=""></span>
-              {% endif %}
-              <h3>{{ post.title }}</h3>
-              <p>{{ post.excerpt | strip_html | normalize_whitespace | truncate: 240 | escape }}</p>
-          </a>
-          </li>{% endfor %}
-        </ul>
-    </main>
-    <footer>
-      {% include follow.html %}
-      {% if site.github.is_project_page %}
-      <p><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a
-          href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</p>
-      {% endif %}
-      <p>&copy; 2021 marc2o // Marc Oliver Orth.<br>Powered by <a href="https://pages.github.com">GitHub
-          Pages</a>.</p>
-    </footer>
+  <nav>
+    <!--https://jekyllrb.com/tutorials/navigation/-->
+    <ul>
+      <li><a href="/">home</a></li>
+      <li><a href="/articles">blog</a></li>
+      <li><a href="/about.html">about</a></li>
+    </ul>
+  </nav>
+  <main class="posts">
+      <ul>
+        {% for post in site.posts %}<li>
+          <a href="{{ post.url }}">
+            {% if post.image %}
+            <span class="preview image"><img src="{{ post.image }}" alt=""></span>
+            {% endif %}
+            <h3>{{ post.title }}</h3>
+            <p>{{ post.excerpt | strip_html | normalize_whitespace | truncate: 240 | escape }}</p>
+        </a>
+        </li>{% endfor %}
+      </ul>
+  </main>
+  <footer>
+    {% include follow.html %}
+    {% if site.github.is_project_page %}
+    <p><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a
+        href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</p>
+    {% endif %}
+    <p>&copy; 2021 marc2o // Marc Oliver Orth.<br>Powered by <a href="https://pages.github.com">GitHub
+        Pages</a>.</p>
+  </footer>
 </body>
-
 </html>
