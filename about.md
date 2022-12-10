@@ -22,13 +22,12 @@ There is not much to say, I think, other than I –
 My code repos on GitHub:
 
 {% for repository in site.github.public_repositories %}
-<div class="repo_card">
-<h4>[{{repository.name}}]({{repository.html_url}})</h4>
-<p>{{repository.description}}</p>
-{% if repository.language  and repository.language != "" and repository.language ≠ nil %}
-<blockquote><span class="code_language GitHub_{{repository.language}}"></span> {{repository.language}}</blockquote>
-{% endif %}
-</div>
+#### [{{repository.name}}]({{repository.html_url}})
+
+{{repository.description}}
+
+> {% if repository.language  and repository.language != "" and repository.language ≠ nil %}<span class="code_language GitHub_{{repository.language}}"></span> {{repository.language}}{% endif %}
+
 {% endfor %}
 
 <!-- <figure>
