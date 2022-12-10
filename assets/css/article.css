@@ -526,14 +526,7 @@ ul.about>li:nth-child(1) {
 }
 
 /* github repo */
-h4 {
-	font-family: var(--spot-font);
-	font-weight: bold;
-}
-h4+p {
-	margin: 0;
-}
-h4+p+blockquote {
+span.code_language+span {
 	font-family: var(--spot-font);
 	margin: 0 0 1em 0;
 	padding: 0;
