@@ -26,7 +26,7 @@ My code repos on GitHub:
 
 {{repository.description}}
 
-{% if repository.language  and repository.language != "" and repository.language ≠ nil %}<span class="code_language GitHub_{{repository.language}}">{{repository.language}}</span>{% endif %}
+{% if repository.language  and repository.language != "" and repository.language ≠ nil %}<span class="code_language GitHub_{{repository.language}}"></span> {{repository.language}}{% endif %}
 {% endfor %}
 
 <!-- <figure>

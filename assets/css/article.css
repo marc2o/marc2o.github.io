@@ -526,8 +526,7 @@ ul.about>li:nth-child(1) {
 }
 
 /* github code colors */
-.code_language::before {
-	content: ""
+.code_language {
 	display: inline-block;
 	width: 0.6em;
 	height: 0.6em;
