@@ -124,8 +124,8 @@ img {
 }
 
 main.posts {
-	padding: 0 1rem;
-    font-family: var(--flow-font, serif);
+	padding: 0 1rem 1rem 1rem;
+  font-family: var(--flow-font, serif);
 }
 
 main.posts>ul {
