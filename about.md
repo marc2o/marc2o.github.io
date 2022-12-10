@@ -22,7 +22,7 @@ There is not much to say, I think, other than I –
 My code repos on GitHub:
 
 {% for repository in site.github.public_repositories %}
-{% if repository.name != "marc2o" and repository.name ≠ "marc2o.github.io" %}
+{% if repository.name and repository.name != "marc2o" and repository.name ≠ "marc2o.github.io" %}
 - **[{{repository.name}}]({{repository.html_url}})** _{{repository.description}}_ {% if repository.language  and repository.language != "" and repository.language ≠ nil %}<span class="code_language GitHub_{{repository.language}}"></span><span>{{repository.language}}</span>{% endif %}
 {% endif %}
 {% endfor %}
