@@ -238,6 +238,7 @@ figure.grid {
     grid-gap: 1rem;
     grid-template-columns: repeat(auto-fit, minmax(9em, 1fr));
     overflow: hidden;
+    background-color: var(--back-color);
 }
   
 figure.grid>img {
