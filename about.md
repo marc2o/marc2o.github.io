@@ -19,10 +19,10 @@ There is not much to say, I think, other than I –
 - can have fun with HTML & CSS
 - _(to be continued, possibly)_
 
-I love writing and playing computer games.
+My code repos on GitHub:
 
 {% for repository in site.github.public_repositories %}
-- [{{repository.name}}]({{repository.html_url}})
+- **[{{repository.name}}]({{repository.html_url}})** {{repostory.tagline}}
 {% endfor %}
 
 <!-- <figure>
