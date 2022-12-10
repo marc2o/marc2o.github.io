@@ -483,7 +483,8 @@ input#DarkModeSwitch:checked+span::before {
 
 /* github repo */
 div.repo {
-    border: 1px solid var(--text-color);
+    background-color: var(--fill-color);
+    border-radius: .5rem;
     padding: .5rem;
 }
 div.repo>p {
