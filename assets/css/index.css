@@ -501,6 +501,8 @@ div.repo>p {
     margin-bottom: .5em;
 }
 div.repo>label {
+    display: block;
+    text-align: left;
     align-self: flex-end;
 }
 span.code_language+span {
