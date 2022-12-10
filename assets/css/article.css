@@ -538,7 +538,8 @@ span.code_language+span {
 	border-radius: 50%;
 	vertical-align: baseline;
 	line-height: inherit;
-	margin-right: .5em;
+	margin-left: .5em;
+	margin-right: .2em;
 }
 .GitHub_C { background-color: #555555; }
 .GitHub_CSS { background-color: #563d7c; }
