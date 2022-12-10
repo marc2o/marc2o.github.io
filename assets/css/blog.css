@@ -89,14 +89,9 @@ body {
 
 footer {
 	margin-top: 2rem;
-  margin-bottom: 2rem;
 	padding-bottom: 2rem;
 	font-size: 85%;
   font-family: var(--spot-font, sans-serif);
-}
-
-footer>* {
-	grid-column: 2;
 }
 
 h1,
