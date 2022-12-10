@@ -120,7 +120,7 @@ img {
 }
 
 main.posts {
-	padding: 0 0 0 1rem;
+	padding: 1rem;
     font-family: var(--flow-font, serif);
 }
 
@@ -132,7 +132,6 @@ main.posts>ul {
 	justify-content: flex-start;
 	align-content: flex-start;
   */
-  margin-top: 1em;
   display: grid;
   grid-gap: 1rem;
   grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
