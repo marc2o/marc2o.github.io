@@ -483,6 +483,7 @@ input#DarkModeSwitch:checked+span::before {
 
 /* github repo */
 div.repo {
+    display: flex;
     background-color: var(--fill-color);
     border-radius: .5rem;
     padding: .5rem;
@@ -494,6 +495,7 @@ div.repo>p {
 }
 
 span.code_language+span {
+    align-self: flex-end;
 	font-family: var(--spot-font);
 	font-size: 85%;
 	padding: 0;
