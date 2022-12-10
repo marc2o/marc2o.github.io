@@ -526,15 +526,18 @@ ul.about>li:nth-child(1) {
 }
 
 /* github code colors */
-.color_dot {
+.code_language::before {
+	content: ""
 	display: inline-block;
-	width: 0.5em;
-	height: 0.5em;
+	width: 0.6em;
+	height: 0.6em;
 	border-radius: 50%;
+	vertical-align: baseline;
+	line-height: inherit;
 }
-.code_color_C { background-color: #555555; }
-.code_color_CSS { background-color: #563d7c; }
-.code_color_HTML { background-color: #e34c26; }
-.code_color_JavaScript { background-color: #f1e05a; }
-.code_color_Lua { background-color: #000080; }
-.code_color_Rust { background-color: #dea584; }
+.GitHub_C { background-color: #555555; }
+.GitHub_CSS { background-color: #563d7c; }
+.GitHub_HTML { background-color: #e34c26; }
+.GitHub_JavaScript { background-color: #f1e05a; }
+.GitHub_Lua { background-color: #000080; }
+.GitHub_Rust { background-color: #dea584; }
