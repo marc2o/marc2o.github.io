@@ -22,7 +22,7 @@ There is not much to say, I think, other than I –
 My code repos on GitHub:
 
 {% for repository in site.github.public_repositories %}
-- **[{{repository.name}}]({{repository.html_url}})** {{repostory.tagline}} ({{repository.language}})
+- **[{{repository.name}}]({{repository.html_url}})** {{repostory.project_tagline}} {% if repository.language  and repository.language != "" and repository.language ≠ nil %}({{repository.language}}){% endif %}
 {% endfor %}
 
 <!-- <figure>
