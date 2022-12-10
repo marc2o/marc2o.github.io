@@ -243,8 +243,10 @@ figure.grid {
 figure.grid>img {
     width: 100%;
 }
-figure.grid>div {
-    width: 100%;
+figure.grid>div>p {
+    font-size: 85%;
+    margin-top: .5em;
+    margin-bottom: .5em;
 }
   
 div.posts>ul>li span.image>img {
