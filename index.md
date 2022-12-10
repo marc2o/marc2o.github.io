@@ -33,3 +33,17 @@ See [more icons and pixel art]({% link icons-and-pixels.md %}) and some [logo pr
 I’m into retro gaming and computing. This blog is about stories, experiences and documentations on this kind of stuff.
 
 {% include posts.html %}
+
+
+## Code Repositories
+
+<figure class="grid">
+{% for repository in site.github.public_repositories %}
+{% unless repository.name contains "marc2o" or repository.name contains "Icon" %}
+<div>
+<h4><a href="{{repository.html_url}}">{{repository.name}}</a></h4>
+<p>{{repository.description}}</p>
+{% if repository.language  and repository.language != "" and repository.language ≠ nil %}<br><span class="code_language GitHub_{{repository.language}}"></span><span>{{repository.language}}</span>{% endif %}
+{% endunless %}
+{% endfor %}
+</figure>

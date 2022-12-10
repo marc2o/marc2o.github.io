@@ -480,3 +480,25 @@ input#DarkModeSwitch:checked+span::before {
 #pocket-extension-root {
     display: none;
 }
+
+/* github repo */
+span.code_language+span {
+	font-family: var(--spot-font);
+	font-size: 85%;
+	padding: 0;
+}
+.code_language {
+	display: inline-block;
+	width: .66em;
+	height: .66em;
+	border: .1em solid var(--text-color);
+	border-radius: 50%;
+	vertical-align: baseline;
+	margin-right: .2em;
+}
+.GitHub_C { background-color: #555555; }
+.GitHub_CSS { background-color: #563d7c; }
+.GitHub_HTML { background-color: #e34c26; }
+.GitHub_JavaScript { background-color: #f1e05a; }
+.GitHub_Lua { background-color: #000080; }
+.GitHub_Rust { background-color: #dea584; }

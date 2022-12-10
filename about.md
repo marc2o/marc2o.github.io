@@ -20,14 +20,6 @@ There is not much to say, I think, other than I –
 - _(to be continued, possibly)_
 
 
-## Some code projects on GitHub
-
-{% for repository in site.github.public_repositories %}
-{% unless repository.name contains "marc2o" or repository.name contains "Icon" %}
-- **[{{repository.name}}]({{repository.html_url}})**<br>_{{repository.description}}_ {% if repository.language  and repository.language != "" and repository.language ≠ nil %}<br><span class="code_language GitHub_{{repository.language}}"></span><span>{{repository.language}}</span>{% endif %}
-{% endunless %}
-{% endfor %}
-
 <!-- <figure>
     <span><iframe frameborder="0" src="https://itch.io/embed-upload/270605?color=101010" allowfullscreen="" width="100%" height="660"><a href="https://marc2o.itch.io/cessare">Play Cessare on itch.io</a></iframe></span>
     <figcaption><a href="https://marc2o.itch.io/cessare" target="_blank">Cessare</a></figcaption>
