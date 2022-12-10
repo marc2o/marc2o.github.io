@@ -489,14 +489,18 @@ div.repo {
     border-radius: .5rem;
     padding: .5rem;
 }
+div.repo a {
+    color: inherit;
+}
 div.repo>p {
     font-size: 85%;
     margin-top: .5em;
     margin-bottom: .5em;
 }
-
-span.code_language+span {
+div.repo>label {
     align-self: flex-end;
+}
+span.code_language+span {
 	font-family: var(--spot-font);
 	font-size: 85%;
 	padding: 0;
