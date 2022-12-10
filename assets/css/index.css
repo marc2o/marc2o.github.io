@@ -80,7 +80,7 @@ code {
 
 pre {
     color: var(--text-color);
-    background-color: var(--alt-fill-color);
+    background-color: var(--fill-color);
     overflow-x: auto;
 }
 
@@ -160,7 +160,7 @@ main>div {
     justify-self: center;
     width: 100%;
     margin: 0;
-    max-width: var(--marked-width);
+    max-width: var(--outer-width);
 }
 
 header>picture>img {
@@ -178,7 +178,7 @@ main>div {
     width: 100%;
     overflow-y: hidden;
     overflow-x: auto;
-    background-color: var(--alt-fill-color);
+    background-color: var(--fill-color);
 }
 
 figure.gallery,
