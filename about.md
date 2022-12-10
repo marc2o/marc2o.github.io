@@ -21,8 +21,12 @@ There is not much to say, I think, other than I –
 
 I love writing and playing computer games.
 
-<figure>
+{% for repository in site.github.public_repositories %}
+- [{{repository.name}}]({{repository.html_url}})
+{% endfor %}
+
+<!-- <figure>
     <span><iframe frameborder="0" src="https://itch.io/embed-upload/270605?color=101010" allowfullscreen="" width="100%" height="660"><a href="https://marc2o.itch.io/cessare">Play Cessare on itch.io</a></iframe></span>
     <figcaption><a href="https://marc2o.itch.io/cessare" target="_blank">Cessare</a></figcaption>
-</figure>
+</figure> -->
 
