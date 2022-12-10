@@ -23,7 +23,7 @@ There is not much to say, I think, other than I –
 ## Some code projects on GitHub
 
 {% for repository in site.github.public_repositories %}
-{% unless repository.name contains "marc2o" %}
+{% unless repository.name contains "marc2o" or repository.name contains "Icon" %}
 - **[{{repository.name}}]({{repository.html_url}})**<br>_{{repository.description}}_ {% if repository.language  and repository.language != "" and repository.language ≠ nil %}<br><span class="code_language GitHub_{{repository.language}}"></span><span>{{repository.language}}</span>{% endif %}
 {% endunless %}
 {% endfor %}
