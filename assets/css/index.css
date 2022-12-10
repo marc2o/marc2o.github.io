@@ -485,6 +485,7 @@ input#DarkModeSwitch:checked+span::before {
 div.repo {
     display: flex;
     flex-direction: column;
+    justify-content: flex-start;
     background-color: var(--fill-color);
     border-radius: .5rem;
     padding: .5rem;
