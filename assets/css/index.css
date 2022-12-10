@@ -466,7 +466,7 @@ input#DarkModeSwitch:checked+span::before {
     div.bottomOrRight>footer {
         margin-left: 0;
         grid-template-columns:
-            minmax(0, var(--margin-width)) minmax(auto, var(--column-width)) minmax(var(--margin-width), 1fr);
+            minmax(0, 1rem) minmax(auto, var(--inner-width)) minmax(1rem, 1fr);
     }
 
     div.bottomOrRight>main>img,
