@@ -25,6 +25,7 @@ kramdown:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-github-metadata
 
 whitelist:
   - jekyll-paginate

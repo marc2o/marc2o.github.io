@@ -94,6 +94,7 @@ footer {
 	padding-bottom: 2rem;
 	font-size: 85%;
   font-family: var(--spot-font, sans-serif);
+  height: fit-content !important;
 }
 
 footer>* {
