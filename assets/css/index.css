@@ -243,11 +243,6 @@ figure.grid {
 figure.grid>img {
     width: 100%;
 }
-figure.grid>div>p {
-    font-size: 85%;
-    margin-top: .5em;
-    margin-bottom: .5em;
-}
   
 div.posts>ul>li span.image>img {
     display: block;
@@ -487,6 +482,16 @@ input#DarkModeSwitch:checked+span::before {
 }
 
 /* github repo */
+div.repo {
+    border: 1px solid var(--text-color);
+    padding: .5rem;
+}
+div.repo>p {
+    font-size: 85%;
+    margin-top: .5em;
+    margin-bottom: .5em;
+}
+
 span.code_language+span {
 	font-family: var(--spot-font);
 	font-size: 85%;
