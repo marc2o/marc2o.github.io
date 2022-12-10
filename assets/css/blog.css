@@ -120,7 +120,7 @@ img {
 }
 
 main.posts {
-	padding: 1rem;
+	padding: 0 1rem;
     font-family: var(--flow-font, serif);
 }
 
