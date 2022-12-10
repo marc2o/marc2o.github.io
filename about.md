@@ -23,15 +23,11 @@ My code repos on GitHub:
 
 {% for repository in site.github.public_repositories %}
 <div class="repo_card">
-
-#### [{{repository.name}}]({{repository.html_url}})
-
-{{repository.description}}
-
+<h4>[{{repository.name}}]({{repository.html_url}})</h4>
+<p>{{repository.description}}</p>
 {% if repository.language  and repository.language != "" and repository.language ≠ nil %}
-> <span class="code_language GitHub_{{repository.language}}"></span> {{repository.language}}
+<blockquote><span class="code_language GitHub_{{repository.language}}"></span> {{repository.language}}</blockquote>
 {% endif %}
-
 </div>
 {% endfor %}
 
