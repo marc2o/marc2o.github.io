@@ -485,9 +485,7 @@ input#DarkModeSwitch:checked+span::before {
 div.repo {
     position: relative;
     display: flex;
-    height: 100%;
     flex-direction: column;
-    justify-content: flex-start;
     background-color: var(--fill-color);
     border-radius: .5rem;
     padding: .5rem;
@@ -502,6 +500,7 @@ div.repo>p {
 }
 div.repo>label {
     display: block;
+    margin-top: auto;
 }
 span.code_language+span {
 	font-family: var(--spot-font);
