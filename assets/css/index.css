@@ -483,7 +483,9 @@ input#DarkModeSwitch:checked+span::before {
 
 /* github repo */
 div.repo {
+    position: relative;
     display: flex;
+    height: 100%;
     flex-direction: column;
     justify-content: flex-start;
     background-color: var(--fill-color);
