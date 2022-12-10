@@ -243,6 +243,9 @@ figure.grid {
 figure.grid>img {
     width: 100%;
 }
+figure.grid>div {
+    width: 100%;
+}
   
 div.posts>ul>li span.image>img {
     display: block;
