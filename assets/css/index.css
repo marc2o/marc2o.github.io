@@ -491,7 +491,7 @@ div.repo {
     padding: .5rem;
 }
 div.repo a {
-    color: inherit;
+    color: var(--link-color);
 }
 div.repo>p {
     font-size: 85%;

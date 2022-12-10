@@ -80,6 +80,7 @@ a:active,
 a:visited {
 	color: var(--link-color);
     word-break: break-word;
+	text-decoration: none;
 }
 
 article {
