@@ -282,20 +282,23 @@ pre {
 	padding: 1em;
 }
 
-div.highlight:hover {
-	--close-button: #FF605C;
-	--minimize-button: #FFBD44;
-	--zoom-button: #00CA4E;
-}
 div.highlight {
+	/*
 	--close-button: #505050;
 	--minimize-button: #505050;
 	--zoom-button: #505050;
 	--window-background: #f0f0f0;
+	*/
 	position: relative;
 	border-radius: 0.5rem;
 	overflow-y: hidden;
 	background-color: var(--fill-color);
+}
+/*
+div.highlight:hover {
+	--close-button: #FF605C;
+	--minimize-button: #FFBD44;
+	--zoom-button: #00CA4E;
 }
 
 div.highlight:before {
@@ -307,6 +310,7 @@ div.highlight:before {
 	left: 0.3rem;
 	background: radial-gradient(ellipse at center, var(--close-button) 0.3rem, transparent 0.3rem) -1rem -1rem,radial-gradient(ellipse at center, var(--minimize-button) 0.3rem, transparent 0.3rem) 0rem -1rem,radial-gradient(ellipse at center, var(--zoom-button) 0.3rem, transparent 0.3rem) 1rem -1rem
 }
+*/
 
 svg {
 	display: block;
