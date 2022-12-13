@@ -3,6 +3,7 @@ layout: index
 title: Hello, I’m Marc!
 author: marc2o
 language: en-US
+image: /images/marc2o-r66.jpg
 ---
 
 # Hey!
