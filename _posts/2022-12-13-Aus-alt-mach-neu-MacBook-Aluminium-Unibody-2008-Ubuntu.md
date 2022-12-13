@@ -1,7 +1,7 @@
 ---
 layout: article
 language: de-DE
-image: IMG_6369.jpg
+image: /images/ubuntu-macbook-img_6532.jpg
 title: Aus Alt mach Neu – Aluminium-MacBook 13-Zoll (Unibody, Ende 2008) mit Ubuntu
 author: marc2o
 abstract: |
@@ -17,6 +17,9 @@ Seit Mitte August habe ich meinen neuen Lieblingscomputer. Ein MacBook Air mit M
 Allerdings ächzt es sehr unter OS X El Capitan (10.11). Trotz der nachträglich eingebauten Crucial MX500 250-GB-SSD vom Typ [CT250MX500SSD1](https://www.crucial.de/ssd/mx500/ct250mx500ssd1) läuft alles in Slow Motion. Von der Fast-Nicht-Verfügbarkeit zeitgenössischer Software mal ganz zu schweigen.
 
 Jetzt habe ich den Versuch gewagt, meinem alten MacBook neues Leben einzuhauchen: mit Linux.
+
+![Ubuntu auf meinem alten MacBook5,1](/images/ubuntu-macbook-system-info.png)
+
 
 
 ## Das richtige Linux für Mac und mich
@@ -60,7 +63,7 @@ sudo apt update
 
 Danach lässt sich der Grafikartentreiber im System unter _Zusätzliche Treiber_ aktivieren.
 
-![Treiber Installieren](../images/ubuntu-macbook-treiber-installieren.png)
+![Treiber Installieren](/images/ubuntu-macbook-treiber-installieren.png)
 Dummerweise lässt sich nun die Helligkeit nicht mehr über die dafür vorgesehenen Heller-/Dunkler-Tasten steuern.
 
 Die Tastensteuerung lässt sich aber über eine Anpassung der zugehörigen X11-Konfiguration wiederherstellen.
@@ -80,3 +83,7 @@ Schließlich kopiert man diese Datei dann nach `/etc/X11/` (vgl. [ialm](https://
 Der alte Mac macht mit dem neuen OS deutlich mehr Spaß. Hinzu kommt, dass es ein paar Programme gibt, die tatsächlich wirklich gut gefallen — z. T. besser als vergleichbare Anwendungen in macOS.
 
 Da wäre zum Beispiel [Apostrophe](https://gitlab.gnome.org/World/apostrophe), ein ablenkungsfreier Markdown-Editor. [LibreOffice](https://www.libreoffice.org) ist bei Ubuntu standardmäßig dabei und kann hier sogar Dark-Mode. [Krita](https://krita.org/en/) ist hier ebenfalls schöner als sowohl die Mac- wie auch die Windows-Version. Einzig [Visual Studio Code](https://code.visualstudio.com/docs/setup/linux) ist hier genau das gleiche, wie auf allen anderen Plattformen auch.
+
+## Offene Punkte
+
+Das System läuft stabil und man gewöhnt sich schnell an ggf. etwas andere Tastenkombinationen. Was noch nicht rund läuft ist die Kühlung. Zumindest ist mein Eindruck, dass das Gerät bei in machen Situationen wärmer wird — das kann allerdings auch der alten Hardware geschuldet sein, die nun einfach mehr leisten muss. Aber ich experimentiere noch mit `mpbfan` und `macfanctld`. Updates folgen.
