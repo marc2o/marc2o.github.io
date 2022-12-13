@@ -18,7 +18,10 @@ Allerdings ächzt es sehr unter OS X El Capitan (10.11). Trotz der nachträglich
 
 Jetzt habe ich den Versuch gewagt, meinem alten MacBook neues Leben einzuhauchen: mit Linux.
 
-![Ubuntu auf meinem alten MacBook5,1](/images/ubuntu-macbook-system-info.png)
+<figure>
+<img src="/images/ubuntu-macbook-system-info.png" alt="Ubuntu auf einem MacBook von 2008">
+<figcaption>Ubuntu auf meinem alten MacBook5,1</figcaption>
+</figure>
 
 
 
@@ -63,7 +66,11 @@ sudo apt update
 
 Danach lässt sich der Grafikartentreiber im System unter _Zusätzliche Treiber_ aktivieren.
 
-![Treiber Installieren](/images/ubuntu-macbook-treiber-installieren.png)
+<figure>
+<img src="/images/ubuntu-macbook-treiber-installieren.png" alt="Treiber Installieren">
+<figcaption>Treiber Installieren</figcaption>
+</figure>
+
 Dummerweise lässt sich nun die Helligkeit nicht mehr über die dafür vorgesehenen Heller-/Dunkler-Tasten steuern.
 
 Die Tastensteuerung lässt sich aber über eine Anpassung der zugehörigen X11-Konfiguration wiederherstellen.
