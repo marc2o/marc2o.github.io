@@ -6,7 +6,7 @@
 	--fill-color: #222428;
 	--ripples-effect: rgba(255, 255, 255, 0.2);	
 
-	--code-font: monospace;
+	--code-font: 'FiraCode';
 	--flow-font: 'Merriweather';
 	--spot-font: 'Open Sans';
 	--inner-width: 36em;
