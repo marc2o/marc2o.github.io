@@ -23,10 +23,10 @@ Besonders hat es dem norddeutschen Nörgler ja der Regen angetan. Regen wirkt n�
 <figcaption>Ein Tag wie ein Aquarell… (<a href="https://instagram.com/p/QW4C3AKl8_/?taken-by=marc2o" rel="me">@marc2o</a>)</figcaption>
 </figure>
 
-Dieses kurze Glossar zeigt doch unser sehr gestörtes Verhältnis zum Regen. Kein Hannoveraner würde einen Regentanz aufführen. Außer vor Wut. Dabei gibt es doch an und für sich gar kein schlechtes Wetter. Nur die falsche Kleidung. — Und nächstes Jahr kommen Wasserpflanzen auf die Terrasse!
-
 
 ## Ein Regenwörterbuch
+
+Dieses kurze Glossar zeigt doch unser sehr gestörtes Verhältnis zum Regen. Kein Hannoveraner würde einen Regentanz aufführen. Außer vor Wut. Dabei gibt es doch an und für sich gar kein schlechtes Wetter. Nur die falsche Kleidung. — Und nächstes Jahr kommen Wasserpflanzen auf die Terrasse!
 
 ### B
 
