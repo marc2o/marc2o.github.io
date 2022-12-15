@@ -43,6 +43,14 @@ Dieses kurze Glossar zeigt doch unser sehr gestörtes Verhältnis zum Regen. Kei
 </dl>
 
 
+### E
+
+<dl>
+    <dt><strong>wie aus Eimern schütten</strong></dt>
+    <dd><em>ugs.</em> Wenn es <em>wie aus Eimern schüttet</em> oder <em>wie aus Kübeln gießt</em>, dann ist das ein wahrer <em>Wolkenbruch</em>.</dd>
+</dl>
+
+
 ### G
 
 <dl>
@@ -122,9 +130,6 @@ Dieses kurze Glossar zeigt doch unser sehr gestörtes Verhältnis zum Regen. Kei
 ### W
 
 <dl>
-    <dt><strong>wie aus Eimern schütten</strong></dt>
-    <dd><em>ugs.</em> Wenn es <em>wie aus Eimern schüttet</em> oder <em>wie aus Kübeln gießt</em>, dann ist das ein wahrer <em>Wolkenbruch</em>.</dd>
-
     <dt><strong>Wolkenbruch</strong>, der</dt>
     <dd><em>n.</em> Wenn es <em>schüttet wie aus Eimern</em> und der Ausdruck <em>Platzregen</em> nicht stark genug ist.</dd>
 </dl>
