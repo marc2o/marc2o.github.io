@@ -1,9 +1,16 @@
 :root {
+  --spot-color: #c84400;
+  --link-color: #fc7800;
+  --text-color: #f2e8cf;
+  --back-color: #383432;
+  --fill-color: #282422;
+/*
 	--spot-color: #6a994e;
 	--link-color: #a7c957;
 	--text-color: #f2e8cf;
 	--back-color: #323438;
 	--fill-color: #222428;
+*/
 	--ripples-effect: rgba(255, 255, 255, 0.2);	
 
 	--code-font: 'FiraCode';
