@@ -8,6 +8,8 @@ image: /images/icons/joystick.png
 
 ## Icons
 
+Various icon designs for fun, friends and OpenSource projects. Among them (top row, from left to right) EgonOlsen’s »[Naroth](https://play.google.com/store/apps/details?id=com.threed.jpct.games.rpg&hl=de&gl=US)« game, an alternative app icon for »[TextMate](https://github.com/textmate/textmate)«, the app icon for Hendrik Erz’ »[Zettlr](https://www.zettlr.com)«.
+
 <figure class="grid">
   <img src="/images/icons/naroth.png" alt="Naroth">
   <img src="/images/icons/textmate.png" alt="TextMate">
@@ -20,7 +22,7 @@ image: /images/icons/joystick.png
 </figure>
 
 
-## Pixels
+## Pixel Art
 
 <figure class="grid">
   <img src="/images/pixelart/the-son-of-man.png" alt="The Son of Man">
