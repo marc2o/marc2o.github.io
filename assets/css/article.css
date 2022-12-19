@@ -401,6 +401,7 @@ th {
 		flex-grow: 1;
 		margin-left: 1rem;
 		text-align: left;
+		margin-top: 0;
 	}
 }
 
