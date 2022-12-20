@@ -179,6 +179,7 @@ figure.grid>img {
 
 figcaption {
 	display: block;
+	margin: 0.5rem 1rem;
 	font-family: var(--spot-font, sans-serif);
 	font-size: 0.85em;
 	text-align: center;
