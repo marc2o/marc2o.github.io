@@ -51,7 +51,7 @@ I’m into retro gaming and computing. This blog is about stories, experiences a
 </figure>
 
 {% if site.data.items and site.data.items.size != 0 %}
-<figure class="gallery">
+<figure class="posts">
 {% for item in site.data.items %}
 <img src="{{ item.img }}" alt="{{ item.name }}">
 <figcaption>{{ item.name }}</figcaption>
