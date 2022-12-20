@@ -50,6 +50,7 @@ I’m into retro gaming and computing. This blog is about stories, experiences a
 {% endfor %}
 </figure>
 
+<!--
 {% if site.data.items and site.data.items.size != 0 %}
 <figure>
 {% for item in site.data.items %}
@@ -58,3 +59,4 @@ I’m into retro gaming and computing. This blog is about stories, experiences a
 {% endfor %}
 </figure>
 {% endif %}
+-->
