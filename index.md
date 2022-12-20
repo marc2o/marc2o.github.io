@@ -50,7 +50,7 @@ I’m into retro gaming and computing. This blog is about stories, experiences a
 {% endfor %}
 </figure>
 
-{% if site.data.members and site.data.members.size != 0 %}
+{% if site.data.members and site.data.items.size != 0 %}
 <figure class="gallery">
 {% for item in site.data.items %}
 <img src="{{ item.img }}" alt="{{ item.name }}">
