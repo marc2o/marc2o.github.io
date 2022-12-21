@@ -9,6 +9,11 @@
 :root {
     font-size: 125%;
     accent-color: var(--spot-color);
+    --code-font: 'FiraCode';
+    --flow-font: 'Merriweather';
+    --spot-font: 'Open Sans';
+    --inner-width: 36em;
+    --outer-width: 40em;
 }
 
 main>* {

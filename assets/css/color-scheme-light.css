@@ -12,10 +12,4 @@
 	--fill-color: #ded4bb;
 */
 	--ripples-effect: rgba(0, 0, 0, 0.2);
-
-	--code-font: 'FiraCode';
-	--flow-font: 'Merriweather';
-	--spot-font: 'Open Sans';
-	--inner-width: 36em;
-	--outer-width: 40em;
 }

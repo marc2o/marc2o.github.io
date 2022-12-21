@@ -1,3 +1,10 @@
+:root {
+	--code-font: 'FiraCode';
+	--flow-font: 'Merriweather';
+	--spot-font: 'Open Sans';
+	--inner-width: 36em;
+	--outer-width: 40em;
+}
 /*! minireset.css v0.0.6 | MIT License | github.com/jgthms/minireset.css */
 html,
 body,
@@ -85,6 +92,7 @@ a:visited {
 
 article {
 	max-width: 40em;
+	max-width: var(--outer-width);
 	margin: 1rem auto 0 auto;
 	font-family: var(--flow-font, serif);
 	display: grid;
@@ -179,7 +187,8 @@ figure.grid>img {
 
 figcaption {
 	display: block;
-	margin: 0.5rem 1rem;
+	margin: 0.5rem auto;
+	max-width: var(--inner-width);
 	font-family: var(--spot-font, sans-serif);
 	font-size: 0.85em;
 	text-align: center;

@@ -1,3 +1,11 @@
+:root {
+	--code-font: 'FiraCode';
+	--flow-font: 'Merriweather';
+	--spot-font: 'Open Sans';
+	--inner-width: 36em;
+	--outer-width: 40em;
+}
+
 /*! minireset.css v0.0.6 | MIT License | github.com/jgthms/minireset.css */
 html,
 body,
