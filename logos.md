@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Logo Projects
+title: Assorted Logo Projects
 author: marc2o
 language: en-US
 image: /images/logos/heilende-linien.jpg

@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Icons and Pixels
+title: Chiptunes and Sheet Music
 author: marc2o
 language: en-US
 image: /images/gameofcrows.png
