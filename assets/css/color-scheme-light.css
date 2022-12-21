@@ -1,8 +1,9 @@
 :root {
-	--spot-color: #a8dadc;
-	--grad-color: #457b9d;
+	--spot-color: #457b9d;
+	--grad-color: #a8dadc;
 	--link-color: #e63946;
 	--text-color: #2d3547;
+	--fore-color: #f1faee;
 	--back-color: #f1faee;
 	--fill-color: #e1eade;
 	
