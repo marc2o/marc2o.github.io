@@ -229,7 +229,7 @@ header {
 	width: 100vw;
 	height: 80vh;
 	overflow: hidden;
-	clip-path: polygon(0 3vh, 100% 0, 100% calc(100% - 3vh), 0 100%);
+	clip-path: polygon(0 5vh, 100% 0, 100% calc(100% - 5vh), 0 100%);
 
 }
 
@@ -242,7 +242,7 @@ header>h1 {
 	padding: 1em 1rem;
 	margin: 0 auto;
 	background-color: var(--spot-color);
-	clip-path: polygon(0 3vh, 100% 0, 100% calc(100% - 3vh), 0 100%);
+	clip-path: polygon(0 5vh, 100% 0, 100% calc(100% - 5vh), 0 100%);
   }
   
 
