@@ -2,8 +2,8 @@
 	--code-font: 'FiraCode';
 	--flow-font: 'Merriweather';
 	--spot-font: 'Open Sans';
-	--inner-width: 36em;
-	--outer-width: 40em;
+	--outer-width: 48rem;
+	--inner-width: 36rem;
 }
 /*! minireset.css v0.0.6 | MIT License | github.com/jgthms/minireset.css */
 html,
@@ -235,7 +235,7 @@ header {
 
 header>h1 {
 	display: block;
-	width: var(--outer-width);
+	max-width: var(--outer-width);
 	font-size: 180%;
 	line-height: 140%;
 	text-align: center;
