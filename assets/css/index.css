@@ -154,7 +154,7 @@ header {
     overflow: hidden;
     color: var(--text-color);
     background-color: var(--spot-color);
-    background: linear-gradient(top, var(--spot-color) 0%, var(--grad-color) 100%);
+    background: linear-gradient(180deg, var(--spot-color) 50%, var(--grad-color) 100%);
     clip-path: polygon(0% 0%, 100% 0%, 100% calc(100% - 5vh), 0% 100%);
     -webkit-clip-path: polygon(0% 0%, 100% 0%, 100% calc(100% - 5vh), 0% 100%);
 }
