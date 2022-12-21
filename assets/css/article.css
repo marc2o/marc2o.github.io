@@ -241,7 +241,7 @@ header>h1 {
 	text-align: center;
 	padding: 1em 1rem;
 	margin: 0 auto;
-	background-color: var(--back-color);
+	background-color: var(--spot-color);
 	clip-path: polygon(0 3vh, 100% 0, 100% calc(100% - 3vh), 0 100%);
   }
   
