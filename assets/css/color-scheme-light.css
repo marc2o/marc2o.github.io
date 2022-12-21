@@ -1,10 +1,17 @@
 :root {
-  --spot-color: #fc7800;
-  --link-color: #c84400;
-  --text-color: #383432;
-  --back-color: #f2e8cf;
-  --fill-color: #cfc6b1;
+	--spot-color: #457b9d;
+	--grad-color: #a8dadc;
+	--link-color: #e63946;
+	--text-color: #2d3547;
+	--back-color: #f1faee;
+	--fill-color: #e1eade;
+	
 /*
+	--spot-color: #fc7800;
+	--link-color: #c84400;
+	--text-color: #383432;
+	--back-color: #f2e8cf;
+	--fill-color: #cfc6b1;
 	--spot-color: #a7c957;
 	--link-color: #6a994e;
 	--text-color: #424242;
