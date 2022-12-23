@@ -155,8 +155,8 @@ header {
     color: var(--fore-color);
     background-color: var(--spot-color);
     background: linear-gradient(180deg, var(--spot-color) 50%, var(--grad-color) 120%);
-    clip-path: polygon(0% 0%, 100% 0%, 100% calc(100% - 5vh), 0% 100%);
-    -webkit-clip-path: polygon(0% 0%, 100% 0%, 100% calc(100% - 5vh), 0% 100%);
+    clip-path: polygon(0% 0%, 100% 0%, 100% calc(100% - 1rem), 0% 100%);
+    -webkit-clip-path: polygon(0% 0%, 100% 0%, 100% calc(100% - 1rem), 0% 100%);
 }
 
 main>img,
@@ -457,8 +457,8 @@ input#DarkModeSwitch:checked+span::before {
 
     div.topOrLeft>header {
         height: 100%;
-        clip-path: polygon(0% 0%, 100% 0%, calc(100% - 5vh) 100%, 0% 100%);
-        -webkit-clip-path: polygon(0% 0%, 100% 0%, calc(100% - 5vh) 100%, 0% 100%);
+        clip-path: polygon(0% 0%, 100% 0%, calc(100% - 1rem) 100%, 0% 100%);
+        -webkit-clip-path: polygon(0% 0%, 100% 0%, calc(100% - 1rem) 100%, 0% 100%);
     }
 
     div.bottomOrRight {
