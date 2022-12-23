@@ -372,10 +372,6 @@ ul.follow svg g {
     fill: var(--text-color);
 }
 
-ul.follow svg g#Codepen path {
-    stroke: var(--text-color);
-}
-
 div.posts li.more a.button {
     display: block;
     height: 2.5rem;
