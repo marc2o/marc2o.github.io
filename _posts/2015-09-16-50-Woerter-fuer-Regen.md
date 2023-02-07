@@ -23,7 +23,6 @@ Besonders hat es dem norddeutschen Nörgler ja der Regen angetan. Regen wirkt n�
 <figcaption>Ein Tag wie ein Aquarell… (<a href="https://instagram.com/p/QW4C3AKl8_/?taken-by=marc2o" rel="me">@marc2o</a>)</figcaption>
 </figure>
 
-
 ## Ein Regenwörterbuch
 
 Dieses kurze Glossar zeigt doch unser sehr gestörtes Verhältnis zum Regen. Kein Hannoveraner würde einen Regentanz aufführen. Außer vor Wut. Dabei gibt es doch an und für sich gar kein schlechtes Wetter. Nur die falsche Kleidung. — Und nächstes Jahr kommen Wasserpflanzen auf die Terrasse!
@@ -42,14 +41,12 @@ Dieses kurze Glossar zeigt doch unser sehr gestörtes Verhältnis zum Regen. Kei
     <dd><em>n.</em> Nicht enden wollender Regen, ganz gleichmäßig von morgens bis abends. Genau die Art Wetter, die man vor allem im Herbst gern drinnen mit heißem Tee oder heißer Schokolade und Gebäck verbringt.</dd>
 </dl>
 
-
 ### E
 
 <dl>
     <dt><strong>wie aus Eimern schütten</strong></dt>
     <dd><em>ugs.</em> Wenn es <em>wie aus Eimern schüttet</em> oder <em>wie aus Kübeln gießt</em>, dann ist das ein wahrer <em>Wolkenbruch</em>.</dd>
 </dl>
-
 
 ### G
 
@@ -60,8 +57,6 @@ Dieses kurze Glossar zeigt doch unser sehr gestörtes Verhältnis zum Regen. Kei
     <dt><strong>gießen</strong></dt>
     <dd><em>v.</em> So wie <em>gallern</em>, aber mit kleineren Tropfen.</dd>
 </dl>
-
-
 
 ### J
 
@@ -124,8 +119,6 @@ Dieses kurze Glossar zeigt doch unser sehr gestörtes Verhältnis zum Regen. Kei
     <dt><strong>in Strömen regnen</strong></dt>
     <dd><em>ugs.</em> Wenn es <em>wie aus Eimern schüttet</em>, aber die Tropfen nicht dicht genug aufeinander folgen für <em>Bindfäden</em> und nicht dick und groß genug sind für <em>Junge Hunde</em>.</dd>
 </dl>
-
-
 
 ### W
 
