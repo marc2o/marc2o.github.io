@@ -82,6 +82,8 @@ Diese inoffizielle Version von LineageOS 15.1 ist eine Alternative für das regu
 
 Alle Details unter [»LineageOS on Retroid Pocket 2«](https://retrogamecorps.com/2021/03/21/lineageos-android-8-1-on-retroid-pocket-2/).
 
+Eine gute Anleitung zum Upgrade auf LineageOS 15.1 ist dieses Video: https://www.youtube.com/watch?v=SCJpCgBJDfg von Retro Game Corps.
+
 
 ## Familienanschluss
 
