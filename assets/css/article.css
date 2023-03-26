@@ -110,10 +110,12 @@ article>ol,
 article>ul {
 	margin-left: 2em;
 }
-article ul,
-article ul ul {
-    margin-left: 2em;
-    list-style-type: disc;
+article>ol>ul,
+article>ul>ul {
+  margin-left: 1em;
+}
+article ul {
+  list-style-type: disc;
 }
 article ul>li,
 article ol>li {
