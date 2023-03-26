@@ -106,13 +106,9 @@ footer>* {
 	grid-column: 2;
 }
 
-article>ol,
-article>ul {
+article ol,
+article ul {
 	margin-left: 2em;
-}
-article>ol>ul,
-article>ul>ul {
-  margin-left: 3em;
 }
 article ul {
   list-style-type: disc;
