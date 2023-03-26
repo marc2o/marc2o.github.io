@@ -114,7 +114,10 @@ article>ul {
     list-style-type: disc;
 }
 article>ul>li {
-	margin-top: .75em;
+	margin-top: .5em;
+}
+article>ul>li:not(:first-child) {
+  margin-top: 1em;
 }
 
 body {
