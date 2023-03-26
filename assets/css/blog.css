@@ -165,6 +165,9 @@ main.posts h3,
 main.posts p {
 	margin-top: 1rem;
 }
+main.posts p {
+  font-size: 75%;
+}
 
 main.posts>ul>li>a>span {
 	display: block;
