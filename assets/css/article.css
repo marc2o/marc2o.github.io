@@ -112,7 +112,7 @@ article>ul {
 }
 article ul,
 article ul ul {
-    margin-left: 2em;
+    margin-left: 4em;
     list-style-type: disc;
 }
 article ul>li,
