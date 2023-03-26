@@ -112,6 +112,7 @@ article>ul {
 }
 article ul,
 article ul ul {
+    margin-left: 2em;
     list-style-type: disc;
 }
 article ul>li,
@@ -245,7 +246,7 @@ header>h1 {
 	padding: 1em 1rem;
 	margin: 0 auto;
 	color: var(--fore-color);
-	background-color: var(--spot-color);
+	background-color: var(--spot-color-transparent);
 	clip-path: polygon(0 1rem, 100% 0, 100% calc(100% - 1rem), 0 100%);
   }
   
