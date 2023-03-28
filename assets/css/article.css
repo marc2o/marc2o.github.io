@@ -134,6 +134,11 @@ code {
 	font-family: var(--code-font, monospace, monospace);
 }
 
+p code,
+ul code {
+  overflow-wrap: break-word;
+}
+
 dt {
 	margin-top: 1rem;
 }
