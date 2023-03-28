@@ -42,7 +42,7 @@ Die Stock Apps habe ich direkt in ein Verzeichnis auf der SD-Karte kopiert.
 3. SPFlash starten (zu finden unter ´Lineage-15.1-RP2/SPFlash`) und entsprechend konfigurieren:
 	
 	* Download-Agent: `MTK_AllInOne_­DA.bin`
-	* Scatter-loading File: `MT6580_­Android_­scatter.txt`
+	* Scatter-loading File: `MT6580_Android_scatter.txt`
 
 4. Die Option `Format All + Download` auswählen
 5. Dann `Download`-Button anklicken
