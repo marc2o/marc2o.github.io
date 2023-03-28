@@ -136,7 +136,7 @@ code {
 
 p code,
 ul code {
-  overflow-wrap: break-word;
+  overflow-wrap: anywhere;
 }
 
 dt {
