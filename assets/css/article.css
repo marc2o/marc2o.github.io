@@ -137,6 +137,7 @@ code {
 p code,
 ul code {
   overflow-wrap: anywhere;
+  font-size: 80%;
 }
 
 dt {
