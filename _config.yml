@@ -26,6 +26,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-github-metadata
+  - jekyll-feed
 
 whitelist:
   - jekyll-paginate
