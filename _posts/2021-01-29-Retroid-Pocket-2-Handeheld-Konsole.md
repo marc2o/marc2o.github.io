@@ -4,6 +4,7 @@ language: de-DE
 image: /images/rp2-foto-4.jpg
 title: Retroid Pocket 2 Handheld-Konsole
 author: marc2o
+date: 2021-01-29
 tags:
 - retroid pocket 2
 - gaming

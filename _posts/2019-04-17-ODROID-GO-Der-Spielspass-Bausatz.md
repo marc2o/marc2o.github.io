@@ -4,6 +4,7 @@ language: de-DE
 image: /images/odroid-go-customized.jpg
 title: ODROID-GO, der Spielspaß-Bausatz
 author: marc2o
+date: 2019-04-17
 tags:
 - odroid-go
 - handheld

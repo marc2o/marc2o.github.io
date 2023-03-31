@@ -4,6 +4,7 @@ language: de-DE
 image: /images/rp2-lineageos-1.jpg
 title: Retroid Pocket 2 LineageOS-Upgrade
 author: marc2o
+date: 2023-03-25
 tags:
 - retroid pocket 2
 - emulation
