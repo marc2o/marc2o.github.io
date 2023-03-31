@@ -12,7 +12,7 @@ tags:
 - spielkonsole
 ---
 
-LineageOS 15.1 ist aus der Beta-Phase raus und ich hab mich endlich getraut, die Neueinrichtung meines [Retroid Pocket 2](% post_url 2021-01-29-Retroid-Pocket-2-Handeheld-Konsole.md %) vorzunehmen.
+LineageOS 15.1 ist aus der Beta-Phase raus und ich hab mich endlich getraut, die Neueinrichtung meines [Retroid Pocket 2](2021-01-29-Retroid-Pocket-2-Handeheld-Konsole.md) vorzunehmen.
 
 Das Upgrade lohnt sich für alle, die auf das RetroidOS verzichten können und denen die bisherigen Android 6- und 8.1-Systeme zu schwergängig sind. [LineageOS](https://lineageos.org/) ist ein »free and open-source operating system for various devices, based on the Android mobile platform.« Ohne den ganzen Google-Schnickschnack. Das System fühlt sich insgesamt schlanker und schneller an.
 
