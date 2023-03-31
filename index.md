@@ -10,7 +10,7 @@ image: /images/marc2o-r66.jpg
 
 [I’m Marc]({% link about.md %}), somewhat creative and I love making stuff. Digitally as well as for real. My super powers are to spot what’s missing, simplify what’s complex, and explain both easily comprehensible.
 
-I love drawing (pixels and vectors), coding (Lua and C) and making music (chiptunes, piano and ukulele).
+I enjoy drawing pixels and vectors, coding in Lua and C, and making music with synths, piano and ukulele.
 
 <figure class="grid">
   <img src="/images/icons/textmate.png" alt="TextMate app icon">
