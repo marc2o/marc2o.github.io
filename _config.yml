@@ -37,6 +37,9 @@ paginate_path: "/articles/:num/"
 
 excerpt_separator: <!--more-->
 
+feed:
+  excerpt_only: true
+
 defaults: 
   - scope:
       path: "articles"
