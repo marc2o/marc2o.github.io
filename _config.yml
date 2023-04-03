@@ -9,6 +9,9 @@ atom_feed:
 twitter:
   username: &twitter "marc2o"
 
+mastodon:
+  username: &mastodon "@marc2o@mastodon.online"
+
 author:
   name: "Marc Oliver Orth"
   bio: "Wonderer. Geek. Human(e) being."
@@ -38,7 +41,7 @@ paginate_path: "/articles/:num/"
 excerpt_separator: <!--more-->
 
 feed:
-  excerpt_only: true
+  excerpt_only: false
 
 defaults: 
   - scope:
