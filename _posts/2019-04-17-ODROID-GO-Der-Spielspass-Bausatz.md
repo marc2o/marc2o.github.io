@@ -12,7 +12,14 @@ tags:
 - spielkonsole
 ---
 
-Als ich das erste Foto der Handheld-Gaming-Konsole »[ODROID-GO](https://www.hardkernel.com/shop/odroid-go/)« gesehen hatte, wusste ich, dass ich eine haben muss! — Schon an NextThing’s [Pocket C.H.I.P.](https://shop.pocketchip.co/collections/frontpage/products/pocket-c-h-i-p-new) mit [PICO-8](https://www.lexaloffle.com/pico-8.php) mit bin ich nicht vorbeigekommen. Da konnte ich bei einem »Gameboy«-Bausatz mit 8-Bit-Emulatoren erst recht nicht widerstehen.
+Schon als ich das erste Foto des ODROID-GO gesehen hatte, wusste ich, dass ich so einen haben muss! Ein Retro-Spielkonsolen-Emulator-Bausatz im Look des klassischen Nintendo Game Boy.
+
+<!--more-->
+
+> To celebrate ODROID’s 10th anniversary, we present to you the ODROID-GO Game Kit! With a special anniversary board and with all the parts to put together your own game kit and see the workings behind such a device, it is not only a fun assembly project, it can be an educational tool to learn about all the hardware and software that goes into building such a device. (ODROID Wiki)
+
+
+Schon an NextThing’s Pocket C.H.I.P. mit PICO-8 und SunVox bin ich nicht vorbeigekommen. Mich ziehen solche Geräte magisch an.
 
 <figure>
 <img src="/images/odroid-go-assembled.jpg" alt="Fertiger ODROID-GO">

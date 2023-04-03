@@ -12,6 +12,8 @@ tags:
 
 Das Wetter ist ein beliebtes Gesprächsthema. Jeder kann etwas dazu sagen. Das Wetter gehört auch zu den wenigen Dingen in unserem Umfeld, zu dem jeder eine Meinung haben darf, sogar eine eigene.
 
+<!--more-->
+
 Wetter, und vor allem das hannöversche, kennt kein Mittelmaß, so kommt es einem vor. Eigentlich ist es immer zu heiß oder zu kalt, zu verregnet oder zu trocken, und überhaupt ständig ganz anders als vorhergesagt. Trotz Wetter-Apps und -Widgets.
 
 Das war früher anders, und besser, sagen Leute von früher. Wo sind die richtigen Winter, und auch Sommer? Wo sind die anderen Jahreszeiten, die dazwischen gehören? Heute gibt es ja praktisch gar keine Übergangszeit mehr. Nur noch die Jacken dafür. Die Preise für Obst und Gemüse steigen, weil wir keinen Frühling hatten, oder weil der Winter so lang war. Oder beides. Spargelpflanzen müssen beheizt und die Erdbeeren importiert werden. Von der viel zitierten Globalen Erwärmung merkt man eigentlich nichts. Kann aber auch am Global Dimming liegen. Am Wetter sind wir aber in jedem Fall selbst Schuld. Sagen die Klimaforscher. Schon seit wir sesshaft geworden sind und den Ackerbau für uns entdeckt haben. Ob da auch die ewige Nörgelei über das Wetter begonnen hat?

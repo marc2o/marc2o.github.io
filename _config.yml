@@ -35,6 +35,8 @@ whitelist:
 paginate: 8
 paginate_path: "/articles/:num/"
 
+excerpt_separator: <!--more-->
+
 defaults: 
   - scope:
       path: "articles"

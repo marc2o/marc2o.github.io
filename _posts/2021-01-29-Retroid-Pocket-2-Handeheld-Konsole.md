@@ -12,7 +12,9 @@ tags:
 - spielkonsole
 ---
 
-Meine Konsolensammlung wächst. Letzter Neuzugang: Der [Retroid Pocket 2](https://www.goretroid.com) ist eine Handheld-Spielkonsole aus China. Ich hab die Variante »Retro« im Gameboy-Design gewählt, und ich muss sagen: Das Ding sieht super aus und fühlt sich noch besser an. 
+Meine Konsolensammlung wächst. Letzter Neuzugang: Der [Retroid Pocket 2](https://www.goretroid.com) ist eine Handheld-Spielkonsole aus China. Ich hab die Variante »Retro« im Gameboy-Design gewählt, und ich muss sagen: Das Ding sieht super aus und fühlt sich noch besser an.
+
+<!--more-->
 
 Auf der dual-boot-fähigen Konsole läuft wahlweise Android 6 bzw. 8.1 (nach Upgrade) oder das eigene  RetroidOS. Während letzteres heißt, dass direkt ein einen Multi-Plattform-Emulator gebootet wird, hat man unter Android Zugriff auf verschiedene Emulatoren, allen voran natürlich RetroArch und ScummVM. 
 

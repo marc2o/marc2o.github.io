@@ -15,11 +15,13 @@ tages:
 - Terminal
 ---
 
-Am [PocketCHIP](http://chip.jfpossibilities.com/docs/pocketchip.html) bin ich damals in 2017 nicht vorbei gekommen (das war noch vor meinem [ODROID GO]({% post_url 2019-04-17-ODROID-GO-Der-Spielspass-Bausatz %}) und [Retroid Pocket 2]({% post_url 2021-01-29-Retroid-Pocket-2-Handeheld-Konsole %})): ein kleiner vollwertiger Computer mit Tastatur und Bildschirm, auf dem spannende Entwicklungs- und Musik-Programme vorinstalliert waren. Das Ganze ist also eine Spielkonsole, ein Computer, ein tragbarer Synthesizer — und eben ein kleiner Linux-Computer.
+Am [PocketCHIP](http://chip.jfpossibilities.com/docs/pocketchip.html) bin ich damals in 2017 nicht vorbei gekommen (das war noch vor meinem [ODROID GO]({% post_url 2019-04-17-ODROID-GO-Der-Spielspass-Bausatz %}) und [Retroid Pocket 2]({% post_url 2021-01-29-Retroid-Pocket-2-Handeheld-Konsole %})): ein kleiner vollwertiger Computer mit Tastatur und Bildschirm, auf dem spannende Entwicklungs- und Musik-Programme vorinstalliert waren. Das Ganze ist also eine Spielkonsole, ein Computer, ein tragbarer Synthesizer — und eben ein kleiner Linux-Computer. Leider ist es fast unmöglich, das Gerät zu flashen, wenn man einen Mac hat.
 
-Leider ist der Hersteller NextThing Co. recht fix pleite gegangen. Support und Update-Server waren schon bald darauf nicht mehr erreichbar. Glücklicherweise haben Fans die Repositories geklont und Tipps veröffentlicht, wie die geräte aktualisiert werden können.
+<!--more-->
 
-Wenn man einen Mac hat, ist das allerdings nicht ganz so einfach, den CHIP zu flashen. Schon mein letzter Versuch war diesbezüglich eine Herausforderung. Da ich keinen Windows-Rechner hab und eine Emulation bzw. VM nicht funktioniert, habe ich es diesmal anders probiert: Ich hab mir eine bootfähige SD-Karte mit Ubuntu eingerichtet und meinen Mac von dieser gestartet.
+Der Hersteller NextThing Co. ist längst pleite. Support und Update-Server sind schon lange nicht mehr erreichbar. Glücklicherweise haben Fans die Repositories geklont und Tipps veröffentlicht, wie die geräte aktualisiert werden können.
+
+Da macOS beim Flash-Vorgang nicht wirklich unterstützt wird, ich keinen Windows-Rechner hab und eine Emulation bzw. VM nicht funktioniert, habe ich es diesmal anders probiert: Ich hab mir eine bootfähige SD-Karte mit Ubuntu eingerichtet und meinen Mac von dieser gestartet.
 
 
 ## Ubuntu auf einer SD-Karte

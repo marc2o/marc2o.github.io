@@ -12,11 +12,11 @@ tags:
 - Ubuntu
 ---
 
-Seit Mitte August habe ich meinen neuen Lieblingscomputer. Ein MacBook Air mit M2-Prozessor. Um den Aufbau eines Computermuseums zu vermeiden, mussten die alten Rechner weg. Dazu gehörten ein MacBook Air von 2015 sowie ein weißes MacBook aus dem Jahr 2006. Einzig vom [MacBook 13" Unibody](https://everymac.com/systems/apple/macbook/specs/macbook-core-2-duo-2.0-aluminum-13-late-2008-unibody-specs.html) (Aluminium, Ende 2008) wollte ich mich nicht trennen. Das sieht einfach noch zu schön aus (und es hat ein optisches Laufwerk).
+Seit Mitte August habe ich meinen neuen Lieblingscomputer. Ein MacBook Air mit M2-Prozessor. Um den Aufbau eines Computermuseums zu vermeiden, mussten alte Rechner weg. Bei meinem Aluminium-MacBook habe ich jedoch den Versuch gewagt, ihm mit Linux neues Leben einzuhauchen.
 
-Allerdings ächzt es sehr unter OS X El Capitan (10.11). Trotz der nachträglich eingebauten Crucial MX500 250-GB-SSD vom Typ [CT250MX500SSD1](https://www.crucial.de/ssd/mx500/ct250mx500ssd1) läuft alles in Slow Motion. Von der Fast-Nicht-Verfügbarkeit zeitgenössischer Software mal ganz zu schweigen.
+<!--more-->
 
-Jetzt habe ich den Versuch gewagt, meinem alten MacBook neues Leben einzuhauchen: mit Linux.
+Vom [MacBook 13" Unibody](https://everymac.com/systems/apple/macbook/specs/macbook-core-2-duo-2.0-aluminum-13-late-2008-unibody-specs.html) (Aluminium, Ende 2008) wollte ich mich nicht trennen. Das sieht einfach noch zu schön aus. Außerdem hat es ein optisches Laufwerk). Allerdings ächzt es sehr unter OS X El Capitan (10.11). Trotz der nachträglich eingebauten Crucial MX500 250-GB-SSD vom Typ [CT250MX500SSD1](https://www.crucial.de/ssd/mx500/ct250mx500ssd1) läuft alles in Slow Motion. Von der Fast-Nicht-Verfügbarkeit zeitgenössischer Software mal ganz zu schweigen.
 
 <figure>
 <img src="/images/ubuntu-macbook-system-info.png" alt="Ubuntu auf einem MacBook von 2008">

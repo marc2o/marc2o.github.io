@@ -15,6 +15,10 @@ Neulich habe ich meine alte [Atari 2600 Spielkonsole](https://www.atari-computer
 
 Die kurze Antwort ist: ja.
 
+<!--more-->
+
+Das ist sogar ziemlich einfach.
+
 <figure class="gallery">
     <figure><img src="/images/atari2600-junior.jpg" alt="Atari 2600 Spielkonsole"><figcaption>Meine erste Spielkonsole.</figcaption></figure>
     <figure><img src="/images/atari2600-joystick.jpg" alt="Atari 2600 Joystick"><figcaption>Bestes Design für Handkrämpfe und unkaputtbar!</figcaption></figure>
