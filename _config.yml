@@ -6,9 +6,6 @@ baseurl: ""
 atom_feed:
   path: # blank (default) uses feed.xml
 
-twitter:
-  username: &twitter "marc2o"
-
 mastodon:
   username: &mastodon "@marc2o@mastodon.online"
 
