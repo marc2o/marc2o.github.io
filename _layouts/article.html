@@ -31,6 +31,8 @@
         {% assign readingTime = words | number_of_words | divided_by: 200 %}
         {% if page.language == "de-DE" %}
         {% assign dateString = page.date | date: "%-d. " %}
+        {% assign monthNames = "Januar,Februar,März,April,Mai,Juni,Juli,August,September,Oktober,November,Dezember" %}
+        {% assign monthNames = monthNames | split: "," %}
         {{ dateString }} · Etwa {{ readingTime }} Minuten Lesezeit.
         {% else %}
         {{ page.date | date: "%-d. %B %Y" }} · 
