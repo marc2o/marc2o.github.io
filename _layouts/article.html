@@ -33,6 +33,7 @@
         {% assign dateString = page.date | date: "%-d. " %}
         {% assign monthNames = "Januar,Februar,März,April,Mai,Juni,Juli,August,September,Oktober,November,Dezember" %}
         {% assign monthNames = monthNames | split: "," %}
+        {% assign month = page.date | date: "%-m" | minus: 1 %}
         {{ dateString }} · Etwa {{ readingTime }} Minuten Lesezeit.
         {% else %}
         {{ page.date | date: "%-d. %B %Y" }} · 
