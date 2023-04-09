@@ -28,13 +28,11 @@ I enjoy drawing pixels and vectors, coding in Lua and C, and making music with s
 
 See [stuff I am making]({% link stuff.md %}).
 
-
 ## Tech Blog
 
 I’m into retro gaming and computing. This blog is about stories, experiences and documentations on this kind of stuff.
 
 {% include posts.html %}
-
 
 ## Code Repositories
 
