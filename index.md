@@ -12,6 +12,9 @@ image: /images/marc2o-r66.jpg
 
 I enjoy drawing pixels and vectors, coding in Lua and C, and making music with synths, piano and ukulele.
 
+[Some of the stuff I am making.]({% link stuff.md %})
+
+
 <figure class="grid">
   <img src="/images/icons/textmate.png" alt="TextMate app icon">
   <img src="/images/icons/zettlr.png" alt="Zettlr app icon">
@@ -25,8 +28,6 @@ I enjoy drawing pixels and vectors, coding in Lua and C, and making music with s
   <img src="/images/gamedev-c.png" alt="Game screenshot">
   <img src="/images/logo-example.jpg" alt="Logo Project">
 </figure>
-
-See [stuff I am making]({% link stuff.md %}).
 
 ## Tech Blog
 
