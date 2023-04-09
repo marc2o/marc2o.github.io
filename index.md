@@ -26,7 +26,7 @@ I enjoy drawing pixels and vectors, coding in Lua and C, and making music with s
   <img src="/images/logo-example.jpg" alt="Logo Project">
 </figure>
 
-See [more icons and pixel art]({% link pixels.md %}) and some [logo projects]({% link logos.md %}). Listen to [music]({% link music.md %}).
+See [stuff I am making]({% link stuff.md %}).
 
 
 ## Tech Blog
