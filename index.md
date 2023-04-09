@@ -14,7 +14,6 @@ I enjoy drawing pixels and vectors, coding in Lua and C, and making music with s
 
 [Some of the stuff I am making.]({% link stuff.md %})
 
-
 <figure class="grid">
   <img src="/images/icons/textmate.png" alt="TextMate app icon">
   <img src="/images/icons/zettlr.png" alt="Zettlr app icon">
