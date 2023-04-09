@@ -481,7 +481,7 @@ ul.follow>li {
     cursor: pointer;
 }
 
-ul.follow>li:not(:last-child) {
+ul.follow>li:last-child {
     margin-right: 0;
 }
 
