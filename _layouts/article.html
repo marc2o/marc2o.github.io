@@ -36,10 +36,10 @@
         {% assign month = page.date | date: "%-m" | minus: 1 %}
         {% assign dateString = dateString | append: monthNames[month] %}
         {% assign dateString = page.date | date: " %Y" | prepend: dateString %}
-        {{ dateString }} · Etwa {{ readingTime }} Minuten Lesezeit.
+        <em>{{ dateString }} · Etwa {{ readingTime }} Minuten Lesezeit.</em>
         {% else %}
-        {{ page.date | date: "%-d. %B %Y" }} · 
-        Roughly {{ readingTime }} minutes reading time.
+        <em>{{ page.date | date: "%-d. %B %Y" }} · 
+        Roughly {{ readingTime }} minutes reading time.</em>
         {% endif %}
       {% endif %}
     </p>
