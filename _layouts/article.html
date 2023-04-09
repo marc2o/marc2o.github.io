@@ -29,6 +29,12 @@
       {% if page.id %}
         {% assign words = page.content %}
         {% assign readingTime = words | number_of_words | divided_by: 200 %}
+        {% assign monthNames = "Januar,Februar,März,April,Mai,Juni,Juli,August,September,Oktober,November,Dezember" %}
+        {% assign monthNames = monthNames | split: "," %}
+        {% assign month = include.date | date: "%-m" | minus: 1 %}
+        {% assign dateString = page.date | date: "%-d. " %}
+        {% assign dateString = dateString | append monthNames[month] %}
+        {% assign dateString = page.date | date: " %Y" | prepend dateString %}
         {{ page.date | date: "%-d. %B %Y" }} · 
         {% if page.language == "de-DE" %}
         Etwa {{ readingTime }} Minuten Lesezeit.
