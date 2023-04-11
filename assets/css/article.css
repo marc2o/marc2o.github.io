@@ -109,6 +109,7 @@ footer>* {
 article ol,
 article ul {
 	margin-left: 2em;
+	margin-bottom: 0.5em;
 }
 article ul {
   list-style-type: disc;
