@@ -49,8 +49,8 @@ defaults:
       sitemap: false
 
 include: ["/.well-known"]
-  # integration with mastodon, so that my user profile can be found via
-  # e. g. mastodon@marc2o.github.io
+  # mastodon alias creation
+  # e.g. marc2o@marc2o.github.io
 exclude:
   #- articles
   - google732f743aa7ce0be9.html
