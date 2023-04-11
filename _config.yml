@@ -48,7 +48,7 @@ defaults:
     values:
       sitemap: false
 
-nclude: ["/.well-known"]
+include: ["/.well-known"]
 exclude:
   #- articles
   - google732f743aa7ce0be9.html
