@@ -507,8 +507,7 @@ ul.follow svg g#Codepen path {
 ul.about {
     list-style: none;
     padding: 0;
-    margin-top: 1rem;
-    margin-bottom: 1rem;
+    margin: 1rem 0;
 }
 
 ul.about>li {
