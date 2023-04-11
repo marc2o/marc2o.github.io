@@ -1,0 +1,28 @@
+/*
+https://mastodon.online/.well-known/webfinger?resource=acct:marc2o@mastodon.online
+*/
+{
+  "subject":"acct:marc2o@mastodon.online",
+  "aliases":
+  [
+    "https://mastodon.online/@marc2o",
+    "https://mastodon.online/users/marc2o"
+  ],
+  "links":
+  [
+    {
+      "rel":"http://webfinger.net/rel/profile-page",
+      "type":"text/html",
+      "href":"https://mastodon.online/@marc2o"
+    },
+    {
+      "rel":"self",
+      "type":"application/activity+json",
+      "href":"https://mastodon.online/users/marc2o"
+    },
+    {
+      "rel":"http://ostatus.org/schema/1.0/subscribe",
+      "template":"https://mastodon.online/authorize_interaction?uri={uri}"
+    }
+  ]
+}
