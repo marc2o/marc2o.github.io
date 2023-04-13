@@ -249,6 +249,7 @@ header>h1 {
 	font-size: 180%;
 	line-height: 140%;
 	text-align: center;
+	text-wrap: balance;
 	padding: 1em 1rem;
 	margin: 0 auto;
 	color: var(--fore-color);
