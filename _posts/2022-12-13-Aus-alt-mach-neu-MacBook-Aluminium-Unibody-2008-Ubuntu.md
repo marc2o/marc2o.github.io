@@ -23,8 +23,6 @@ Vom [MacBook 13" Unibody](https://everymac.com/systems/apple/macbook/specs/macbo
 <figcaption>Ubuntu auf meinem alten MacBook5,1</figcaption>
 </figure>
 
-
-
 ## Das richtige Linux für Mac und mich
 
 Es gibt etliche Anleitungen im Netz mit Empfehlungen für ältere Macs. Häufiger allerdings für etwas neuere oder Pro-Modelle. Ich hab 5 verschiedene Linux-Varianten ausprobiert — gut zu laufen und dabei noch gut auszusehen hat am Ende nur eine geschafft.
@@ -37,6 +35,9 @@ Ubuntu in der LTS 22.04.1-Version vereint mehrere Vorzüge:
 - Es läuft flüssig und soweit fehlerfrei auf meinem alten MacBook.
 - Es hat kompatible Treiber für die Besonderheiten des Modells, wie WLAN und Grafikkarte.
 
+### Update: Zorin OS 16.2 Lite
+
+Nachdem ein Ubuntu-Update meinen Mac funktionsunfähig gemacht hat, habe ich mich nach einer Alternative umgesehen. Bei Reddit bin ich auf [Zorin OS](https://zorin.com/os/) gestoßen, eine Ubuntu-basierte Linux-Distribution. Die Lite-Variante mit XFCE-Desktop soll speziell geeignet sein für bis zu 15 Jahre alte Rechner. Die Installation verläuft analog zu Ubuntu.
 
 ## Installation vorbereiten
 
@@ -45,7 +46,6 @@ Zunächst einfach das `.iso`-Image von Ubuntu [herunterladen](https://ubuntu.com
 Mit dem [balena Etcher](https://www.balena.io/etcher/) wird nun daraus ein bootfähiger USB-Stick erstellt. Von diesem bootet man das MacBook: dazu beim Einschalten des Macs dann `Alt`- bzw. `Opt`-Taste gedrückt halten und den USB-Stick im Boot-Menü auswählen.
 
 Läuft alles glatt, wird man mit dem Ubuntu-Desktop begrüßt. Hier kann man nun das System ausprobieren oder direkt mit der Installation fortfahren.
-
 
 ## Ubuntu und Software-Treiber installieren
 
@@ -84,7 +84,6 @@ Option "RegistryDwords" "EnableBrightnessControl=1"
 
 Schließlich kopiert man diese Datei dann nach `/etc/X11/` (vgl. [ialm](https://askubuntu.com/users/143625/ialm), [Apr 22, 2020 at 3:46](https://askubuntu.com/questions/126441/brightness-controls-doesnt-work-on-a-macbook-pro-5-5-ubuntu-12-04-lts?rq=1#comment2069082_126559) auf askubuntu.com).
 
-
 ## Ubuntu-MacBook im Alltag
 
 Der alte Mac macht mit dem neuen OS deutlich mehr Spaß. Hinzu kommt, dass es ein paar Programme gibt, die tatsächlich wirklich gut gefallen — z. T. besser als vergleichbare Anwendungen in macOS.
@@ -94,3 +93,15 @@ Da wäre zum Beispiel [Apostrophe](https://gitlab.gnome.org/World/apostrophe), e
 ## Offene Punkte
 
 Das System läuft stabil und man gewöhnt sich schnell an ggf. etwas andere Tastenkombinationen. Was noch nicht rund läuft ist die Kühlung. Zumindest ist mein Eindruck, dass das Gerät bei in machen Situationen wärmer wird — das kann allerdings auch der alten Hardware geschuldet sein, die nun einfach mehr leisten muss. Aber ich experimentiere noch mit `mpbfan` und `macfanctld`. Updates folgen.
+
+## Update: Zorin OS Lite
+
+Die Installation verläuft genau wie die von Ubuntu selbst. Wichtig ist, genau wie bei Ubuntu selbst, während der Installation per Kabel mit dem Internet verbunden zu sein. So gelingt auch die Installation der Wifi-Treiber.
+
+<figure>
+    <figure><img src="/images/zorin_os_img_6745.jpg" alt="Zorin OS auf Unibody-MacBook von 2008 installieren"><figcaption>Installation vom USB-Stick.</figcaption></figure>
+    <figure><img src="/images/zorin_os_2023-05-22_18-53-24.png" alt="Zorin OS Welcome-Screen"><figcaption>Begrüßung.</figcaption></figure>
+    <figure><img src="/images/zorin_os_2023-05-22_18-57-02.png" alt="Zorin OS Desktop"><figcaption>Sieht gut aus und läuft gut. </figcaption></figure>
+</figure>
+
+Der XFCE-Desktop sieht schick aus und läuft auf dem alten MacBook echt gut. In der Lite-Version gibt es nicht so viele Konfigurations­möglichkeiten, aber selbst der Standard-Look kann sich sehen lassen.
