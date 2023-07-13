@@ -9,9 +9,14 @@
 :root {
     font-size: 125%;
     accent-color: var(--spot-color);
+    --spot-font: Avenir, Montserrat, Corbel, 'URW Gothic', source-sans-pro, sans-serif;
+    --flow-font: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
+    --code-font: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace;
+    /*
     --code-font: 'FiraCode';
     --flow-font: 'Merriweather';
     --spot-font: 'Open Sans';
+    */
     --inner-width: 36em;
     --outer-width: 40em;
 }
