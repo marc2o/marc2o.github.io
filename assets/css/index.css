@@ -137,7 +137,7 @@ th {
 body {
     margin: 0;
     padding: 0;
-    font-family: "Open Sans", sans-serif;
+    font-family: var(--spot-font);
     color: var(--text-color);
     background: var(--back-color);
 }
@@ -281,7 +281,7 @@ a>h3 {
 }
 
 main p {
-    font-family: "Merriweather", serif;
+    font-family: var(--flow-font);
 }
 
 div>ul>li>a,
