@@ -497,7 +497,7 @@ div.repo {
     flex-direction: column;
     background-color: var(--fill-color);
     border-radius: .5rem;
-    padding: .5rem;
+    padding: 1ex 1ch; /* .5rem; */
 }
 div.repo a {
     color: var(--link-color);
