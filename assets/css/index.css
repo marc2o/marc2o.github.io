@@ -8,6 +8,7 @@
 /* the basic stuff */
 :root {
     font-size: 125%;
+    font-size: clamp(1.2rem, 4vw, 1.5rem);
     accent-color: var(--spot-color);
     --spot-font: Avenir, Montserrat, Corbel, 'URW Gothic', source-sans-pro, sans-serif;
     --flow-font: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
