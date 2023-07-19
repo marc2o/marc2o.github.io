@@ -136,7 +136,7 @@ blockquote {
 }
 
 code {
-	font-size: 1em;
+	font-size: 0.85em;
 	font-family: var(--code-font, monospace, monospace);
 }
 

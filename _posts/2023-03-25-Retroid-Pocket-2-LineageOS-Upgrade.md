@@ -57,7 +57,7 @@ Die Stock Apps habe ich direkt in ein Verzeichnis auf der SD-Karte kopiert.
 
 Im Recovery-Mode funktionieren weder Gamepad-Buttons noch Sticks. Das Navigieren durch die Menü-Elemente erfolgt mittels `laut/leise`, die Auswahl eines Elements durch einen kurzen Druck auf den den `ein/aus`-Knopf.
 
-1. Als erstes die Option `Factory reset`auswählen, bestätigen und danach `Wipe data / factory reset` bestätigen.
+1. Als erstes die Option `Factory reset` auswählen, bestätigen und danach `Wipe data / factory reset` bestätigen.
 2. Nun `Apply update` auswählen und im nächsten Schritt die Option `Apply from ADB` bestätigen.
 3. Jetzt die `Lineage Installer.bat` starten. Ein Konsolen-Fenster öffnet sich. Das Script scheint bei 47 % stehen zu bleiben. Aber am RP2 läuft alles weiter. Das Fenster verschwindet von selbst, sowie der Prozess am RP2 beendet ist.
 4. Nun das gleich noch mal, um den Playstore zu installieren, also `Apply update`, dann `Apply from ADB` …
