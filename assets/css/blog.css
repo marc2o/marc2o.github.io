@@ -160,6 +160,7 @@ main.posts>ul {
 
 main.posts>ul>li {
   display: block;
+  padding-bottom: 1rem;
 	/*
   margin-top: 1rem;
 	padding-right: 1rem;
