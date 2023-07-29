@@ -8,9 +8,9 @@ image: /images/marc2o-r66.jpg
 
 # Hey!
 
-[I’m Marc]({% link about.md %}), somewhat creative and I love making stuff. Digitally as well as for real. My super powers are to spot what’s missing, simplify what’s complex, and explain both easily comprehensible.
+[I’m Marc]({% link about.md %}), somewhat creative and I love making stuff.
 
-I enjoy drawing pixels and vectors, coding in Lua and C, and making music with synths, piano and ukulele.
+I’m into retro gaming and computing, books and writing, drawing with pixels and vectors, coding in Lua and C, and making music with synths and ukulele.
 
 [Some of the stuff I am making.]({% link stuff.md %})
 
@@ -30,7 +30,7 @@ I enjoy drawing pixels and vectors, coding in Lua and C, and making music with s
 
 ## Tech Blog
 
-I’m into retro gaming and computing. This blog is about stories, experiences and documentations on this kind of stuff.
+This blog is about retro gaming and computing stories, experiences and documentations.
 
 {% include posts.html %}
 
