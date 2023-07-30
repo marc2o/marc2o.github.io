@@ -12,9 +12,10 @@ Hannover. Dieses Kleinod niedersächsischer Tristesse an der Leine. Einst neunte
 
 Für mich ist Hannover Heimatstadt im Grünen, mit vielen blauen Seen, zwei Flüssen und einem roten Faden.
 
-Quick Facts zur Person:
+Zur Person:
 
 - Linkshänder
+- Sonntagskind
 - eher Astronom als Astronaut
 - Kind der Heimcomputer-Revolution
 - Bücherliebhaber

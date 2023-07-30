@@ -28,9 +28,9 @@ I’m into retro gaming and computing, books and writing, drawing with pixels an
   <img src="/images/logo-example.jpg" alt="Logo Project">
 </figure>
 
-## Tech Blog
+## Tech Blog (German)
 
-This blog is about retro gaming and computing stories, experiences and documentations.
+This blog is about retro gaming and computing stuff, experiences and documentations.
 
 {% include posts.html %}
 
