@@ -256,7 +256,7 @@ header>h1 {
 	text-align: center;
 	text-wrap: balance;
 	padding: 1em 1rem;
-	margin: 10vh auto 0 auto;
+	margin: 20vh auto 0 auto;
 	color: var(--fore-color);
 	background-color: var(--spot-color-transparent);
 	clip-path: polygon(0 1rem, 100% 0, 100% calc(100% - 1rem), 0 100%);
