@@ -2,17 +2,17 @@
 layout: index
 title: Hello, I’m Marc!
 author: marc2o
-language: en-US
+language: de-DE
 image: /images/marc2o-r66.jpg
 ---
 
 # Hey!
 
+[Ich bin Marc]({% link about.md %}). Ich mag Retro-Gaming und -Computer, Bücher und Schreiben, zeichnen mit Pixeln und Vektoren, coden in Lua und C, Musik machen mit Synths und Ukulele.
+
 [I’m Marc]({% link about.md %}), somewhat creative and I love making stuff.
 
-I’m into retro gaming and computing, books and writing, drawing with pixels and vectors, coding in Lua and C, and making music with synths and ukulele.
-
-[Some of the stuff I am making.]({% link stuff.md %})
+Manchmal bin ich einigermaßen kreativ und mache [Dinge wie diese]({% link stuff.md %}).
 
 <figure class="grid">
   <img src="/images/icons/textmate.png" alt="TextMate app icon">
@@ -28,13 +28,13 @@ I’m into retro gaming and computing, books and writing, drawing with pixels an
   <img src="/images/logo-example.jpg" alt="Logo Project">
 </figure>
 
-## Tech Blog (German)
+## Tech-Blog
 
-This blog is about retro gaming and computing stuff, experiences and documentations.
+Im Blog geht’s um Retro-Gaming- und -Computer-Kram, Erfahrungen, Gedanken und Anleitungen.
 
 {% include posts.html %}
 
-## Code Repositories
+## GitHub Code Repositories
 
 <figure class="grid">
 {% for repository in site.github.public_repositories %}
