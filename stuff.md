@@ -63,7 +63,7 @@ Various icon designs for fun, friends and OpenSource projects. Among them (top r
 
 <figure>
   <img src="/images/logos/hausrat.jpg" alt="Haus:RAT-Magazin">
-  <figcaption>Onlinemagazin über nachhaltiges und originelles Wohnen. (Für Schlütersche Marketing Holding GmbH, 2019)</figcaption>
+  <figcaption>Ratgebermagazin über nachhaltiges und originelles Wohnen. (Für Schlütersche Marketing Holding GmbH, 2019)</figcaption>
 </figure>
 
 <figure>
