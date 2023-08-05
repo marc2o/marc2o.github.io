@@ -1,6 +1,6 @@
 ---
 layout: article
-title: I like to make stuff
+title: Wonderer. Geek. Human(e) being.
 author: marc2o
 language: de-DE
 image: /images/marc2o-r66.jpg
@@ -25,4 +25,4 @@ Zur Person:
 - früher 68k Assembly, Forth und Java
 - Atari- & Nintendo-Gaming
 - Commodore- und Apple-Computer
-- …
+- (Fortsetzung folgt. Vielleicht.)
