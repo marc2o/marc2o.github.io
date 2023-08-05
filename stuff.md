@@ -59,3 +59,24 @@ Various icon designs for fun, friends and OpenSource projects. Among them (top r
   </figure>
 </figure>
 
+## Logos
+
+<figure>
+  <img src="/images/logos/hausrat.jpg" alt="Haus:RAT-Magazin">
+  <figcaption>Onlinemagazin über nachhaltiges und originelles Wohnen. (Für Schlütersche Marketing Holding GmbH, 2019)</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/logos/praxis-wissen.jpg" alt="Praxiswissen">
+  <figcaption>Tipps und Anleitungsvideos rund um Fuhrparkmanagement. (Für Schlütersche Verlagsgesellschaft mbH & Co. KG, 2016)</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/logos/parklife.jpg" alt="Parklife Training & Beratung">
+  <figcaption>Beratungsfirma einer ehemaligen Kollegin (Für Parklife Training und Beratung GmbH, 2015)</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/logos/heilende-linien.jpg" alt="">
+  <figcaption>Persönliches Projekt einer Freundin, Kindern Kunst und Entspannung beizubringen. (Healing Lines, 2015)</figcaption>
+</figure>
