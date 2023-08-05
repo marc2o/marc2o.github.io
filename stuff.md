@@ -2,13 +2,13 @@
 layout: article
 title: Stuff I Am Making
 author: marc2o
-language: en-US
+language: de-DE
 image: /images/gameofcrows.png
 ---
 
 ## Icons
 
-Various icon designs for fun, friends and OpenSource projects. Among them (top row, from left to right) EgonOlsen’s »[Naroth](https://play.google.com/store/apps/details?id=com.threed.jpct.games.rpg&hl=de&gl=US)« game, an alternative app icon for »[TextMate](https://github.com/textmate/textmate)«, the app icon for Hendrik Erz’ »[Zettlr](https://www.zettlr.com)«.
+Verschiedene Icon-Designs für einfach so, Bekannte und Open-Source-Projekte. Darunter EgonOlsens Spiel »[Naroth](https://play.google.com/store/apps/details?id=com.threed.jpct.games.rpg&hl=de&gl=US)«, ein alternatives App-Icon für »[TextMate](https://github.com/textmate/textmate)«, das App-Icon für den macOS-Port von Hendrik Erz’ »[Zettlr](https://www.zettlr.com)«.
 
 <figure class="grid">
   <img src="/images/icons/naroth.png" alt="Naroth">
@@ -24,6 +24,8 @@ Various icon designs for fun, friends and OpenSource projects. Among them (top r
 
 ## Pixel Art
 
+Ich mag Pixel wenn sie groß sind.
+
 <figure class="grid">
   <img src="/images/pixelart/the-son-of-man.png" alt="The Son of Man">
   <img src="/images/pixelart/david.png" alt="David">
@@ -34,7 +36,7 @@ Various icon designs for fun, friends and OpenSource projects. Among them (top r
   <img src="/images/pixelart/cthulhu.png" alt="Cthulhu">
 </figure>
 
-## Chiptunes 
+## Chiptunes
 
 <figure>
 	<figure>
