@@ -61,6 +61,7 @@ footer>* {
 footer {
     margin-top: 1rem;
     margin-bottom: 1rem;
+    font-size: 85%;
 }
 
 /* for increased readability */
