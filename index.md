@@ -10,8 +10,6 @@ image: /images/marc2o-r66.jpg
 
 [Ich bin Marc]({% link about.md %}). Ich mag Retro-Gaming und -Computer, Bücher und Schreiben, zeichnen mit Pixeln und Vektoren, coden in Lua und C, Musik machen mit Synths und Ukulele.
 
-[I’m Marc]({% link about.md %}), somewhat creative and I love making stuff.
-
 Manchmal bin ich einigermaßen kreativ und mache [Dinge wie diese]({% link stuff.md %}).
 
 <figure class="grid">
