@@ -41,6 +41,8 @@ Dieses kurze Glossar zeigt doch unser sehr gestörtes Verhältnis zum Regen. Kei
 <dl>
     <dt><strong>Dauerregen</strong>, der</dt>
     <dd><em>n.</em> Nicht enden wollender Regen, ganz gleichmäßig von morgens bis abends. Genau die Art Wetter, die man vor allem im Herbst gern drinnen mit heißem Tee oder heißer Schokolade und Gebäck verbringt.</dd>
+		<dt><strong>dröppeln</strong></dt>
+		<dd><em>v.</em> Ein leichter Regen mit wenigen, aber normal großen Tropfen.</dd>
 </dl>
 
 ### E
@@ -77,14 +79,14 @@ Dieses kurze Glossar zeigt doch unser sehr gestörtes Verhältnis zum Regen. Kei
 
 <dl>
     <dt><strong>nieseln</strong></dt>
-    <dd><em>n.</em> Feiner, ziemlich gleichförmiger Regen mit sehr kleinen Wassertröpfchen. Auch <em>mieseln</em>,<em>fieseln</em> oder <em>pieseln</em>. Sieht fast aus wie Nebel, ist nur viel nasser. Leichter Nieselregen bei 5°C ist häufig das Standardwetter in Hannover von November bis Januar.</dd>
+    <dd><em>n.</em> Auch <em>nisseln</em>, <em>mieseln</em>, <em>fieseln</em> und <em>fisseln</em>. Feiner, ziemlich gleichförmiger Regen mit sehr kleinen Wassertröpfchen. Sieht fast aus wie Nebel, ist nur viel nasser. Leichter Nieselregen bei 5°C ist häufig das Standardwetter in Hannover von November bis Januar.</dd>
 </dl>
 
 ### P
 
 <dl>
 		<dt><strong>pieseln</strong></dt>
-		<dd><em>v.</em> Feines regnen, mit kleinen Topfen, wie <em>nieseln</em>.</dd>
+		<dd><em>v.</em> Feines regnen, mit kleinen Topfen, wie <em>nieseln</em>, nur auf Plattdütsch.</dd>
     <dt><strong>pladdern</strong></dt>
     <dd><em>v.</em> Starker Regen, benannt nach der Geräuschkulisse, die er erzeugt.</dd>
     <dt><strong>plästern</strong></dt>
@@ -100,6 +102,8 @@ Dieses kurze Glossar zeigt doch unser sehr gestörtes Verhältnis zum Regen. Kei
     <dd><em>n.</em> Ein kurzer Regenguss, der von leicht bis heftig (siehe <em>Platzregen</em>) reichen kann. Besonders faszinierend sind lokale Schauer, wenn drum herum die Sonne scheint. Der Begriff des Schauers wird von Fernseh-Meteorologen vor allem im Sommer verwendet, um uns die Hoffnung auf einen schönen, sonnigen Tag nicht gänzlich zu nehmen.</dd>
     <dt><strong>Schietwetter</strong>, das</dt>
     <dd><em>n.</em> Regenwetter, gern auch mit stürmischem Wind, vor allem in Hamburg, aber auch im restlichen Norden Deutschlands.</dd>
+		<dt><strong>schiffen</strong></dt>
+		<dd><em>v.</em> Starker Regen, der zu einem ungünstigen Zeitpunkt stattfindet, z. B. wenn man eigentlich in den Park wollte.</dd>
     <dt><strong>schütten</strong></dt>
     <dd><em>v.</em> Starker <em>Wolkenbruch</em>, bei dem es wie verrückt <em>kübelt</em> oder eben wie <em>aus Eimern schüttet</em>.</dd>
     <dt><strong>sintflutartiger Regen</strong>, der</dt>
