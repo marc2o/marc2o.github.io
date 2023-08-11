@@ -205,6 +205,8 @@ main>div>ul {
     margin: 0;
     padding: 0;
     list-style: none;
+    scroll-snap-type: x mandatory;
+    overscroll-behavior-x: contain;
 }
 
 figure>figure,
@@ -218,6 +220,7 @@ div>ul>li {
     margin: 0 1rem;
     padding: 0;
     white-space: normal;
+    scroll-snap-align: center;
 }
 
 figure>figure+figure,
