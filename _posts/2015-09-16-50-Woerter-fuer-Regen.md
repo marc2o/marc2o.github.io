@@ -105,7 +105,7 @@ Dieses kurze Glossar zeigt doch unser sehr gestörtes Verhältnis zum Regen. Kei
     <dt><strong>Schietwetter</strong>, das</dt>
     <dd><em>n.</em> Regenwetter, gern auch mit stürmischem Wind, vor allem in Hamburg, aber auch im restlichen Norden Deutschlands.</dd>
 		<dt><strong>schiffen</strong></dt>
-		<dd><em>v.</em> Starker Regen, der zu einem ungünstigen Zeitpunkt stattfindet, z. B. wenn man eigentlich in den Park wollte.</dd>
+		<dd><em>v.</em> Starker Regen, der zu einem ungünstigen Zeitpunkt stattfindet, z. B. wenn man eigentlich in den Park wollte.</dd>
     <dt><strong>schütten</strong></dt>
     <dd><em>v.</em> Starker <em>Wolkenbruch</em>, bei dem es wie verrückt <em>kübelt</em> oder eben wie <em>aus Eimern schüttet</em>.</dd>
     <dt><strong>sintflutartiger Regen</strong>, der</dt>
