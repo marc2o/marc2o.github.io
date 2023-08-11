@@ -220,7 +220,7 @@ div>ul>li {
     margin: 0 1rem;
     padding: 0;
     white-space: normal;
-    scroll-snap-align: center;
+    scroll-snap-align: left;
 }
 
 figure>figure+figure,
