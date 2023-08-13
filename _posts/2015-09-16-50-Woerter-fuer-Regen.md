@@ -84,6 +84,13 @@ Dieses kurze Glossar zeigt doch unser sehr gestörtes Verhältnis zum Regen. Kei
 	<dd><em>n.</em> Auch <em>nisseln</em>, <em>mieseln</em>, <em>fieseln</em> und <em>fisseln</em>. Feiner, ziemlich gleichförmiger Regen mit sehr kleinen Wassertröpfchen. Sieht fast aus wie Nebel, ist nur viel nasser. Leichter Nieselregen bei 5°C ist häufig das Standardwetter in Hannover von November bis Januar.</dd>
 </dl>
 
+### O
+
+<dl>
+	<dt><strong>ordentlich was runterkommen</strong></dt>
+	<dd><em>ugs.</em> Ein sehr ergiebiger Regenguss mit großer Menge Wasser in kurzer Zeit, so wie ein <em>Wolkenbruch</em>.</dd>
+</dl>
+
 ### P
 
 <dl>
@@ -95,7 +102,9 @@ Dieses kurze Glossar zeigt doch unser sehr gestörtes Verhältnis zum Regen. Kei
 	<dd><em>v.</em> Mit langem ä. Stürmischer Regen mit großen Tropfen, bei dem Schirme nichts nutzen.</dd>
 	<dt><strong>Platzregen</strong>, der</dt>
 	<dd><em>n.</em> Ein <em>heftiger Schauer</em> mit großen Tropfen und hoher Intensität, der u. U. plötzlich beginnt und nur kurz andauert. Meist ist man nass, bevor man den Schirm geöffnet hat.</dd>
-</dl>
+	<dt><strong>prasseln</strong></dt>
+	<dd><em>v.</em> Eigentlich das gleiche wie <em>pladdern</em>, nur mit Frikativkonsonanten.</dd>
+<dl>
 
 ### S
 
