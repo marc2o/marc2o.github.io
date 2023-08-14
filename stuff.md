@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Stuff I Am Making
+title: Was ich so mache
 author: marc2o
 language: de-DE
 image: /images/gameofcrows.png
@@ -21,10 +21,9 @@ Verschiedene Icon-Designs für einfach so, Bekannte und Open-Source-Projekte. Da
   <img src="/images/icons/joystick.png" alt="Joystick">
 </figure>
 
-
 ## Pixel Art
 
-Ich mag Pixel wenn sie groß sind.
+Ich mag Pixel, wenn sie groß sind.
 
 <figure class="grid">
   <img src="/images/pixelart/the-son-of-man.png" alt="The Son of Man">
@@ -37,6 +36,8 @@ Ich mag Pixel wenn sie groß sind.
 </figure>
 
 ## Chiptunes
+
+Musik mit Tasten, Saiten und Chips.
 
 <figure>
 	<figure>
@@ -63,22 +64,24 @@ Ich mag Pixel wenn sie groß sind.
 
 ## Logos
 
+Aushängeschilder.
+
 <figure>
   <img src="/images/logos/hausrat.jpg" alt="Haus:RAT-Magazin">
-  <figcaption>Ratgebermagazin über nachhaltiges und originelles Wohnen. (Für Schlütersche Marketing Holding GmbH, 2019)</figcaption>
+  <figcaption>Ratgebermagazin über nachhaltiges und originelles Wohnen. — <em>Für Schlütersche Marketing Holding GmbH, 2019</em></figcaption>
 </figure>
 
 <figure>
   <img src="/images/logos/praxis-wissen.jpg" alt="Praxiswissen">
-  <figcaption>Tipps und Anleitungsvideos rund um Fuhrparkmanagement. (Für Schlütersche Verlagsgesellschaft mbH & Co. KG, 2016)</figcaption>
+  <figcaption>Tipps und Anleitungsvideos rund um Fuhrparkmanagement. — <em>Für Schlütersche Verlagsgesellschaft mbH & Co. KG, 2016</em></figcaption>
 </figure>
 
 <figure>
   <img src="/images/logos/parklife.jpg" alt="Parklife Training & Beratung">
-  <figcaption>Beratungsfirma einer ehemaligen Kollegin (Für Parklife Training und Beratung GmbH, 2015)</figcaption>
+  <figcaption>Beratungsfirma einer ehemaligen Kollegin. — <em>Für Parklife Training und Beratung GmbH, 2015</em></figcaption>
 </figure>
 
 <figure>
   <img src="/images/logos/heilende-linien.jpg" alt="">
-  <figcaption>Persönliches Projekt einer Freundin, Kindern Kunst und Entspannung beizubringen. (Healing Lines, 2015)</figcaption>
+  <figcaption>Persönliches Projekt einer Freundin, Kindern Kunst und Entspannung beizubringen. — <em>Healing Lines, 2015</em></figcaption>
 </figure>
