@@ -13,11 +13,11 @@ tags:
 - spielkonsole
 ---
 
-LineageOS 15.1 ist aus der Beta-Phase raus und ich hab mich endlich getraut, die Neueinrichtung meines [Retroid Pocket 2]({% post_url 2021-01-29-Retroid-Pocket-2-Handeheld-Konsole %}) vorzunehmen.
+LineageOS 15.1 ist aus der Beta-Phase raus und ich hab mich endlich getraut, die Neueinrichtung meines [Retroid Pocket 2]({% post_url 2021-01-29-Retroid-Pocket-2-Handeheld-Konsole %}) vorzunehmen. Das Upgrade lohnt sich für alle, die auf das RetroidOS verzichten können und denen die bisherigen Android 6- und 8.1-Systeme zu schwergängig sind.
 
 <!--more-->
 
-Das Upgrade lohnt sich für alle, die auf das RetroidOS verzichten können und denen die bisherigen Android 6- und 8.1-Systeme zu schwergängig sind. [LineageOS](https://lineageos.org/) ist ein »free and open-source operating system for various devices, based on the Android mobile platform.« Ohne den ganzen Google-Schnickschnack. Das System fühlt sich insgesamt schlanker und schneller an.
+[LineageOS](https://lineageos.org/) ist ein »free and open-source operating system for various devices, based on the Android mobile platform.« Ohne den ganzen Google-Schnickschnack. Das System fühlt sich insgesamt schlanker und schneller an.
 
 Der Upgrade-Prozess ist recht einfach. Damit nichts schief geht, muss man sich lediglich genau an den mitgelieferten »Retroid Pocket 2 Lineage Guide« (PDF) halten oder das Video von Retro Game Corps »[How to Install LineageOS 15.1 on Retroid Pocket 2](https://www.youtube.com/watch?app=desktop&v=SCJpCgBJDfg)« strikt befolgen.
 
