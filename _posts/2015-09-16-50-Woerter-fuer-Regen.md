@@ -104,7 +104,7 @@ Dieses kurze Glossar zeigt doch unser sehr gestörtes Verhältnis zum Regen. Kei
 	<dd><em>n.</em> Ein <em>heftiger Schauer</em> mit großen Tropfen und hoher Intensität, der u. U. plötzlich beginnt und nur kurz andauert. Meist ist man nass, bevor man den Schirm geöffnet hat.</dd>
 	<dt><strong>prasseln</strong></dt>
 	<dd><em>v.</em> Eigentlich das gleiche wie <em>pladdern</em>, nur mit Frikativkonsonanten.</dd>
-<dl>
+</dl>
 
 ### S
 
