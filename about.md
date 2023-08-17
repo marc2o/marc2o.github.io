@@ -21,8 +21,8 @@ Zur Person:
 - Bücherliebhaber
 - Musik-Amateur im barocken Sinne des Wortes
 - mag kleine Instrumente (Ortega Konzert-Ukulele und AKAI MPK mini Play)
-- heute Lua-, C- und JavaScript-Code
 - früher 68k Asm-, Forth- und Java-Code
+- heute Lua-, C- und JavaScript-Code
 - Atari- & Nintendo-Gaming
 - Commodore- und Apple-Computer
 - (Fortsetzung folgt. Vielleicht.)
