@@ -18,6 +18,8 @@ Meine früheste Erinnerung ist das »Apfelmännchen« auf seinem Commodore 64. D
 
 In den unzähligen Stunden, die ich ihm beim Programmieren zuschaue lerne ich viel. Register, Adressen, logische Operatoren, konditionale Verzweigungen, Strukturen, Befehle, Argumente. Er erklärt während er tippt. Ich sehe immer abwechselnd den Quelltext und das ausgeführte Programm. Viel spannender als jedes Computerspiel.
 
-Ich wollte auch programmieren können. Und auf meinem ersten eigenen Computer, einem Commodore Amiga 500, habe ich direkt losgelegt: mit AmigaBASIC, _the Slow Motion Language_.
+Ich wollte auch programmieren können. Und auf meinem ersten eigenen Computer, dem Commodore Amiga 500, habe ich damit angefangen.
+
+Mit AmigaBASIC, _the Slow Motion Language_.
 
 [^1]: Name von der Redaktion nicht geändert.
