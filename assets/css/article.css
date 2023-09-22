@@ -15,7 +15,7 @@ html,body,p,ol,ul,li,dl,dt,dd,blockquote,figure,fieldset,legend,textarea,pre,ifr
 /* minireset end*/
 
 body {
-	font-size: clamp(1.2rem, 4vw, 1.5rem);
+	font-size: clamp(1.2rem, 4vw, 1.8rem);
 	color: var(--text-color);
 	background-color: var(--back-color);
 	overflow-x: hidden;
