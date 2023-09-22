@@ -421,7 +421,7 @@ th {
 @supports (initial-letter: 3 3) or (-webkit-initial-letter: 3 3) {
 	article p:first-of-type+p::first-letter {
 		-webkit-initial-letter: 3 3;
-		initial-letter: 3 3;
+		initial-letter: 2 2;
 		margin-right: 0.3rem;
 		font-weight: 200;
 	}
