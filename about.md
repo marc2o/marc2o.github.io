@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Wonderer. Geek. Human(e) being.
+title: Hallo, Welt.
 author: marc2o
 language: de-DE
 image: /images/marc2o-r66.jpg
@@ -16,6 +16,7 @@ Zur Person:
 
 - Linkshänder
 - Sonntagskind
+- Katzenpapa
 - eher Astronom als Astronaut
 - Kind der Heimcomputer-Revolution
 - Bücherliebhaber
