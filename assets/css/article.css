@@ -250,18 +250,19 @@ header {
 
 header>h1 {
 	display: block;
-	max-width: var(--outer-width);
-	font-size: 180%;
-	line-height: 140%;
-	text-align: center;
-	text-wrap: balance;
-	padding: 1em 1rem;
-	margin: 20vh auto 0 auto;
+	width: 100vw;
+	padding: 2rem 1rem;
 	color: var(--fore-color);
 	background-color: var(--spot-color-transparent);
 	clip-path: polygon(0 1rem, 100% 0, 100% calc(100% - 1rem), 0 100%);
-  }
-  
+}
+header>h1>span {
+	display: block;
+	max-width: var(--inner-width);
+	margin: 0 auto;
+	text-align: left;
+	text-wrap: balance;;
+}  
 
 header>picture {
 	display: block;
