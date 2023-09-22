@@ -83,8 +83,8 @@ dd+dd {
 		text-indent: 1em;
 }
 
-figure,
-/*div[class^='language-']*/ {
+/*div[class^='language-']*/
+figure {
 	grid-column: 1 / 4;
 	white-space: nowrap;
 	overflow-x: auto;
