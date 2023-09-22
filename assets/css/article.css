@@ -23,6 +23,10 @@ a:visited {
 	text-decoration: none;
 }
 
+strong {
+  font-weight: 600;
+}
+
 article {
 	max-width: 40em;
 	max-width: var(--outer-width);
