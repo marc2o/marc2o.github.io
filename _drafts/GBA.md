@@ -12,7 +12,7 @@ tags:
 - Modding
 ---
 
-Gaming habe ich erst relativ spät für mich entdeckt. Der Atari 2600 Junior, den ich 1984 bekommen habe, hat mich eher dazu inspiriert, solche Spiele selbst machen zu wollen. Der C64 eines Freundes und mein eigener Amiga 500 haben mich dann geprägt. – Zu 8-Bit-Musik und 16-Bit Pixel Art fühle ich mich noch heute hingezogen.
+Zum Gaming bin ich erst relativ gekommen. Meine erste Konsole war das Atari 2600 Junior. Geprägt haben mich dann jedoch eher Der C64 eines Freundes und mein eigener Amiga 500 haben mich dann geprägt. – Zu 8-Bit-Musik und 16-Bit Pixel Art fühle ich mich noch heute hingezogen.
 
 Zum Gaming bin ich dann eigentlich erst 2006 ein bisschen mehr gekommen, als ich Nintendo für mich entdeckt habe: bei _Mario Kart Double: Dash!_ an einem GameCube und auf einer Wii-Sports-Party bei Bekannten. Richtig gefunkt hat es, als ich auf dem Nintendo DS einer guten Freundin _Soul Bubbles_ spielen durfte. Seitdem war klar, dass ich Handheld-Gamer bin. Mein Werdegang führte dann vom Nintendo DSi über das Nintendo 3DS und New 3DS bis zur Nintendo Switch und letztlich zum OLED-Modell. Nur einen Game Boy hatte ich nie – und das wollte ich ändern.
 
@@ -25,3 +25,5 @@ Zum Gaming bin ich dann eigentlich erst 2006 ein bisschen mehr gekommen, als ich
 [Game Boy Advance 2 Player Link Cable](https://www.retronintendokaufen.de/gameboy/gameboy-advance-gba/link-kabel)
 
 [Game Boy Advance SP Headphone Jack Adapter](https://www.retronintendokaufen.de/gameboy-advance-gba/gameboy-advance-sp-headphone-jack-adapter)
+
+[EverDrive GBA Theme Editor](https://orangeglo.github.io/everdrive-gba-editor/)

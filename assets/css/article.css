@@ -1,10 +1,10 @@
 :root {
-  --spot-font: Avenir, Montserrat, Corbel, 'URW Gothic', source-sans-pro, sans-serif;
-  --flow-font: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
+  --spot-font: 'Avenir Next', Avenir, Montserrat, Corbel, 'URW Gothic', source-sans-pro, sans-serif;
+  --text-font: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
   --code-font: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace;
 	/*
 	--code-font: 'FiraCode';
-	--flow-font: 'Merriweather';
+	--text-font: 'Merriweather';
 	--spot-font: 'Open Sans';
 	*/
 	--outer-width: 56rem;
@@ -99,7 +99,7 @@ article {
 	max-width: 40em;
 	max-width: var(--outer-width);
 	margin: 1rem auto 0 auto;
-	font-family: var(--flow-font, serif);
+	font-family: var(--text-font, serif);
 	display: grid;
 	grid-template-columns:
 		minmax(1rem, 1fr) minmax(auto, var(--inner-width)) minmax(1rem, 1fr);
@@ -312,8 +312,12 @@ nav>ul>li:not(:last-child) {
 }
 
 p {
-	line-height: calc(1ex / 0.32)
+	line-height: calc(1ex / 0.32);
 }
+article p:first-of-type {
+	font-size: 120%;
+}
+
 
 p.meta {
     font-family: var(--spot-text);
@@ -408,6 +412,23 @@ th {
 /* Disable Pocket extension on macOS Safari */
 #pocket-extension-root {
     display: none;
+}
+
+@supports (initial-letter: 3 3) or (-webkit-initial-letter: 3 3) {
+	article p:first-of-type+p::first-letter {
+		-webkit-initial-letter: 3 3;
+		initial-letter: 3 3;
+		margin-right: 0.3em;
+		font-weight: 200;
+	}
+}
+
+@supports  (not (initial-letter: 3 3)) and (not (-webkit-initial-letter: 3 3)) {
+	article p:first-of-type+p::first-letter {
+		font-size: 400%;
+		float: left;
+		line-height: 300%;
+	}
 }
 
 @media print {
