@@ -24,7 +24,7 @@ a:visited {
 }
 
 strong {
-  font-weight: 600;
+  font-weight: 800;
 }
 
 article {
@@ -56,7 +56,7 @@ article ol>li:not(:first-of-type) {
 }
 
 body {
-	font-size: clamp(1.2rem, 4vw, 1.5rem);
+	font-size: clamp(1.2rem, 4vw, 2rem);
 	color: var(--text-color);
 	background-color: var(--back-color);
 	overflow-x: hidden;
