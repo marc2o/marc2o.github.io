@@ -13,11 +13,10 @@ tags:
 
 Neulich habe ich meine alte [Atari 2600 Spielkonsole](https://www.atari-computermuseum.de/2600.htm) aus dem Keller gekramt und mich gefragt, ob man sie ohne irgendwelche Zusatzgeräte oder Hardware-Modifikationen an einem modernen Smart-TV nutzen kann.
 
-Die kurze Antwort ist: ja.
-
 <!--more-->
 
-Das ist sogar ziemlich einfach.
+Die kurze Antwort ist: ja. Das ist sogar ziemlich einfach. Die kurze Anleitung, wie das funktioniert, ist hier für einen (nicht mehr ganz so neuen) Samsung 49" Curved UHD TV ([Modell KU6509](http://www.samsung.com/de/support/model/UE49KU6509UXZG)) beschrieben.
+
 
 <figure class="gallery">
     <figure><img src="/images/atari2600-junior.jpg" alt="Atari 2600 Spielkonsole"><figcaption>Meine erste Spielkonsole.</figcaption></figure>
@@ -25,8 +24,6 @@ Das ist sogar ziemlich einfach.
     <figure><img src="/images/atari2600-pitfallii.jpg" alt="Atari 2600 Spielkonsole mit Cartridge"><figcaption>Mein erster Plattformer.</figcaption></figure>
     <figure><img src="/images/atari2600-smarttv.jpg" alt="Atari 2600 am Samsung Smart-TV"><figcaption>Star Wars: Return of the Jedi am Smart-TV.</figcaption></figure>
 </figure>
-
-Die kurze Anleitung, wie das funktioniert, ist hier für einen (nicht mehr ganz so neuen) Samsung 49" Curved UHD TV ([Modell KU6509](http://www.samsung.com/de/support/model/UE49KU6509UXZG)) beschrieben.
 
 ## Die Atari-Spielkonsole an den Smart-TV anschließen
 
