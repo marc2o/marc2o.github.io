@@ -420,7 +420,7 @@ th {
 	article p:first-of-type+p::first-letter {
 		-webkit-initial-letter: 3 3;
 		initial-letter: 3 3;
-		margin-right: 0.3em;
+		margin-right: 0.3rem;
 		font-weight: 200;
 	}
 }
@@ -429,7 +429,7 @@ th {
 	article p:first-of-type+p::first-letter {
 		font-size: 400%;
 		float: left;
-		margin-right: 0.3em;
+		margin-right: 0.3rem;
 		line-height: 300%;
 	}
 }
