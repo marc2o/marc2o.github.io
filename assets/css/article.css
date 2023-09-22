@@ -14,6 +14,13 @@
 html,body,p,ol,ul,li,dl,dt,dd,blockquote,figure,fieldset,legend,textarea,pre,iframe,hr,h1,h2,h3,h4,h5,h6{margin:0;padding:0}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal}ul{list-style:none}button,input,select{margin:0}html{box-sizing:border-box}*,*::before,*::after{box-sizing:inherit}img,video{height:auto;max-width:100%}iframe{border:0}table{border-collapse:collapse;border-spacing:0}td,th{padding:0}
 /* minireset end*/
 
+body {
+	font-size: clamp(1.2rem, 4vw, 1.8rem);
+	color: var(--text-color);
+	background-color: var(--back-color);
+	overflow-x: hidden;
+}
+
 a,
 a:hover,
 a:active,
@@ -28,7 +35,6 @@ strong {
 }
 
 article {
-	max-width: 40em;
 	max-width: var(--outer-width);
 	margin: 1rem auto 0 auto;
 	font-family: var(--text-font, serif);
@@ -53,13 +59,6 @@ article ul {
 article ul>li:not(:first-of-type),
 article ol>li:not(:first-of-type) {
 	margin-top: .5em;
-}
-
-body {
-	font-size: clamp(1.2rem, 4vw, 1.8rem);
-	color: var(--text-color);
-	background-color: var(--back-color);
-	overflow-x: hidden;
 }
 
 blockquote {
