@@ -319,6 +319,7 @@ p {
 
 article p:first-of-type {
 	font-size: 120%;
+	margin-bottom: 1em;
 }
 
 
