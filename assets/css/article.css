@@ -328,7 +328,7 @@ article div.meta {
 pre {
 	width: 100%;
 	overflow-x: auto;
-	--background-color: var(--fill-color);
+	background-color: var(--fill-color);
 	padding: 1em;
 }
 
