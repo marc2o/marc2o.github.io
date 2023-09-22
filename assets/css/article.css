@@ -35,6 +35,7 @@ strong {
 }
 
 article {
+  display:block;
 	max-width: var(--outer-width);
 	margin: 1rem auto 0 auto;
 	font-family: var(--text-font, serif);
@@ -253,6 +254,7 @@ article>p:first-of-type {
 
 
 article div.meta {
+max-width: 100%;
     font-family: var(--spot-text);
     font-size: 85%;
 }
