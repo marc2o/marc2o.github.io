@@ -17,7 +17,7 @@ LineageOS 15.1 ist aus der Beta-Phase raus und ich hab mich endlich getraut, die
 
 <!--more-->
 
-[LineageOS](https://lineageos.org/) ist ein »free and open-source operating system for various devices, based on the Android mobile platform.« Ohne den ganzen Google-Schnickschnack. Das System fühlt sich insgesamt schlanker und schneller an.
+LineageOS ist ein »free and open-source operating system for various devices, based on the Android mobile platform.« Ohne den ganzen Google-Schnickschnack. Das System fühlt sich insgesamt schlanker und schneller an. Mehr Infos gibt es auf der [Website](https://lineageos.org/).
 
 Der Upgrade-Prozess ist recht einfach. Damit nichts schief geht, muss man sich lediglich genau an den mitgelieferten »Retroid Pocket 2 Lineage Guide« (PDF) halten oder das Video von Retro Game Corps »[How to Install LineageOS 15.1 on Retroid Pocket 2](https://www.youtube.com/watch?app=desktop&v=SCJpCgBJDfg)« strikt befolgen.
 
