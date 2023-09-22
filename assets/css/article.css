@@ -156,7 +156,7 @@ dd+dd {
 }
 
 figure,
-div[class^='language-'] {
+/*div[class^='language-']*/ {
 	grid-column: 1 / 4;
 	white-space: nowrap;
 	overflow-x: auto;
