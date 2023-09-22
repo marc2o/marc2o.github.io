@@ -242,7 +242,7 @@ p {
 	line-height: calc(1ex / 0.32);
 }
 
-article p:first-of-type {
+article>p:first-of-type {
 	font-size: 120%;
 	margin-bottom: 1em;
 }
@@ -344,7 +344,7 @@ th {
 }
 
 @supports (initial-letter: 3 3) or (-webkit-initial-letter: 3 3) {
-	article p:first-of-type+p::first-letter {
+	article>p:first-of-type+p::first-letter {
 		-webkit-initial-letter: 3 3;
 		initial-letter: 2 2;
 		margin-right: 0.3rem;
@@ -353,7 +353,7 @@ th {
 }
 
 @supports  (not (initial-letter: 3 3)) and (not (-webkit-initial-letter: 3 3)) {
-	article p:first-of-type+p::first-letter {
+	article>p:first-of-type+p::first-letter {
 		font-size: 400%;
 		float: left;
 		margin-right: 0.3rem;
