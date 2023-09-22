@@ -18,6 +18,7 @@ body {
 	font-size: clamp(1.2rem, 4vw, 1.8rem);
 	color: var(--text-color);
 	background-color: var(--back-color);
+	width: 100%;
 	overflow-x: hidden;
 }
 
