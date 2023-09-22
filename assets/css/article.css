@@ -429,6 +429,7 @@ th {
 	article p:first-of-type+p::first-letter {
 		font-size: 400%;
 		float: left;
+		margin-right: 0.3em;
 		line-height: 300%;
 	}
 }
