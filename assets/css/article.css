@@ -11,87 +11,15 @@
 	--inner-width: 48rem;
 }
 /*! minireset.css v0.0.6 | MIT License | github.com/jgthms/minireset.css */
-html,
-body,
-p,
-ol,
-ul,
-li,
-dl,
-dt,
-dd,
-blockquote,
-figure,
-fieldset,
-legend,
-textarea,
-pre,
-iframe,
-hr,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  margin: 0;
-  padding: 0;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-size: 100%;
-  font-weight: normal;
-}
-
-ul {
-  list-style: none;
-}
-
-button,
-input,
-select {
-  margin: 0;
-}
-
-html {
-  box-sizing: border-box;
-}
-
-*, *::before, *::after {
-  box-sizing: inherit;
-}
-
-img,
-video {
-  height: auto;
-  max-width: 100%;
-}
-
-iframe {
-  border: 0;
-}
-
-table {
-  border-collapse: collapse;
-  border-spacing: 0;
-}
-
-td,
-th {
-  padding: 0;
-}
+html,body,p,ol,ul,li,dl,dt,dd,blockquote,figure,fieldset,legend,textarea,pre,iframe,hr,h1,h2,h3,h4,h5,h6{margin:0;padding:0}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal}ul{list-style:none}button,input,select{margin:0}html{box-sizing:border-box}*,*::before,*::after{box-sizing:inherit}img,video{height:auto;max-width:100%}iframe{border:0}table{border-collapse:collapse;border-spacing:0}td,th{padding:0}
+/* minireset end*/
 
 a,
 a:hover,
 a:active,
 a:visited {
 	color: var(--link-color);
-    word-break: break-word;
+  word-break: break-word;
 	text-decoration: none;
 }
 
@@ -102,7 +30,7 @@ article {
 	font-family: var(--text-font, serif);
 	display: grid;
 	grid-template-columns:
-		minmax(1rem, 1fr) minmax(auto, var(--inner-width)) minmax(1rem, 1fr);
+	  minmax(1rem, 1fr) minmax(auto, var(--inner-width)) minmax(1rem, 1fr);
 }
 
 article>*,
