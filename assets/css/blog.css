@@ -1,91 +1,18 @@
 :root {
-  --spot-font: Avenir, Montserrat, Corbel, 'URW Gothic', source-sans-pro, sans-serif;
-  --flow-font: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
+  --spot-font: 'Avenir Next', Avenir, Montserrat, Corbel, 'URW Gothic', source-sans-pro, sans-serif;
+  --text-font: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
   --code-font: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace;
 	/*
 	--code-font: 'FiraCode';
-	--flow-font: 'Merriweather';
+	--text-font: 'Merriweather';
 	--spot-font: 'Open Sans';
 	*/
-	--outer-width: 56rem;
-	--inner-width: 48rem;
+	--outer-width: 60rem;
+	--inner-width: 56rem;
 }
-
 /*! minireset.css v0.0.6 | MIT License | github.com/jgthms/minireset.css */
-html,
-body,
-p,
-ol,
-ul,
-li,
-dl,
-dt,
-dd,
-blockquote,
-figure,
-fieldset,
-legend,
-textarea,
-pre,
-iframe,
-hr,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  margin: 0;
-  padding: 0;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-size: 100%;
-  font-weight: normal;
-}
-
-ul {
-  list-style: none;
-}
-
-button,
-input,
-select {
-  margin: 0;
-}
-
-html {
-  box-sizing: border-box;
-}
-
-*, *::before, *::after {
-  box-sizing: inherit;
-}
-
-img,
-video {
-  height: auto;
-  max-width: 100%;
-}
-
-iframe {
-  border: 0;
-}
-
-table {
-  border-collapse: collapse;
-  border-spacing: 0;
-}
-
-td,
-th {
-  padding: 0;
-}
+html,body,p,ol,ul,li,dl,dt,dd,blockquote,figure,fieldset,legend,textarea,pre,iframe,hr,h1,h2,h3,h4,h5,h6{margin:0;padding:0}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal}ul{list-style:none}button,input,select{margin:0}html{box-sizing:border-box}*,*::before,*::after{box-sizing:inherit}img,video{height:auto;max-width:100%}iframe{border:0}table{border-collapse:collapse;border-spacing:0}td,th{padding:0}
+/* minireset end*/
 
 a,
 a:hover,
@@ -95,7 +22,7 @@ a:visited {
 }
 
 body {
-	font-size: clamp(1.2rem, 4vw, 1.5rem);
+	font-size: clamp(1.2rem, 4vw, 1.8rem);
 	color: var(--text-color);
 	background-color: var(--back-color);
   padding-bottom: 1rem;
