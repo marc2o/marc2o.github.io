@@ -22,7 +22,7 @@ a:visited {
 }
 
 body {
-	font-size: clamp(1.2rem, 4vw, 1.8rem);
+	font-size: clamp(1.2rem, 4vw, 1.5rem);
 	color: var(--text-color);
 	background-color: var(--back-color);
   padding-bottom: 1rem;
