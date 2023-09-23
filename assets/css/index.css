@@ -191,8 +191,6 @@ main>div {
     width: 100%;
     overflow-y: hidden;
     overflow-x: auto;
-}
-mein>div {
     background-color: var(--fill-color);
 }
 
