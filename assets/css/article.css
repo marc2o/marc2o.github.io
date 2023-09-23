@@ -230,7 +230,7 @@ nav {
 nav a,
 nav a:active,
 nav a:visited {
-	line-height: 3rem;
+	line-height: 2em;
 	color: var(--text-color);
 	text-decoration: none;
 	font-family: var(--spot-font, sans-serif);
