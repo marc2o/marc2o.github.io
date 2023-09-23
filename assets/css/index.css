@@ -191,6 +191,8 @@ main>div {
     width: 100%;
     overflow-y: hidden;
     overflow-x: auto;
+}
+mein>figure {
     background-color: var(--fill-color);
 }
 
@@ -499,7 +501,7 @@ div.repo {
     position: relative;
     display: flex;
     flex-direction: column;
-    background-color: var(--page-color);
+    background-color: var(--fill-color);
     border-radius: .5rem;
     padding: 1ex 1ch; /* .5rem; */
 }
