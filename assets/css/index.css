@@ -388,7 +388,7 @@ div.posts li.more a.button {
     width: 2.5rem;
     line-height: 2.5rem;
     white-space: nowrap;
-    background: var(--fill-color);
+    background: var(--page-color);
     border-radius: 1.25rem;
     cursor: pointer;
 }
@@ -499,7 +499,7 @@ div.repo {
     position: relative;
     display: flex;
     flex-direction: column;
-    background-color: var(--fill-color);
+    background-color: var(--page-color);
     border-radius: .5rem;
     padding: 1ex 1ch; /* .5rem; */
 }
