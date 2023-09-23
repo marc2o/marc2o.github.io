@@ -224,7 +224,8 @@ img {
 nav {
 	display: grid;
 	grid-template-columns:
-		minmax(1rem, 1fr) minmax(auto, var(--inner-width)) minmax(1rem, 1fr);	height: 3rem;
+		minmax(1rem, 1fr) minmax(auto, var(--inner-width)) minmax(1rem, 1fr);
+	height: 2em;
 }
 
 nav a,
