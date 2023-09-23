@@ -183,7 +183,7 @@ header>h1 {
 	font-size: 240%;
 	width: 100vw;
 	padding: 2rem 1rem;
-	color: var(--fore-color);
+	color: var(--text-color);
 	background-color: var(--overlay-color);
 	clip-path: polygon(0 1rem, 100% 0, 100% calc(100% - 1rem), 0 100%);
 }
