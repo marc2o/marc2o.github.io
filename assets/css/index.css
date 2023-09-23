@@ -394,7 +394,7 @@ div.posts li.more a.button {
 }
 
 a.button>svg {
-    stroke: var(--link-color);
+    stroke: var(--text-color);
 }
 
 div.posts li.more>span {
