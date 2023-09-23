@@ -18,7 +18,7 @@ html,body,p,ol,ul,li,dl,dt,dd,blockquote,figure,fieldset,legend,textarea,pre,ifr
 body {
 	font-size: clamp(1.2rem, 4vw, 1.8rem);
 	color: var(--text-color);
-	background-color: var(--back-color);
+	background-color: var(--page-color);
 	overflow-x: hidden;
 }
 
@@ -184,7 +184,7 @@ header>h1 {
 	width: 100vw;
 	padding: 2rem 1rem;
 	color: var(--fore-color);
-	background-color: var(--spot-color-transparent);
+	background-color: var(--overlay-color);
 	clip-path: polygon(0 1rem, 100% 0, 100% calc(100% - 1rem), 0 100%);
 }
 
@@ -341,7 +341,7 @@ tr:nth-child(odd) {
 }
 
 th {
-	background: var(--spot-color);
+	background: var(--strt-color);
 	color: var(--text-color);
 }
 
@@ -461,11 +461,11 @@ ul.follow svg {
 }
 
 ul.follow svg g {
-    fill: var(--back-color);
+    fill: var(--page-color);
 }
 
 ul.follow svg g#Codepen path {
-    stroke: var(--back-color);
+    stroke: var(--page-color);
 }
 
 /* about box */

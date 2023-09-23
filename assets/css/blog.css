@@ -25,7 +25,7 @@ a:visited {
 body {
 	font-size: clamp(1.2rem, 4vw, 1.8rem);
 	color: var(--text-color);
-	background-color: var(--back-color);
+	background-color: var(--page-color);
   padding-bottom: 1rem;
 }
 
@@ -270,10 +270,10 @@ ul.follow svg {
 }
 
 ul.follow svg g {
-    fill: var(--back-color);
+    fill: var(--page-color);
 }
 
 ul.follow svg g#Codepen path {
-    stroke: var(--back-color);
+    stroke: var(--page-color);
 }
 

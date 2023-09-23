@@ -128,11 +128,11 @@ td {
 }
 
 tr:nth-child(odd) {
-    background: var(--back-color);
+    background: var(--page-color);
 }
 
 th {
-    background: var(--spot-color);
+    background: var(--strt-color);
     color: var(--fill-color);
 }
 
@@ -141,7 +141,7 @@ body {
     padding: 0;
     font-family: var(--spot-font);
     color: var(--text-color);
-    background: var(--back-color);
+    background: var(--page-color);
 }
 
 div>svg {
@@ -159,9 +159,9 @@ header {
     height: 85vh;
     margin: 0;
     overflow: hidden;
-    color: var(--fore-color);
-    background-color: var(--spot-color);
-    background: linear-gradient(180deg, var(--spot-color) 50%, var(--grad-color) 120%);
+    color: var(--text-color);
+    background-color: var(--strt-color);
+    background: linear-gradient(180deg, var(--strt-color) 50%, var(--stop-color) 120%);
     clip-path: polygon(0% 0%, 100% 0%, 100% calc(100% - 1rem), 0% 100%);
     -webkit-clip-path: polygon(0% 0%, 100% 0%, 100% calc(100% - 1rem), 0% 100%);
 }
@@ -254,7 +254,7 @@ figure.grid {
     grid-gap: 1rem;
     grid-template-columns: repeat(auto-fit, minmax(9em, 1fr));
     overflow: hidden;
-    background-color: var(--back-color);
+    background-color: var(--fill-color);
 }
   
 figure.grid>img {
@@ -394,7 +394,7 @@ div.posts li.more a.button {
 }
 
 a.button>svg {
-    stroke: var(--spot-color);
+    stroke: var(--link-color);
 }
 
 div.posts li.more>span {

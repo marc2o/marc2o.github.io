@@ -1,24 +1,10 @@
 :root {
-	--spot-color: #3d5a80;
-	--grad-color: #98c1d9;
+	--page-color: #323232;
+	--fill-color: #212121;
+	--text-color: #f0f0f0;
 	--link-color: #e63946;
-	--text-color: #f1faee;
-	--fore-color: #f1faee;
-	--back-color: #2d3547;
-	--fill-color: #1d2537;
-	--spot-color-transparent: rgba(61, 90, 128, 0.75);
-	
-/*
-	--spot-color: #c84400;
-	--link-color: #fc7800;
-	--text-color: #f2e8cf;
-	--back-color: #383432;
-	--fill-color: #282422;
-	--spot-color: #6a994e;
-	--link-color: #a7c957;
-	--text-color: #f2e8cf;
-	--back-color: #323438;
-	--fill-color: #222428;
-*/
+	--strt-color: #424242;
+	--stop-color: #848484;
+	--overlay-color: rgba(50, 50, 50, 0.75)
 	--ripples-effect: rgba(255, 255, 255, 0.2);	
 }
