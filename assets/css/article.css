@@ -149,8 +149,8 @@ p code,
 ul code {
     display: inline-block;
     overflow-wrap: anywhere;
-    padding: 0.2em;
-    border-radius: 0.125em;
+    padding: 0 0.2em;
+    border-radius: 0.2em;
     background-color: var(--fill-color);
 }
 
