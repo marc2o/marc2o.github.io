@@ -6,6 +6,8 @@ language: de-DE
 image: /images/marc2o-r66.jpg
 ---
 
+Was soll ich sagen…
+
 Hier folgt ein kleiner Einblick in das was mich um- und antreibt, wo ich herkomme und hinwill. In Schlüssel&shy;begriffen. Ohne Anspruch auf Vollständigkeit oder besondere Reihenfolge.
 
 **Hannover.**
