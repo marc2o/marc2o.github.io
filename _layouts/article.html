@@ -1,61 +1,64 @@
 <!doctype html>
-<html lang="{{ page.language | default: site.lang | default: "de-DE" }}">
+<html lang="{{ page.language | default: site.lang | default: " de-DE" }}">
+
 <head>
-  {% include head.html %}
-  <link rel="stylesheet"
-        type="text/css"
-        href="{{ '/assets/css/article.css?v=' | append: site.github.build_revision | relative_url }}">
+	{% include head.html %}
+	<link rel="stylesheet" type="text/css"
+		href="{{ '/assets/css/article.css?v=' | append: site.github.build_revision | relative_url }}">
 </head>
+
 <body>
-  <main>
-  <nav>
-	<!--https://jekyllrb.com/tutorials/navigation/-->
-	<ul>
-		<li><a href="/">start</a></li>
-		<li><a href="/articles">blog</a></li>
-		<li><a href="/about.html">über</a></li>
-	</ul>
-  </nav>
-  <header>
-    {% if page.image %}
-    <picture>
-      <img src="{{ page.image }}" alt="">
-    </picture>
-    {% endif %}
-    <h1><span>{{ page.title }}</span></h1>
-  </header>
-  <article>
-    <div class="meta">
-      {% if page.id %}
-        {% assign words = page.content %}
-        {% assign readingTime = words | number_of_words | divided_by: 200 %}
-        {% if page.language == "de-DE" %}
-        {% assign dateString = page.date | date: "%-d. " %}
-        {% assign monthNames = "Januar,Februar,März,April,Mai,Juni,Juli,August,September,Oktober,November,Dezember" %}
-        {% assign monthNames = monthNames | split: "," %}
-        {% assign month = page.date | date: "%-m" | minus: 1 %}
-        {% assign dateString = dateString | append: monthNames[month] %}
-        {% assign dateString = page.date | date: " %Y" | prepend: dateString %}
-        <em>{{ dateString }} · Etwa {{ readingTime }} Minuten Lesezeit.</em>
-        {% else %}
-        <em>{{ page.date | date: "%-d. %B %Y" }} · 
-        Roughly {{ readingTime }} minutes reading time.</em>
-        {% endif %}
-      {% endif %}
-    </div>
-    {{ content }}
-    <footer>
-      {% if page.author %}
-      {% include {{ page.author }}.{{ page.language }}.about.html %}
-      {% endif %}
-      {% include follow.html %}
-      {% if site.github.is_project_page %}
-      <p><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a
-        href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</p>
-      {% endif %}
-      {% include copyright.html %}
-    </footer>
-  </article>
-</main>
+	<main>
+		<nav>
+			<!--https://jekyllrb.com/tutorials/navigation/-->
+			<ul>
+				<li><a href="/">start</a></li>
+				<li><a href="/articles">blog</a></li>
+				<li><a href="/about.html">über</a></li>
+			</ul>
+		</nav>
+		<header>
+			{% if page.image %}
+			<picture>
+				<img src="{{ page.image }}" alt="">
+			</picture>
+			{% endif %}
+			<h1><span>{{ page.title }}</span></h1>
+		</header>
+		<article>
+			<div class="meta">
+				{% if page.id %}
+				{% assign words = page.content %}
+				{% assign readingTime = words | number_of_words | divided_by: 200 %}
+				{% if page.language == "de-DE" %}
+				{% assign dateString = page.date | date: "%-d. " %}
+				{% assign monthNames =
+				"Januar,Februar,März,April,Mai,Juni,Juli,August,September,Oktober,November,Dezember" %}
+				{% assign monthNames = monthNames | split: "," %}
+				{% assign month = page.date | date: "%-m" | minus: 1 %}
+				{% assign dateString = dateString | append: monthNames[month] %}
+				{% assign dateString = page.date | date: " %Y" | prepend: dateString %}
+				<em>{{ dateString }} · Etwa {{ readingTime }} Minuten Lesezeit.</em>
+				{% else %}
+				<em>{{ page.date | date: "%-d. %B %Y" }} ·
+					Roughly {{ readingTime }} minutes reading time.</em>
+				{% endif %}
+				{% endif %}
+			</div>
+			{{ content }}
+			<footer>
+				{% if page.author %}
+				{% include {{ page.author }}.{{ page.language }}.about.html %}
+				{% endif %}
+				{% include follow.html %}
+				{% if site.github.is_project_page %}
+				<p><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a
+						href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</p>
+				{% endif %}
+				{% include copyright.html %}
+			</footer>
+		</article>
+	</main>
 </body>
+
 </html>

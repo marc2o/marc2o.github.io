@@ -3,7 +3,245 @@
  * MIT License
  * github.com/filipelinhares/ress
  */
- html{box-sizing:border-box;-webkit-text-size-adjust:100%;word-break:normal;-moz-tab-size:4;tab-size:4}*,:after,:before{background-repeat:no-repeat;box-sizing:inherit}:after,:before{text-decoration:inherit;vertical-align:inherit}*{padding:0;margin:0}hr{overflow:visible;height:0}details,main{display:block}summary{display:list-item}small{font-size:80%}[hidden]{display:none}abbr[title]{border-bottom:none;text-decoration:underline;text-decoration:underline dotted}a{background-color:transparent}a:active,a:hover{outline-width:0}code,kbd,pre,samp{font-family:monospace,monospace}pre{font-size:1em}b,strong{font-weight:bolder}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sub{bottom:-.25em}sup{top:-.5em}input{border-radius:0}[disabled]{cursor:default}[type=number]::-webkit-inner-spin-button,[type=number]::-webkit-outer-spin-button{height:auto}[type=search]{-webkit-appearance:textfield;outline-offset:-2px}[type=search]::-webkit-search-decoration{-webkit-appearance:none}textarea{overflow:auto;resize:vertical}button,input,optgroup,select,textarea{font:inherit}optgroup{font-weight:700}button{overflow:visible}button,select{text-transform:none}[role=button],[type=button],[type=reset],[type=submit],button{cursor:pointer;color:inherit}[type=button]::-moz-focus-inner,[type=reset]::-moz-focus-inner,[type=submit]::-moz-focus-inner,button::-moz-focus-inner{border-style:none;padding:0}[type=button]::-moz-focus-inner,[type=reset]::-moz-focus-inner,[type=submit]::-moz-focus-inner,button:-moz-focusring{outline:1px dotted ButtonText}[type=reset],[type=submit],button,html [type=button]{-webkit-appearance:button}button,input,select,textarea{background-color:transparent;border-style:none}select{-moz-appearance:none;-webkit-appearance:none}select::-ms-expand{display:none}select::-ms-value{color:currentColor}legend{border:0;color:inherit;display:table;white-space:normal;max-width:100%}::-webkit-file-upload-button{-webkit-appearance:button;color:inherit;font:inherit}img{border-style:none}progress{vertical-align:baseline}@media screen{[hidden~=screen]{display:inherit}[hidden~=screen]:not(:active):not(:focus):not(:target){position:absolute!important;clip:rect(0 0 0 0)!important}}[aria-busy=true]{cursor:progress}[aria-controls]{cursor:pointer}[aria-disabled]{cursor:default}
+html {
+    box-sizing: border-box;
+    -webkit-text-size-adjust: 100%;
+    word-break: normal;
+    -moz-tab-size: 4;
+    tab-size: 4
+}
+
+*,
+:after,
+:before {
+    background-repeat: no-repeat;
+    box-sizing: inherit
+}
+
+:after,
+:before {
+    text-decoration: inherit;
+    vertical-align: inherit
+}
+
+* {
+    padding: 0;
+    margin: 0
+}
+
+hr {
+    overflow: visible;
+    height: 0
+}
+
+details,
+main {
+    display: block
+}
+
+summary {
+    display: list-item
+}
+
+small {
+    font-size: 80%
+}
+
+[hidden] {
+    display: none
+}
+
+abbr[title] {
+    border-bottom: none;
+    text-decoration: underline;
+    text-decoration: underline dotted
+}
+
+a {
+    background-color: transparent
+}
+
+a:active,
+a:hover {
+    outline-width: 0
+}
+
+code,
+kbd,
+pre,
+samp {
+    font-family: monospace, monospace
+}
+
+pre {
+    font-size: 1em
+}
+
+b,
+strong {
+    font-weight: bolder
+}
+
+sub,
+sup {
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline
+}
+
+sub {
+    bottom: -.25em
+}
+
+sup {
+    top: -.5em
+}
+
+input {
+    border-radius: 0
+}
+
+[disabled] {
+    cursor: default
+}
+
+[type=number]::-webkit-inner-spin-button,
+[type=number]::-webkit-outer-spin-button {
+    height: auto
+}
+
+[type=search] {
+    -webkit-appearance: textfield;
+    outline-offset: -2px
+}
+
+[type=search]::-webkit-search-decoration {
+    -webkit-appearance: none
+}
+
+textarea {
+    overflow: auto;
+    resize: vertical
+}
+
+button,
+input,
+optgroup,
+select,
+textarea {
+    font: inherit
+}
+
+optgroup {
+    font-weight: 700
+}
+
+button {
+    overflow: visible
+}
+
+button,
+select {
+    text-transform: none
+}
+
+[role=button],
+[type=button],
+[type=reset],
+[type=submit],
+button {
+    cursor: pointer;
+    color: inherit
+}
+
+[type=button]::-moz-focus-inner,
+[type=reset]::-moz-focus-inner,
+[type=submit]::-moz-focus-inner,
+button::-moz-focus-inner {
+    border-style: none;
+    padding: 0
+}
+
+[type=button]::-moz-focus-inner,
+[type=reset]::-moz-focus-inner,
+[type=submit]::-moz-focus-inner,
+button:-moz-focusring {
+    outline: 1px dotted ButtonText
+}
+
+[type=reset],
+[type=submit],
+button,
+html [type=button] {
+    -webkit-appearance: button
+}
+
+button,
+input,
+select,
+textarea {
+    background-color: transparent;
+    border-style: none
+}
+
+select {
+    -moz-appearance: none;
+    -webkit-appearance: none
+}
+
+select::-ms-expand {
+    display: none
+}
+
+select::-ms-value {
+    color: currentColor
+}
+
+legend {
+    border: 0;
+    color: inherit;
+    display: table;
+    white-space: normal;
+    max-width: 100%
+}
+
+::-webkit-file-upload-button {
+    -webkit-appearance: button;
+    color: inherit;
+    font: inherit
+}
+
+img {
+    border-style: none
+}
+
+progress {
+    vertical-align: baseline
+}
+
+@media screen {
+    [hidden~=screen] {
+        display: inherit
+    }
+
+    [hidden~=screen]:not(:active):not(:focus):not(:target) {
+        position: absolute !important;
+        clip: rect(0 0 0 0) !important
+    }
+}
+
+[aria-busy=true] {
+    cursor: progress
+}
+
+[aria-controls] {
+    cursor: pointer
+}
+
+[aria-disabled] {
+    cursor: default
+}
 
 /* the basic stuff */
 :root {
@@ -50,7 +288,7 @@ footer {
     display: grid;
     margin: 0 auto;
     grid-template-columns:
-    minmax(1rem, 1fr) minmax(auto, var(--inner-width)) minmax(1rem, 1fr);
+        minmax(1rem, 1fr) minmax(auto, var(--inner-width)) minmax(1rem, 1fr);
 }
 
 main>*,
@@ -256,11 +494,11 @@ figure.grid {
     overflow: hidden;
     background-color: var(--page-color);
 }
-  
+
 figure.grid>img {
     width: 100%;
 }
-  
+
 div.posts>ul>li span.image>img {
     display: block;
     width: 64vmin;
@@ -501,37 +739,61 @@ div.repo {
     flex-direction: column;
     background-color: var(--fill-color);
     border-radius: .5rem;
-    padding: 1ex 1ch; /* .5rem; */
+    padding: 1ex 1ch;
+    /* .5rem; */
 }
+
 div.repo a {
     color: var(--link-color);
 }
+
 div.repo>p {
     font-size: 85%;
     margin-top: .5em;
     margin-bottom: .5em;
 }
+
 div.repo>label {
     display: block;
     margin-top: auto;
 }
+
 span.code_language+span {
-	font-family: var(--spot-font);
-	font-size: 85%;
-	padding: 0;
+    font-family: var(--spot-font);
+    font-size: 85%;
+    padding: 0;
 }
+
 .code_language {
-	display: inline-block;
-	width: .66em;
-	height: .66em;
-	border: .05em solid var(--text-color);
-	border-radius: 50%;
-	vertical-align: baseline;
-	margin-right: .2em;
+    display: inline-block;
+    width: .66em;
+    height: .66em;
+    border: .05em solid var(--text-color);
+    border-radius: 50%;
+    vertical-align: baseline;
+    margin-right: .2em;
 }
-.GitHub_C { background-color: #555555; }
-.GitHub_CSS { background-color: #563d7c; }
-.GitHub_HTML { background-color: #e34c26; }
-.GitHub_JavaScript { background-color: #f1e05a; }
-.GitHub_Lua { background-color: #000080; }
-.GitHub_Rust { background-color: #dea584; }
+
+.GitHub_C {
+    background-color: #555555;
+}
+
+.GitHub_CSS {
+    background-color: #563d7c;
+}
+
+.GitHub_HTML {
+    background-color: #e34c26;
+}
+
+.GitHub_JavaScript {
+    background-color: #f1e05a;
+}
+
+.GitHub_Lua {
+    background-color: #000080;
+}
+
+.GitHub_Rust {
+    background-color: #dea584;
+}

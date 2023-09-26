@@ -1,10 +1,10 @@
 :root {
-	--page-color: #383838;
-	--fill-color: #1e1e1e;
-	--text-color: #F0F0F0;
-	--link-color: #FF4477;
-	--strt-color: #404040;
-	--stop-color: #808080;
-	--overlay-color: rgba(50, 50, 50, 0.75);
-	--ripples-effect: rgba(255, 255, 255, 0.2);	
+    --page-color: #383838;
+    --fill-color: #1e1e1e;
+    --text-color: #F0F0F0;
+    --link-color: #FF4477;
+    --strt-color: #404040;
+    --stop-color: #808080;
+    --overlay-color: rgba(50, 50, 50, 0.75);
+    --ripples-effect: rgba(255, 255, 255, 0.2);
 }
