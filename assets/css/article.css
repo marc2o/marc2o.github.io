@@ -252,7 +252,7 @@ header {
     justify-content: end;
     align-items: center;
     width: 100vw;
-    height: calc(100vh - 3rem);
+    height: calc(100vh - 2em);
     overflow: hidden;
     clip-path: polygon(0 1rem, 100% 0, 100% calc(100% - 1rem), 0 100%);
 
