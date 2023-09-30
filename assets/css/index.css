@@ -543,9 +543,16 @@ div>ul>li>a:visited {
 }
 
 header>span.title,
-header>span.about {
+header>span.about,
+header>span.thumb {
     display: block;
     text-align: center;
+}
+header>span.thumb {
+    width: 4rem;
+    height: 4rem;
+    border-radius: 2rem;
+    overflow: hidden;
 }
 
 header>span.title {
