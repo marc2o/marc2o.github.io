@@ -146,8 +146,7 @@ code {
 }
 
 p code,
-ul code,
-ol code, {
+li code, {
     display: inline-block;
     overflow-wrap: anywhere;
     padding: 0 0.2em;
