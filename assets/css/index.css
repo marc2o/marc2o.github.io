@@ -553,6 +553,7 @@ header>span.thumb {
     height: 4rem;
     border-radius: 2rem;
     overflow: hidden;
+    margin-bottom: 1rem;
 }
 
 header>span.title {
