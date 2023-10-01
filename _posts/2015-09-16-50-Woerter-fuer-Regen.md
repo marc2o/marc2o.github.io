@@ -136,4 +136,6 @@ Dieses kurze Glossar zeigt doch unser sehr gestörtes Verhältnis zum Regen. Kei
 	<dd><em>n.</em> Wenn es <em>schüttet wie aus Eimern</em> und der Ausdruck <em>Platzregen</em> nicht stark genug ist.</dd>
 </dl>
 
+---
+
 Dieses Wörterbuch führe ich seit September 2015. Wahrscheinlich hat mich ein verregneter meteorologischer Herbstanfang inspiriert.
