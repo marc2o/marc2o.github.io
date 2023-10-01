@@ -29,7 +29,7 @@ Für den einen Bibliothek, für den anderen Bühne. Für mich kreativer Raum und
 - Bücherliebhaber
 - Musik-Amateur im barocken Sinne des Wortes
 - mag kleine Instrumente (Ortega Konzert-Ukulele und AKAI MPK mini Play)
-- Atari- & Nintendo-Gaming
+- Atari- & Nintendo-Konsolen
 - Commodore- und Apple-Computer
 - früher 68k-Asm, Forth und Java
 - heute Lua, C und JavaScript
