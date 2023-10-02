@@ -12,10 +12,12 @@ tags:
 - Burma
 ---
 
-Eigentlich habe ich Katzen immer gehasst. Für mich waren sie von Kindheit an pelzige Rätsel. Irgendwie süß, aber unberechenbar. Nachdem ich als Kind ein paar mal — völlig unverschuldet, wie ich fand — gekratzt worden bin, war das Thema Katze für mich erledigt. Bis 2021.
+Eigentlich habe ich Katzen immer gehasst[^1].  Für mich waren sie von Kindheit an pelzige Rätsel. Irgendwie süß, aber unberechenbar. Nachdem ich als Kind ein paar mal — völlig unverschuldet, wie ich fand — gekratzt worden bin, war das Thema Katze für mich erledigt. Bis 2021.
 
 <!--more-->
 
 …
 
 Und nun kommen bald schon die nächsten zwei.
+
+[^1]: Bla

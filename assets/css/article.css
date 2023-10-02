@@ -136,6 +136,13 @@ article ol>li:not(:first-of-type) {
     margin-top: .5em;
 }
 
+.footnotes ol li,
+#footnites ol li {
+    counter-increment: customlistcounter;
+    font-variant-numeric: oldstyle-nums;
+}
+/*li[id^='fn']*
+
 blockquote {
     padding-left: 1.5rem;
     padding-right: 1.5rem;
