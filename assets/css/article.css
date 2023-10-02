@@ -137,6 +137,8 @@ article ol>li:not(:first-of-type) {
 }
 
 .footnotes ol {
+    border-top: 1px solid var(--text-color);
+    border-bottom: 1px solid var(--text-color);
     counter-reset: item;
     list-style-type: none;
     padding-left: 0;
@@ -153,7 +155,7 @@ article ol>li:not(:first-of-type) {
     font-weight: 800;
     font-size: 0.83em;
     font-variant-numeric: oldstyle-nums;
-    display: inline;
+    float: left;
 }
 
 .footnotes ol li {
