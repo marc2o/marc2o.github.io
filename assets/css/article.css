@@ -136,24 +136,24 @@ article ol>li:not(:first-of-type) {
     margin-top: .5em;
 }
 
-.footnotes ol,
-#footnotes ol {
+.footnotes ol {
     counter-reset: item;
     list-style-type: none;
     padding-left: 0;
+    margin-left: 0;
     column-count: 2;
+    font-size: 0.83em;
 }
 
 .footnotes ol li:before {
-    content: counter(customlistcounter)"\00a0";
+    content: counter(customlistcounter) " ";
     vertical-align: super;
     font-weight: 800;
     font-size: 0.83em;
     font-variant-numeric: oldstyle-nums;
 }
 
-.footnotes ol li,
-#footnites ol li {
+.footnotes ol li {
     counter-increment: customlistcounter;
     font-variant-numeric: oldstyle-nums;
 }
