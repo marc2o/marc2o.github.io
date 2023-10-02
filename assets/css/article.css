@@ -136,6 +136,10 @@ article ol>li:not(:first-of-type) {
     margin-top: .5em;
 }
 
+sup[id^='fnref'] {
+    font-variant-numeric: oldstyle-nums;
+}
+
 .footnotes ol {
     border-top: 1px solid var(--text-color);
     counter-reset: item;
