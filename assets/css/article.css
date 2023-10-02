@@ -143,7 +143,6 @@ article ol>li:not(:first-of-type) {
     padding: 1rem 0;
     margin-left: 0;
     column-count: 2;
-    break-inside: avoid-column;
     font-size: 0.83em;
 }
 
@@ -159,6 +158,7 @@ article ol>li:not(:first-of-type) {
 .footnotes ol li {
     counter-increment: customlistcounter;
     font-variant-numeric: oldstyle-nums;
+    break-inside: avoid-column;
 }
 
 blockquote {
