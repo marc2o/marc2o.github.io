@@ -141,11 +141,13 @@ article ol>li:not(:first-of-type) {
     counter-reset: item;
     list-style-type: none;
     padding-left: 0;
+    column-count: 2;
 }
 
 .footnotes ol li:before {
     content: counter(customlistcounter)"\00a0";
     vertical-align: super;
+    font-weight: 800;
     font-size: 0.83em;
     font-variant-numeric: oldstyle-nums;
 }
