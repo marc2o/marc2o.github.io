@@ -138,14 +138,12 @@ article ol>li:not(:first-of-type) {
 
 .footnotes ol {
     border-top: 1px solid var(--text-color);
-    border-bottom: 1px solid var(--text-color);
     counter-reset: item;
     list-style-type: none;
     padding: 1rem 0;
     margin-left: 0;
     column-count: 2;
-    break-inside: avoid;
-    -webkit-column-break-inside: avoid;
+    break-inside: avoid-column;
     font-size: 0.83em;
 }
 
