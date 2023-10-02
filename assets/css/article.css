@@ -137,11 +137,13 @@ article ol>li:not(:first-of-type) {
 }
 
 blockquote {
-    padding: 1rem 2rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    font-size: 0.92em;
 }
 
 code {
-    font-size: 0.85em;
+    font-size: 0.83em;
     font-family: var(--code-font, monospace, monospace);
 }
 
@@ -218,7 +220,7 @@ figcaption {
     padding-bottom: 0.5rem;
     max-width: var(--inner-width);
     font-family: var(--spot-font, sans-serif);
-    font-size: 0.85em;
+    font-size: 0.83em;
     text-align: center;
     white-space: normal;
 }
@@ -226,7 +228,7 @@ figcaption {
 footer {
     margin-top: 2rem;
     padding-bottom: 2rem;
-    font-size: 85%;
+    font-size: 83%;
     font-family: var(--spot-font, sans-serif);
 }
 
@@ -343,7 +345,7 @@ article>p:first-of-type {
 article div.meta {
     max-width: 100%;
     font-family: var(--spot-text);
-    font-size: 85%;
+    font-size: 83%;
 }
 
 pre {
@@ -419,7 +421,7 @@ td {
     text-align: left;
     vertical-align: top;
     padding: 1ex 1ch;
-    font-size: 85%;
+    font-size: 83%;
     font-family: var(--spot-font, sans-serif);
 }
 

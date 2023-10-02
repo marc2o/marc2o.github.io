@@ -19,7 +19,6 @@ Dass ich damit nicht allein bin zeigt die Aktivität der Homebrew-Szene — und 
 
 Weil ich das zu gern mal selbst ausprobieren möchte, habe ich hier eine Übersicht it Tipps und Links zusammengestellt (eher für mich, als persönliche Link-Sammlung).
 
-
 ## Welche Werkzeuge und Dokumentationen gibt es?
 
 Als erstes gilt es, die richtigen Werkzeuge für die Entwicklung zu wählen. Das ist wichtig, denn davon hängt ab, wie viel Arbeit das geplante Spiel machen wird, was möglich sein wird und wie schnell das Spiel läuft. Für das NES bietet sich Assembler an. Das Herz des NES ist der Ricoh 2A03, ein MOS 6502-Derivat — und der 6502 ist ein super dokumentierter Prozessor, der in einer ganzen Reihe von 8-Bit-Computern und -Konsolen seinen Dienst getan hat: vom Atari 2600 über den Apple II bis hin zum Commodore C64 und eben im Nintendo Entertainment System / Famicom. 6502-Assembler ist eine recht übersichtliche Sprache und es stehen verschiedene Assembler, je nach Geschmack, zur Verfügung.
