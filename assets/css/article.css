@@ -146,11 +146,12 @@ article ol>li:not(:first-of-type) {
 }
 
 .footnotes ol li:before {
-    content: counter(customlistcounter) " ";
+    content: counter(customlistcounter) "\00a0";
     vertical-align: super;
     font-weight: 800;
     font-size: 0.83em;
     font-variant-numeric: oldstyle-nums;
+    float: left;
 }
 
 .footnotes ol li {
