@@ -560,7 +560,7 @@ th {
 		grid-column: 1 / 4;
 		width: auto;
 		height: auto;
-		backdrop-filter: none;
+		backdrop-filter: unset;
 	}
 
 }
