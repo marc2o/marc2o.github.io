@@ -555,7 +555,6 @@ th {
 	header>h1 {
 		display: block;
 		position: relative;
-		grid-column: 1 / 4;
 		clip-path: none;
 		width: 100vw;
 		height: auto;
@@ -566,6 +565,11 @@ th {
 		position: relative;
 		width: 100vw;
 		height: auto;
+	}
+
+	header,
+	picture {
+		grid-column: 1 / 4;
 	}
 }
 
