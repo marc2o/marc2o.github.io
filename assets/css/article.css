@@ -553,16 +553,10 @@ th {
 
 	header,
 	header>h1 {
-		display: block;
-		position: relative;
-		grid-column: 1 / 4;
-		clip-path: none;
+		/* reset */
 	}
 
 	header>picture {
-		display: block;
-		position: relative;
-		width: 100vw;
 		height: 10cm;
 	}
 }
