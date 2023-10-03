@@ -81,7 +81,7 @@ Dieses kurze Glossar zeigt doch unser sehr gestörtes Verhältnis zum Regen. Kei
 	<dt><strong>Nass</strong>, das</dt>  
 	<dd><em>n.</em> Der poetische Ausdruck für etwas, das außerhalb von Gedichten oft nur schwer zu ertragen ist.</dd>
 	<dt><strong>nieseln</strong></dt>
-	<dd><em>n.</em> Auch <em>nisseln</em>, <em>mieseln</em>, <em>fieseln</em> und <em>fisseln</em>. Feiner, ziemlich gleichförmiger Regen mit sehr kleinen Wassertröpfchen. Sieht fast aus wie Nebel, ist nur viel nasser. Leichter Nieselregen bei 5°C ist häufig das Standardwetter in Hannover von November bis Januar.</dd>
+	<dd><em>n.</em> Auch <em>nisseln</em>, <em>mieseln</em>, <em>fieseln</em> und <em>fisseln</em>. Feiner, ziemlich gleichförmiger Regen mit sehr kleinen Wassertröpfchen. Sieht fast aus wie Nebel, ist nur viel nasser. Leichter Nieselregen bei 5 °C ist das Standardwetter in Hannover von November bis Januar.[^1]</dd>
 </dl>
 
 ### O
@@ -120,7 +120,7 @@ Dieses kurze Glossar zeigt doch unser sehr gestörtes Verhältnis zum Regen. Kei
 	<dt><strong>sintflutartiger Regen</strong>, der</dt>
 	<dd><em>n.</em> Ein sehr starker <em>Schauer</em> oder auch *Platzregen* biblischen Ausmaßes. Häufig gefolgt von voll gelaufenen Kellern und angespülten jungen Hunden.</dd>
 	<dt><strong>Sommerregen</strong>, der</dt>
-	<dd><em>n.</em> Die vielleicht erotischste Art Regenschauer, bei der man barfuß und ohne T-Shirt durch die Straße läuft; die angenehm lauwarme Dusche von oben an einem heißen Tag, z. B. vor einem Sommergewitter.</dd>
+	<dd><em>n.</em> Die vielleicht erotischste Art Regenschauer, bei der man barfuß und ohne T-Shirt durch die Straße läuft[^2]; die angenehm lauwarme Dusche von oben an einem heißen Tag, z. B. vor einem Sommergewitter.</dd>
 	<dt><strong>Spargelregen</strong>, der</dt>
 	<dd><em>n.</em> Kurze <em>Schauer</em> im sonst sonnig milden Frühlingswetter im April und Mai. Gern gesehen von Spargelbauern und Spargelessern, weil damit der Spargel gut wächst und nicht zu teuer wird.</dd>
 	<dt><strong>Sprühregen</strong>, der</dt>
@@ -139,3 +139,7 @@ Dieses kurze Glossar zeigt doch unser sehr gestörtes Verhältnis zum Regen. Kei
 ---
 
 Dieses Wörterbuch führe ich seit September 2015. Wahrscheinlich hat mich ein verregneter meteorologischer Herbstanfang inspiriert.
+
+[^1]: Es handelt sich um einen _gefühlten Erfahrungswert_. Also, etwas, das einem wie ein Fakt vorkommt, weil man meint es oft erlebt zu haben.
+
+[^2]: Oder auch ohne T-Shirt.
