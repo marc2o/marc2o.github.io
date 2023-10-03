@@ -18,4 +18,4 @@ Eigentlich dachte ich, dass ich ein Hundemensch bin. Katzen waren mir nie geheue
 
 …
 
-[^1]: Meine erste bewusste Begegnung mit einer Katze war in den frühen 1980ern. Mein Grundschul&shy;klassen&shy;kamerad hatte ein Kätzchen bekommen. Purzel. Schwarzweiß gefleckt. Die Begegnung hat bleibende Erinnerungen hinterlassen. Purzel hat mich bei meinem zaghaften Steichelversuch unvermittelt mit der Pfote geschlagen. Der Kratzer hat sofort geblutet.
+[^1]: Meine erste bewusste Begegnung mit einer Katze in den frühen 1980ern hat mich für die folgenden Jahre geprägt. Purzel. Das Kätzchen meines Grundschul&shy;klassen&shy;kamerades. Schwarzweiß gefleckt. Purzel hat mich bei meinem zaghaften Steichelversuch unvermittelt mit der Pfote geschlagen. Der Kratzer hat sofort geblutet.

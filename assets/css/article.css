@@ -557,7 +557,6 @@ th {
 		display: block;
 		position: relative;
 		clip-path: none;
-		grid-column: 1 / 4;
 		width: auto;
 		height: auto;
 		backdrop-filter: unset;
