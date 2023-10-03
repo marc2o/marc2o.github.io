@@ -248,6 +248,7 @@ dd+dd {
 }
 
 figure,
+header,
 div[class^='language-'] {
 	grid-column: 1 / 4;
 	white-space: nowrap;
