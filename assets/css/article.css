@@ -570,6 +570,9 @@ th {
 	header,
 	picture {
 		grid-column: 1 / 4;
+		width: 100vw;
+		margin-left: auto;
+		margin-right: auto;
 	}
 }
 
