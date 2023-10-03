@@ -552,29 +552,16 @@ th {
 	}
 
 	header,
-	header>h1 {
+	header>h1,
+	picture {
 		display: block;
 		position: relative;
 		clip-path: none;
-		width: 100vw;
-		height: auto;
-	}
-
-	header>picture {
-		display: block;
-		position: relative;
-		width: 100vw;
-		height: auto;
-	}
-
-	header,
-	picture {
 		grid-column: 1 / 4;
-		width: 100vw;
-		margin-left: auto;
-		margin-right: auto;
-		border: 1px solid green;
+		width: auto;
+		height: auto;
 	}
+
 }
 
 /* follow */
