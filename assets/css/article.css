@@ -552,7 +552,7 @@ th {
 	}
 
 	header,
-	header>h1,
+	h1,
 	picture {
 		display: block;
 		position: relative;
@@ -560,6 +560,7 @@ th {
 		grid-column: 1 / 4;
 		width: auto;
 		height: auto;
+		backdrop-filter: none;
 	}
 
 }
