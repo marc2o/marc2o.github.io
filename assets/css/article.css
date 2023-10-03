@@ -146,7 +146,6 @@ sup[id^='fnref'] {
     list-style-type: none;
     padding: 1rem 0;
     margin-left: 0;
-    column-count: 2;
     font-size: 0.83em;
 }
 
@@ -432,6 +431,12 @@ table {
     width: 100%;
     page-break-inside: auto;
 
+}
+
+@media only screen and (min-width: 480px) {
+    .footnotes ol {
+        column-count: 2;
+    }
 }
 
 @media only screen and (max-width: 320px) {
