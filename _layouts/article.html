@@ -3,8 +3,10 @@
 
 <head>
 	{% include head.html %}
-	<link rel="stylesheet" type="text/css"
+	<link rel="stylesheet" type="text/css" media="screen"
 		href="{{ '/assets/css/article.css?v=' | append: site.github.build_revision | relative_url }}">
+	<link rel="stylesheet" type="text/css" media="print"
+		href="{{ '/assets/css/print.css?v=' | append: site.github.build_revision | relative_url }}">
 </head>
 
 <body>
