@@ -554,6 +554,8 @@ th {
     header,
     header>h1 {
         clip-path: none;
+        grid-column: 1 / 4;
+
     }
     
     header>picture {
