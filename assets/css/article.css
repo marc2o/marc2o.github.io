@@ -553,11 +553,19 @@ th {
 
 	header,
 	header>h1 {
-		/* reset */
+		display: block;
+		position: relative;
+		grid-column: 1 / 4;
+		clip-path: none;
+		width: 100vw;
+		height: auto;
 	}
 
 	header>picture {
-		height: 10cm;
+		display: block;
+		position: relative;
+		width: 100vw;
+		height: auto;
 	}
 }
 
