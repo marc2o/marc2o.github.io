@@ -136,8 +136,9 @@ article ol>li:not(:first-of-type) {
 	margin-top: .5em;
 }
 
-sup[id^='fnref'] {
+sup /*[id^='fnref']*/ {
 	font-variant-numeric: oldstyle-nums;
+	vertical-align: top;
 }
 
 .footnotes ol {
