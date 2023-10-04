@@ -139,6 +139,7 @@ article ol>li:not(:first-of-type) {
 sup /*[id^='fnref']*/ {
 	font-variant-numeric: oldstyle-nums;
 	vertical-align: top;
+	margin-top: -0.4em;
 }
 
 .footnotes ol {
