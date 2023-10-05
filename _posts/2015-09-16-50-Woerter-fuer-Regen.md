@@ -79,7 +79,7 @@ Dieses kurze Glossar zeigt doch unser sehr gestörtes Verhältnis zum Regen. Kei
 
 <dl>
 	<dt><strong>Nass</strong>, das</dt>  
-	<dd><em>n.</em> Der poetische Ausdruck für etwas, das außerhalb von Gedichten oft nur schwer zu ertragen ist.</dd>
+	<dd><em>n.</em> Der poetische Ausdruck für etwas, das außerhalb von Gedichten oft nur schwer zu ertragen ist.[^1]</dd>
 	<dt><strong>nieseln</strong></dt>
 	<dd><em>n.</em> Auch <em>nisseln</em>, <em>mieseln</em>, <em>fieseln</em> und <em>fisseln</em>. Feiner, ziemlich gleichförmiger Regen mit sehr kleinen Wassertröpfchen. Sieht fast aus wie Nebel, ist nur viel nasser. Leichter Nieselregen bei 5 °C ist das Standardwetter in Hannover von November bis Januar.[^1]</dd>
 </dl>
@@ -140,6 +140,7 @@ Dieses kurze Glossar zeigt doch unser sehr gestörtes Verhältnis zum Regen. Kei
 
 Dieses Wörterbuch führe ich seit September 2015. Wahrscheinlich hat mich ein verregneter meteorologischer Herbstanfang inspiriert.
 
-[^1]: Es handelt sich um einen _gefühlten Erfahrungswert_. Also, etwas, das einem wie ein Fakt vorkommt, weil man meint es oft erlebt zu haben.
+[^1]: Die Regenromatik kommt am ehesten auf der Innenseite der Fenster auf.
+[^2]: Es handelt sich um einen _gefühlten Erfahrungswert_. Also, etwas, das einem wie ein Fakt vorkommt, weil man meint es oft erlebt zu haben.
 
-[^2]: Oder auch ohne T-Shirt.
+[^3]: Oder auch ohne T-Shirt.
