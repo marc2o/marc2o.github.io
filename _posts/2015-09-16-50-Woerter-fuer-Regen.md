@@ -140,7 +140,16 @@ Dieses kurze Glossar zeigt doch unser sehr gestörtes Verhältnis zum Regen. Kei
 
 Dieses Wörterbuch führe ich seit September 2015. Wahrscheinlich hat mich ein verregneter meteorologischer Herbstanfang inspiriert.
 
-[^1]: Die Regenromatik kommt am ehesten auf der Innenseite der Fenster auf.
-[^2]: Es handelt sich um einen _gefühlten Erfahrungswert_. Also, etwas, das einem wie ein Fakt vorkommt, weil man meint es oft erlebt zu haben.
-
-[^3]: Oder auch ohne T-Shirt.
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p>Die Regenromatik kommt am ehesten auf der Innenseite der Fenster auf.&nbsp;<a href="#fnref:1" class="reversefootnote" role="doc-backlink">↩</a></p>
+    </li>
+    <li id="fn:2" role="doc-endnote">
+      <p>Es handelt sich um einen _gefühlten Erfahrungswert_. Also, etwas, das einem wie ein Fakt vorkommt, weil man meint es oft erlebt zu haben.&nbsp;<a href="#fnref:2" class="reversefootnote" role="doc-backlink">↩</a></p>
+    </li>
+    <li id="fn:3" role="doc-endnote">
+      <p>der auch ohne T-Shirt.&nbsp;<a href="#fnref:3" class="reversefootnote" role="doc-backlink">↩</a></p>
+    </li>
+  </ol>
+</div>
