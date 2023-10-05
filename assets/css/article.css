@@ -136,7 +136,7 @@ article ol>li:not(:first-of-type) {
 	margin-top: .5em;
 }
 
-sup /*[id^='fnref']*/ {
+sup {
 	display: inline-block;
 	font-variant-numeric: oldstyle-nums;
 	vertical-align: top;
