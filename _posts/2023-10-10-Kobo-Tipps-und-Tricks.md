@@ -117,7 +117,7 @@ Nun kann man das [Firmware-Image herunterladen](https://inkbox.ddns.net/download
 SD-Karte wieder einlegen, Gerät einschalten, warten.
 
 <figure>
-	<figure><img src="/Users/marc/Sites/marc2o.github.io/images/kobo-inkbox-01.jpg" alt=""><figcaption>Startvorgang …</figcaption></figure>
-	<figure><img src="/Users/marc/Sites/marc2o.github.io/images/kobo-inkbox-02.jpg" alt=""><figcaption>… »Home«-Bildschirm …</figcaption></figure>
-	<figure><img src="/Users/marc/Sites/marc2o.github.io/images/kobo-inkbox-03.jpg" alt=""><figcaption>… und Reader mit Einstellungen</figcaption></figure>
+	<figure><img src="/images/kobo-inkbox-01.jpg" alt=""><figcaption>Startvorgang …</figcaption></figure>
+	<figure><img src="/images/kobo-inkbox-02.jpg" alt=""><figcaption>… »Home«-Bildschirm …</figcaption></figure>
+	<figure><img src="/images/kobo-inkbox-03.jpg" alt=""><figcaption>… und Reader mit Einstellungen</figcaption></figure>
 </figure>
