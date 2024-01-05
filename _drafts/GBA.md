@@ -10,11 +10,60 @@ tags:
 - Gaming
 - Console
 - Modding
+- Game Development
 ---
 
-Zum Gaming bin ich erst relativ gekommen. Meine erste Konsole war das Atari 2600 Junior. Geprägt haben mich dann jedoch eher Der C64 eines Freundes und mein eigener Amiga 500 haben mich dann geprägt. – Zu 8-Bit-Musik und 16-Bit Pixel Art fühle ich mich noch heute hingezogen.
+## Game Dev
 
-Zum Gaming bin ich dann eigentlich erst 2006 ein bisschen mehr gekommen, als ich Nintendo für mich entdeckt habe: bei _Mario Kart Double: Dash!_ an einem GameCube und auf einer Wii-Sports-Party bei Bekannten. Richtig gefunkt hat es, als ich auf dem Nintendo DS einer guten Freundin _Soul Bubbles_ spielen durfte. Seitdem war klar, dass ich Handheld-Gamer bin. Mein Werdegang führte dann vom Nintendo DSi über das Nintendo 3DS und New 3DS bis zur Nintendo Switch und letztlich zum OLED-Modell. Nur einen Game Boy hatte ich nie – und das wollte ich ändern.
+Learn:
+- https://exelo.tl/goodboy-advance.html
+- https://www.coranac.com/tonc/text/
+- https://problemkaputt.de/gbatek.htm
+- https://ianfinlayson.net/class/cpsc305/notes/06-gba1
+- https://kylehalladay.com/blog/tutorial/gba/2017/03/28/GBA-By-Example-1.html
+
+[Arm GNU Toolchain](https://developer.arm.com/Tools%20and%20Software/GNU%20Toolchain)
+
+🛑 DO NOT USE: `brew install arm-none-eabi-gcc` Diese Version hat keine Include-Dateien, wie z. B. `stdint.h`.
+✅ INSTEAD USE: `brew install --cask gcc-arm-embedded`, ist identisch mit der Installation von developer.arm.com.
+
+natu
+https://natu.exelo.tl/
+https://git.sr.ht/~exelotl/natu-examples/tree/master/item/goodboy_gallery/source/simple_anim.nim
+
+```bash
+brew install arm-none-eabi-gcc
+brew install nim
+nimble install https://git.sr.ht/~exelotl/natu@0.2.0
+```
+Nim x SDL2
+`nimble install sdl2`
+https://hookrace.net/blog/writing-a-2d-platform-game-in-nim-with-sdl2/
+https://nim-lang.org/documentation.html
+https://nim-lang.org/docs/tut1.html
+
+GBA Bootstrap
+https://github.com/AntonioND/gba-bootstrap
+
+Meson Build System (https://mesonbuild.com) `brew install meson`
+
+gba-toolchain – CMake based toolchain for GBA homebrew development
+- https://github.com/felixjones/gba-toolchain
+- https://felixjones.github.io/gba-tutorial/
+
+sdk-seven – Modern GBA Software Development Kit
+(https://github.com/LunarLambda/sdk-seven)
+
+Download https://github.com/LunarLambda/sdk-seven/releases
+
+```bash
+./setup.sh
+ninja -C build
+```
+
+Help `#sdk-seven` on [Discord](https://discord.io/gbadev)
+
+## Modding
 
 [Nintendo Gameboy Advance SP Modded Console, Translucent Purple Edition. IPS V3, USB C, Audio Enhanced Build To Order with Custom Black Buttons.](https://shopmodernmods.com/collections/nintendo-gameboy-sp/products/nintendo-gameboy-advance-sp-modded-console-translucent-purple-edition-ips-v2-usb-c-audio-enhanced-build-to-order-w-custom-buttons?variant=40302993473705)
 
