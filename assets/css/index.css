@@ -309,6 +309,7 @@ main>p {
 
 /* pretty pictures */
 img {
+    display: block;
     width: 100%;
 }
 
@@ -495,13 +496,14 @@ figure.grid {
     background-color: var(--page-color);
 }
 
-figure.grid>img {
-    width: 100%;
+span.image {
+  display: block;
+  position: relative;
+  width: 40vmin;
 }
 
 div.posts>ul>li span.image>img {
     display: block;
-    max-width: 100%;
     object-fit: cover;
     aspect-ration: 1;
     max-block-size: 40vmin;
