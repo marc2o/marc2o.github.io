@@ -499,14 +499,12 @@ figure.grid>img {
     width: 100%;
 }
 
-div.posts>ul>li span.image {
+div.posts>ul>li span.image>img {
     display: block;
-    object-position: 50% 50%;
+    max-width: 100%;
     object-fit: cover;
     aspect-ration: 1;
     max-block-size: 40vmin;
-}
-div.posts>ul>li span.image>img {
     /*
     width: 64vmin;
     height: 40vmin;
