@@ -497,20 +497,13 @@ figure.grid {
 }
 
 span.image {
-  display: block;
-  position: relative;
-  width: 40vmin;
+    display: block;
+    width: 60vmin;
+    height: 40vmin;
 }
 
 div.posts>ul>li span.image>img {
-    display: block;
     object-fit: cover;
-    aspect-ration: 1;
-    max-block-size: 40vmin;
-    /*
-    width: 64vmin;
-    height: 40vmin;
-    */
 }
 
 h1,
