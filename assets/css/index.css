@@ -499,16 +499,18 @@ figure.grid>img {
     width: 100%;
 }
 
-div.posts>ul>li span.image>img {
+div.posts>ul>li span.image {
     display: block;
-    /*
-    width: 64vmin;
-    height: 40vmin;
-    */
     object-position: 50% 50%;
     object-fit: cover;
     aspect-ration: 1;
     max-block-size: 40vmin;
+}
+div.posts>ul>li span.image>img {
+    /*
+    width: 64vmin;
+    height: 40vmin;
+    */
 }
 
 h1,
