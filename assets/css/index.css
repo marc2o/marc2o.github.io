@@ -501,8 +501,10 @@ figure.grid>img {
 
 div.posts>ul>li span.image>img {
     display: block;
+    /*
     width: 64vmin;
     height: 40vmin;
+    */
     object-position: 50% 50%;
     object-fit: cover;
     aspect-ration: 1;
