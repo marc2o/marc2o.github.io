@@ -405,7 +405,6 @@ header {
     -webkit-clip-path: polygon(0% 0%, 100% 0%, 100% calc(100% - 1rem), 0% 100%);
 }
 
-main>img,
 main>figure,
 main>div {
     grid-column: 1 / 4;
@@ -496,15 +495,11 @@ figure.grid {
     background-color: var(--page-color);
 }
 
-span.image {
-    display: block;
-    width: 60vmin;
-    height: 40vmin;
-}
-
 div.posts>ul>li span.image>img {
     object-fit: cover;
-}
+    height: 40vmin;
+    width: auto;
+}}
 
 h1,
 h2,
