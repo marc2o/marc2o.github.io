@@ -6,7 +6,7 @@ language: de-DE
 image: /images/marc2o-r66.jpg
 ---
 
-# Hey!
+# Hallo, Welt!
 
 [Ich bin Marc]({% link about.md %}), promovierter Linguist und mache ’was mit Medien. Ich mag Retro-Gaming und -Computer, Bücher und Schreiben, zeichnen mit Pixeln und Vektoren, coden in Lua und C, Musik machen mit Synths und Ukulele.
 
