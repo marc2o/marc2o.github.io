@@ -537,7 +537,6 @@ div>ul>li>a:visited {
 }
 
 header>span.title,
-header>span.about,
 header>span.thumb {
     display: block;
     text-align: center;
@@ -555,40 +554,58 @@ header>span.title {
     font-weight: 300;
 }
 
-#about_marc2o>span,
-#about_marc2o>span.hidden {
-    display: inline-block;
-    opacity: 0;
+ul.about {
+  display: block;
+  height: 1em;
+  position: relative;
+  list-style: none;
+  padding: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  x-overflow: auto;
+  text-align: center;
+  border: 1px solid darkpink;
 }
-
-#about_marc2o>span.hidden {
-    display: none;
+ul.about>li {
+  display: inline-block;
+  width: 100%;
+  height: 1em;
+  position: absolute;
+  left: 0;
+  opacity: 0.0;
+  animation-name: floating_text;
+  animation-duration: 96s;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
 }
+ul.about>li:nth-child(1) { animation-delay:  0s; }
+ul.about>li:nth-child(2) { animation-delay:  6s; }
+ul.about>li:nth-child(3) { animation-delay: 12s; }
+ul.about>li:nth-child(4) { animation-delay: 18s; }
+ul.about>li:nth-child(5) { animation-delay: 24s; }
+ul.about>li:nth-child(6) { animation-delay: 30s; }
+ul.about>li:nth-child(7) { animation-delay: 36s; }
+ul.about>li:nth-child(8) { animation-delay: 42s; }
 
-#about_marc2o>span:not(.hidden) {
-    animation:
-        fade-stuff-about-marc2o-in-and-out 2.5s ease-out 2 alternate,
-        shift-stuff-about-marc2o-right-to-left 5s ease-out 2;
-}
-
-@keyframes fade-stuff-about-marc2o-in-and-out {
-    from {
-        opacity: 0;
-    }
-
-    to {
-        opacity: 1;
-    }
-}
-
-@keyframes shift-stuff-about-marc2o-right-to-left {
-    from {
-        margin-left: .5rem;
-    }
-
-    to {
-        margin-left: -.5rem;
-    }
+@keyframes floating_text {
+  0% {
+    transform: translate(20%);
+    opacity: 0.0;
+  }
+  3% {
+    opacity: 0.0;
+  }
+  6.25% {
+    transform: translate(0);
+    opacity: 1.0;
+  }
+  10% {
+    opacity: 0.0;
+  }
+  12.5% {
+    transform: translate(-20%);
+    opacity: 0.0;
+  }
 }
 
 ul.follow {
