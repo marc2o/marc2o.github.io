@@ -561,10 +561,9 @@ ul.about {
   list-style: none;
   padding: 0;
   white-space: nowrap;
-  overflow: hidden;
-  x-overflow: auto;
+  overflow-y: hidden;
+  overflow-x: auto;
   text-align: center;
-  border: 1px solid darkpink;
 }
 ul.about>li {
   display: inline-block;
