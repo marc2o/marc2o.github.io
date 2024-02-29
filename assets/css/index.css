@@ -574,7 +574,7 @@ ul.about>li {
   left: 0;
   opacity: 0.0;
   animation-name: floating_text;
-  animation-duration: 96s;
+  animation-duration: 48s;
   animation-timing-function: ease-in-out;
   animation-iteration-count: infinite;
 }
