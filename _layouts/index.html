@@ -88,7 +88,7 @@
 				</svg>
 			</span>
 			<span class="title">{{ page.title | default: site.title | default: site.github.repository_name }}</span>
-			<ul class="about" id="about_marc2o">
+			<ul class="about">
 				<li>{{ page.description | default: site.description | default: site.github.project_tagline }}</span>
 				<li>Early adopter and retro&shy;crastinator.</span>
 				<li>Pixel pusher and music maker.</span>
@@ -129,69 +129,6 @@
 					href="https://netnewswire.com/">NetNewsWire</a>.</p>
 		</footer>
 	</div>
-	<script>
-		var $ = function (id) {
-			return document.getElementById(id);
-		};
-
-		var bindEvent = function (element, eventName, eventHandler) {
-			if (element.addEventListener) {
-				element.addEventListener(eventName, eventHandler, false);
-			} else if (element.attachEvent) {
-				element.attachEvent('on' + eventName, eventHandler);
-			}
-		};
-
-		var stuffAboutMarc2o = {
-			element: $('about_marc2o'),
-			index: 0,
-			timer: function () {
-				setTimeout(function () {
-					stuffAboutMarc2o.tell('hide');
-				}, 5000);
-			},
-			tell: function (st) {
-				if (st === undefined) {
-					this.timer();
-				}
-				if (st === 'hide') {
-					this.element.getElementsByTagName('span')[this.index].className = 'hidden';
-					this.tell('show');
-				}
-				if (st === 'show') {
-					this.index += 1;
-					if (this.index >= this.element.getElementsByTagName('span').length) {
-						this.index = 0;
-					}
-					this.element.getElementsByTagName('span')[this.index].className = '';
-					this.timer();
-				}
-			}
-		};
-
-		bindEvent(window, 'load',
-			function () {
-				stuffAboutMarc2o.tell();
-			}, false);
-
-		/*
-		var prefersDarkMode = window.matchMedia("(prefers-color-scheme: dark)").matches;
-    
-		if (prefersDarkMode) {
-		  document.getElementById('DarkModeSwitch').checked = true;
-		  document.documentElement.setAttribute('data-theme', 'dark');
-		}
-    
-		function SwitchTheme(element) {
-		  if (element.checked) {
-			document.documentElement.setAttribute('data-theme', 'dark');
-		  } else {
-			document.documentElement.setAttribute('data-theme', 'lite');
-		  }
-		  return false;
-		}
-		*/
-	</script>
 </body>
 
 </html>
