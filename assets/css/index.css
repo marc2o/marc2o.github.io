@@ -551,6 +551,7 @@ header>span.thumb {
 
 header>span.title {
     font-size: 240%;
+    font-weight: 100;
 }
 
 ul.about {

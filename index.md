@@ -1,6 +1,6 @@
 ---
 layout: index
-title: Hello, I’m Marc!
+title: Hallo, Welt!
 author: marc2o
 language: de-DE
 image: /images/marc2o-r66.jpg
