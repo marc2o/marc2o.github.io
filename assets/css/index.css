@@ -606,6 +606,10 @@ ul.about>li:nth-child(8) { animation-delay: 42s; }
     transform: translate(-20%);
     opacity: 0.0;
   }
+  100 % {
+    transform: translate(-20%);
+    opacity: 0.0;
+  }
 }
 
 ul.follow {
