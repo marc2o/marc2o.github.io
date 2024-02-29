@@ -579,13 +579,13 @@ ul.about>li {
   animation-iteration-count: infinite;
 }
 ul.about>li:nth-child(1) { animation-delay:  0s; }
-ul.about>li:nth-child(2) { animation-delay: 12s; }
-ul.about>li:nth-child(3) { animation-delay: 24s; }
-ul.about>li:nth-child(4) { animation-delay: 36s; }
-ul.about>li:nth-child(5) { animation-delay: 48s; }
-ul.about>li:nth-child(6) { animation-delay: 60s; }
-ul.about>li:nth-child(7) { animation-delay: 72s; }
-ul.about>li:nth-child(8) { animation-delay: 80s; }
+ul.about>li:nth-child(2) { animation-delay:  6s; }
+ul.about>li:nth-child(3) { animation-delay: 12s; }
+ul.about>li:nth-child(4) { animation-delay: 18s; }
+ul.about>li:nth-child(5) { animation-delay: 24s; }
+ul.about>li:nth-child(6) { animation-delay: 30s; }
+ul.about>li:nth-child(7) { animation-delay: 36s; }
+ul.about>li:nth-child(8) { animation-delay: 42s; }
 
 @keyframes floating_text {
   0% {
