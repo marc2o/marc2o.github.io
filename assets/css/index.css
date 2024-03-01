@@ -592,10 +592,10 @@ ul.about>li:nth-child(8) { animation-delay: 42s; }
     transform: translate(20%);
     opacity: 0.0;
   }
-  6.25% {
+  3.125% {
     opacity: 0.0;
   }
-  12.5% {
+  9.375% {
     transform: translate(0);
     opacity: 1.0;
   }
