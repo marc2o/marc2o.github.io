@@ -537,6 +537,7 @@ div>ul>li>a:visited {
 }
 
 header>span.title,
+header>span.bio,
 header>span.thumb {
     display: block;
     text-align: center;
