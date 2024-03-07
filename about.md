@@ -20,6 +20,7 @@ Was soll ich sagen … hier sind ein paar Schlüssel&shy;begriffe. Ohne Anspruch
 			justify-content: flex-start;
 			align-items: baseline;
 			flex-shrink: 1;
+			flex-grow: 1;
 			gap: 1rem;
 		}
 		.data_item {
@@ -43,10 +44,12 @@ Was soll ich sagen … hier sind ein paar Schlüssel&shy;begriffe. Ohne Anspruch
 		.album {
 			max-width: 40%;
 			aspect-ratio: 1/1;
+			flex-basis: 50%;
 		}
 		.book {
 			max-width: 40%;
-			aspect-radio: 2/4;
+			aspect-ratio: 2/4;
+			flex-basis: 40%;
 		}
 	</style>
 	<div class="data_items">
