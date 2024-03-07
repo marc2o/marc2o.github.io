@@ -11,7 +11,7 @@ Hier folgt ein kleiner Einblick in das was mich um- und antreibt, wo ich herkomm
 Was soll ich sagen … hier sind ein paar Schlüssel&shy;begriffe. Ohne Anspruch auf Vollständigkeit oder besondere Reihenfolge.
 
 **Augen und Ohren.**
-Ich liebe Bücher und ich liebe es, zu lesen. Dabei hätte es die Schule mir mit Max Fisch et al. fast ausgetrieben. Zu Papierexemplar&shy;zeiten besaß ich Umhängetaschen in für alle gängigen Buchgrößen. Seit meinem Kobo sind alle Bücher einheitlich groß, dick und schwer. Musik hören gehört für mich ebenfalls zum Leben. Nebenbei im Kopfhörer oder rituell auf dem Schallplattenspieler. — Mein gegenwärtiger Alltagssoundtrack und die aktuelle Lektüre:
+Ich liebe Bücher und ich liebe es, zu lesen. Dabei hätte es die Schule mir mit Max Fisch et al. fast ausgetrieben. Zu Papierexemplar&shy;zeiten besaß ich Umhängetaschen passend für alle gängigen Buchgrößen. Seit meinem Kobo sind alle Bücher einheitlich groß, dick und schwer. Musik gehört, wie lesen, für mich ebenfalls zum Leben. Nebenbei im Kopfhörer oder ganz rituell auf dem Schallplatten&shy;spieler. — Mein gegenwärtiger Alltagssoundtrack und die aktuelle Lektüre:
 
 {% include showcase.html %}
 
