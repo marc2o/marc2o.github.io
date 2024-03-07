@@ -10,6 +10,41 @@ Hier folgt ein kleiner Einblick in das was mich um- und antreibt, wo ich herkomm
 
 **Für Augen und Ohren.**
 
+<style>
+	.data_items {
+		display: flex;
+		flex-direction: row;
+		justify-content: flex-start;
+		align-items: baseline;
+		flex-shrink: 1;
+		gap: 1rem;
+	}
+	.data_item {
+		display: inline-block;
+		height: auto;
+	}
+	.data_item .cover {
+		overflow: hidden;
+		border-radius: 0.2rem;
+	}
+	.data_item img {
+		display: block;
+		object-fit: cover;
+		width: 100%;
+	}
+	.data_item span {
+		display: block;
+		padding: 0.5rem;
+	}
+	.album {
+		width: 15rem;
+		aspect-ratio: 1/1;
+	}
+	.book {
+		width: 12rem;
+		aspect-radio: 2/4;
+	}
+</style>
 <div class="data_items">
 	{% for item in site.data.items %}
   <div class="data_item {{items.type}}">
