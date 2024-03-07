@@ -6,7 +6,7 @@ language: de-DE
 image: /images/marc2o-r66.jpg
 ---
 
-Hier folgt ein kleiner Einblick in das was mich um- und antreibt, wo ich herkomme und hinwill.
+Hier folgt ein kleiner Einblick in das was mich um- und antreibt, wo ich herkomme und wo ich hinwill.
 
 Was soll ich sagen… hier sind ein paar Schlüssel&shy;begriffe. Ohne Anspruch auf Vollständigkeit oder besondere Reihenfolge.
 
