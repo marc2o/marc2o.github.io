@@ -38,13 +38,14 @@ Was soll ich sagen … hier sind ein paar Schlüssel&shy;begriffe. Ohne Anspruch
 		.data_item span {
 			display: block;
 			padding: 0.5rem;
+			font-size: 83%;
 		}
 		.album {
-			width: 15rem;
+			width: 20vh;
 			aspect-ratio: 1/1;
 		}
 		.book {
-			width: 12rem;
+			width: 25vh;
 			aspect-radio: 2/4;
 		}
 	</style>
