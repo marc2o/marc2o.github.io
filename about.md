@@ -6,51 +6,55 @@ language: de-DE
 image: /images/marc2o-r66.jpg
 ---
 
-Hier folgt ein kleiner Einblick in das was mich um- und antreibt, wo ich herkomme und hinwill. In Schlüssel&shy;begriffen. Ohne Anspruch auf Vollständigkeit oder besondere Reihenfolge.
+Hier folgt ein kleiner Einblick in das was mich um- und antreibt, wo ich herkomme und hinwill.
+
+Was soll ich sagen… hier sind ein paar Schlüssel&shy;begriffe. Ohne Anspruch auf Vollständigkeit oder besondere Reihenfolge.
 
 **Für Augen und Ohren.**
 
-<style>
-	.data_items {
-		display: flex;
-		flex-direction: row;
-		justify-content: flex-start;
-		align-items: baseline;
-		flex-shrink: 1;
-		gap: 1rem;
-	}
-	.data_item {
-		display: inline-block;
-		height: auto;
-	}
-	.data_item .cover {
-		overflow: hidden;
-		border-radius: 0.2rem;
-	}
-	.data_item img {
-		display: block;
-		object-fit: cover;
-		width: 100%;
-	}
-	.data_item span {
-		display: block;
-		padding: 0.5rem;
-	}
-	.album {
-		width: 15rem;
-		aspect-ratio: 1/1;
-	}
-	.book {
-		width: 12rem;
-		aspect-radio: 2/4;
-	}
-</style>
-<div class="data_items">
-	{% for item in site.data.items %}
-  <div class="data_item {{items.type}}">
-    <div class="cover"><img src="{{items.img}}" alt="{{items.type}} cover"></div><span>{{items.name}}, {{items.by}}</span>
-  </div>
-  {% endfor %}
+<div>
+	<style>
+		.data_items {
+			display: flex;
+			flex-direction: row;
+			justify-content: flex-start;
+			align-items: baseline;
+			flex-shrink: 1;
+			gap: 1rem;
+		}
+		.data_item {
+			display: inline-block;
+			height: auto;
+		}
+		.data_item .cover {
+			overflow: hidden;
+			border-radius: 0.2rem;
+		}
+		.data_item img {
+			display: block;
+			object-fit: cover;
+			width: 100%;
+		}
+		.data_item span {
+			display: block;
+			padding: 0.5rem;
+		}
+		.album {
+			width: 15rem;
+			aspect-ratio: 1/1;
+		}
+		.book {
+			width: 12rem;
+			aspect-radio: 2/4;
+		}
+	</style>
+	<div class="data_items">
+		{% for item in site.data.items %}
+		<div class="data_item {{items.type}}">
+			<div class="cover"><img src="{{items.img}}" alt="{{items.type}} cover"></div><span>{{items.name}}, {{items.by}}</span>
+		</div>
+		{% endfor %}
+	</div>
 </div>
 
 **Hannover.**
