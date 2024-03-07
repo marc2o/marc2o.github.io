@@ -41,11 +41,11 @@ Was soll ich sagen … hier sind ein paar Schlüssel&shy;begriffe. Ohne Anspruch
 			font-size: 83%;
 		}
 		.album {
-			width: 20vh;
+			max-width: 40%;
 			aspect-ratio: 1/1;
 		}
 		.book {
-			width: 25vh;
+			max-width: 40%;
 			aspect-radio: 2/4;
 		}
 	</style>
