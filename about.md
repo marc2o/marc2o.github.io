@@ -42,12 +42,10 @@ Was soll ich sagen … hier sind ein paar Schlüssel&shy;begriffe. Ohne Anspruch
 			font-size: 83%;
 		}
 		.album {
-			max-width: 40%;
 			aspect-ratio: 1/1;
 			flex-basis: 50%;
 		}
 		.book {
-			max-width: 40%;
 			aspect-ratio: 2/4;
 			flex-basis: 40%;
 		}
