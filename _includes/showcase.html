@@ -1,0 +1,46 @@
+<div>
+	<style>
+		.data_items {
+			display: flex;
+			flex-direction: row;
+			justify-content: flex-start;
+			align-items: baseline;
+			flex-shrink: 1;
+			flex-grow: 1;
+			gap: 1rem;
+		}
+		.data_item {
+			display: inline-block;
+			height: auto;
+		}
+		.data_item .cover {
+			overflow: hidden;
+			border-radius: 0.2rem;
+		}
+		.data_item img {
+			display: block;
+			object-fit: cover;
+			width: 100%;
+		}
+		.data_item span {
+			display: block;
+			padding: 0.5rem;
+			font-size: 83%;
+		}
+		.album {
+			aspect-ratio: 1/1;
+			flex-basis: 50%;
+		}
+		.book {
+			aspect-ratio: 2/4;
+			flex-basis: 40%;
+		}
+	</style>
+	<div class="data_items">
+		{% for item in site.data.items %}
+		<div class="data_item {{ item.type }}">
+			<div class="cover"><img src="{{ item.img }}" alt="{{ item.type }} cover"></div><span><em>{{ item.name }}</em>, {{ item.by }}</span>
+		</div>
+		{% endfor %}
+	</div>
+</div>

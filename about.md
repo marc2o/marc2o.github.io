@@ -10,54 +10,10 @@ Hier folgt ein kleiner Einblick in das was mich um- und antreibt, wo ich herkomm
 
 Was soll ich sagen … hier sind ein paar Schlüssel&shy;begriffe. Ohne Anspruch auf Vollständigkeit oder besondere Reihenfolge.
 
-**Für Augen und Ohren.**
+**Augen und Ohren.**
+Ich liebe Bücher und ich liebe es, zu lesen. Dabei hätte es die Schule mir mit Max Fisch et al. fast ausgetrieben. Zu Papierexemplar&shy;zeiten besaß ich Umhängetaschen in für alle gängigen Buchgrößen. Seit meinem Kobo sind alle Bücher einheitlich groß, dick und schwer. Musik hören gehört für mich ebenfalls zum Leben. Nebenbei im Kopfhörer oder rituell auf dem Schallplattenspieler. — Mein gegenwärtiger Alltagssoundtrack und die aktuelle Lektüre:
 
-<div>
-	<style>
-		.data_items {
-			display: flex;
-			flex-direction: row;
-			justify-content: flex-start;
-			align-items: baseline;
-			flex-shrink: 1;
-			flex-grow: 1;
-			gap: 1rem;
-		}
-		.data_item {
-			display: inline-block;
-			height: auto;
-		}
-		.data_item .cover {
-			overflow: hidden;
-			border-radius: 0.2rem;
-		}
-		.data_item img {
-			display: block;
-			object-fit: cover;
-			width: 100%;
-		}
-		.data_item span {
-			display: block;
-			padding: 0.5rem;
-			font-size: 83%;
-		}
-		.album {
-			aspect-ratio: 1/1;
-			flex-basis: 50%;
-		}
-		.book {
-			aspect-ratio: 2/4;
-			flex-basis: 40%;
-		}
-	</style>
-	<div class="data_items">
-		{% for item in site.data.items %}
-		<div class="data_item {{ item.type }}">
-			<div class="cover"><img src="{{ item.img }}" alt="{{ item.type }} cover"></div><span>{{ item.name }}, {{ item.by }}</span>
-		</div>
-		{% endfor %}
-	</div>
-</div>
+{% include showcase.html %}
 
 **Hannover.**
 Dieses Kleinod niedersächsischer Tristesse an der Leine. Einst neunte Kur, dann Königreich. Angeblich Hauptstadt des Mittelmaßes. Auf jeden Fall Landeshauptstadt. Von Niedersachsen. Zwischendurch Welthauptstadt. Während der EXPO 2000. Für böse Zungen auch einfach die wahrscheinlich größte Autobahn­raststätte der Welt. Hannover liegt nicht am Arsch der Welt. Aber man kann ihn von dort aus sehen. Heißt es. Für mich ist Hannover Heimatstadt im Grünen, mit vielen blauen Seen, zwei Flüssen und einem roten Faden.
