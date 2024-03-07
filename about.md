@@ -8,7 +8,7 @@ image: /images/marc2o-r66.jpg
 
 Hier folgt ein kleiner Einblick in das was mich um- und antreibt, wo ich herkomme und wo ich hinwill.
 
-Was soll ich sagen… hier sind ein paar Schlüssel&shy;begriffe. Ohne Anspruch auf Vollständigkeit oder besondere Reihenfolge.
+Was soll ich sagen … hier sind ein paar Schlüssel&shy;begriffe. Ohne Anspruch auf Vollständigkeit oder besondere Reihenfolge.
 
 **Für Augen und Ohren.**
 
@@ -50,8 +50,8 @@ Was soll ich sagen… hier sind ein paar Schlüssel&shy;begriffe. Ohne Anspruch 
 	</style>
 	<div class="data_items">
 		{% for item in site.data.items %}
-		<div class="data_item {{ items.type }}">
-			<div class="cover"><img src="{{ items.img }}" alt="{{ items.type }} cover"></div><span>{{ items.name }}, {{ items.by }}</span>
+		<div class="data_item {{ item.type }}">
+			<div class="cover"><img src="{{ item.img }}" alt="{{ item.type }} cover"></div><span>{{ item.name }}, {{ item.by }}</span>
 		</div>
 		{% endfor %}
 	</div>
