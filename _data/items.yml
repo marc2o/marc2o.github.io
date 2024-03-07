@@ -9,7 +9,3 @@
   by: Bloc Party
   img: https://i.scdn.co/image/ab67616d00001e02771d8f2dbabd643b77a67d36
   url: https://open.spotify.com/album/7ao5TcY1WmEfbl9q38ZGLP 
-
-# {% for item in site.data.items %}
-# <a href="{{ item.url }}">…
-# {% endfor %}

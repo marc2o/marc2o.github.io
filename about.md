@@ -50,8 +50,8 @@ Was soll ich sagen… hier sind ein paar Schlüssel&shy;begriffe. Ohne Anspruch 
 	</style>
 	<div class="data_items">
 		{% for item in site.data.items %}
-		<div class="data_item {{items.type}}">
-			<div class="cover"><img src="{{items.img}}" alt="{{items.type}} cover"></div><span>{{items.name}}, {{items.by}}</span>
+		<div class="data_item {{ items.type }}">
+			<div class="cover"><img src="{{ items.img }}" alt="{{ items.type }} cover"></div><span>{{ items.name }}, {{ items.by }}</span>
 		</div>
 		{% endfor %}
 	</div>
