@@ -2,10 +2,12 @@
   name: "Taking Flight: The Evolutionary Story of Life on the Wing"
   by: "Lev Parikian"
   img: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1673804627i/62675573.jpg"
-  url: ""
+  source: "Goodreads"
+  url: "https://www.goodreads.com/book/show/62675573-taking-flight"
 
 - type: album
   name: "Haven Original Soundtrack"
   by: "Danger"
   img: "https://f4.bcbits.com/img/a2733019556_16.jpg"
-  url: ""
+  source: "Bandcamp"
+  url: "https://haven-game.bandcamp.com/album/haven-original-soundtrack"
