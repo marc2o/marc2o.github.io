@@ -14,6 +14,7 @@
 			height: auto;
 		}
 		.data_item .cover {
+			position: relative;
 			overflow: hidden;
 			border-radius: 0.2rem;
 		}
@@ -34,6 +35,24 @@
 		.book {
 			aspect-ratio: 2/4;
 			flex-basis: 40%;
+		}
+		.book>.cover::after {
+			content: "";
+			position: absolute;
+			top: 0;
+			left: 0;
+			right: 0;
+			bottom: 0;
+			background: linear-gradient(to right, rgb(60, 13, 20) 3px, rgba(255, 255, 255, 0.5) 5px, rgba(255, 255, 255, 0.25) 7px, rgba(255, 255, 255, 0.25) 10px, transparent 12px, transparent 16px, rgba(255, 255, 255, 0.25) 17px, transparent 22px);
+		}
+		.album>.cover::after {
+			content: "";
+			position: absolute;
+			top: 0;
+			left: 0;
+			right: 0;
+			bottom: 0;
+			background: linear-gradient(135deg, rgba(255, 255, 255, 0.2) 0%, rgba(255, 255, 255, 0.1) 49%, transparent 50%);	
 		}
 	</style>
 	<div class="data_items">
