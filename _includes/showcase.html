@@ -58,7 +58,7 @@
 	<div class="data_items">
 		{% for item in site.data.items %}
 		<div class="data_item {{ item.type }}">
-			<div class="cover"><img src="{{ item.img }}" alt="{{ item.type }} cover"></div><span><em>{{ item.name }}</em>, {{ item.by }} (<a href="{{ item.url }}" target="_blank">{{ item.source }}</a>)</span>
+			<div class="cover"><img src="{{ item.img }}" alt="{{ item.type }} cover"></div><span><em>{{ item.name }}</em>, {{ item.by }} <a href="{{ item.url }}" target="_blank">({{ item.source }})</a></span>
 		</div>
 		{% endfor %}
 	</div>
