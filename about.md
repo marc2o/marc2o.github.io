@@ -29,12 +29,11 @@ Ursprünglich eher Hundemensch, dachte ich. Katzen waren mir nie geheuer. Eher U
 <figcaption>Edam und Emil, Caspar und Collin (v.l.n.r.)</figcaption>
 </figure>
 
-**Kurzübersicht.**
+**Und sonst…**
 
 - Linkshänder
 - Sonntagskind
 - Träumer
-- Katzenpapa
 - Autodidakt
 - Promovierter Linguist
 - eher Astronom als Astronaut
