@@ -6,24 +6,28 @@ language: de-DE
 image: /images/marc2o-r66.jpg
 ---
 
-Hier folgt ein kleiner Einblick in das was mich um- und antreibt, wo ich herkomme und wo ich hinwill.
+Hier folgt ein kleiner Einblick in das was mich um- und antreibt, was mich beschäftigt und womit ich meine Zeit verbringe.
 
 Was soll ich sagen … hier sind ein paar Schlüssel&shy;begriffe. Ohne Anspruch auf Vollständigkeit oder besondere Reihenfolge.
-
-**Augen und Ohren.**
-Ich liebe Bücher und ich liebe es, zu lesen. Dabei hätte es die Schule mir mit Max Fisch, Bertolt Brecht et al. fast ausgetrieben. Zu Papierexemplar&shy;zeiten besaß ich Umhängetaschen passend für alle gängigen Buchgrößen. Seit meinem Kobo sind alle Bücher einheitlich groß, dick und schwer. Musik gehört, wie lesen, für mich ebenfalls zum Leben. Nebenbei mit Kopfhörern oder ganz rituell auf dem Schallplatten&shy;spieler.
-
-Aktueller Alltagssoundtrack nebst Lektüre:
-
-{% include showcase.html %}
 
 **Hannover.**
 Dieses Kleinod niedersächsischer Tristesse an der Leine. Einst neunte Kur, dann Königreich. Angeblich Hauptstadt des Mittelmaßes. Auf jeden Fall Landeshauptstadt. Von Niedersachsen. Zwischendurch Welthauptstadt. Während der EXPO 2000. Für böse Zungen auch einfach die wahrscheinlich größte Autobahn­raststätte der Welt. Hannover liegt nicht am Arsch der Welt. Aber man kann ihn von dort aus sehen. Heißt es. Für mich ist Hannover Heimatstadt im Grünen, mit vielen blauen Seen, zwei Flüssen und einem roten Faden.
 
+**Buchundmusik.**
+Ich liebe Bücher und ich liebe es, zu lesen. Dabei hätte es mir die Schule mit Max Fisch, Bertolt Brecht et al. fast ausgetrieben. Zu Papierexemplar&shy;zeiten besaß ich Umhängetaschen für alle gängigen Buchgrößen. Seit meinem Kobo sind alle Bücher einheitlich groß, dick und schwer. Musik gehört, wie lesen, für mich ebenfalls zum Leben. Machen und hören. Letzteres gern nebenbei mit Kopfhörern oder ganz rituell auf dem Schallplatten&shy;spieler. – Aktueller Alltagssoundtrack nebst Lektüre:
+
+{% include showcase.html %}
+
 **Internet.**
 Für den einen Bibliothek, für den anderen Bühne. Für mich kreativer Raum und Informations­quelle. Schon seit 1997. Als noch das gesamte Netz _social_ war und der Begriff »Webdesign« noch nicht erfunden schien. Mit GeoCities und echten Blogs. Die Verweildauer im Netz war kürzer, so ohne Flatrate. Und auch langsamer. So über Ortsnetz und Studiserver. Umso größer war die Freude, wenn jemand zeitgleich bei ICQ online war. Vielleicht hat auch deshalb damals kaum jemand Zeit verschwendet für Hasskommentare und Fake-News. Manchmal fehlt mir das Netz von früher, so unreguliert und unästhetisch, wie es war. Ohne selbst&shy;darsteller&shy;ische Besserwisser (alias _Influencer_) und Cookie-Consent-Banner.
 
+**Katzen**
+Ursprünglich eher Hundemensch, dachte ich. Katzen waren mir nie geheuer. Eher Ungeheuer. Pelzige Rätsel. Süß, aber unberechenbar. Niemals hätte ich mir vorstellen können, mal eine eigene Katze zu haben, geschweige denn zwei. Oder vier. Aber dann hat das Katzen&shy;distributions&shy;system voll zugeschlagen. Und das war gut so. Letztlich muss ich sagen, dass Katzen eigentlich alle positiven Eigenschaften von Menschen besitzen, ohne jedoch ihre schlechten zu teilen. Eine wundervolle Bereicherung meines Lebens. – Dies ist die Rasse-Rasselbande: zwei Britisch Kurzhaar und zwei Burmesen, allesamt mit preisgekrönten Vorfahren, und die World Champions meines Herzens.
 
+<figure>
+<img src="/images/edam-emil-caspar-collin.jpg" alt="Edam und Emil, Caspar und Collin (v.l.n.r.)">
+<figcaption>Edam und Emil, Caspar und Collin (v.l.n.r.)</figcaption>
+</figure>
 
 **Kurzübersicht.**
 
