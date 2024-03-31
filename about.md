@@ -30,7 +30,7 @@ Ursprünglich eher Hundemensch, dachte ich. Katzen waren mir nie geheuer. Eher U
 </figure>
 
 **Gadgets.**
-Ein _Gadget_ ist »a small device or machine with a particular purpose« (vgl. [Cambriddge Dictionary](https://dictionary.cambridge.org/dictionary/english/gadget)). Ich habe davon so einige, und meine Sammlung wird sicher noch wachsen. Dazu gehören meine originalen Spielkonsolen (Game Boy Advance SP, Nintendo DSi, Nintendo New 3DS, Nintendo Switch OLED) sowie die Emulations-Handhelds (Pocket C.H.I.P., Odroid-Go, Retroid 2, RG351V). Aber auch meine kleine Ortega Rucoal Concert- Ukulele und das AKAI Professional MPK mini Play MK3 gehören dazu. Ich liebe einfach solche Gerätschaften, die klein sind, hübsch aussehen und besondere Sachen können.
+Ein _Gadget_ ist »a small device or machine with a particular purpose« (vgl. [Cambriddge Dictionary](https://dictionary.cambridge.org/dictionary/english/gadget)). Ich habe davon so einige, und meine Sammlung wird sicher noch wachsen. Dazu gehören meine originalen Spielkonsolen (Atari 2600 Junior, Game Boy Advance SP, Nintendo DSi, Nintendo New 3DS, Nintendo Switch OLED) sowie die Emulations-Handhelds (Pocket C.H.I.P., Odroid-Go, Retroid 2, RG351V). Aber auch meine kleine Ortega Rucoal Concert- Ukulele und das AKAI Professional MPK mini Play MK3 gehören dazu. Ich liebe einfach solche Gerätschaften, die klein sind, hübsch aussehen und besondere Sachen können.
 
 **Und sonst…**
 
