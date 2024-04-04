@@ -94,12 +94,9 @@ Der M8-Ordner (8, 9) wird auf der mit ArkOS (10) eingerichteten Karte auf der Ea
 
 Dann die SD-Karte in den RG351 einlegen und das Gerät einschalten.
 
-Nun muss man sich den Konfigurations-Skripten widmen.
+Nun muss man sich den Konfigurations-Skripten widmen. Erst die allgemeine Einrichtung mit dem `setup`-Skript (das `setup_pulse`-Skript kann verwendet werden, falls man das Pulse-Audio-System nutzen möchte).
 
-1. Konfigurieren des Setups mit …
-2. Einrichten der Buttons mittes `config_m8c_buttons.sh`
-
-Sind die Buttons eingerichtet, aktiviert man am besten den Remote-Zugriff und macht den Rest am Mac.
+Dann die Buttons mittes `config_m8c_buttons.sh` einrichten. Sind die Buttons eingerichtet, aktiviert man am besten den Remote-Zugriff und macht den Rest am Mac.
 
 ```bash
 ssh ark@192.168.178.66 #password = ark
