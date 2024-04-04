@@ -115,7 +115,7 @@ Wer nicht über die Kommandozeile gehen möchte, verwendet z. B. Cyberduck. Neue
 
 In den Einstellungen muss die Sichtbarkeit unsichtbarer Dateien aktiviert werden.
 
-Wenn irgendwann alles eingerichtet ist, läuft es tadellos und sieht noch dazu hübsch aus. Nerdig!
+Wenn irgendwann alles eingerichtet ist, läuft es tadellos und sieht noch dazu hübsch nerdig aus!
 
 <figure>
 <img src="/images/m8-headless-rg351-m8-tracker.jpg" alt="Fertiges M8 Tracker Headless Setup">
