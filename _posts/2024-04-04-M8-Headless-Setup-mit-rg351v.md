@@ -103,7 +103,7 @@ ssh ark@192.168.178.66 #password = ark
 pico .local/share/m8c/config.ini
 ```
 
-Die konfigurierten Buttons können aus der Datei `m8c_config_snippet.txt` herauskopiert werden. Diese befindet sich im selben Verzeichnis wie die Setup-Skripte (unter `ports/M8`). Die Standard-Codes für Buttons können in der Dokumentation unter [SDL Game Controller Buttons](https://wiki.libsdl.org/SDL2/SDL_GameControllerButton) nachgelesen werden.
+Die konfigurierten Buttons können aus der Datei `m8c_config_snippet.txt` herauskopiert werden. Diese befindet sich unter `ports/M8` im selben Verzeichnis wie die Setup-Skripte. Die Standard-Codes für Buttons können in der Dokumentation unter [SDL Game Controller Buttons](https://wiki.libsdl.org/SDL2/SDL_GameControllerButton) nachgelesen werden.
 
 Wer nicht über die Kommandozeile gehen möchte, verwendet z. B. Cyberduck. Neue Verbindung einrichten mit folgenden Daten:
 
