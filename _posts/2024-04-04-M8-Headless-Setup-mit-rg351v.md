@@ -138,6 +138,8 @@ _Audio-Glitches oder Verzögerungen_: Die Deaktivierung von Wi-Fi sowie die Verw
 
 **[M8 Community SD-Card Starter Pack](https://ia802505.us.archive.org/1/items/ChipmusicResources/)**: Umfangreiches Paket mit Demo-Songs und Samples.
 
+**[Dirtywave Discord](https://discord.gg/WEavjFNYHh)**: Dort gibt es einen unter `#help-me` versteckten `#Headless`-Thread.
+
 [^1]: Nachdem es trotz befolgens aller Schritte nicht funktioniert hat, habe ich mich tatsächlich wundgegooglet, bis ich endlich herausgefunden habe, dass es einer neueren `m8c`-Version bedarf, wenn man die aktuellste Headless-Firmware verwenden möchte.
 
 [^2]: Ich habe viel zu lange gebraucht, um zu sehen, dass der Lautsprecher standardmäßig stummgeschaltet ist…
