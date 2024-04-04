@@ -98,12 +98,10 @@ Nun muss man sich den Konfigurations-Skripten widmen. Erst die allgemeine Einric
 
 Dann die Buttons mittes `config_m8c_buttons.sh` einrichten. Sind die Buttons eingerichtet, aktiviert man am besten den Remote-Zugriff und macht den Rest am Mac.
 
-<!--
 ```bash
 ssh ark@192.168.178.66 #password = ark
 pico .local/share/m8c/config.ini
 ```
--->
 
 Die konfigurierten Buttons können aus der Datei `m8c_config_snippet.txt` herauskopiert werden. Diese befindet sich unter `ports/M8` im selben Verzeichnis wie die Setup-Skripte. Die Standard-Codes für Buttons können in der Dokumentation unter [SDL Game Controller Buttons](https://wiki.libsdl.org/SDL2/SDL_GameControllerButton) nachgelesen werden.
 
