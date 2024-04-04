@@ -63,21 +63,17 @@ Am Mac steht das Board dann fortan als Audio-Input-Device namens _M8_ zur Verfü
 2. für die Eingabe den M8 auswählen und
 3. den Lautstärkeregler verschieben[^2].
 
-<!--
 <figure>
 <img src="/images/m8-headless-rg351-quicktime-player.png" alt="QuickTime Player Audio-Aufnahme">
 <figcaption>Der Lautstärkeregler des QuickTime Player – keine Ahnung, warum ich den lange nicht als solchen erkannt habe.</figcaption>
 </figure>
--->
 
 Der Teensy wird erstens recht warm und ist zweitens ziemlich nackt. Damit man sich nicht verbrennt und das Board nicht so leicht beschädigt empfiehlt es sich, eine Hülle zu verwenden.
 
-<!--
 <figure>
 <img src="/images/m8-headless-rg351-teensy.jpg" alt="Teensy 4.1 Entwickler-Board in einer GBA Cartridge-Hülle">
 <figcaption>Teensy 4.1 Entwickler-Board mit Hülle</figcaption>
 </figure>
--->
 
 In Ermangelung eines 3D-Druckers habe ich mir eine Hülle aus einem GBA-Cartridge-Case »geschnitzt«. Die Platine selbst passt exakt in die Hülle, so dass USB-Port und SD-Karte ein Stück rausgucken. Eventuell kommen noch ein paar Löcher für die Belüftung hinzu.
 
@@ -85,12 +81,10 @@ In Ermangelung eines 3D-Druckers habe ich mir eine Hülle aus einem GBA-Cartridg
 
 Der RG351V wird mit mindestens einer SD-Karte ausgeliefert. Auf dieser befindet sich das OS. Ich habe sie gelassen wie sie ist und eine neue SD-Karte für die Einrichtung von ArkOS verwendet. Informationen zu ArkOS sowie zur Einrichtung etc. sind in der [ArkOS Wiki](https://github.com/christianhaitian/arkos/wiki) zusammengefasst.
 
-<!--
 <figure>
 <img src="/images/m8-headless-rg351v-arkos.jpg" alt="Anbernic RG351V mit ArkOS">
 <figcaption>RG351V mit ArkOS (und eigenem Boot-Bild)</figcaption>
 </figure>
--->
 
 Die Anleitung von Jason Porritt – [M8 Headless for RG351 devices](https://github.com/jasonporritt/rg351_m8c) – enthält fast alle Infos, die man braucht, um ein Gerät der RG351-Familie einzurichten. Dem ist wenig hinzuzufügen.
 
@@ -104,10 +98,12 @@ Nun muss man sich den Konfigurations-Skripten widmen. Erst die allgemeine Einric
 
 Dann die Buttons mittes `config_m8c_buttons.sh` einrichten. Sind die Buttons eingerichtet, aktiviert man am besten den Remote-Zugriff und macht den Rest am Mac.
 
+<!--
 ```bash
 ssh ark@192.168.178.66 #password = ark
 pico .local/share/m8c/config.ini
 ```
+-->
 
 Die konfigurierten Buttons können aus der Datei `m8c_config_snippet.txt` herauskopiert werden. Diese befindet sich unter `ports/M8` im selben Verzeichnis wie die Setup-Skripte. Die Standard-Codes für Buttons können in der Dokumentation unter [SDL Game Controller Buttons](https://wiki.libsdl.org/SDL2/SDL_GameControllerButton) nachgelesen werden.
 
@@ -123,12 +119,10 @@ In den Einstellungen muss die Sichtbarkeit unsichtbarer Dateien aktiviert werden
 
 Wenn irgendwann alles eingerichtet ist, läuft es tadellos und sieht noch dazu hübsch nerdig aus!
 
-<!--
 <figure>
 <img src="/images/m8-headless-rg351-m8-tracker.jpg" alt="Fertiges M8 Tracker Headless Setup">
 <figcaption>Mein fertiges M8-Headless-Setup</figcaption>
 </figure>
--->
 
 ## Tipps und Tricks
 
