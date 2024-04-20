@@ -55,13 +55,13 @@ Den Informationen auf Reddit und Discord nach zu urteilen ist die Headless-Konst
 
 Die Einrichtung des Teensy ist wirklich das einfachste an der ganzen Angelegenheit. Die Headless-Firmware (6) wird mittels der TyTools (7) an das Teensy-Board übertragen. Fertig. Alles musikalische spielt sich dann auf dem Teensy ab. Von dort kommt der Sound, dort sind die Songs gespeichert, die Instrumente, Samples und einfach alles.
 
-Der Einrichtungs&shy;prozess ist ausführlich in [Dirtywave’s M8 Headless Setup](https://github.com/DirtyWave/M8Docs/blob/main/docs/M8HeadlessSetup.md) beschrieben. Ein schneller Test, ob alles korrekt funktioniert ist, kann mit dem Browser-basierten [M8 Display](https://derkyjadex.github.io/M8WebDisplay/) durchgeführt werden.
+Der Einrichtungs&shy;prozess ist ausführlich in [Dirtywave’s M8 Headless Setup](https://github.com/DirtyWave/M8Docs/blob/main/docs/M8HeadlessSetup.md) beschrieben. Ein schneller Test, ob alles korrekt funktioniert ist, kann mit dem Browser-basierten [M8 Display](https://derkyjadex.github.io/M8WebDisplay/)[^2] durchgeführt werden.
 
 Am Mac steht das Board dann fortan als Audio-Input-Device namens _M8_ zur Verfügung. Will man den Sound hören, der vom M8 kommt, so verwendet man entweder eine Audio-Routing-Software oder einfach den QuickTime Player:
 
 1. eine neue Audio-Aufnahme starten,
 2. für die Eingabe den M8 auswählen und
-3. den Lautstärkeregler verschieben[^2].
+3. den Lautstärkeregler verschieben[^3].
 
 <figure>
 <img src="/images/m8-headless-rg351-quicktime-player.png" alt="QuickTime Player Audio-Aufnahme">
@@ -142,4 +142,5 @@ _Audio-Glitches oder Verzögerungen_: Die Deaktivierung von Wi-Fi sowie die Verw
 
 [^1]: Nachdem es trotz befolgens aller Schritte nicht funktioniert hat, habe ich mich tatsächlich wundgegooglet, bis ich endlich herausgefunden habe, dass es einer neueren `m8c`-Version bedarf, wenn man die aktuellste Headless-Firmware verwenden möchte.
 
-[^2]: Ich habe viel zu lange gebraucht, um zu sehen, dass der Lautsprecher standardmäßig stummgeschaltet ist…
+[^2]: Funktioniert leider weder mit Safari noch mit Firefox. Chrome oder ein Chrome-basierter Browser ist Voraussetzung; z. B. [Ungoogled Chromium für macOS](https://github.com/ungoogled-software/ungoogled-chromium-macos/releases).
+[^3]: Ich habe viel zu lange gebraucht, um zu sehen, dass der Lautsprecher standardmäßig stummgeschaltet ist…
