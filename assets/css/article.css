@@ -2,6 +2,8 @@
 	--spot-font: 'Avenir Next', Avenir, Montserrat, Corbel, 'URW Gothic', source-sans-pro, sans-serif;
 	--text-font: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
 	--code-font: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace;
+  --deco-font: 'Segoe Print', 'Bradley Hand', Chilanka, TSCu_Comic, casual, cursive;
+font-weight: normal;
 	--outer-width: 72rem;
 	--inner-width: 56rem;
 }

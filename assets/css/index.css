@@ -251,6 +251,8 @@ progress {
     --spot-font: Avenir, Montserrat, Corbel, 'URW Gothic', source-sans-pro, sans-serif;
     --flow-font: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
     --code-font: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace;
+    --deco-font: 'Segoe Print', 'Bradley Hand', Chilanka, TSCu_Comic, casual, cursive;
+font-weight: normal;
     /*
     --code-font: 'FiraCode';
     --flow-font: 'Merriweather';
