@@ -134,6 +134,8 @@ _Audio-Glitches oder Verzögerungen_: Die Deaktivierung von Wi-Fi sowie die Verw
 
 **[Awesome M8](https://github.com/v3rm0n/awesome-m8)**: Auf der Github-Liste gibt es viele Anleitungen, Tutorials und Demos für den M8 Tracker.
 
+**[Laamaa’s m8c](https://m8c.laamaa.fi)**: m8c ist ein Client für den Headless-Mode des Dirtywave M8 Tracker.
+
 **[Laamaa's top sekrit M8 instrument file stash](https://github.com/laamaa/m8i)**: Die Instrument-Dateien von Laamaa auf Github sind eine gute Quelle zum Lernen und Starten eigener Songs.
 
 **[M8 Community SD-Card Starter Pack](https://ia802505.us.archive.org/1/items/ChipmusicResources/)**: Umfangreiches Paket mit Demo-Songs und Samples.
