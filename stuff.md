@@ -68,20 +68,20 @@ Aushängeschilder.
 
 <figure>
   <img src="/images/logos/hausrat.jpg" alt="Haus:RAT-Magazin">
-  <figcaption>Ratgebermagazin über nachhaltiges und originelles Wohnen. — <em>Für Schlütersche Marketing Holding GmbH, 2019</em></figcaption>
+  <figcaption>Ratgebermagazin über nachhaltiges und originelles Wohnen. — Für <em>Schlütersche Marketing Holding GmbH</em>, 2019</figcaption>
 </figure>
 
 <figure>
   <img src="/images/logos/praxis-wissen.jpg" alt="Praxiswissen">
-  <figcaption>Tipps und Anleitungsvideos rund um Fuhrparkmanagement. — <em>Für Schlütersche Verlagsgesellschaft mbH & Co. KG, 2016</em></figcaption>
+  <figcaption>Tipps und Anleitungsvideos rund um Fuhrparkmanagement. — Für <em>Schlütersche Verlagsgesellschaft mbH & Co. KG</em>, 2016</figcaption>
 </figure>
 
 <figure>
   <img src="/images/logos/parklife.jpg" alt="Parklife Training & Beratung">
-  <figcaption>Beratungsfirma einer ehemaligen Kollegin. — <em>Für Parklife Training und Beratung GmbH, 2015</em></figcaption>
+  <figcaption>Beratungsfirma einer ehemaligen Kollegin. — Für <em>Parklife Training und Beratung GmbH</em>, 2015</figcaption>
 </figure>
 
 <figure>
   <img src="/images/logos/heilende-linien.jpg" alt="">
-  <figcaption>Persönliches Projekt einer Freundin, Kindern Kunst und Entspannung beizubringen. — <em>Healing Lines, 2015</em></figcaption>
+  <figcaption>Persönliches Projekt einer Freundin, Kindern Kunst und Entspannung beizubringen. — Für <em>Gyógyító Vonalak (dt. »heilende Linien«)</em>, 2015</figcaption>
 </figure>
