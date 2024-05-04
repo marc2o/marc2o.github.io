@@ -47,7 +47,7 @@ Den Informationen auf Reddit und Discord nach zu urteilen ist die Headless-Konst
 6. M8 Headless Firmware für Teensy 4.1 ([LINK](https://github.com/Dirtywave/M8HeadlessFirmware))
 7. TyTools zur Installation der Firmware auf dem Teensy ([LINK](https://github.com/Koromix/tytools/releases))
 8. M8 Headless für RG351-Geräte ([LINK](https://github.com/jasonporritt/rg351_m8c))
-9. Aktuellere Version des `m8c`, die mit der v3.2.x Firmware kompatibel ist ([LINK](https://www.reddit.com/r/RG351/comments/14ruu4t/comment/kiky0it/))
+9. Aktuellere Version des `m8c`, die mit der v3.2.x Firmware kompatibel ist ([LINK](https://www.reddit.com/r/RG351/comments/14ruu4t/comment/kiky0it/)), und noch aktueller für die v3.3.x Firmware ([LINK](https://www.reddit.com/r/m8tracker/comments/1chlexy/rg351_updated_version/))
 10. ArkOS für RG351 ([LINK](https://github.com/christianhaitian/arkos/wiki), ganz unten in der Liste)
 11. balenaEtcher ([LINK](https://etcher.balena.io/))
 
