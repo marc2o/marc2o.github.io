@@ -27,10 +27,9 @@ Ursprünglich eher Hundemensch, dachte ich. Katzen waren mir nie geheuer. Eher U
 **Literatur.**
 Ich liebe Bücher. Dabei hätte mir die Schule mit Max Fisch und Bertolt Brecht das Lesen fast ausgetrieben. Für mich (wieder-) entdeckt habe ich es nach der Schule während meiner 12 Monate bei der Bundeswehr. Zu Papierbuch&shy;zeiten besaß ich Umhängetaschen für alle gängigen Buchgrößen. E-Books hab ich erst auf meinem iPhone 3G für lieben gelernt. Die [Classics App](https://web.archive.org/web/20120112030019/http://www.classicsapp.com/) hat den Weg zu meinem ersten E-Reader geebnet. Seit meinen Kobos sind alle Bücher einheitlich groß, dick und schwer. Das hat meine Taschensammlung nachhaltig geschrumpft.
 
-**Gadgets.**
-Ein _Gadget_ ist »a small device or machine with a particular purpose« (vgl. [Cambriddge Dictionary](https://dictionary.cambridge.org/dictionary/english/gadget)). Ich habe davon so einige, und meine Sammlung wird sicher noch wachsen. Dazu gehören meine originalen Spielkonsolen (Atari 2600 Junior, Game Boy Advance SP, Nintendo DSi, Nintendo New 3DS, Nintendo Switch OLED) sowie die Emulations-Handhelds (Pocket C.H.I.P., Odroid-Go, Retroid 2, RG351V). Aber auch meine kleine Ortega Rucoal Concert- Ukulele und das AKAI Professional MPK mini Play MK3 gehören dazu. Ich liebe einfach solche Gerätschaften, die klein sind, hübsch aussehen und besondere Sachen können. Wenn ich so darüber nachdenke, müsste ich eigentlich auch meine Kobos (Mini, Glo HD und Libra 2) dazu zählen, und auch mein iPad 2 und den 4th Gen. iPod nano. 🤔
-
 **Und sonst…**
+
+_Lesen, hören…_
 
 {% include showcase.html %}
 
