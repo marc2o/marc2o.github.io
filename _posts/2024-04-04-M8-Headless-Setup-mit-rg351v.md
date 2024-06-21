@@ -142,7 +142,7 @@ _Audio-Glitches oder Verzögerungen_: Die Deaktivierung von Wi-Fi sowie die Verw
 
 **[Dirtywave Discord](https://discord.gg/WEavjFNYHh)**: Dort gibt es einen unter `#help-me` versteckten `#Headless`-Thread.
 
-[^1]: Nachdem es trotz befolgens aller Schritte nicht funktioniert hat, habe ich mich tatsächlich wundgegooglet, bis ich endlich herausgefunden habe, dass es einer neueren `m8c`-Version bedarf, wenn man die aktuellste Headless-Firmware verwenden möchte.
+[^1]: Nachdem es trotz befolgens aller Schritte nicht funktioniert hat, habe ich mich tatsächlich wundgegoogelt, bis ich endlich herausgefunden habe, dass es einer neueren `m8c`-Version bedarf, wenn man die aktuellste Headless-Firmware verwenden möchte.
 
 [^2]: Funktioniert leider weder mit Safari noch mit Firefox. Chrome oder ein Chrome-basierter Browser ist Voraussetzung; z. B. [Ungoogled Chromium für macOS](https://github.com/ungoogled-software/ungoogled-chromium-macos/releases).
 [^3]: Ich habe viel zu lange gebraucht, um zu sehen, dass der Lautsprecher standardmäßig stummgeschaltet ist…
