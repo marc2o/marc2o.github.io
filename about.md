@@ -21,10 +21,9 @@ Die folgenden Schlüssel&shy;begriffe haben keinen Anspruch auf Vollständigkeit
 <figcaption>Edam und Emil, Caspar und Collin (v.l.n.r.)</figcaption>
 </figure>
 
-**Literatur.**
-Ich liebe Bücher. Dabei hätte mir die Schule mit Max Fisch und Bertolt Brecht das Lesen fast ausgetrieben. Für mich (wieder-) entdeckt habe ich es nach der Schule während meiner 12 Monate bei der Bundeswehr. Zu Papierbuch&shy;zeiten besaß ich Umhängetaschen für alle gängigen Buchgrößen. E-Books hab ich erst auf meinem iPhone 3G für lieben gelernt. Die [Classics App](https://web.archive.org/web/20120112030019/http://www.classicsapp.com/) hat den Weg zu meinem ersten E-Reader geebnet. Seit meinen Kobos sind nun alle Bücher einheitlich groß, dick und schwer. Das hat meine Taschensammlung nachhaltig geschrumpft.
+**Literatur.** Ich liebe Bücher. Dabei hätte mir die Schule mit Max Fisch und Bertolt Brecht das Lesen fast ausgetrieben. Für mich (wieder-) entdeckt habe ich es nach der Schule während meiner 12 Monate bei der Bundeswehr. Zu Papierbuch&shy;zeiten besaß ich Umhängetaschen für alle gängigen Buchgrößen. E-Books hab ich erst auf meinem iPhone 3G für lieben gelernt. Die [Classics App](https://web.archive.org/web/20120112030019/http://www.classicsapp.com/) hat den Weg zu meinem ersten E-Reader geebnet. Seit meinen Kobos sind nun alle Bücher einheitlich groß, dick und schwer. Das hat meine Taschensammlung nachhaltig geschrumpft.
 
-**Und sonst…**
+**Und sonst?**
 
 _Lesen, hören…_
 
@@ -34,12 +33,9 @@ _Lesen, hören…_
 - Sonntagskind
 - Träumer
 - Autodidakt
-- Promovierter Linguist
 - eher Astronom als Astronaut
 - Kind der Heimcomputer-Revolution
-- Bücherliebhaber
 - Musik-Amateur im barocken Sinne des Wortes
-- mag kleine Instrumente (Ortega Konzert-Ukulele und AKAI MPK mini Play)
 - Atari- & Nintendo-Konsolen
 - Commodore- und Apple-Computer
 - früher 68k-Asm, Forth und Java
