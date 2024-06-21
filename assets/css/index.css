@@ -551,7 +551,7 @@ header>span.thumb {
     overflow: hidden;
     margin-bottom: 1rem;
     border: 0.1rem solid var(--fill-color);
-    outline: 0.1rem solid var(--link-color);
+    outline: 0.2rem solid var(--link-color);
     outline-offset: 0.1rem;
 }
 
