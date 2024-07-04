@@ -14,7 +14,7 @@ tags:
 
 Der _Dirtywave M8 Tracker_ steht schon seit einiger Zeit auf meiner Wunschliste. Leider habe ich immer das Pech, die seltenen und knappen Vorbestellungs­zeitfenster zu verpassen. So auch kürzlich wieder für das neue _Model:02_. Glücklicherweise gibt es die Möglichkeit, den M8 »headless« zu nutzen, also ohne die Original-Hardware.
 
-<!-- more -->
+<!--more-->
 
 Der M8 ist ein tragbarer Synthesizer und [Tracker](https://en.wikipedia.org/wiki/Music_tracker)-basierter Sequenzer. Er sieht schick aus, klingt gut und ist definitiv etwas für Chiptune-Enthusiasten wie mich, die mit dem Commodore 64 und Amiga groß geworden sind.
 

@@ -14,7 +14,7 @@ tags:
 
 Design und Funktionalität der Kobo E-Reader gefallen mir schon seit gut zehn Jahren. Insbesondere die Vielzahl der lesbaren Dateiformate weiß ich zu schätzen sowie auch die Tatsache, dass sich Bücher von Hand oder mittels Calibre auf das Gerät übertragen lassen, also ohne die pro­p­ri­e­täre Kobo-Software verwenden zu müssen.
 
-<!-- more -->
+<!--more-->
 
 Lediglich der Registrierungszwang und der Einsatz der Kobo Desktop-Software für Updates geht mir gegen den Strich. Aber die Kobo-E-Reader haben eine große Community und so gibt es für alles mindestens eine Lösung.
 
