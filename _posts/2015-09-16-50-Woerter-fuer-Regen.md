@@ -14,7 +14,7 @@ Das Wetter ist ein beliebtes Gesprächsthema. Jeder kann etwas dazu sagen. Das W
 
 <!--more-->
 
-Wetter, und vor allem das hannöversche, kennt kein Mittelmaß, so kommt es einem vor. Eigentlich ist es immer zu heiß oder zu kalt, zu verregnet oder zu trocken, und überhaupt ständig ganz anders als vorhergesagt. Trotz Wetter-Apps und -Widgets.
+Wetter, und vor allem das hannöversche, kennt kein Mittelmaß, so kommt es einem vor. Eigentlich ist es immer zu heiß oder zu kalt, zu verregnet oder zu trocken, und überhaupt ständig ganz anders als vorhergesagt. Trotz Wetter-Apps und -&nbsp;Widgets.
 
 Das war früher anders, und besser, sagen Leute von früher. Wo sind die richtigen Winter, und auch Sommer? Wo sind die anderen Jahreszeiten, die dazwischen gehören? Heute gibt es ja praktisch gar keine Übergangszeit mehr. Nur noch die Jacken dafür. Die Preise für Obst und Gemüse steigen, weil wir keinen Frühling hatten, oder weil der Winter so lang war. Oder beides. Spargelpflanzen müssen beheizt und die Erdbeeren importiert werden. Von der viel zitierten Globalen Erwärmung merkt man eigentlich nichts. Kann aber auch am Global Dimming liegen. Am Wetter sind wir aber in jedem Fall selbst Schuld. Sagen die Klimaforscher. Schon seit wir sesshaft geworden sind und den Ackerbau für uns entdeckt haben. Ob damals auch das ewige Wettern gegen das Wetter begonnen hat?
 
@@ -146,7 +146,7 @@ Dieses Wörterbuch führe ich seit September 2015. Wahrscheinlich hat mich ein v
       <p>Die Regenromatik kommt am ehesten auf der Innenseite der Fenster auf.&nbsp;<a href="#fnref:1" class="reversefootnote" role="doc-backlink">↩</a></p>
     </li>
     <li id="fn:2" role="doc-endnote">
-      <p>Es handelt sich um einen _gefühlten Erfahrungswert_. Also, etwas, das einem wie ein Fakt vorkommt, weil man meint es oft erlebt zu haben.&nbsp;<a href="#fnref:2" class="reversefootnote" role="doc-backlink">↩</a></p>
+      <p>Es handelt sich um einen <i>gefühlten Erfahrungswert</i>. Also, etwas, das einem wie ein Fakt vorkommt, weil man meint es oft erlebt zu haben.&nbsp;<a href="#fnref:2" class="reversefootnote" role="doc-backlink">↩</a></p>
     </li>
     <li id="fn:3" role="doc-endnote">
       <p>der auch ohne T-Shirt.&nbsp;<a href="#fnref:3" class="reversefootnote" role="doc-backlink">↩</a></p>
