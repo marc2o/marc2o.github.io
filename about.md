@@ -27,9 +27,11 @@ Die folgenden Schlüssel&shy;begriffe haben keinen Anspruch auf Vollständigkeit
 
 **Und sonst?**
 
-_Lesen, hören…_
+_Aktuell…_
 
 {% include showcase.html %}
+
+_Generell…_
 
 - Linkshänder
 - Sonntagskind
