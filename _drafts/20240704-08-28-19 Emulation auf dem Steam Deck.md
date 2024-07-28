@@ -48,7 +48,7 @@ void main() {
 
 Config für das Spiel…
 
-```
+```toml
 # GGEE41, GGEP41, GGEY41 - Beyond Good and Evil
 
 [Video_Settings]
