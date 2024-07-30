@@ -158,11 +158,11 @@ Ein paar gängige Button-Kombinationen inklusive der Kombination zum Beenden der
 		</tr>
 		<tr>
 			<td>[EDIT] + [OPTION]</td>
-			<td>Wert auf Standard zurücksetzen; im Datei-Browser: ausgewählte Datei löschen</td>
+			<td>Wert auf Standard zurücksetzen;<br>im Datei-Browser: ausgewählte Datei löschen</td>
 		</tr>
 		<tr>
 			<td>[PLAY]</td>
-			<td>Song-Screen: Song ab Cursor-Position spielen; Chain- oder Phrase-Screen: Chain oder Phrase spielen; im Instrument- und Sample-Browser: ausgewählte Datei anhören</td>
+			<td>Song-Screen: Song ab Cursor-Position spielen;<br>Chain- oder Phrase-Screen: Chain oder Phrase spielen;<br>im Instrument- und Sample-Browser: ausgewählte Datei anhören</td>
 		</tr>
 		<tr>
 			<td>[SHIFT] + [OPTION]</td>
