@@ -77,7 +77,7 @@ Die Tastensteuerung lässt sich aber über eine Anpassung der zugehörigen X11-K
 
 Im Verzeichnis `/usr/share/X11/xorg.conf.d/` schaut man nach irgendetwas mit `nvidia*.conf` (der Asterisk `*` ist nur ein Platzhalter für verschiedenste Bezeichnungen, die im Dateinamen enthalten sein können). Dieses Dokument öffnet man und ergänzt im Abschnitt `Device` folgende Optionen:
 
-```config
+```toml
 Option "NoLogo" "True"
 Option "RegistryDwords" "EnableBrightnessControl=1"
 ```

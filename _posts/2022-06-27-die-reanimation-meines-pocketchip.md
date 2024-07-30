@@ -55,7 +55,6 @@ Im Anschluss `mkusb` ausführen und die SD-Karte mit Ubuntu als »Live-System mi
 
 Das ist alles. Nun kann man von der SD-Karte booten.
 
-
 ## PocketCHIP flashen
 
 Der folgende Leitfaden beruht auf dem Guide von [luzhuomi](https://gist.github.com/luzhuomi/526fbcc30f3522f09eacf20d0f776fa5) und ist um eigene Erkenntnisse aus den Fehlermeldungen ergänzt.
@@ -74,7 +73,6 @@ git clone https://github.com/thore-krug/Flash-CHIP.git
 Nun mit `cd` in das `Flash-CHIP` wechseln und mit `sudo chmod +x Flash.sh` das Script ausführbar machen.
 
 Schließlich das Script ausführen: `./Flash.sh`.
-
 
 ### Ungültiger Parameter `-i`?
 
@@ -140,7 +138,6 @@ sudo apt update && sudo apt upgrade
     <figure><img src="/images/pocketchip-sunvox.jpg" alt=""><figcaption>SunVox Music Studio</figcaption></figure>
 </figure>
 
-
 ## Feinschliff
 
 Auf GitHub gibt es eine schöne Checkliste von [boogah](https://gist.github.com/boogah/ac6f6f082b91fa976ae8bd45e5120d4a) mit Dingen, die man beim PocketCHIP »als erstes« machen sollte.
@@ -189,11 +186,9 @@ Um Daten vom Mac an den PocketCHIP zu senden, benutzt man `scp`.
 scp /pfad/zur/lokalen/datei chip@192.168.178.36:/pfad/zum/ziel/
 ```
 
-
 ### Das HOME-Menü anpassen
 
 Man kann die Konfiguration des HOME-Menüs anpassen und eigene Programme einbinden: `sudo nano /usr/share/pocket-home/config.json`. Icons liegen z. B. in `/usr/share/pocket-home/appIcons` bzw. können dort angelegt werden.
-
 
 ## Spannende Software für den PocketCHIP
 
@@ -256,7 +251,6 @@ curl --remote-name http://www.humbletune.com/phase/chip/settings.json
 
 Dann den PocketCHIP neu starten.
 
-
 ### PICO-8 Fantasy Console
 
 Zwar ist PICO-8 vorinstalliert, aber nach dem Update des Systems wollte die Fantasy Console nicht mehr starten. Hier gibt es die neue Version: https://www.lexaloffle.com/bbs/?tid=34009.
@@ -267,7 +261,6 @@ Diese kann entweder als ZIP-Archiv heruntergeladen oder direkt auf dem PocketCHI
 wget www.lexaloffle.com/dl/chip/pico-8\_0.2.4c\_chip.zip
 sudo unzip pico-8\_0.2.4c\_chip.zip -d /usr/lib
 ```
-
 
 ### SunVox Modular Music Studio
 

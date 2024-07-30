@@ -208,7 +208,6 @@ Hard resetting via RTS pin...
 
 Nach der Aktualisierung startet der ODROID-GO neu und bootet direkt in die Firmware-Auswahl. Dort kann nun der Go-Play-Emulator oder andere Software installiert werden.
 
-
 ## Software für ODROID-GO
 
 Hier sind meine persönlichen Favoriten, die ich auf meinem ODROID-GO habe.
@@ -226,7 +225,7 @@ Hier sind meine persönlichen Favoriten, die ich auf meinem ODROID-GO habe.
 
 ### Spiele
 
-- OpenTyrian: [https://github.com/jkirsons/OpenTyrian/tree/master/release](https://github.com/jkirsons/OpenTyrian/tree/master/release) (benötigt im Stammverzeichnis einen Ordner *tyrian*, der den Ordner *data* aus dem Archiv »Windows (x86) binary with Tyrian 2.1 data« enthält, das hier [https://bitbucket.org/opentyrian/opentyrian/wiki/Downloads.md](https://bitbucket.org/opentyrian/opentyrian/wiki/Downloads.md) heruntergeladen werden kann)
+- OpenTyrian: [https://github.com/jkirsons/OpenTyrian/tree/master/release](https://github.com/jkirsons/OpenTyrian/tree/master/release) (benötigt im Stammverzeichnis einen Ordner _tyrian_, der den Ordner _data_ aus dem Archiv »Windows (x86) binary with Tyrian 2.1 data« enthält, das hier [https://bitbucket.org/opentyrian/opentyrian/wiki/Downloads.md](https://bitbucket.org/opentyrian/opentyrian/wiki/Downloads.md) heruntergeladen werden kann)
 - Wolfenstein und Spear of Destiny: [https://github.com/jkirsons/wolf4sdl](https://github.com/jkirsons/wolf4sdl)
 - Duke Nukem 3D: [https://github.com/jkirsons/Duke3D/tree/master/release](https://github.com/jkirsons/Duke3D/tree/master/release)
 
