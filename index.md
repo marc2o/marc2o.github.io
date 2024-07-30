@@ -21,7 +21,6 @@ Manchmal bin ich einigermaßen kreativ und mache [Dinge wie diese]({% link stuff
   <img src="/images/icons/naroth.png" alt="Naroth game icon">
   <img src="/images/pixelart/karl.png" alt="Karl Lagerfeld pixel art">
   <img src="/images/cessare.png" alt="Cessare game screenshot">
-  <img src="/images/bandcamp.nano.jpg" alt="Music cover">
   <img src="/images/gamedev-c.png" alt="Game screenshot">
   <img src="/images/logo-example.jpg" alt="Logo Project">
 </figure>
