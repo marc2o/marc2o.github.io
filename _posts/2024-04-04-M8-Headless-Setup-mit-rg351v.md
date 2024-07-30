@@ -29,6 +29,7 @@ Inhalt:
 - [Vorbereitung](#vorbereitung)
 - [Teensy](#teensy)
 - [RG351V](#rg351v)
+- [Tastenbelegung](#tastenbelegung)
 - [Tipps und Tricks](#tipps-und-tricks)
 
 ---
@@ -120,6 +121,75 @@ Wenn irgendwann alles eingerichtet ist, läuft es tadellos und sieht noch dazu h
 <figure>
 <img src="/images/m8-headless-rg351-m8-tracker.jpg" alt="Fertiges M8 Tracker Headless Setup">
 <figcaption>Mein fertiges M8-Headless-Setup</figcaption>
+</figure>
+
+## Tastenbelegung
+
+Das offizielle M8 Tracker-Handbuch (siehe [Resources](https://dirtywave.com/pages/resources-downloads)) enthält die originalen Tastenbelegungen. Diese wird standardmäßig sehr ähnlich auf die Buttons des RG351V übertragen.
+
+<figure>
+	<img src="/images/m8tracker-headless-keymap.svg" alt="M8 Tracker Headless Keymap">
+	<figcaption>Tastenbelegung des M8 Tracker und der Headless-Variante</figcaption>
+</figure>
+
+Ein paar gängige Button-Kombinationen inklusive der Kombination zum Beenden der M8 Headless-Software sind in der nachfolgenden Tabelle aufgelistet.
+
+<figure>
+	<table>
+		<tr>
+			<th>Kombination</th>
+			<th>Funktion</th>
+		</tr>
+		<tr>
+			<td>[F] + [STICK]</td>
+			<td>M8 Tracker beenden</td>
+		</tr>
+		<tr>
+			<td>[SHIFT] + [UP or DOWN or LEFT or RIGHT]</td>
+			<td>Zwischen Screens wechseln</td>
+		</tr>
+		<tr>
+			<td>[EDIT] + [LEFT or RIGHT]</td>
+			<td>Wert bearbeiten, fein</td>
+		</tr>
+		<tr>
+			<td>[EDIT] + [UP or DOWN]</td>
+			<td>Wert bearbeiten, grob</td>
+		</tr>
+		<tr>
+			<td>[EDIT] + [OPTION]</td>
+			<td>Wert auf Standard zurücksetzen; im Datei-Browser: ausgewählte Datei löschen</td>
+		</tr>
+		<tr>
+			<td>[PLAY]</td>
+			<td>Song-Screen: Song ab Cursor-Position spielen; Chain- oder Phrase-Screen: Chain oder Phrase spielen; im Instrument- und Sample-Browser: ausgewählte Datei anhören</td>
+		</tr>
+		<tr>
+			<td>[SHIFT] + [OPTION]</td>
+			<td>Schaltet Auswahlmodus um</td>
+		</tr>
+		<tr>
+			<td>[OPTION]</td>
+			<td>Im Auswahlmodus: Kopiert die aktuelle Auswahl</td>
+		</tr>
+		<tr>
+			<td>[SHIFT] + [EDIT]</td>
+			<td>Fügt den kopierten Pufferinhalt ein</td>
+		</tr>
+		<tr>
+			<td>[OPTION] + [SHIFT]</td>
+			<td>Aktuellen Track stummschalten</td>
+		</tr>
+		<tr>
+			<td>[OPTION] + [PLAY]</td>
+			<td>Aktuellen Track solo hören</td>
+		</tr>
+		<tr>
+			<td>[OPTION] + [SHIFT] + [PLAY]</td>
+			<td>Alle Stumm- und Soloschaltungen aufheben</td>
+		</tr>
+	</table>
+	<figcaption>Die wichtigsten Button-Kombinationen</figcaption>
 </figure>
 
 ## Tipps und Tricks
