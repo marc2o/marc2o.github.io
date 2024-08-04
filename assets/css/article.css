@@ -559,6 +559,10 @@ ul.about>li:nth-child(1) {
 	overflow: hidden;
 	background-color: #ffffff;
 	border: 0.1rem solid var(--fill-color);
+	/*
 	outline: 0.125rem solid var(--link-color);
 	outline-offset: 0.1rem;
+	*/
+	outline-color: transparent;
+	box-shadow: 0 0 0 0.125em var(--link-color);
 }
