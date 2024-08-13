@@ -18,11 +18,6 @@
 			<h1><span>{{ page.title }}</span></h1>
 		</header>
 		<article>
-			<h2>{{ site.data.cv.experience.title }}</h2>
-			{% for position in site.data.cv.experience.positions %}
-			<p>{{ position.from }} – {{ position.to }}<br>{{ position.what }}<br>{{ position.where }}</p>
-			{% endfor %}
-
 			{{ content }}
 			<footer>
 				{% if page.author %}
