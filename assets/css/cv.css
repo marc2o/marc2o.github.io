@@ -149,11 +149,6 @@ article ul.position li span {
 	font-size: 85%;
 }
 
-article ul.positions li strong,
-article ul.positions li em {
-	padding-left: 2em;
-}
-
 sup {
 	display: inline-block;
 	font-variant-numeric: oldstyle-nums;
