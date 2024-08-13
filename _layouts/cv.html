@@ -30,9 +30,15 @@
 			</ul>
 
 			<h2>{{ site.data.cv-en.education.title }}</h2>
-			{% for position in site.data.cv-en.education.positions %}
-			<p>{{ position.from }} – {{ position.to }}<br>{{ position.what }}<br>{{ position.where }}</p>
-			{% endfor %}
+			<ul class="position">
+				{% for position in site.data.cv-en.education.positions %}
+				<li>
+					{{ position.from }} – {{ position.to }}<br>
+					<strong>{{ position.what }}</strong><br>
+					<em>{{ position.where }}</em>
+				</li>
+				{% endfor %}
+			</ul>
 
 			{{ content }}
 
