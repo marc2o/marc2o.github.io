@@ -22,7 +22,7 @@
 			<ul class="position">
 				{% for position in site.data.cv-en.experience.positions %}
 				<li>
-					{{ position.from }} – {{ position.to }}<br>
+					<span>{{ position.from }} – {{ position.to }}</span><br>
 					<strong>{{ position.what }}</strong><br>
 					<em>{{ position.where }}</em>
 				</li>
@@ -33,7 +33,7 @@
 			<ul class="position">
 				{% for position in site.data.cv-en.education.positions %}
 				<li>
-					{{ position.from }} – {{ position.to }}<br>
+					<span>{{ position.from }} – {{ position.to }}</span><br>
 					<strong>{{ position.what }}</strong><br>
 					<em>{{ position.where }}</em>
 				</li>

@@ -143,6 +143,11 @@ article ul.position {
 	padding-left: 0;
 }
 
+article ul.position li span {
+	font-family: var(--spot-font, sans-serif);
+	font-size: 85%;
+}
+
 sup {
 	display: inline-block;
 	font-variant-numeric: oldstyle-nums;
