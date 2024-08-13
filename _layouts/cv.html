@@ -18,9 +18,9 @@
 			<h1><span>{{ page.title }}</span></h1>
 		</header>
 		<article>
-			<h2>{{ site.data.cv-en.name }}</h2>
-			<h3>{{ site.data.cv-en.tagline }}</h3>
-			<p>{{ site.data.cv-en.statement }}</p>
+			<h2>{{ site.data.cv-en.details.name }}</h2>
+			<h3>{{ site.data.cv-en.details.tagline }}</h3>
+			<p>{{ site.data.cv-en.details.statement }}</p>
 
 			<h2>{{ site.data.cv-en.experience.title }}</h2>
 			{% for position in site.data.cv-en.experience.positions %}
