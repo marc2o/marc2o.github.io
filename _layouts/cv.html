@@ -18,19 +18,19 @@
 			<h1><span>{{ page.title }}</span></h1>
 		</header>
 		<article>
-			<h2>{{ site.data.cv.experience.title }}</h2>
-			{% for position in site.data.cv.experience.positions %}
+			<h2>{{ site.data.cv-en.experience.title }}</h2>
+			{% for position in site.data.cv-en.experience.positions %}
 			<p>{{ position.from }} – {{ position.to }}<br>{{ position.what }}<br>{{ position.where }}</p>
 			{% endfor %}
 
 			{{ content }}
-			<footer>
+			<!--footer>
 				{% if page.author %}
 				{% include {{ page.author }}.{{ page.language }}.about.html %}
 				{% endif %}
 				{% include follow.html %}
 				{% include copyright.html %}
-			</footer>
+			</footer-->
 		</article>
 	</main>
 	<script>
