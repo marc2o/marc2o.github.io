@@ -1,0 +1,60 @@
+# cv page is set to `noinde` and `nofollo`
+# <meta name="robots" content="noindex nofollow">
+
+details:
+  name: Marc
+  tagline: Enthusiast by nature. Wonderer. Geek. Human(e) being.
+  statement: |
+    Linguist with a doctorate and language enthusiasm. My focus is on the means of visual communication, especially text, »icons« and illustrations aiding users to perform certain tasks (and make them want to do it). My intrinsic motivation is to make other people’s lives (as well as my own) easier and more comprehensible.
+  skills:
+    - Analytic and strategic thinking
+    - Creativity
+    - Problem solving
+    - Coding (Lua, C, JavaScript, C#)
+    - UI Design
+    - German (native)
+    - English (full professional)
+
+experience:
+  title: Work Experience
+  positions:
+  - what: Senior Creative Strategist
+    where: Schlütersche Marketing Holding GmbH
+    from: 2022-07
+    to: heute
+  - what: Senior Business Development Manager
+    where: Schlütersche Marketing Holding GmbH
+    from: 2017-08
+    to: 2022-07
+  - what: Business Development Manager
+    where: Schlütersche Verlagsgesellschaft mbH & Co. KG
+    from: 2014-06
+    to: 2017-08
+  - what: Lecturer »Introduction to Mobile Marketing«
+    where: Norddeutsche Akademie für Marketing, Kommunikation + Medien gGmbH
+    from: 2014-03
+    to: 2014-03
+  - what: Second Referee (Master thesis assistance, report and examination)
+    where: Universität Bielefeld, Faculty of Linguistics & Literary Studies, Interdisciplinary Media Studies
+    from: 2013-02
+    to: 2013-10
+  - what: Conceptual Design and Project Leadership
+    where: Schlütersche Verlagsgesellschaft mbH & Co. KG
+    from: 2009-01
+    to: 2014-06
+  - what: Information Design, Human Interface Design, Software Development, Web Development
+    where: Freelance Designer and Full-Stack Developer
+    from: 2004-01
+    to: 2009-01
+
+education:
+  title: Education
+  positions:
+  - what: Doctorate in Linguistics & Pictorial Semiotics »Origins and Development of Icons and their Meanings«
+    where: Leibniz Universität Hannover
+    from: 2003-09
+    to: 2006-02
+  - what: Magister Artium in English Linguistics & History
+    where: Leibniz Universität Hannover
+    from: 1996-04
+    to: 2001-02

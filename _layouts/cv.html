@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="{{ page.language | default: site.lang | default: " de-DE" }}">
+
+<head>
+	{% include head.html %}
+	<meta name="robots" content="noindex nofollow">
+	<!--
+	<link rel="stylesheet" type="text/css" media="screen"
+		href="{{ '/assets/css/article.css?v=' | append: site.github.build_revision | relative_url }}">
+	<link rel="stylesheet" type="text/css" media="print"
+		href="{{ '/assets/css/print.css?v=' | append: site.github.build_revision | relative_url }}">
+	-->
+</head>
+
+<body>
+	<main>
+		<header>
+			<h1><span>{{ page.title }}</span></h1>
+		</header>
+		<article>
+			<h2>{{ site.data.cv.experience.title }}</h2>
+			{% for position in site.data.cv.experience.positions %}
+			<p>{{ position.from }} – {{ position.to }}<br>{{ position.what }}<br>{{ position.where }}</p>
+			{% endfor %}
+
+			{{ content }}
+			<footer>
+				{% if page.author %}
+				{% include {{ page.author }}.{{ page.language }}.about.html %}
+				{% endif %}
+				{% include follow.html %}
+				{% include copyright.html %}
+			</footer>
+		</article>
+	</main>
+	<script>
+		let vh = window.innerHeight * 0.01;
+		document.documentElement.style.setProperty('--vh', `${vh}px`);
+	</script>
+</body>
+
+</html>
