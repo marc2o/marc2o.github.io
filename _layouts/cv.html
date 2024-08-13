@@ -19,9 +19,9 @@
 			<p>{{ site.data.cv-en.details.statement }}</p>
 
 			<h2>{{ site.data.cv-en.experience.title }}</h2>
-			<ul>
+			<ul class="position">
 				{% for position in site.data.cv-en.experience.positions %}
-				<li class="position">
+				<li>
 					{{ position.from }} – {{ position.to }}<br>
 					<strong>{{ position.what }}</strong><br>
 					<em>{{ position.where }}</em>

@@ -140,6 +140,7 @@ article ol>li:not(:first-of-type) {
 
 article ul.position {
 	font-family: var(--spot-font);
+	list-style: none;
 }
 
 sup {
