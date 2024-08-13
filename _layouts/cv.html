@@ -23,9 +23,15 @@
 			<p>{{ site.data.cv-en.details.statement }}</p>
 
 			<h2>{{ site.data.cv-en.experience.title }}</h2>
-			{% for position in site.data.cv-en.experience.positions %}
-			<p>{{ position.from }} – {{ position.to }}<br>{{ position.what }}<br>{{ position.where }}</p>
-			{% endfor %}
+			<ul>
+				{% for position in site.data.cv-en.experience.positions %}
+				<li>
+					{{ position.from }} – {{ position.to }}<br>
+					<strong>{{ position.what }}</strong><br>
+					<em>{{ position.where }}</em>
+				</li>
+				{% endfor %}
+			</ul>
 
 			<h2>{{ site.data.cv-en.education.title }}</h2>
 			{% for position in site.data.cv-en.education.positions %}
