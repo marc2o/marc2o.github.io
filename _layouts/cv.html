@@ -21,7 +21,7 @@
 			<h2>{{ site.data.cv-en.experience.title }}</h2>
 			<ul>
 				{% for position in site.data.cv-en.experience.positions %}
-				<li>
+				<li class="position">
 					{{ position.from }} – {{ position.to }}<br>
 					<strong>{{ position.what }}</strong><br>
 					<em>{{ position.where }}</em>
@@ -35,6 +35,7 @@
 			{% endfor %}
 
 			{{ content }}
+
 			<footer>
 				{% if page.author %}
 				{% include {{ page.author }}.{{ page.language }}.about.html %}

@@ -138,6 +138,10 @@ article ol>li:not(:first-of-type) {
 	margin-top: .5em;
 }
 
+article ul.position {
+	font-family: var(--spot-font);
+}
+
 sup {
 	display: inline-block;
 	font-variant-numeric: oldstyle-nums;
