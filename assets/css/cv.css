@@ -146,6 +146,8 @@ article ul.position {
 article ul.position li span {
 	font-family: var(--spot-font, sans-serif);
 	font-size: 85%;
+	padding-left: 1rem;
+	text-indent: -1rem;
 }
 
 sup {
