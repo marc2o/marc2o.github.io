@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Awesome marc2o
+title: awesome marc2o
 author: marc2o
 language: en-US
 ---
