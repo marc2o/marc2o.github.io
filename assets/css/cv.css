@@ -139,7 +139,7 @@ article ol>li:not(:first-of-type) {
 }
 
 article ul.position {
-	font-family: var(--spot-font);
+	font-family: var(--spot-font, sans-serif);
 	list-style: none;
 }
 
