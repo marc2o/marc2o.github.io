@@ -141,11 +141,13 @@ article ol>li:not(:first-of-type) {
 article ul.position {
 	list-style: none;
 	padding-left: 0;
+	margin-left: 0;
 }
 
 article ul.position li {
-	padding-left: 1rem;
-	text-indent: -1rem;
+	padding-left: 2em;
+	margin-left: 0;
+	text-indent: -2rem;
 }
 
 article ul.position li span {
