@@ -1,8 +1,6 @@
 ---
 layout: cv
-title: awesome marc2o
+title: Dr. Marc
 author: marc2o
 language: en-US
----
-
 ---
