@@ -143,12 +143,11 @@ header {
 	padding-top: 2rem;
 	background: var(--link-color);
 	color: white;
-
 }
 
-ul.position {
-	list-style: none;
-	padding-left: 0;
+ul.skills {
+	list-style-type: circle;
+	padding: 1em;
 }
 
 ul.position li:not(first-child) {
