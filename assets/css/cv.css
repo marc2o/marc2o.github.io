@@ -168,7 +168,8 @@ ul.position li:not(first-child) {
 	margin-top: 1em;
 }
 
-li span {
+li span,
+footer p {
 	font-size: 83.5%;
 }
 

@@ -1,10 +1,24 @@
 details:
   name: Dr. Marc Oliver Orth
+  de-DE:
+    tagline: Natürlicher Enthusiast. Wunderer. Nerd. Mensch.
+    statement: |
+      Kreativer und analytischer Geschichtenerzähler mit Liebe zum Detail, das Große Ganze immer im Blick. Meine Superkräfte: Erkennen, was fehlt. Komplexes vereinfachen und leicht verständlich machen. Dinge erklären.
   en-US:
     tagline: Enthusiast by nature. Wonderer. Geek. Human(e) being.
     statement: |
       Linguist with a doctorate and language enthusiasm. My focus is on the means of visual communication, especially text, »icons« and illustrations aiding users to perform certain tasks (and make them want to do it). My intrinsic motivation is to make other people’s lives (as well as my own) easier and more comprehensible.
   skills:
+    de-DE:
+      title: Fähigkeiten & Fertigkeiten
+      - Analytisches und strategisches Denken
+      - Kreativität
+      - Problemlösung
+      - Programmieren (Lua, C, JavaScript, C#)
+      - UI Design
+      - Deutsch (Muttersprache)
+      - Englisch (verhandlungssicher)
+      
     en-US:
       title: Skills
       list:
@@ -17,6 +31,38 @@ details:
       - English (full professional)
 
 experience:
+  de-DE:
+    title: Aktivitäten
+    positions:
+    - what: Senior Creative Strategist
+      where: Schlütersche Marketing Holding GmbH
+      from: 2022-07
+      to: today
+    - what: Senior Business Development Manager
+      where: Schlütersche Marketing Holding GmbH
+      from: 2017-08
+      to: 2022-07
+    - what: Business Development Manager
+      where: Schlütersche Verlagsgesellschaft mbH & Co. KG
+      from: 2014-06
+      to: 2017-08
+    - what: Dozent »Einführung in Mobile Marketing«
+      where: Norddeutsche Akademie für Marketing, Kommunikation + Medien gGmbH
+      from: 2014-03
+      to: 2014-03
+    - what: Zweitgutachter (Betreuung, Begutachtung und Prüfung einer Masterarbeit)
+      where: Universität Bielefeld, Fakultät für Linguistik und Literaturwissenschaft, Interdisziplinäre Medienwissenschaft 
+      from: 2013-02
+      to: 2013-10
+    - what: Konzeption und Projektleitung
+      where: Schlütersche Verlagsgesellschaft mbH & Co. KG
+      from: 2009-01
+      to: 2014-06
+    - what: Information Design, Human Interface Design, Software Development, Web Development
+      where: Freiberuflicher Designer and Softwareentwickler
+      from: 2004-01
+      to: 2009-01
+
   en-US:
     title: Work Experience
     positions:
@@ -50,10 +96,22 @@ experience:
       to: 2009-01
 
 education:
+  de-DE:
+    title: Ausbildung
+    positions:
+    - what: Promotion zum Dr. phil. in Linguistik & Piktorieller Semiotik zum Thema »Origins and Development of Icons and their Meanings«
+      where: Leibniz Universität Hannover
+      from: 2003-09
+      to: 2006-02
+    - what: Magister Artium in Anglistik & Geschichte
+      where: Leibniz Universität Hannover
+      from: 1996-04
+      to: 2001-02
+
   en-US:
     title: Education
     positions:
-    - what: Doctorate in Linguistics & Pictorial Semiotics »Origins and Development of Icons and their Meanings«
+    - what: Doctorate (Dr. phil.) in Linguistics & Pictorial Semiotics »Origins and Development of Icons and their Meanings«
       where: Leibniz Universität Hannover
       from: 2003-09
       to: 2006-02
@@ -61,4 +119,3 @@ education:
       where: Leibniz Universität Hannover
       from: 1996-04
       to: 2001-02
-      
