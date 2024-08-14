@@ -89,7 +89,7 @@ th {
 /* minireset end*/
 
 body {
-	/* font-size: clamp(1.2rem, 4vw, 1.8rem); */
+	font-size: clamp(1.2rem, 4vw, 1.6rem);
 	color: var(--text-color);
 	background-color: var(--page-color);
 	overflow-x: hidden;
