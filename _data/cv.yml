@@ -1,13 +1,13 @@
 details:
   name: Dr. Marc Oliver Orth
   de-DE:
-    tagline: Natürlicher Enthusiast. Wunderer. Nerd. Mensch.
+    tagline: Von Natur aus Enthusiast. Wunderer. Nerd. Mensch.
     statement: |
-      Kreativer und analytischer Geschichtenerzähler mit Liebe zum Detail, das Große Ganze immer im Blick. Meine Superkräfte: Erkennen, was fehlt. Komplexes vereinfachen und leicht verständlich machen. Dinge erklären.
+      Kreativer und analytischer Geschichtenerzähler mit Liebe zum Detail, das Große Ganze immer im Blick. Meine Superkräfte: Erkennen, was fehlt. Komplexes vereinfachen und leicht verständlich machen. Dinge erklären, Probleme lösen.
   en-US:
     tagline: Enthusiast by nature. Wonderer. Geek. Human(e) being.
     statement: |
-      Linguist with a doctorate and language enthusiasm. My focus is on the means of visual communication, especially text, »icons« and illustrations aiding users to perform certain tasks (and make them want to do it). My intrinsic motivation is to make other people’s lives (as well as my own) easier and more comprehensible.
+      Creative and analytic story-teller with attention to detail, yet keeping the bigger picture in mind. My super powers: spot what’s missing, simplify the complex, translate »hard to get« to »clear and precise«. Explaining things. Solving Problems.
   skills:
     de-DE:
       title: Fähigkeiten & Fertigkeiten
@@ -63,6 +63,14 @@ experience:
       where: Freiberuflicher Designer and Softwareentwickler
       from: 2004-01
       to: 2009-01
+    - what: Marketingreferent
+      where: CA Coaching Akademie GmbH
+      from: 2002-08
+      to: 2003-12
+    - what: Spezialist für Illustration und Visualisierung
+      where: WMD Medical Software GmbH
+      from: 2002-02
+      to: 2002-06
 
   en-US:
     title: Work Experience
@@ -95,6 +103,14 @@ experience:
       where: Freelance Designer and Full-Stack Developer
       from: 2004-01
       to: 2009-01
+    - what: Head of Marketing
+      where: CA Coaching Akademie GmbH
+      from: 2002-08
+      to: 2003-12
+    - what: Visual Communication and Illustration Specialist
+      where: WMD Medical Software GmbH
+      from: 2002-02
+      to: 2002-06
 
 education:
   de-DE:
@@ -104,7 +120,7 @@ education:
       where: Leibniz Universität Hannover
       from: 2003-09
       to: 2006-02
-    - what: Magister Artium in Anglistik & Geschichte
+    - what: Magister Artium (M. A.) in Anglistik & Geschichte
       where: Leibniz Universität Hannover
       from: 1996-04
       to: 2001-02
@@ -116,7 +132,7 @@ education:
       where: Leibniz Universität Hannover
       from: 2003-09
       to: 2006-02
-    - what: Magister Artium in English Linguistics & History
+    - what: Magister Artium (M. A.) in English Linguistics & History
       where: Leibniz Universität Hannover
       from: 1996-04
       to: 2001-02
