@@ -194,7 +194,7 @@ svg {
 
 hr {
 	border: 0;
-	height: 0.1em;
+	height: 0.05em;
 	background-color: var(--text-color);
 	margin: 2em 0;
 }
