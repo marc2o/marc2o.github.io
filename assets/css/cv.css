@@ -157,6 +157,8 @@ header {
 	padding-top: 2rem;
 	background: var(--link-color);
 	color: white;
+	overflow: hidden;
+	clip-path: polygon(0 1rem, 100% 0, 100% calc(100% - 1rem), 0 100%);
 }
 
 ul.skills {

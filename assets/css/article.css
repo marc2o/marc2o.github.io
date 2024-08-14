@@ -2,8 +2,8 @@
 	--spot-font: 'Avenir Next', Avenir, Montserrat, Corbel, 'URW Gothic', source-sans-pro, sans-serif;
 	--text-font: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;
 	--code-font: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas, 'DejaVu Sans Mono', monospace;
-  --deco-font: 'Segoe Print', 'Bradley Hand', Chilanka, TSCu_Comic, casual, cursive;
-font-weight: normal;
+	--deco-font: 'Segoe Print', 'Bradley Hand', Chilanka, TSCu_Comic, casual, cursive;
+	font-weight: normal;
 	--outer-width: 72rem;
 	--inner-width: 56rem;
 }
@@ -203,7 +203,9 @@ dd+dd {
 }
 
 figure
-/*div[class^='language-']*/ {
+
+/*div[class^='language-']*/
+	{
 	grid-column: 1 / 4;
 	white-space: nowrap;
 	overflow-x: auto;
@@ -292,7 +294,6 @@ header {
 	height: calc(var(--vh, 1vh) * 100 - 2em);
 	overflow: hidden;
 	clip-path: polygon(0 1rem, 100% 0, 100% calc(100% - 1rem), 0 100%);
-
 }
 
 header>h1 {
