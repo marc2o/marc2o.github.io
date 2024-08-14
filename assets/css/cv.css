@@ -89,7 +89,7 @@ th {
 /* minireset end*/
 
 body {
-	font-size: clamp(1.2rem, 4vw, 1.6rem);
+	font-size: clamp(1.1rem, 2vw, 1.4rem);
 	color: var(--text-color);
 	background-color: var(--page-color);
 	overflow-x: hidden;
@@ -116,6 +116,7 @@ li span {
 }
 
 h1 {
+	font-size: 1.8em;
 	font-weight: 200;
 }
 
@@ -130,7 +131,7 @@ header h3 {
 
 article,
 header div {
-	max-width: 40rem;
+	max-width: 40em;
 	margin: 0 auto;
 	padding: 1rem;
 	line-height: 1.6em;
