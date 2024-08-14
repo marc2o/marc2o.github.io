@@ -116,6 +116,7 @@ li span {
 }
 
 h1 {
+	margin-top: 1em;
 	font-size: 1.8em;
 	font-weight: 200;
 }
@@ -131,9 +132,9 @@ header h3 {
 
 article,
 header div {
-	max-width: 40em;
+	max-width: 36em;
 	margin: 0 auto;
-	padding: 1rem;
+	padding: 2em 1rem;
 	line-height: 1.6em;
 }
 
@@ -161,8 +162,8 @@ picture {
 	display: block;
 	margin: 0 auto;
 	overflow: hidden;
-	width: 4em;
-	height: 4em;
+	width: 3em;
+	height: 3em;
 	border-radius: 50%;
 	border: 0.2em solid transparent;
 	box-shadow: 0 0 0 0.125em white;
