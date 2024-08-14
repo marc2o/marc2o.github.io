@@ -170,6 +170,9 @@ ul.position li:not(first-child) {
 	margin-top: 1em;
 }
 
+li span {
+	text-transform: uppercase;
+}
 li span,
 footer p {
 	font-size: 83.5%;
