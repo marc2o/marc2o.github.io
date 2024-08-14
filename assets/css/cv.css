@@ -140,6 +140,10 @@ header div {
 	line-height: 1.6em;
 }
 
+ul+h2 {
+	margin-top: 2em;
+}
+
 header {
 	padding-top: 2rem;
 	background: var(--link-color);
