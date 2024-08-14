@@ -55,6 +55,13 @@
 				{% endfor %}
 			</ul>
 
+			<h2>{{ site.data.cv.details.skills.title }}</h2>
+			<ul>
+				{% for skill in site.data.cv.details.kills.list %}
+				<li>{{ skill }}</li>
+				{% endfor %}
+			</ul>
+
 			{{ content }}
 
 			<footer>
