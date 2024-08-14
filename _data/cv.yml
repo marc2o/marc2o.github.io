@@ -11,6 +11,7 @@ details:
   skills:
     de-DE:
       title: Fähigkeiten & Fertigkeiten
+      list:
       - Analytisches und strategisches Denken
       - Kreativität
       - Problemlösung
@@ -18,7 +19,7 @@ details:
       - UI Design
       - Deutsch (Muttersprache)
       - Englisch (verhandlungssicher)
-      
+
     en-US:
       title: Skills
       list:
