@@ -147,7 +147,7 @@ header {
 }
 
 ul.skills {
-	list-style-type: circle;
+	list-style-type: disc;
 	padding: 1em;
 }
 
