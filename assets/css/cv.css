@@ -111,7 +111,8 @@ strong {
 
 h2,
 h3,
-li span {
+li span,
+footer p {
 	font-family: var(--spot-font);
 	font-weight: normal;
 }
