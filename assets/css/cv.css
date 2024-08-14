@@ -198,6 +198,7 @@ ul.follow {
 	list-style: none;
 	margin: 2.25rem 0;
 	padding: 0;
+	text-align: center;
 }
 
 ul.follow>li {
@@ -226,11 +227,11 @@ ul.follow svg {
 }
 
 ul.follow svg g {
-	fill: var(--page-color);
+	fill: var(--link-color);
 }
 
 ul.follow svg g#Codepen path {
-	stroke: var(--page-color);
+	stroke: var(--link-color);
 }
 
 /* about box */
