@@ -50,11 +50,13 @@
 				{% for position in site.data.cv.education[page.language].positions %}
 				<li>
 					<span>{{ position.from }} – {{ position.to }}</span><br>
-					<strong>{{ position.what }}</strong><br>
-					<em>{{ position.where }}</em>
+					<strong>{{ position.what }}</strong>
 					{% if position.more %}
-					<br><a href="{{ position.more.url }}" target="_blank">{{ position.more.inf }}</a>
+					&#32;&bull;&#32;<a href="{{ position.more.url }}" target="_blank">{{ position.more.inf }}</a><br>
+					{% else %}
+					<br>
 					{% endif %}
+					<em>{{ position.where }}</em>
 				</li>
 				{% endfor %}
 			</ul>
