@@ -40,7 +40,7 @@
 				<li>
 					<span>{{ position.from }} – {{ position.to }}</span><br>
 					<strong>{{ position.what }}</strong>
-					{{% if position.url != '' %}}
+					{{% if position.url != nil %}}
 						<a href="{{ position.more.url }}">TEST</a><br>
           {{% else %}}
             <br>
