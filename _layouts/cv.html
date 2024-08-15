@@ -39,11 +39,13 @@
 				{% for position in site.data.cv.experience[page.language].positions %}
 				<li>
 					<span>{{ position.from }} – {{ position.to }}</span><br>
-					<strong>{{ position.what }}</strong><br>
-					<em>{{ position.where }}</em><br>
-					{{% if position.more == blank %}}
-						<a href="{{ position.more.url }}">TEST</a>
+					<strong>{{ position.what }}</strong>
+					{{% if position.url != '' %}}
+						<a href="{{ position.more.url }}">TEST</a><br>
+          {{% else %}}
+            <br>
 					{{% endif %}}
+					<em>{{ position.where }}</em>
 				</li>
 				{% endfor %}
 			</ul>

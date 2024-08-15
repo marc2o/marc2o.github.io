@@ -120,9 +120,7 @@ education:
       where: Leibniz Universität Hannover
       from: September 2003
       to: Februar 2006
-      more:
-        title: Digitale Ausgabe der veröffentlichten Dissertation.
-        url: 'https://doi.org/10.15488/6774'
+      url: 'https://doi.org/10.15488/6774'
     - what: Magister Artium (M. A.) in Anglistik & Geschichte
       where: Leibniz Universität Hannover
       from: April 1996
@@ -135,9 +133,7 @@ education:
       where: Leibniz Universität Hannover
       from: September 2003
       to: February 2006
-      more:
-        title: Digital edition of the published dissertation.
-        url: 'https://doi.org/10.15488/6774'
+      url: 'https://doi.org/10.15488/6774'
     - what: Magister Artium (M. A.) in English Linguistics & History
       where: Leibniz Universität Hannover
       from: April 1996
