@@ -63,7 +63,7 @@
 
 			<h2>{{ site.data.cv.skills[page.language].title }}</h2>
 			<ul class="skills">
-				{% for skill in site.data.cv.skills[page.language].skills.list %}
+				{% for skill in site.data.cv.skills[page.language].list %}
 				<li>{{ skill }}</li>
 				{% endfor %}
 			</ul>
