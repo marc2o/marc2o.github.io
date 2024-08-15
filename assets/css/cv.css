@@ -164,6 +164,7 @@ header {
 
 ul.skills {
 	list-style-type: disc;
+	padding-top: 1em;
 	padding-left: 1em;
 }
 
