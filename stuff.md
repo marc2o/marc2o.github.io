@@ -35,6 +35,30 @@ Ich mag Pixel, wenn sie groß sind.
   <img src="/images/pixelart/cthulhu.png" alt="Cthulhu">
 </figure>
 
+## Logos
+
+Aushängeschilder.
+
+<figure>
+  <img src="/images/logos/hausrat.jpg" alt="Haus:RAT-Magazin">
+  <figcaption>Ratgebermagazin über nachhaltiges und originelles Wohnen. — Für <em>Schlütersche Marketing Holding GmbH</em>, 2019</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/logos/praxis-wissen.jpg" alt="Praxiswissen">
+  <figcaption>Tipps und Anleitungsvideos rund um Fuhrparkmanagement. — Für <em>Schlütersche Verlagsgesellschaft mbH & Co. KG</em>, 2016</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/logos/parklife.jpg" alt="Parklife Training & Beratung">
+  <figcaption>Beratungsfirma einer ehemaligen Kollegin. — Für <em>Parklife Training und Beratung GmbH</em>, 2015</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/logos/heilende-linien.jpg" alt="">
+  <figcaption>Persönliches Projekt einer Freundin, Kindern Kunst und Entspannung beizubringen. — Für <em>Gyógyító Vonalak (dt. »heilende Linien«)</em>, 2015</figcaption>
+</figure>
+
 ## Chiptunes
 
 Musik mit Tasten, Saiten und Chips.
@@ -60,28 +84,4 @@ Musik mit Tasten, Saiten und Chips.
   	<figcaption><a href="https://marc2o.bandcamp.com/track/paniola-ranch" title="marc2o Paniola Ranch" target="_blank">Paniola Ranch Theme</a>
     </figcaption>
   </figure>
-</figure>
-
-## Logos
-
-Aushängeschilder.
-
-<figure>
-  <img src="/images/logos/hausrat.jpg" alt="Haus:RAT-Magazin">
-  <figcaption>Ratgebermagazin über nachhaltiges und originelles Wohnen. — Für <em>Schlütersche Marketing Holding GmbH</em>, 2019</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/logos/praxis-wissen.jpg" alt="Praxiswissen">
-  <figcaption>Tipps und Anleitungsvideos rund um Fuhrparkmanagement. — Für <em>Schlütersche Verlagsgesellschaft mbH & Co. KG</em>, 2016</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/logos/parklife.jpg" alt="Parklife Training & Beratung">
-  <figcaption>Beratungsfirma einer ehemaligen Kollegin. — Für <em>Parklife Training und Beratung GmbH</em>, 2015</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/logos/heilende-linien.jpg" alt="">
-  <figcaption>Persönliches Projekt einer Freundin, Kindern Kunst und Entspannung beizubringen. — Für <em>Gyógyító Vonalak (dt. »heilende Linien«)</em>, 2015</figcaption>
 </figure>
