@@ -164,7 +164,7 @@ header {
 
 ul.skills {
 	list-style-type: disc;
-	padding: 1em;
+	padding-left: 1em;
 }
 
 ul.position li:not(first-child) {
