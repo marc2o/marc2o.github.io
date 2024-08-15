@@ -2,7 +2,7 @@
 <html lang="{{ page.language | default: site.lang | default: " de-DE" }}">
 
 <head>
-	{% include head.html %}
+	{%- include head.html -%}
 	<link rel="stylesheet" type="text/css"
 		href="{{ '/assets/css/blog.css?v=' | append: site.github.build_revision | relative_url }}">
 </head>
@@ -18,23 +18,23 @@
 	</nav>
 	<main class="posts">
 		<ul>
-			{% for post in site.posts %}<li>
+			{%- for post in site.posts -%}<li>
 				<a href="{{ post.url }}">
-					{% if post.image %}
+					{%- if post.image -%}
 					<span class="preview image"><img src="{{ post.image }}" alt=""></span>
-					{% endif %}
+					{%- endif -%}
 					<h3>{{ post.title }}</h3>
 					<p>{{ post.excerpt | strip_html | normalize_whitespace | truncate: 300 | escape }}</p>
 				</a>
-			</li>{% endfor %}
+			</li>{%- endfor -%}
 		</ul>
 	</main>
 	<footer>
-		{% include follow.html %}
-		{% if site.github.is_project_page %}
+		{%- include follow.html -%}
+		{%- if site.github.is_project_page -%}
 		<p><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a
 				href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</p>
-		{% endif %}
+		{%- endif -%}
 		<p><a href="/">Start</a> / <a href="/articles">Blog</a> / <a href="/about.html">Über</a> / <a
 				href="/stuff.html">Krempel</a> / <a href="/feed.xml">RSS</a></p>
 		<p>&nbsp;</p>
