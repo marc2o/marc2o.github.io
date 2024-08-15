@@ -52,7 +52,7 @@
 					<span>{{ position.from }} – {{ position.to }}</span><br>
 					<strong>{{ position.what }}</strong>
 					{% if position.more %}
-					&bull; <a href="{{ position.more.url }}" target="_blank">{{ position.more.inf }}</a><br>
+					(<a href="{{ position.more.url }}" target="_blank">{{ position.more.inf }}</a>)<br>
 					{% else %}
 					<br>
 					{% endif %}
