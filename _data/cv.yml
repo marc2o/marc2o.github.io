@@ -8,28 +8,29 @@ details:
     tagline: Enthusiast by nature. Wonderer. Geek. Human(e) being.
     statement: |
       Creative and analytic story-teller with attention to detail, yet keeping the bigger picture in mind. My super powers: spot what’s missing, simplify the complex, translate »hard to get« to »clear and precise«. Explaining things. Solving Problems.
-  skills:
-    de-DE:
-      title: Fähigkeiten & Fertigkeiten
-      list:
-      - Analytisches und strategisches Denken
-      - Kreativität
-      - Problemlösung
-      - Programmieren (Lua, C, JavaScript, C#)
-      - UI Design
-      - Deutsch (Muttersprache)
-      - Englisch (verhandlungssicher)
 
-    en-US:
-      title: Skills
-      list:
-      - Analytic and strategic thinking
-      - Creativity
-      - Problem solving
-      - Coding (Lua, C, JavaScript, C#)
-      - UI Design
-      - German (native)
-      - English (full professional)
+skills:
+  de-DE:
+    title: Fähigkeiten & Fertigkeiten
+    list:
+    - Analytisches und strategisches Denken
+    - Kreativität
+    - Problemlösung
+    - Programmieren (Lua, C, JavaScript, C#)
+    - UI Design
+    - Deutsch (Muttersprache)
+    - Englisch (verhandlungssicher)
+
+  en-US:
+    title: Skills
+    list:
+    - Analytic and strategic thinking
+    - Creativity
+    - Problem solving
+    - Coding (Lua, C, JavaScript, C#)
+    - UI Design
+    - German (native)
+    - English (full professional)
 
 experience:
   de-DE:
