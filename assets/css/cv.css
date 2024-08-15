@@ -137,7 +137,8 @@ header p {
 	text-align: center;
 }
 
-header p {
+header p,
+h2+p {
 	margin-top: 1em;
 }
 
