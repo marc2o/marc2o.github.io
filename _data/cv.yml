@@ -13,25 +13,25 @@ skills:
   de-DE:
     title: Fähigkeiten & Fertigkeiten
     list:
-    - Analytisches und strategisches Denken
-    - Kreativität
-    - Problemlösung
-    - UI Design & Illustration
-    - Programmieren (Lua, C und JavaScript, manchmal C#, früher 68k-Assembler, Forth und Java)
-    - Deutsch (Muttersprache)
-    - Englisch (verhandlungssicher)
+      - Analytisches und strategisches Denken
+      - Kreativität
+      - Problemlösung
+      - Human(es) Interface Design & Illustration
+      - Programmieren (Lua, C und JavaScript, manchmal C#, früher 68k-Assembler, Forth und Java)
+      - Deutsch (Muttersprache)
+      - Englisch (verhandlungssicher)
 
   en-US:
     title: Skills
     list:
-    - Analytic and strategic thinking
-    - Creativity
-    - Problem solving
-    - UI Design & Illustration
-    - Programming (Lua, C and JavaScript, sometimes C#, formerly 68k assembly, Forth and Java)
-    - German (native)
-    - English (full professional)
-    
+      - Analytic and strategic thinking
+      - Creativity
+      - Problem solving
+      - Human(e) Interface Design & Illustration
+      - Programming (Lua, C and JavaScript, sometimes C#, formerly 68k assembly, Forth and Java)
+      - German (native)
+      - English (full professional)
+
 interests:
   de-DE:
     title: Interessen
@@ -47,110 +47,110 @@ experience:
   de-DE:
     title: Aktivitäten
     positions:
-    - what: Senior Creative Strategist
-      where: Schlütersche Marketing Holding GmbH
-      from: Juli 2022
-      to: heute
-    - what: Senior Business Development Manager
-      where: Schlütersche Marketing Holding GmbH
-      from: August 2017
-      to: Juli 2022
-    - what: Business Development Manager
-      where: Schlütersche Verlagsgesellschaft mbH & Co. KG
-      from: Juni 2014
-      to: August 2017
-    - what: Dozent »Einführung in Mobile Marketing«
-      where: Norddeutsche Akademie für Marketing, Kommunikation + Medien gGmbH
-      from: März 2014
-      to: März 2014
-    - what: Zweitgutachter (Betreuung, Begutachtung und Prüfung einer Masterarbeit)
-      where: Universität Bielefeld, Fakultät für Linguistik und Literaturwissenschaft, Interdisziplinäre Medienwissenschaft 
-      from: Februar 2013
-      to: Oktober 2013
-    - what: Konzeption und Projektleitung
-      where: Schlütersche Verlagsgesellschaft mbH & Co. KG
-      from: Januar 2009
-      to: Juni 2014
-    - what: Information Design, Human Interface Design, Software Development, Web Development
-      where: Freiberuflicher Designer and Softwareentwickler
-      from: Januar 2004
-      to: Januar 2009
-    - what: Marketingreferent
-      where: CA Coaching Akademie GmbH
-      from: August 2002
-      to: Dezember 2003
-    - what: Spezialist für Illustration und Visualisierung
-      where: WMD Medical Software GmbH
-      from: Februar 2002
-      to: Juni 2002
+      - what: Senior Creative Strategist
+        where: Schlütersche Marketing Holding GmbH
+        from: Juli 2022
+        to: heute
+      - what: Senior Business Development Manager
+        where: Schlütersche Marketing Holding GmbH
+        from: August 2017
+        to: Juli 2022
+      - what: Business Development Manager
+        where: Schlütersche Verlagsgesellschaft mbH & Co. KG
+        from: Juni 2014
+        to: August 2017
+      - what: Dozent »Einführung in Mobile Marketing«
+        where: Norddeutsche Akademie für Marketing, Kommunikation + Medien gGmbH
+        from: März 2014
+        to: März 2014
+      - what: Zweitgutachter (Betreuung, Begutachtung und Prüfung einer Masterarbeit)
+        where: Universität Bielefeld, Fakultät für Linguistik und Literaturwissenschaft, Interdisziplinäre Medienwissenschaft
+        from: Februar 2013
+        to: Oktober 2013
+      - what: Konzeption und Projektleitung
+        where: Schlütersche Verlagsgesellschaft mbH & Co. KG
+        from: Januar 2009
+        to: Juni 2014
+      - what: Information Design, Human Interface Design, Software Development, Web Development
+        where: Freiberuflicher Designer and Softwareentwickler
+        from: Januar 2004
+        to: Januar 2009
+      - what: Marketingreferent
+        where: CA Coaching Akademie GmbH
+        from: August 2002
+        to: Dezember 2003
+      - what: Spezialist für Illustration und Visualisierung
+        where: WMD Medical Software GmbH
+        from: Februar 2002
+        to: Juni 2002
 
   en-US:
     title: Work Experience
     positions:
-    - what: Senior Creative Strategist
-      where: Schlütersche Marketing Holding GmbH
-      from: July 2022
-      to: today
-    - what: Senior Business Development Manager
-      where: Schlütersche Marketing Holding GmbH
-      from: August 2017
-      to: July 2022
-    - what: Business Development Manager
-      where: Schlütersche Verlagsgesellschaft mbH & Co. KG
-      from: June 2014
-      to: August 2017
-    - what: Lecturer »Introduction to Mobile Marketing«
-      where: Norddeutsche Akademie für Marketing, Kommunikation + Medien gGmbH
-      from: March 2014
-      to: March 2014
-    - what: Second Referee (Master thesis assistance, report and examination)
-      where: Universität Bielefeld, Faculty of Linguistics & Literary Studies, Interdisciplinary Media Studies
-      from: February 2013
-      to: October 2013
-    - what: Conceptual Design and Project Leadership
-      where: Schlütersche Verlagsgesellschaft mbH & Co. KG
-      from: January 2009
-      to: June 2014
-    - what: Information Design, Human Interface Design, Software Development, Web Development
-      where: Freelance Designer and Full-Stack Developer
-      from: January 2004
-      to: January 2009
-    - what: Head of Marketing
-      where: CA Coaching Akademie GmbH
-      from: August 2002
-      to: December 2003
-    - what: Visual Communication and Illustration Specialist
-      where: WMD Medical Software GmbH
-      from: February 2002
-      to: June 2002
+      - what: Senior Creative Strategist
+        where: Schlütersche Marketing Holding GmbH
+        from: July 2022
+        to: today
+      - what: Senior Business Development Manager
+        where: Schlütersche Marketing Holding GmbH
+        from: August 2017
+        to: July 2022
+      - what: Business Development Manager
+        where: Schlütersche Verlagsgesellschaft mbH & Co. KG
+        from: June 2014
+        to: August 2017
+      - what: Lecturer »Introduction to Mobile Marketing«
+        where: Norddeutsche Akademie für Marketing, Kommunikation + Medien gGmbH
+        from: March 2014
+        to: March 2014
+      - what: Second Referee (Master thesis assistance, report and examination)
+        where: Universität Bielefeld, Faculty of Linguistics & Literary Studies, Interdisciplinary Media Studies
+        from: February 2013
+        to: October 2013
+      - what: Conceptual Design and Project Leadership
+        where: Schlütersche Verlagsgesellschaft mbH & Co. KG
+        from: January 2009
+        to: June 2014
+      - what: Information Design, Human Interface Design, Software Development, Web Development
+        where: Freelance Designer and Full-Stack Developer
+        from: January 2004
+        to: January 2009
+      - what: Head of Marketing
+        where: CA Coaching Akademie GmbH
+        from: August 2002
+        to: December 2003
+      - what: Visual Communication and Illustration Specialist
+        where: WMD Medical Software GmbH
+        from: February 2002
+        to: June 2002
 
 education:
   de-DE:
     title: Ausbildung
     positions:
-    - what: Promotion zum Dr. phil. in Linguistik & Piktorieller Semiotik zum Thema »Origins and Development of Icons and their Meanings«
-      where: Leibniz Universität Hannover
-      from: September 2003
-      to: Februar 2006
-      more:
-        inf: Digitale Ausgabe der veröffentlichten Dissertation
-        url: 'https://doi.org/10.15488/6774'
-    - what: Magister Artium (M. A.) in Anglistik & Geschichte
-      where: Leibniz Universität Hannover
-      from: April 1996
-      to: Februar 2001
+      - what: Promotion zum Dr. phil. in Linguistik & Piktorieller Semiotik zum Thema »Origins and Development of Icons and their Meanings«
+        where: Leibniz Universität Hannover
+        from: September 2003
+        to: Februar 2006
+        more:
+          inf: Digitale Ausgabe der veröffentlichten Dissertation
+          url: "https://doi.org/10.15488/6774"
+      - what: Magister Artium (M. A.) in Anglistik & Geschichte
+        where: Leibniz Universität Hannover
+        from: April 1996
+        to: Februar 2001
 
   en-US:
     title: Education
     positions:
-    - what: Doctorate (Dr. phil.) in Linguistics & Pictorial Semiotics »Origins and Development of Icons and their Meanings«
-      where: Leibniz Universität Hannover
-      from: September 2003
-      to: February 2006
-      more:
-        inf: Digital edition of the published dissertation
-        url: 'https://doi.org/10.15488/6774'
-    - what: Magister Artium (M. A.) in English Linguistics & History
-      where: Leibniz Universität Hannover
-      from: April 1996
-      to: February 2001
+      - what: Doctorate (Dr. phil.) in Linguistics & Pictorial Semiotics »Origins and Development of Icons and their Meanings«
+        where: Leibniz Universität Hannover
+        from: September 2003
+        to: February 2006
+        more:
+          inf: Digital edition of the published dissertation
+          url: "https://doi.org/10.15488/6774"
+      - what: Magister Artium (M. A.) in English Linguistics & History
+        where: Leibniz Universität Hannover
+        from: April 1996
+        to: February 2001
