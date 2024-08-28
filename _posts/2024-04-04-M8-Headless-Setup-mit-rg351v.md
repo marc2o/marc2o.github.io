@@ -141,7 +141,7 @@ Ein paar gängige Button-Kombinationen inklusive der Kombination zum Beenden der
 			<th>Funktion</th>
 		</tr>
 		<tr>
-			<td>[F] + [STICK]</td>
+			<td>[F] + [SHIFT]</td>
 			<td>M8 Tracker beenden</td>
 		</tr>
 		<tr>
