@@ -39,9 +39,10 @@ _Generell…_
 - Autodidakt
 - eher Astronom als Astronaut
 - Kind der Heimcomputer-Revolution
-- Musik-Amateur im barocken Sinne des Wortes
+- Musik-Amateur im barocken Wortsinn
 - Atari- & Nintendo-Konsolen
 - Commodore- und Apple-Computer
 - früher 68k-Asm, Forth und Java
 - heute Lua, C und JavaScript
+- …
 - (Fortsetzung folgt. Vielleicht.)
