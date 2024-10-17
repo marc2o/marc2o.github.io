@@ -151,7 +151,7 @@ Dieses Wörterbuch führe ich seit September 2015. Wahrscheinlich hat mich ein v
       <p>Es handelt sich um einen <i>gefühlten Erfahrungswert</i>. Also, etwas, das einem wie ein Fakt vorkommt, weil man meint es oft erlebt zu haben.&nbsp;<a href="#fnref:2" class="reversefootnote" role="doc-backlink">↩</a></p>
     </li>
     <li id="fn:3" role="doc-endnote">
-      <p>der auch ohne T-Shirt.&nbsp;<a href="#fnref:3" class="reversefootnote" role="doc-backlink">↩</a></p>
+      <p>oder auch mit T-Shirt.&nbsp;<a href="#fnref:3" class="reversefootnote" role="doc-backlink">↩</a></p>
     </li>
   </ol>
 </div>
