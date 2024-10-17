@@ -81,7 +81,9 @@ Dieses kurze Glossar zeigt doch unser sehr gestörtes Verhältnis zum Regen. Kei
 	<dt><strong>Nass</strong>, das</dt>  
 	<dd><em>n.</em> Der poetische Ausdruck für etwas, das außerhalb von Gedichten oft nur schwer zu ertragen ist.<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup></dd>
 	<dt><strong>nieseln</strong></dt>
-	<dd><em>n.</em> Auch <em>nisseln</em>, <em>mieseln</em>, <em>fieseln</em> und <em>fisseln</em>. Feiner, ziemlich gleichförmiger Regen mit sehr kleinen Wassertröpfchen. Sieht fast aus wie Nebel, ist nur viel nasser. Leichter Nieselregen bei 5 °C ist das Standardwetter in Hannover von November bis Januar.<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup></dd>
+	<dd><em>v.</em> Auch <em>nisseln</em>, <em>mieseln</em>, <em>fieseln</em> und <em>fisseln</em>. Feiner, ziemlich gleichförmiger Regen mit sehr kleinen Wassertröpfchen. Sieht fast aus wie Nebel, ist nur viel nasser. Leichter Nieselregen bei 5 °C ist das Standardwetter in Hannover von November bis Januar.<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup></dd>
+	<dt><strong>Nieselregen</strong>, der</dt>
+	<dd><em>v.</em> Wenn es <em>nieselt, fieselt, mieselt</em> und so weiter.</dd>
 </dl>
 
 ### O
@@ -124,7 +126,7 @@ Dieses kurze Glossar zeigt doch unser sehr gestörtes Verhältnis zum Regen. Kei
 	<dt><strong>Spargelregen</strong>, der</dt>
 	<dd><em>n.</em> Kurze <em>Schauer</em> im sonst sonnig milden Frühlingswetter im April und Mai. Gern gesehen von Spargelbauern und Spargelessern, weil damit der Spargel gut wächst und nicht zu teuer wird.</dd>
 	<dt><strong>Sprühregen</strong>, der</dt>
-	<dd><em>n.</em> Allzu faktische Beschreibung von norddeutschem Schietwetter. Siehe auch <em>Nieseln</em>.</dd>
+	<dd><em>n.</em> Allzu faktische Beschreibung von norddeutschem Schietwetter. Siehe auch <em>nieseln</em> und <em>Nieselregen</em>.</dd>
 	<dt><strong>in Strömen regnen</strong></dt>
 	<dd><em>ugs.</em> Wenn es <em>wie aus Eimern schüttet</em>, aber die Tropfen nicht dicht genug aufeinander folgen für <em>Bindfäden</em> und nicht dick und groß genug sind für <em>Junge Hunde</em>.</dd>
 </dl>
