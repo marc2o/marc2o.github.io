@@ -23,6 +23,9 @@ Manchmal bin ich einigermaßen kreativ und mache [Dinge wie diese]({% link stuff
   <img src="/images/cessare.png" alt="Cessare game screenshot">
   <img src="/images/gamedev-c.png" alt="Game screenshot">
   <img src="/images/logo-example.jpg" alt="Logo Project">
+  
+  ![Logo Project](/images/logo-example.jpg)
+  
 </figure>
 
 ## Tech-Blog
