@@ -83,7 +83,7 @@ Dieses kurze Glossar zeigt doch unser sehr gestörtes Verhältnis zum Regen. Kei
 	<dt><strong>nieseln</strong></dt>
 	<dd><em>v.</em> Auch <em>nisseln</em>, <em>mieseln</em>, <em>fieseln</em> und <em>fisseln</em>. Feiner, ziemlich gleichförmiger Regen mit sehr kleinen Wassertröpfchen. Sieht fast aus wie Nebel, ist nur viel nasser. Leichter Nieselregen bei 5 °C ist das Standardwetter in Hannover von November bis Januar.<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup></dd>
 	<dt><strong>Nieselregen</strong>, der</dt>
-	<dd><em>v.</em> Wenn es <em>nieselt, fieselt, mieselt</em> und so weiter.</dd>
+	<dd><em>n.</em> Wenn es <em>nieselt, fieselt, mieselt</em> und so weiter.</dd>
 </dl>
 
 ### O
