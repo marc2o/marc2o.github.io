@@ -200,7 +200,7 @@ svg {
 hr {
 	border: 0;
 	height: 0.05em;
-	background-color: var(--link-color);
+	background-color: var(--text-color);
 	margin: 2em 0;
 }
 
@@ -224,7 +224,7 @@ ul.follow>li {
 	padding: 0;
 	margin: 0.75rem .5rem 0 0;
 	border-radius: 20%;
-	background: white;
+	background: var(--link-color);
 	cursor: pointer;
 }
 
