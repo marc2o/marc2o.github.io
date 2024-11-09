@@ -34,6 +34,9 @@
 			</div>
 		</header>
 		<article>
+			<h2>{{ site.data.cv.interests[page.language].title }}</h2>
+			<p>{{ site.data.cv.interests[page.language].text }}</p>
+			
 			<h2>{{ site.data.cv.experience[page.language].title }}</h2>
 			<ul class="position">
 				{%- for position in site.data.cv.experience[page.language].positions -%}

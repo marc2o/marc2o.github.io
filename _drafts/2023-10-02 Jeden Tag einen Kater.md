@@ -12,6 +12,8 @@ tags:
 - Burma
 ---
 
+**Eigentlich wollte ich immer einen Hund haben, der mein Kumpel ist. Dann habe ich in einem Kater meinen besten Freund gefunden.**
+
 Eigentlich hatte ich gedacht, dass ich ein Hundemensch bin. Katzen waren mir nie geheuer. Eher Ungeheuer. Pelzige Rätsel. Süß, aber unberechenbar. Das Thema _Katze_ war für mich im Prinzip erledigt, nachdem ich mir als Kind — völlig unberechtigt, wie ich fand[^1] — einen dicken, blutigen Kratzer eingefangen hatte. Daran hatte sich nichts geändert, bis, ja, bis ich vierfacher Katzenpapa geworden bin.
 
 <!--more-->
