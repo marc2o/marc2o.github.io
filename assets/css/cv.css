@@ -156,8 +156,8 @@ ul+h2 {
 
 header {
 	padding-top: 2rem;
-	background: var(--link-color);
-	color: white;
+	background: var(--fill-color);
+	color: var(--text-color);
 	overflow: hidden;
 	clip-path: polygon(0 1rem, 100% 0, 100% calc(100% - 1rem), 0 100%);
 }

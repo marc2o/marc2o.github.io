@@ -37,6 +37,13 @@
 			<h2>{{ site.data.cv.intro[page.language].title }}</h2>
 			<p>{{ site.data.cv.intro[page.language].text }}</p>
 			
+			<h2>{{ site.data.cv.skills[page.language].title }}</h2>
+			<ul class="skills">
+				{%- for skill in site.data.cv.skills[page.language].list -%}
+				<li>{{ skill }}</li>
+				{%- endfor -%}
+			</ul>
+
 			<h2>{{ site.data.cv.experience[page.language].title }}</h2>
 			<ul class="position">
 				{%- for position in site.data.cv.experience[page.language].positions -%}
@@ -63,16 +70,6 @@
 				</li>
 				{%- endfor -%}
 			</ul>
-
-			<h2>{{ site.data.cv.skills[page.language].title }}</h2>
-			<ul class="skills">
-				{%- for skill in site.data.cv.skills[page.language].list -%}
-				<li>{{ skill }}</li>
-				{%- endfor -%}
-			</ul>
-
-			<h2>{{ site.data.cv.interests[page.language].title }}</h2>
-			<p>{{ site.data.cv.interests[page.language].text }}</p>
 
 			{{ content }}
 			<footer>
