@@ -14,14 +14,14 @@ intro:
     title: Übersicht
     text: |
       Meine Leidenschaft für Computer und Technik reicht zurück bis in meine Kindheit. So richtig begonnen hat meine Programmier- und Entwicklungs-Reise mit meinem ersten eigenen Computer, einem Commodore AMIGA 500. Seitdem entwickle und nutze ich Software als Mittel zur Problemlösung, als kreative Ausdrucksmöglichkeit und einfach so zum Spaß.
-      <br>&#9;
+      <br>&emsp;
       Ich mag Retro-Gaming und -Computer, Bücher und Schreiben, zeichnen mit Pixeln und Vektoren, coden in Lua und C, Musik machen mit Synths und Ukulele.
 
   en-US:
     title: Introduction
     text: |
       My passion for computers and tech dates back to my childhood. My programming and development journey, however, truly began with my first own computer, a Commodore AMIGA 500. Since then I have been creating and using software as a means of problem solving, creative expression and just for fun.
-      <br>&#9;
+      <br>&emsp;
       I’m into retro gaming and computing, books and writing, drawing with pixels and vectors, coding in Lua and C, and making music with synths and ukulele.
       
 skills:
