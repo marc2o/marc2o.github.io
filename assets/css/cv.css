@@ -200,7 +200,7 @@ svg {
 hr {
 	border: 0;
 	height: 0.05em;
-	background-color: var(--text-color);
+	background-color: var(--link-color);
 	margin: 2em 0;
 }
 
@@ -243,11 +243,11 @@ ul.follow svg {
 }
 
 ul.follow svg g {
-	fill: var(--link-color);
+	fill: var(--fill-color);
 }
 
 ul.follow svg g#Codepen path {
-	stroke: var(--link-color);
+	stroke: var(--fill-color);
 }
 
 /* about box */
