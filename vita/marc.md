@@ -7,6 +7,6 @@ language: en-US
 
 ---
 
-[Dieses Profil in deutscher Sprache anzeigen.](/cv/de/marc)
+[Dieses Profil in deutscher Sprache anzeigen.](/vita/de/marc)
 
 ---

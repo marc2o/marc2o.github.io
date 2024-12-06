@@ -7,6 +7,6 @@ language: de-DE
 
 ---
 
-[Show this profile in English.](/cv/marc)
+[Show this profile in English.](/vita/marc)
 
 ---
