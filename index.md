@@ -8,7 +8,7 @@ image: /images/marc2o-r66.jpg
 
 # Hallo, Welt!
 
-[Ich bin Marc]({% link about.md %}), Kommunikator, promovierter Linguist und Katzenpapa. Ich mag Retro-Gaming und -Computer, Bücher und Schreiben, zeichnen mit Pixeln und Vektoren, coden in Lua und C, Musik machen mit Synths und Ukulele.
+[Ich bin Marc]({% link about.md %}), Kommunikator, promovierter Linguist und Hobby-Ailurologe (dt. Katzenpapa). Ich mag Retro-Gaming und -Computer, Bücher und Schreiben, zeichnen mit Pixeln und Vektoren, coden in Lua und C, Musik machen mit Synths und Ukulele.
 
 Manchmal bin ich einigermaßen kreativ und mache [Dinge wie diese]({% link stuff.md %}).
 
