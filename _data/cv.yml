@@ -1,11 +1,11 @@
 details:
   name: Dr. Marc Oliver Orth
   de-DE:
-    tagline: Promovierter Linguist × Code, Sprache & Visualisierung
+    tagline: Code, Sprache & Visualisierung
     statement: |
       Erfindungsreicher Problemlöser und analytischer Geschichtenerzähler mit Liebe zum Detail, der das Große Ganze immer im Blick hat. Lerner und Lehrer mit Gespür für das, was fehlt. Findet Strukturen im Chaos, vereinfacht Komplexes und macht kompliziertes verständlich.
   en-US:
-    tagline: Linguist with a PhD × Code, Language & Visualization.
+    tagline: Code, Language & Visualization.
     statement: |
       Inventive problem-solver and analytical storyteller with attention to detail, who always keeps the big picture in mind. Learner and teacher with a feel for what is missing. Finds structure in chaos, simplifies complex things and makes complicated things understandable.
 
@@ -13,18 +13,14 @@ intro:
   de-DE:
     title: Übersicht
     text: |
-      Meine Leidenschaft für Computer und Technik reicht zurück bis in meine Kindheit. So richtig begonnen hat meine Programmier- und Entwicklungs-Reise mit meinem ersten eigenen Computer, einem Commodore AMIGA 500. Seitdem entwickle und nutze ich Software als Mittel zur Problemlösung, als kreative Ausdrucksmöglichkeit und einfach so zum Spaß.
-      <br>&emsp;
-      Die Berührungspunkte zwischen Mensch und Maschine faszinieren mich schon lange. Menschen für technologien zu begeistern und Benutzeroberflächen menschenfreundlich gestalten sind daher – vor allem seit meiner Promotion – ein wichtiger Schwerpunkt für mich.
+      Promovierter Linguist, studierter Anglist und Historiker, abgebrochener Maschinenbauer, leidenschaftlicher Entwickler und Gestalter.
       <br>&emsp;
       Ich mag Retro-Gaming und -Computer, Bücher und Schreiben, zeichnen mit Pixeln und Vektoren, coden in Lua und C, Musik machen mit Synths und Ukulele. Und ich liebe Katzen.
 
   en-US:
     title: Introduction
     text: |
-      My passion for computers and tech dates back to my childhood. My programming and development journey, however, truly began with my first own computer, a Commodore AMIGA 500. Since then I have been creating and using software as a means of problem solving, creative expression and just for fun.
-      <br>&emsp;
-      The points of contact between humans and machines have fascinated me for a long time. Getting people excited about technology and designing user interfaces that are human-friendly have therefore been an important focus for me - especially since my doctorate.
+      Linguist with a doctorate, student of English language and early modern history, mechanical engineering dropout, passionate developer and designer.
       <br>&emsp;
       I’m into retro gaming and computing, books and writing, drawing with pixels and vectors, coding in Lua and C, making music with synths and ukulele. And I love cats.
       
