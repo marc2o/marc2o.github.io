@@ -8,7 +8,7 @@ image: /images/marc2o-r66.jpg
 
 # Hallo, Welt!
 
-[Ich bin Marc]({% link about.md %}), promovierter Linguist, studierter Anglist und Historiker, abgebrochener Maschinenbauer, leidenschaftlicher Entwickler und Gestalter. Ich mag Retro-Gaming und -Computer, Bücher und Schreiben, zeichnen mit Pixeln und Vektoren, coden in Lua und C, Musik machen mit Synths und Ukulele. Und ich liebe Katzen.
+[Ich bin Marc]({% link about.md %}), promovierter Linguist, studierter Anglist und Historiker, abgebrochener Maschinenbauer, leidenschaftlicher Entwickler und Gestalter. Ich mag Retro-Gaming und ‑Computer, Bücher und Schreiben, zeichnen mit Pixeln und Vektoren, coden in Lua und C, Musik machen mit Synths und Ukulele. Und ich liebe Katzen.
 
 Manchmal bin ich einigermaßen kreativ und mache [Dinge wie diese]({% link stuff.md %}).
 
