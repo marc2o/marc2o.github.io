@@ -29,6 +29,13 @@ Besonders hat es dem norddeutschen Nörgler ja der Regen angetan. Regen wirkt n�
 
 Dieses kurze Glossar zeigt doch unser sehr gestörtes Verhältnis zum Regen. Kein Hannoveraner würde einen Regentanz aufführen. Außer vor Wut. Dabei gibt es doch an und für sich gar kein schlechtes Wetter. Nur die falsche Kleidung. — Und nächstes Jahr kommen Wasserpflanzen auf die Terrasse!
 
+### A
+
+<dl>
+	<dt><strong>anhaltender Regen</strong></dt>
+	<dd><em>ugs.</em> Auch <em>lang anhaltender Regen</em>, euphemistische Umschreibung für <em>Dauerregen</em>.</dd>
+</dl>
+
 ### B
 
 <dl>
