@@ -10,8 +10,9 @@ image: /images/marc2o-r66.jpg
 
 [Ich bin Marc]({% link about.md %}), promovierter Linguist, studierter Anglist und Historiker, abgebrochener Maschinenbauer, leidenschaftlicher Entwickler und Gestalter. Ich mag Retro-Gaming und &#8209;Computer, Bücher und Schreiben, zeichnen mit Pixeln und Vektoren, coden in Lua und C, Musik machen mit Synths und Ukulele. Und ich liebe Katzen.
 
-Manchmal bin ich einigermaßen kreativ und mache [Dinge wie diese]({% link stuff.md %}).
+Wenn mir danach ist, mache [Dinge wie diese]({% link stuff.md %}).
 
+<!--
 <figure class="grid">
   <img src="/images/icons/textmate.png" alt="TextMate app icon">
   <img src="/images/icons/zettlr.png" alt="Zettlr app icon">
@@ -24,6 +25,7 @@ Manchmal bin ich einigermaßen kreativ und mache [Dinge wie diese]({% link stuff
   <img src="/images/gamedev-c.png" alt="Game screenshot">
   <img src="/images/logo-example.jpg" alt="Logo Project">
 </figure>
+-->
 
 ## Tech-Blog
 
