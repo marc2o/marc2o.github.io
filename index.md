@@ -12,8 +12,7 @@ image: /images/marc2o-r66.jpg
 
 Wenn mir danach ist, mache [Dinge wie diese]({% link stuff.md %}).
 
-<!--
-<figure class="grid">
+<!-- figure class="grid">
   <img src="/images/icons/textmate.png" alt="TextMate app icon">
   <img src="/images/icons/zettlr.png" alt="Zettlr app icon">
   <img src="/images/pixelart/the-son-of-man.png" alt="The Son of Man pixel art">
@@ -24,8 +23,7 @@ Wenn mir danach ist, mache [Dinge wie diese]({% link stuff.md %}).
   <img src="/images/cessare.png" alt="Cessare game screenshot">
   <img src="/images/gamedev-c.png" alt="Game screenshot">
   <img src="/images/logo-example.jpg" alt="Logo Project">
-</figure>
--->
+</figure -->
 
 ## Tech-Blog
 
