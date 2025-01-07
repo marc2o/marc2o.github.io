@@ -1,26 +1,26 @@
 details:
   name: Dr. Marc Oliver Orth
   de-DE:
-    tagline: Code, Sprache & Visualisierung
+    tagline: Strategie und Sprache
     statement: |
-      Erfindungsreicher Problemlöser und analytischer Geschichtenerzähler mit Liebe zum Detail, der das Große Ganze immer im Blick hat. Lerner und Lehrer mit Gespür für das, was fehlt. Findet Strukturen im Chaos, vereinfacht Komplexes und macht kompliziertes verständlich.
+      Analytischer und erfindungsreicher Problemlöser sowie strategischer Denker mit Liebe zum Detail, der dabei das Große Ganze immer im Blick hat. Lerner und Lehrer mit Gespür für das, was fehlt. Findet Strukturen im Chaos, vereinfacht Komplexes und macht kompliziertes verständlich. 
   en-US:
-    tagline: Code, Language & Visualization.
+    tagline: Strategy und Language
     statement: |
-      Inventive problem-solver and analytical storyteller with attention to detail, who always keeps the big picture in mind. Learner and teacher with a feel for what is missing. Finds structure in chaos, simplifies complex things and makes complicated things understandable.
+      Analytical and inventive problem solver and strategic thinker with attention to detail, who always keeps the big picture in mind. Learner and teacher with a feel for what is missing. Finds structure in chaos, simplifies complex things and makes complicated things understandable.
 
 intro:
   de-DE:
     title: Übersicht
     text: |
-      Promovierter Linguist, studierter Anglist und Historiker, abgebrochener Maschinenbauer, leidenschaftlicher Entwickler und Gestalter.
+      Promovierter Linguist mit Schwerpunkt in bildhafter Sprache und Visualisierung, studierter Anglist und Historiker, abgebrochener Maschinenbauer, leidenschaftlicher Entwickler und Gestalter.
       <br>&emsp;
       Ich mag Retro-Gaming und -Computer, Bücher und Schreiben, zeichnen mit Pixeln und Vektoren, coden in Lua und C, Musik machen mit Synths und Ukulele. Und ich liebe Katzen.
 
   en-US:
     title: Introduction
     text: |
-      Linguist with a doctorate, student of English and Early Modern History, Mechanical Engineering dropout, passionate developer and designer.
+      Linguist with a doctorate and focus on figurative language and visualization, student of English and Early Modern History, Mechanical Engineering dropout, passionate developer and designer.
       <br>&emsp;
       I’m into retro gaming and computing, books and writing, drawing with pixels and vectors, coding in Lua and C, making music with synths and ukulele. And I love cats.
       
@@ -29,25 +29,27 @@ skills:
     title: Fähigkeiten & Fertigkeiten
     list:
       - Analytisches und strategisches Denken
-      - Kreativität
-      - Problemlösung
-      - Human(es) Interface Design & Illustration
-      - Programmieren (Lua, C und JavaScript, manchmal C#, früher 68k-Assembler, Forth und Java)
-      - Web-Dev (HTML5, CSS3, PHP, Jekyll, YAML)
+      - Kritisches Hinterfragen
+      - Kreative Problemlösung
+      - Veranschaulichung und Präsentation
+      - Zeitmanagement
+      - Human(es) Interface Design
+      - Software- und Web-Entwicklung
       - Deutsch (Muttersprache)
       - Englisch (verhandlungssicher)
 
   en-US:
     title: Skills
     list:
-      - Analytic and strategic thinking
-      - Creativity
-      - Problem solving
-      - Human(e) Interface Design & Illustration
-      - Programming (Lua, C and JavaScript, sometimes C#, formerly 68k assembly, Forth and Java)
-      - Web-Dev (HTML5, CSS3, PHP, Jekyll, YAML)
-      - German (native)
-      - English (full professional)
+      - Analytical and strategic thinking
+      - Critical questioning
+      - Creative problem solving
+      - Illustration and presentation
+      - Time management
+      - Human(es) interface design
+      - Software and web development
+      - German (native speaker)
+      - English (fluent, full professional)
 
 experience:
   de-DE:
