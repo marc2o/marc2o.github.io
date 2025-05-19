@@ -3,7 +3,7 @@ details:
   de-DE:
     tagline: Strategie und Kommunikation
     statement: |
-      Analytischer Problemlöser und strategischer Denker: Erfindungsreiche Kombination aus Strategie, Kommunikation, Design und Code mit Blick auf das Gesamtbild bis hin zum Detail. Lerner und Lehrer mit Gespür für das, was fehlt. Findet Strukturen im Chaos, vereinfacht Komplexes und macht kompliziertes verständlich. 
+      Analytisch denkender Stratege und erfindungsreicher Macher. Lerner und Lehrer mit Gespür das, was fehlt. Promovierter Linguist mit Schwerpunkt in bildhafter Sprache, studierter Anglist und Historiker, abgebrochener Maschinenbauer, leidenschaftlicher Entwickler und Gestalter.
   en-US:
     tagline: Strategy und Communication
     statement: |
@@ -28,15 +28,15 @@ skills:
   de-DE:
     title: Fähigkeiten & Fertigkeiten
     list:
-      - Analytisches und strategisches Denken
-      - Kritisches Hinterfragen
-      - Kreative Problemlösung
-      - Veranschaulichung und Präsentation
-      - Zeitmanagement
-      - Human(es) Interface Design
-      - Software- und Web-Entwicklung
-      - Deutsch (Muttersprache)
-      - Englisch (verhandlungssicher)
+      - Analytischer Stratege
+      - Erfindungsreicher Macher
+      - Kritischer Beobachter
+      - Anschaulich- und Verständlichmacher
+      - Strukturgeber und Zeitmanager
+      - Coder und Designer
+      - Wissenschaftler und Methodiker
+      - Deutsch (Muttersprachler)
+      - English (full professional)
 
   en-US:
     title: Skills
@@ -57,32 +57,24 @@ experience:
     positions:
       - what: Senior Creative Strategist
         where: Schlütersche Marketing Holding GmbH
-        from: Juli 2022
+        from: August 2009
         to: heute
-      - what: Senior Business Development Manager
-        where: Schlütersche Marketing Holding GmbH
-        from: August 2017
-        to: Juli 2022
-      - what: Business Development Manager
-        where: Schlütersche Verlagsgesellschaft mbH & Co. KG
-        from: Juni 2014
-        to: August 2017
-      - what: Dozent »Einführung in Mobile Marketing«
+        tasks: Davor Senior Business Development Manager (bis 07.2022), Konzepter für Online & Mobile (bis 06.2014). | Digitalisierung von Prozessen · Erforschung & Entwicklung digitaler Erlösmodelle · Prototypenentwicklung für Service- und Marketing-Instrumente · Kommunikation · Konzeption und Durchführung von Workshops und internen Weiterbildungen · Change Management 
+      - what: Dozent
         where: Norddeutsche Akademie für Marketing, Kommunikation + Medien gGmbH
         from: März 2014
         to: März 2014
-      - what: Zweitgutachter (Betreuung, Begutachtung und Prüfung einer Masterarbeit)
-        where: Universität Bielefeld, Fakultät für Linguistik und Literaturwissenschaft, Interdisziplinäre Medienwissenschaft
+        tasks: Konzeption und Durchführung des Seminars »Einführung in Mobile Marketing«.
+      - what: Zweitgutachter Masterarbeit)
+        where: Universität Bielefeld
         from: Februar 2013
         to: Oktober 2013
-      - what: Konzeption und Projektleitung
-        where: Schlütersche Verlagsgesellschaft mbH & Co. KG
-        from: Januar 2009
-        to: Juni 2014
-      - what: Information Design, Human Interface Design, Software Development, Web Development
-        where: Freiberuflicher Designer and Softwareentwickler
+        tasks: Betreuung, Begutachtung und Prüfung einer Masterarbeit, Fakultät für Linguistik und Literaturwissenschaft, Interdisziplinäre Medienwissenschaft
+      - what: Grafik-Designer und Full-Stack Developer
+        where: Freiberuflicher
         from: Januar 2004
-        to: Januar 2009
+        to: Juli 2009
+        tasks: 	Informationsdesign · Human Interface Design · Software & Website Development · Anwendungsdokumentation · Übersetzungen
       - what: Marketingreferent
         where: CA Coaching Akademie GmbH
         from: August 2002
