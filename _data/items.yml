@@ -1,9 +1,9 @@
 - type: book
-  name: "The Cat’s Meow: How Cats Evolved from the Savanna to Your Sofa"
-  by: "Jonathan B. Losos"
-  img: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1667418495i/63128525.jpg"
+  name: "A City on Mars: Can We Settle Space, Should We Settle Space, and Have We Really Thought This Through?"
+  by: "Kelly & Zack Weinersmith"
+  img: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1685367782i/125084292.jpg"
   source: "Goodreads"
-  url: "https://www.goodreads.com/book/show/63128525-the-cat-s-meow"
+  url: "https://www.goodreads.com/book/show/125084292-a-city-on-mars"
 
 - type: album
   name: "Haven Original Soundtrack"
